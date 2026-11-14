@@ -20,3 +20,9 @@
 - 18:37 act: {"actions":[{"do":"mine","block":"oak_leaves","count":2}],"reasoning":"Gather intent failed twice. Trying a direct mine of leaves from this new spot, a different method."}
 - 18:37 act: {"say":"Leaf mining gives nothing here, so I'm giving up on leaves. Who has found anything west? I'll head west to join the animal search.","intent":{"goal":"search_west_for_animals","program":"travel
 - 18:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"An iron golem stands 7 blocks west. Golems are dangerous to approach; I stay close to the yellow bed and let it pass."}
+- 18:51 act: {"say":"Wesley at dawn, day 232. Health and hunger 20. I'm searching south, a direction nobody has tried yet, for cows, sheep, pigs or apples. Call out any food and it goes to Worf and Billy first.","
+- 18:51 act: {"say":"Wesley at -263,67,391, south of camp. No animals or apples here yet. Going further south to look.","intent":{"goal":"search_further_south","program":"travel","arguments":{"target":{"x":-263,"y
+- 18:54 act: {"say":"Wesley at -259,63,421, far south. Found birch and oak trees to the north, no animals, no apples, no grass nearby. Going back north toward the oak column to try its leaves.","intent":{"goal":"f
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-258,"y":71,"z":425}},{"do":"mine","block":"oak_leaves","count":5}],"say":"Wesley at -260,71,424, grass and oak leaves here. Trying the leaves for apples. Any ap
+- 18:54 act: {"say":"Wesley: south of camp at -260,71,428, no animals, and mining leaves by hand gave nothing here. Coming back north to the group at the yellow bed. Anyone who found food, tell me.","intent":{"goa
+- 18:59 say: {"text":"Wesley: no food found yet. South has only trees and stone; leaves give nothing when mined by hand. Hunger still 20 for me. Call out anything you find."}
