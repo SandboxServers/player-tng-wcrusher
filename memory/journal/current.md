@@ -129,3 +129,8 @@
 - 21:59 act: {"reasoning":"Back with the group. Share news: salmon only in deep lake water, no food on me. Then wait for dusk and try a bed.","actions":[],"say":"I'm back. The salmon are out in deep lake water and
 - 22:03 act: {"reasoning":"Night. Nearest white bed is at -271,67,318. Try to sleep there.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed for the night. 
 - 22:11 act: {"reasoning":"Dawn. Others cover west and south-east. I scout the grass east of the beds, staying in sight of the group, looking for animals.","actions":[{"do":"goto","target":{"x":-258,"y":67,"z":320
+- 22:15 act: {"say":"Morning. I have no food, hunger is 14. I'll look for animals on the grass to the east and report back. Picard, I'll tell you if I find any wheat or fruit.","actions":[{"do":"wait","seconds":5}
+- 22:15 act: {"intent":{"goal":"scout_northeast_grass_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":66,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
+- 22:15 act: {"intent":{"goal":"follow_billy_to_sheep_field","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_
+- 22:15 act: {"say":"Billy, I couldn't keep up with you. Where is the sheep field, and how far north? I'll go there now and bring any mutton to Trini.","actions":[]}
+- 22:17 act: {"say":"Wesley: I'm not going to the sheep field alone; Billy died there to something unseen. I'm going back to the white beds with the group for the night. Trini, you and Riker first for any mutton."
