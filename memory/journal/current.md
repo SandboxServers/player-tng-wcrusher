@@ -88,3 +88,4 @@
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:43 act: {"say":"Worf, Jason, Billy, Kimberly, Trini: I'm at the white bed for the night, hunger 17, health 20. Any food at first light goes to Riker and Trini first.","actions":[{"do":"goto","target":{"x":-27
