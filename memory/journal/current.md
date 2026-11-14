@@ -134,3 +134,20 @@
 - 22:15 act: {"intent":{"goal":"follow_billy_to_sheep_field","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_
 - 22:15 act: {"say":"Billy, I couldn't keep up with you. Where is the sheep field, and how far north? I'll go there now and bring any mutton to Trini.","actions":[]}
 - 22:17 act: {"say":"Wesley: I'm not going to the sheep field alone; Billy died there to something unseen. I'm going back to the white beds with the group for the night. Trini, you and Riker first for any mutton."
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley, night of day 242. No food, hunger 14. Trying the white bed with the group. Trini first for any food at dawn.
+- 22:23 act: {"actions":[{"do":"sleep"}]}
+- 22:28 act: {"actions":[{"do":"sleep"}]}
+- 22:28 act: {"intent":{"goal":"wait_for_dawn_at_bed","program":"rest","arguments":{"near":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"li
+- 22:30 act: {"actions":[{"do":"wait","seconds":60}]}
+- 22:31 act: {"actions":[{"do":"sleep"}],"say":"Morning. I have no food either, Worf. I'm going to look for animals on the grass after I try to sleep."}
+- 22:31 act: {"say":"Billy, I'll come west with you to hunt pigs or cows. Tell me when you're moving and I'll follow.","intent":{"goal":"follow_billy_hunt","program":"follow","arguments":{"target":"ag_billy_01"},"
+- 22:31 act: {"intent":{"goal":"walk_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 22:31 act: {"intent":{"goal":"join_billy_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 22:31 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 22:31 act: {"intent":{"goal":"join_billy_far_west","program":"travel","arguments":{"target":{"x":-326,"y":67,"z":317}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 22:32 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limi
+- 22:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Trying the bed now; still no food, Trini first when it turns up."}
+- 22:44 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying the bed again; Trini has the chicken, she eats first."}
+- 22:47 act: {"actions":[{"do":"wait","seconds":120}]}
+- 22:53 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 22:53 act: {"intent":{"goal":"search_grass_farther_west","program":"travel","arguments":{"target":{"x":-315,"y":66,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
