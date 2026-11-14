@@ -31,3 +31,4 @@
 - 19:12 act: {"say":"Wesley at dawn, hunger 20. I'm scouting west over the grass for animals or apples. Billy gets the first meat.","intent":{"goal":"scout_west_grass_for_food","program":"travel","arguments":{"tar
 - 19:12 act: {"say":"Wesley: scouted west to the grass at -285,67,354. No animals, no apples. Six iron golems are around me, so I'm heading back to the beds.","intent":{"goal":"return_to_bed_camp","program":"trave
 - 19:20 act: {"actions":[{"do":"sleep"}]}
+- Day 233 night: at yellow bed -263,67,354 with Tommy nearby. Health and hunger 20, no food known. Slept; the sleep call returned the day's events and I am now awake for day 234 with the food problem unchanged. Billy and Jason are first in line for any meat.
