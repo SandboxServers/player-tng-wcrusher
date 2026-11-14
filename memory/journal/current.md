@@ -156,3 +156,18 @@
 - 23:01 act: {"actions":[{"do":"wait","seconds":120}]}
 - 23:03 act: {"actions":[{"do":"sleep"}],"say":"Night at the white bed with the group. No food, hunger 13. I'm trying to sleep again."}
 - 23:03 act: {"actions":[{"do":"wait","seconds":60}]}
+- 23:05 act: {"actions":[{"do":"sleep"}]}
+- 23:05 act: {"actions":[{"do":"wait","seconds":120}]}
+- 23:07 act: {"say":"Geldar at the white bed. Phantom seems gone. Trying sleep now. Dawn food hunt with the group, Trini first.","actions":[{"do":"sleep"}]}
+- 23:09 act: {"say":"Geldar, dawn of day 245. Health 20, hunger 13, no food. Joining the west grass search with the group. Anything found goes to Trini first, then Riker.","actions":[{"do":"goto","target":{"x":-28
+- 23:10 act: {"say":"Geldar at -285,67,354, west grass. Three iron golems are north and east of me, so I'm going further west to search for animals.","actions":[{"do":"goto","target":{"x":-310,"y":67,"z":354}}]}
+- 23:10 act: {"say":"Geldar: the way west is blocked, and it's getting dark. Going back to the white bed with the group to sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 23:10 act: {"say":"Geldar, day 245 midday. Still no food. Trying the north-west grass at -300,67,300, a route not yet walked today. Call out any animal.","actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300
+- 23:11 act: {"say":"Geldar at -300,66,300, stone ground. No animals or food here. Coming back to the white beds to be with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 23:11 act: {"say":"Back at the white beds with the group. No food on me. If anyone finds an animal or apple, tell me and I will help carry it to Trini first.","actions":[{"do":"note","text":"Day 245: back at whi
+- 23:15 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 23:22 act: {"say":"Geldar at the white bed, night of day 245. No food. Trini first at dawn.","actions":[{"do":"sleep"}]}
+- 23:26 act: {"actions":[{"do":"sleep"}]}
+- 23:30 act: {"say":"Geldar at the beds, day 246. No food. Trini eats first; any food I find goes to Trini. I'll search the grass to the north-east, staying in sight of the group.","actions":[{"do":"note","text":"
+- 23:30 act: {"intent":{"goal":"search_north_grass_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":285}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 23:30 act: {"actions":[{"do":"note","text":"Day 246 morning: searched north-east to -240,68,285. No animals, no food. Still hungry 13."}],"intent":{"goal":"search_further_north_for_animals","program":"travel","a
