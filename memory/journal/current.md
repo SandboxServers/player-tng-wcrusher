@@ -48,3 +48,30 @@
 - 19:40 act: {"say":"Wesley at dusk, no food. Trying the white bed at -282,67,320 for the night. Kimberly, Tommy, Billy: any meat goes to Billy and Tommy first.","actions":[{"do":"goto","target":{"x":-282,"y":67,"
 - 19:41 act: {"say":"Wesley at the yellow bed -270,67,326, golems to the south. Trying to sleep here.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
 - 19:45 act: {"say":"Wesley going to the white bed at -282,67,320 to sleep. No food; Billy and Tommy first for any meat.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 19:48 act: {"say":"Wesley at the yellow bed, night. No food on me. Tommy, Kimberly has Billy's mutton for you. Trying to sleep here now.","actions":[{"do":"sleep"}]}
+- 19:48 act: {"say":"Wesley at dawn, day 235. Sleep failed with monsters nearby, so I'm heading to the salmon pond at -291,68,288 to look for food, away from the golems.","intent":{"goal":"check_salmon_pond","prog
+- 19:48 act: {"say":"Wesley at the salmon pond, -291,68,288. No salmon in sight, only water. Night is coming, so I'm going to the yellow bed at -274,69,291 to sleep. Tommy, I hope you find the pig.","actions":[{"d
+- 19:49 act: {"say":"Wesley at dawn, day 235. I have no food. Riker, I see you're low; I'll try the tall grass here for seeds, something new, and share anything I get with you first.","actions":[{"do":"mine","bloc
+- 19:49 act: {"say":"Wesley: the tall grass gave me 2 wheat seeds. Seeds are not food, but they can grow wheat later. Trini, Riker, I'm sorry I have no food. Tommy's death is terrible news. I'll keep looking at th
+- 19:50 act: {"say":"Wesley, morning of day 235. I have 4 wheat seeds from the grass. I'm making a hoe to till farmland and plant them, so we can grow wheat for food later. Beverly, Riker and Trini: this is slow, 
+- 19:50 act: {"say":"Hoe made. Tilling the grass under me now to plant the wheat seeds.","actions":[{"do":"till","at":{"x":-268,"y":65,"z":325}}]}
+- 19:50 act: {"say":"Tilled. Planting the wheat seeds in the farmland now.","actions":[{"do":"place","block":"wheat_seeds","at":{"x":-268,"y":65,"z":325}}]}
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-266,"y":65,"z":324}},{"do":"till","at":{"x":-266,"y":64,"z":323}}],"say":"The seed spot was occupied, so I am trying a fresh patch of dirt nearby.","reasoning":
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":324}},{"do":"till","at":{"x":-265,"y":65,"z":324}}],"reasoning":"Till failed because the block above was not clear. Step to open ground and till 
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":324}}],"reasoning":"Till keeps failing on blocked air above. A dropped item lies at -266,66,324; pick it up first, since it may be food or seeds.
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":321}},{"do":"till","at":{"x":-262,"y":65,"z":320}}],"reasoning":"Picked up a wheat seed (now 5). Till keeps failing near the beds, so try open gr
+- 19:50 act: {"actions":[{"do":"till","at":{"x":-263,"y":65,"z":321}}],"reasoning":"Till tried diagonally failed. Try the grass straight west of me, which has open view above per the look."}
+- 19:51 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":65,"z":321}}],"reasoning":"Farmland at -263,65,321 is tilled. Plant the wheat seeds there."}
+- 19:51 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":66,"z":321}}],"reasoning":"Seeds go on top of farmland, one block above it. The earlier place failed because I targeted the farmland 
+- 19:51 act: {"actions":[],"say":"Thank you, Troi and Jason. The wheat is planted at -263,66,321 on the tilled ground west of me. Tell me if you find more seeds; I will tend it.","reasoning":"The wheat is in the g
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-250,"y":66,"z":318}}],"say":"Wesley: no food yet. I'm scouting east, away from the golems in the south, for animals or apples. Anything I find goes to Riker fir
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-232,"y":66,"z":314}}],"reasoning":"No animals in sight yet at -250. Keep scouting further east for animals or fruit trees."}
+- 19:55 act: {"actions":[{"do":"unstick"}],"reasoning":"I am trapped in a pit in the dark. Use unstick to climb out before anything else."}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":320}}],"reasoning":"I am out of the pit. No food east, and the area is dark. Head back toward the beds and the wheat patch to rejoin the group."}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"I'm back by the beds. No food east, only a pit. Wheat is growing at -263,66,321. I have 5 seeds to plant if anyone finds a spare ho
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Dusk now, with golems and archers around. I'm going to the white bed by -271,67,318 for the night. No food on me, so
+- 20:02 act: {"actions":[{"do":"sleep"}],"reasoning":"It is night now. Bed is close; try sleep, and if the bed is full, wait nearby."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":322}}],"reasoning":"All nearby beds are taken and a golem is 7 blocks south. Move back toward the farm and the group, then retry a bed later."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Golem is 20 blocks away now. Try the nearest white bed once more."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"The yellow bed at -270,67,326 is right beside me. Try it, since it is the nearest bed."}
+- 20:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Golems have moved 11 to 24 blocks away. Try the yellow bed again."}
