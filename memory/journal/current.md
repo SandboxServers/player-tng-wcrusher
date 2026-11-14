@@ -81,3 +81,10 @@
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Wesley: golems are 8 blocks south-west of me. Moving north to the group at the white bed -270,67,318. I'll stay with them and keep 
 - 20:22 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed -270,67,318 with the group. No golems in sight. Trying to sleep. Trini and Tommy first for any food at dawn."}
 - 20:27 act: {"actions":[{"do":"sleep"}]}
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley back at the white bed -270,67,318, trying to sleep again. Trini and Riker first for food at dawn."}
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Wesley at dawn, day 237. No food, hunger 17. Trini, health 9, is the one to feed first; Riker and Tommy next. I'm staying by the wh
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Wesley at dusk, day 237. No food on me, hunger 17. Riker is lowest, so he gets any food first, then Trini. Going to the white beds 
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Heading into the white bed at -270,67,318 for the night. Riker and Trini get any food first in the morning."}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
