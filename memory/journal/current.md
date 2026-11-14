@@ -26,3 +26,8 @@
 - 18:54 act: {"actions":[{"do":"goto","target":{"x":-258,"y":71,"z":425}},{"do":"mine","block":"oak_leaves","count":5}],"say":"Wesley at -260,71,424, grass and oak leaves here. Trying the leaves for apples. Any ap
 - 18:54 act: {"say":"Wesley: south of camp at -260,71,428, no animals, and mining leaves by hand gave nothing here. Coming back north to the group at the yellow bed. Anyone who found food, tell me.","intent":{"goa
 - 18:59 say: {"text":"Wesley: no food found yet. South has only trees and stone; leaves give nothing when mined by hand. Hunger still 20 for me. Call out anything you find."}
+- 19:03 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the yellow bed for the night. Health and hunger 20, still no food. Calling out any apple, cow, pig or sheep I find at dawn.","reasoning":"Night, at a bed, 
+- 19:07 act: {"actions":[{"do":"sleep"}]}
+- 19:12 act: {"say":"Wesley at dawn, hunger 20. I'm scouting west over the grass for animals or apples. Billy gets the first meat.","intent":{"goal":"scout_west_grass_for_food","program":"travel","arguments":{"tar
+- 19:12 act: {"say":"Wesley: scouted west to the grass at -285,67,354. No animals, no apples. Six iron golems are around me, so I'm heading back to the beds.","intent":{"goal":"return_to_bed_camp","program":"trave
+- 19:20 act: {"actions":[{"do":"sleep"}]}
