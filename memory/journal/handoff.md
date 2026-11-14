@@ -1,0 +1,1 @@
+Handoff, day 229 dusk: at the yellow bed (-263,67,354), no food in hand (hunger full). Gave logs to Troi and Laforge; apple went to Riker, who passed two apples to Kimberly. Monsters reported near yellow beds; Billy went to white beds. Next morning: look for animals and apples on the west grass, and eat when hungry.
