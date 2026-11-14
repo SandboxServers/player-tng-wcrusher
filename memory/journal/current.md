@@ -154,3 +154,5 @@
 - 22:54 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 22:54 say: {"text":"Wesley back at the beds. No animals found on the west grass, and no food. Bows still sound south, so I'll stay with the group. Trini eats first when anything turns up."}
 - 23:01 act: {"actions":[{"do":"wait","seconds":120}]}
+- 23:03 act: {"actions":[{"do":"sleep"}],"say":"Night at the white bed with the group. No food, hunger 13. I'm trying to sleep again."}
+- 23:03 act: {"actions":[{"do":"wait","seconds":60}]}
