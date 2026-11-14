@@ -8,3 +8,15 @@
 - 17:52 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is the apple."}
 - 17:52 act: {"say":"The apple went to Riker by mistake, not Kimberly. Riker, please pass it to Kimberly, she is hungry. I have no food left, only 2 saplings, 3 sticks and 4 planks."}
 - 17:59 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Going to the yellow bed near the water to sleep before dark. Laforge, I'll stay clear of your shelter."}
+- 18:01 say: {"text":"Wesley here, awake at the yellow bed. Troi, I see you beside me. Is there food anywhere you know of?"}
+- 18:11 act: {"say":"Wesley, morning of day 230. Health 20, hunger 20. I'm heading west to join the search for animals and apples. Call out anything you see.","intent":{"goal":"search_west_for_animals","program":"
+- 18:11 act: {"say":"Wesley at the west oak trees. No animals or apples in sight yet. Trying the leaves for apples.","intent":{"goal":"find_apples","program":"gather","arguments":{"block":"oak_leaves","count":5},"
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":-284,"y":69,"z":324}}],"say":"Going to the oak tree by -285,71,322 to try its leaves for apples.","intent":{"goal":"find_apples","program":"gather","arguments":{
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night. Heading back to my yellow bed at -263,67,354 to sleep. Any apple goes to Kimberly first.","intent":{"goal":"r
+- 18:28 act: {"say":"Wesley at dawn of day 231, health 20, hunger 20, no food. Nearby trees here I'll try for apples. Anyone who finds food, Kimberly and the weakest first.","intent":{"goal":"find_apples","program
+- 18:29 act: {"actions":[{"do":"mine","block":"oak_leaves","count":3}],"intent":{"goal":"find_apples","program":"gather","arguments":{"block":"oak_leaves","count":5},"wake_on":["goal_completed","directly_addressed
+- 18:36 act: {"say":"Wesley, midday day 231, still no food, health and hunger 20. Trying leaves here for apples again. Any apple goes to Billy first.","intent":{"goal":"find_apples","program":"gather","arguments":
+- 18:37 act: {"actions":[{"do":"goto","target":{"x":-229,"y":68,"z":349}}],"reasoning":"Leaf gather failed twice here with no apple. Moving to a different spot near the oak column at x=-228 to try its leaves anoth
+- 18:37 act: {"actions":[{"do":"mine","block":"oak_leaves","count":2}],"reasoning":"Gather intent failed twice. Trying a direct mine of leaves from this new spot, a different method."}
+- 18:37 act: {"say":"Leaf mining gives nothing here, so I'm giving up on leaves. Who has found anything west? I'll head west to join the animal search.","intent":{"goal":"search_west_for_animals","program":"travel
+- 18:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"An iron golem stands 7 blocks west. Golems are dangerous to approach; I stay close to the yellow bed and let it pass."}
