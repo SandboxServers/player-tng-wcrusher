@@ -113,3 +113,4 @@
 - 21:11 act: {"say":"Wesley: I'm at -283,65,240 with Laforge, no food in hand. Zack, the chicken goes to Riker first, as agreed. I'll hold here and wait for news.","reasoning":"Zack has a chicken for Riker. I have
 - 21:20 act: {"say":"Wesley here. No food on me, hunger 16. Heading to the yellow bed at -263,67,354 for the night. Anyone who finds meat, Tommy and Riker first.","intent":{"goal":"reach_yellow_bed","program":"tra
 - 21:20 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the yellow bed -263,67,354 for the night. No food, hunger 15. Anyone with meat: Tommy and Riker first."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Laforge, thanks. I have no food either. I'm going to bed here and will head for the salmon pond at first light."}
