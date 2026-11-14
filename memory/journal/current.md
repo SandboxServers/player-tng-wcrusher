@@ -75,3 +75,9 @@
 - 20:03 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Golem is 20 blocks away now. Try the nearest white bed once more."}
 - 20:03 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"The yellow bed at -270,67,326 is right beside me. Try it, since it is the nearest bed."}
 - 20:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Golems have moved 11 to 24 blocks away. Try the yellow bed again."}
+- 20:10 act: {"say":"Wesley, morning of day 236. Still no food, hunger 18. Riker and Trini first for anything found. I'm staying by the wheat and the beds, away from the golems.","intent":{"goal":"tend_wheat_and_w
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Wesley at dusk, day 236. No food found. Trying the yellow bed at -270,67,326 to sleep. Trini first for any food at d
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley: sleep refused by monsters at -270,67,336. Moving north to the group's white bed at -270,67,318 to try again.
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Wesley: golems are 8 blocks south-west of me. Moving north to the group at the white bed -270,67,318. I'll stay with them and keep 
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed -270,67,318 with the group. No golems in sight. Trying to sleep. Trini and Tommy first for any food at dawn."}
+- 20:27 act: {"actions":[{"do":"sleep"}]}
