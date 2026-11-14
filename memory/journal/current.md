@@ -32,3 +32,19 @@
 - 19:12 act: {"say":"Wesley: scouted west to the grass at -285,67,354. No animals, no apples. Six iron golems are around me, so I'm heading back to the beds.","intent":{"goal":"return_to_bed_camp","program":"trave
 - 19:20 act: {"actions":[{"do":"sleep"}]}
 - Day 233 night: at yellow bed -263,67,354 with Tommy nearby. Health and hunger 20, no food known. Slept; the sleep call returned the day's events and I am now awake for day 234 with the food problem unchanged. Billy and Jason are first in line for any meat.
+- 19:22 act: {"say":"Wesley here, awake at the white bed with Billy, Kimberly and Riker. Still no food on me. I have 4 planks, 3 sticks, 3 saplings and 1 log. Billy, you get the first meat if any comes.","intent":
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"A golem is closing from the west, so I'm moving to the yellow beds to the south-east, away from it."}
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the yellow bed, no golem in sight. Trying to sleep here. Data, I'll take the mutton only if Billy says he's not nearby."}
+- 19:27 act: {"say":"Wesley at the white bed, awake. Still no food. Billy and Jason first with the mutton; I'm holding planks, sticks and saplings for anyone who needs them. Waiting for light."}
+- 19:31 act: {"say":"Wesley, dawn of day 234, hunger 20, no food. Tommy and Riker have the pig at -336,64,229. I'll scout north from the white beds, away from the golems, and call out anything I find.","intent":{"
+- 19:31 act: {"say":"Wesley at -270,68,290, north of the white beds. No animals in sight here. Pushing further north to look.","intent":{"goal":"scout_further_north","program":"travel","arguments":{"target":{"x":-
+- 19:31 journal: Day 234 morning, reached crafting table at -292,69,283. No food, no salmon seen yet. Heading to oak leaves at -285,71,320 to try for apples with Worf.
+- 19:31 act: {"say":"Wesley at -270,66,250, no animals here. LaForge, where is the pond with the salmon? I'm heading to the crafting table at -292,69,283 to help look for it, away from the skeleton.","intent":{"go
+- 19:31 act: {"say":"Wesley at the crafting table near -292,69,283. No food in sight. LaForge, can you point me to the salmon pond? Zack, I'll check the oak leaves at -285,71,320 with Worf.","intent":{"goal":"chec
+- 19:32 act: {"say":"Wesley at the oak trees -284,71,320. I have no food. Riker, I'm sorry, I have none. Trying these leaves for apples now, and anything I find goes to Riker first.","intent":{"goal":"find_apples_
+- 19:32 act: {"say":"Wesley: leaves gave no apple again. Trying the pond by the white beds at -292,68,292 for salmon. Tommy and Riker, I have no food but I'll look.","intent":{"goal":"scout_pond_for_salmon","progr
+- 19:32 act: {"say":"Wesley at the pond edge, -291,68,288. No salmon in sight from here. I'll watch the water. Billy, Tommy, Riker: I have no food, only planks, sticks and saplings if they help you.","intent":{"go
+- 19:39 act: {"say":"Wesley, dusk of day 234. No food found today. Going to the yellow bed at -274,69,291 for the night, away from the group's skeleton line. Billy and Tommy first if anything turns up.","actions":
+- 19:40 act: {"say":"Wesley at dusk, no food. Trying the white bed at -282,67,320 for the night. Kimberly, Tommy, Billy: any meat goes to Billy and Tommy first.","actions":[{"do":"goto","target":{"x":-282,"y":67,"
+- 19:41 act: {"say":"Wesley at the yellow bed -270,67,326, golems to the south. Trying to sleep here.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
+- 19:45 act: {"say":"Wesley going to the white bed at -282,67,320 to sleep. No food; Billy and Tommy first for any meat.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
