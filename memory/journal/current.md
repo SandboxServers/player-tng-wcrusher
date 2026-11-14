@@ -151,3 +151,6 @@
 - 22:47 act: {"actions":[{"do":"wait","seconds":120}]}
 - 22:53 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
 - 22:53 act: {"intent":{"goal":"search_grass_farther_west","program":"travel","arguments":{"target":{"x":-315,"y":66,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 22:54 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 22:54 say: {"text":"Wesley back at the beds. No animals found on the west grass, and no food. Bows still sound south, so I'll stay with the group. Trini eats first when anything turns up."}
+- 23:01 act: {"actions":[{"do":"wait","seconds":120}]}
