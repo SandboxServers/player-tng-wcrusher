@@ -115,3 +115,17 @@
 - 21:20 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the yellow bed -263,67,354 for the night. No food, hunger 15. Anyone with meat: Tommy and Riker first."}
 - 21:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Laforge, thanks. I have no food either. I'm going to bed here and will head for the salmon pond at first light."}
 - 21:22 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the yellow bed, night, no food on me. Trini and Billy first for any meat or apple at dawn.","reasoning":"Night, sheltered at a bed, no food to find in the 
+- 21:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night, at a bed. Try to sleep until dawn."}
+- 21:30 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":1}],"say":"Tommy, I'm sending you my last oak log for your sword. Then I'll go to the salmon pond to look for food with the group."
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-291,"y":68,"z":288}}],"say":"Wesley heading to the salmon pond now. Tommy wasn't in sight for my log, so I'm keeping it until I see you. Trini first for any fis
+- 21:38 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":318}}],"say":"Wesley heading to the group at the white beds with my last log for Tommy's sword. Trini first for any food I find.","intent":{"goal
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Wesley going to the white bed at -281,67,320 for the night. Tommy has Kimberly's logs, so my last log stays with me.
+- 21:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Try the white bed again; if monsters block it, I wait with the group."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":-299,"y":66,"z":240}}],"say":"Wesley, dawn of day 241. Still no food, hunger 15. I'm heading north-west to the lake by -299,223 where salmon were seen. Trini fir
+- 21:54 act: {"reasoning":"Salmon at -313,58,247 and nearby. Walk close, then attack with sword.","actions":[{"do":"goto","target":{"x":-311,"y":60,"z":246}}],"say":"Three salmon to the south-west. I'm going after
+- 21:56 act: {"reasoning":"Salmon are out in open water with no path; I'm over water. Get out to land and return to the group.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-299,"y":64,"z":240}}],"intent
+- 21:58 act: {"reasoning":"Still in deep water, reflexes keep pulling me out. Head for the shore by the sign at -303,64,241.","actions":[{"do":"goto","target":{"x":-303,"y":64,"z":242}}]}
+- 21:59 act: {"reasoning":"Salmon are unreachable in deep water. Return to the group near the white beds before dusk.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"intent":{"goal":"return_to_group
+- 21:59 act: {"reasoning":"Back with the group. Share news: salmon only in deep lake water, no food on me. Then wait for dusk and try a bed.","actions":[],"say":"I'm back. The salmon are out in deep lake water and
+- 22:03 act: {"reasoning":"Night. Nearest white bed is at -271,67,318. Try to sleep there.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed for the night. 
+- 22:11 act: {"reasoning":"Dawn. Others cover west and south-east. I scout the grass east of the beds, staying in sight of the group, looking for animals.","actions":[{"do":"goto","target":{"x":-258,"y":67,"z":320
