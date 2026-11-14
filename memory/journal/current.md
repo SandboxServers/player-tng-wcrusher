@@ -89,3 +89,25 @@
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:43 act: {"say":"Worf, Jason, Billy, Kimberly, Trini: I'm at the white bed for the night, hunger 17, health 20. Any food at first light goes to Riker and Trini first.","actions":[{"do":"goto","target":{"x":-27
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Ezra, Jason, Trini: night on 237, no food here either. I'm sleeping in the white bed by the group. First food at lig
+- 20:46 act: {"actions":[],"say":"Trini, I'm at the white bed with Jason. I have no food, only planks, sticks, saplings and seeds. Come to the bed and rest."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":323}},{"do":"till","at":{"x":-264,"y":65,"z":324}}],"say":"Wesley at dawn, day 238. The wheat is Trini's first, then Riker's. I'm tilling more gr
+- 20:51 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":324}},{"do":"goto","target":{"x":-258,"y":66,"z":318}}],"say":"Planting my seeds on the new tilled ground. Leaving the golem w
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":326}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Wesley: I'll make a wooden sword and join Data, Ezra and Laforge for the sheep. Any 
+- 20:55 act: {"actions":[],"intent":{"goal":"follow_data_to_sheep","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 20:59 act: {"say":"Wesley here. I have a wooden sword and I'm going north with Data to the sheep field. Trini, I have no food, only wheat seeds, so I'll plant them.","intent":{"goal":"follow_data_to_sheep","prog
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]}
+- 21:02 act: {"say":"Wesley here, first light. I have a sword and I'm ready for the sheep field north with Data. Trini first for any mutton or chicken.","intent":{"goal":"follow_data_to_sheep","program":"follow","
+- 21:02 act: {"say":"Wesley at the white beds, sword ready, no food. Data, where are you? I'll wait here for the sheep trip.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}]}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:06 act: {"say":"Wesley: I'm with you, Data. Going north to the sheep field now, in sight of you. Trini first for any mutton.","intent":{"goal":"follow_data_to_sheep","program":"follow","arguments":{"target":"
+- 21:06 act: {"say":"Wesley: follow failed, so I'm walking north toward the sheep field at -283,64,219. Data and Troi, call out if you're ahead of me.","actions":[{"do":"goto","target":{"x":-283,"y":64,"z":219}}]}
+- 21:07 act: {"say":"Wesley: no sheep here, but two salmon are coming from the west. Salmon can be eaten, so I'll fight them with my sword. Data, stay with me.","actions":[{"do":"attack","target":"salmon"}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-305,"y":62,"z":235}},{"do":"attack","target":"salmon"}],"reasoning":"Previous attack timed out at distance. Closer approach to salmon southwest, then attack. Fo
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":-295,"y":64,"z":218}}],"reasoning":"Two salmon attacks timed out in water. Leave the water, rejoin Data on land, and try food a different way.","say":"Wesley: th
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"reasoning":"Salmon are unreachable from water. Rejoin the group at the beds and share what I learned.","say":"Wesley: I have no food. Two
+- 21:11 act: {"say":"Wesley: no food here either. I'm going north with Ezra's group to the sheep field. Any mutton goes to Trini, then Riker.","reasoning":"Group is hunting sheep to the north. Join them and stay i
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-283,"y":64,"z":240}}],"say":"Wesley: follow keeps failing, so I'm walking north on my own toward the sheep field. Riker and Data, come along if you can.","reaso
+- 21:11 act: {"say":"Wesley: I'm at -283,65,240 with Laforge, no food in hand. Zack, the chicken goes to Riker first, as agreed. I'll hold here and wait for news.","reasoning":"Zack has a chicken for Riker. I have
