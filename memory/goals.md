@@ -1,3 +1,10 @@
+Ranked as of day 239 (food first, shelter second):
+1. Stay fed: check the salmon pond at -291,68,288 and explore east and north for animals. Tommy and Riker get any food first.
+2. Keep sheltered at night in a bed near the yellow beds at -263,67,354.
+3. Tend the wheat at -263,66,321 when it ripens.
+4. Share wood and food, and ask what others have found.
+
+Older goals:
 1. Stay fed: find animals or apples on the west grass, and eat when hungry. Food matters most, since hunger stops healing.
 2. Keep sheltered at night in a bed, away from monsters near the yellow beds.
 3. Share wood and food with those who need it, and ask what they have found.
