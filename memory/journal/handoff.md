@@ -1,5 +1,7 @@
 # Handoff, day 250 night
 
+- Latest (waking 16): standing at the white beds near -270,67,327 with Trini, Riker, Worf, Zack. Sleep was refused by a creeper 9 blocks away; the session then ended. No errand is running. Next: try a bed again when monsters clear; at light give any food to Trini, then Data.
+
 - Position: white bed at -270,67,336, with the group nearby. Health 18, hunger 12, no food.
 - Slept at the beds on night 250. Next: dawn of day 251.
 - Food: Laforge's group has a pig from 21 blocks east; meat goes to Trini first.

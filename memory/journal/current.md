@@ -199,3 +199,8 @@
 - 00:50 act: {"say":"No sheep here yet. An iron golem is 7 blocks south-east, so I am going further north, away from it.","intent":{"goal":"scout_north_for_sheep","program":"travel","arguments":{"target":{"x":-252
 - 00:50 act: {"say":"Good, Laforge. Trini gets the meat. I am still searching north for sheep and will bring anything I find to Trini.","intent":{"goal":"scout_north_for_sheep","program":"travel","arguments":{"tar
 - 00:50 act: {"say":"It is getting dark and I am alone far north. I am heading back to the white beds with the group.","intent":{"goal":"return_to_beds_before_night","program":"travel","arguments":{"target":{"x":-
+- Day 250 waking 16 (later): still no food, hunger 12. Staying at white beds with the group; Laforge's porkchop goes to Trini. Sleep refused in daylight.
+- Day 250 waking 16: no food, hunger 12. Told Trini and Data; holding near the wheat and beds while waiting.
+- 00:52 act: {"say":"Trini, Data: I have no food. My hunger is 12. The wheat at -253,66,334 is still unripe. I'll watch it and give any food I find.","intent":{"goal":"hold_near_camp_for_food","program":"rest","ar
+- 00:54 act: {"actions":[{"do":"sleep"}],"say":"No food on me, hunger 12. Trini, Riker: any food at first light goes to you two first, then Data."}
+- 01:02 act: {"actions":[{"do":"sleep"}]}
