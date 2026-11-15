@@ -49,3 +49,14 @@
 - 15:09 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":330}}],"say":"Wesley here, hunger 14, no food. Moving away from the iron golem. Any meat, call it out at first light.","reasoning":"Golem 1.7 blo
 - 15:09 act: {"actions":[{"do":"goto","target":{"x":-291,"y":66,"z":328}}],"reasoning":"Golems closing from east and south-east. Get distance, west."}
 - 15:12 act: {"actions":[],"say":"Wesley at -290,66,328, west of the beds, hunger 14, no food. Golems sit between me and the beds, so I'm holding here. Chicken or meat goes to LaForge and Zack first.","reasoning":
+- 15:19 act: {"say":"Bcrusher, no food, hunger 14, holding at -290,66,328. Golems are 18+ blocks south-east. Call out any meat; weakest first.","intent":{"goal":"hold_and_wait_for_meat","program":"rest","arguments
+- 15:21 act: {"say":"Dusk. Golems are 11 blocks south-east, so I'm moving north-west away from them. Still no food.","intent":{"goal":"move_away_from_golems","program":"travel","arguments":{"target":{"x":-300,"y":
+- 15:22 act: {"say":"Phantom hitting me in the dark, health 10. Fighting it with my wooden sword.","actions":[{"do":"attack","target":"phantom"}],"intent":{"goal":"kill_phantom_then_hold","program":"flee","argumen
+- 15:22 act: {"say":"Health 6, being shot in the dark by something I can't see. Building a dirt wall for cover.","intent":{"goal":"build_dirt_cover","program":"build","arguments":{"blueprint":"wall","block":"dirt"
+- 15:22 act: {"say":"Phantom 4 blocks north. Going at it.","actions":[{"do":"goto","target":{"x":-301,"y":69,"z":317}},{"do":"attack","target":"phantom"}],"intent":{"goal":"kill_phantom","program":"flee","argument
+- 15:23 act: {"say":"Health 4. Running to the north beds where Billy and Trini are, away from this phantom.","intent":{"goal":"reach_group_at_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"
+- 15:23 act: {"say":"Health 2, at the north beds with Chapman, LaForge, Data and Troi. Trying the bed.","actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_with_gr
+- 15:24 act: {"say":"Trying the other half of the white bed.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_with_group","program":"rest","arguments":{},"wake
+- 15:29 act: {"say":"Bcrusher, health 2, hunger 14, no food. Lewis, if you can spare the wheat, I'm in reach at the north beds. Otherwise any meat, call it out.","intent":{"goal":"hold_at_north_beds_for_food","pro
+- 15:30 act: {"say":"Going to the south farm with the group to look at the wheat. Health 2, so I need food.","intent":{"goal":"reach_south_farm_with_group","program":"travel","arguments":{"target":{"x":-273,"y":66
+- 15:30 act: {"say":"A golem is closing from the north-west, 12 blocks. Staying close to Data, Billy, LaForge and Macdonald. Still no food, health 2.","intent":{"goal":"stay_with_group_out_of_golem_path","program"
