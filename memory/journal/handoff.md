@@ -1,4 +1,11 @@
-# Handoff, day 306 dusk (latest, supersedes below)
+# Handoff, day 307 morning (latest, supersedes below)
+- At the north white beds near -271,67,318 with Zack, Trini, Billy, Worf nearby. Health 20, hunger 20, empty pack, no food.
+- Sleep refused or blocked on every try through night 306. Days since sleep 4. Retry the bed once golems are gone; step away if a monster is near.
+- LaForge, Macdonald, Worf and Lewis went toward pigs north-west near -256,67,235, but walls blocked the way. Most are back at the beds.
+- Golems were 4 to 5 blocks away in the night, not attacking.
+- No errand running. The last wait was superseded. Next: fresh wait with the group; call out any meat; Clark and Troi (lowest) eat first.
+
+# Handoff, day 306 dusk (older)
 - At the north white beds near -271,67,336 with Troi and the group. Health 20, hunger 20, empty pack, no food.
 - Bed use refused twice ("that block is a bed") at -271,67,336 and -270,67,336. Not sleeping tonight. Days since sleep 3; try again at dawn.
 - Golems 6 to 18 blocks south, not attacking. Chapman holds raw chicken; Jason holds 2 rotten flesh for Chapman.
