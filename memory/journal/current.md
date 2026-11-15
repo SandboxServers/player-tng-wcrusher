@@ -414,3 +414,10 @@
 - 08:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":337}}],"say":"Dusk. I'm heading to the white bed at -271,67,336 for the night. Still no food; first wheat goes to Trini."}
 - 08:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. Going to sleep in the white bed here at -271,67,336."}
 - 08:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trying the bed at -271,67,336 again from its side."}
+- 08:22 act: {"actions":[{"do":"note","text":"Night 272. Sleep refused: creeper 9 blocks away. Waiting for it to pass, then sleeping in the bed here."}],"say":"Wheat Seeker here, still at the white beds. Creeper n
+- 08:22 act: {"actions":[{"do":"sleep"}]}
+- 08:30 act: {"actions":[{"do":"note","text":"Day 273 dawn. Slept at the white bed (partly, 3 of 10 asleep). Health 20, hunger 20, no food. Worf went north to the lake for salmon; Trini and Troi are weakest."}],"s
+- 08:32 act: {"intent":{"goal":"join_group_north","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 08:32 act: {"actions":[{"do":"note","text":"Day 273 morning: walked north to the group at the north white beds (-271,67,318). Health and hunger 20, no food. Trini and Troi are weakest; they get any food first."}
+- 08:36 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":295}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 08:36 act: {"actions":[{"do":"note","text":"Scouted north to -271,68,295. No animals or food. Passed a grave sign for ag_jason_01 (day 220, shot). Hazard: drop to the south-west."}]}
