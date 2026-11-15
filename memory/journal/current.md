@@ -358,3 +358,5 @@
 - 06:13 act: {"actions":[],"say":"Geldar at -250,68,305, health 9, hunger 11. Worf, Chapman and LaForge are weaker than I am, so they take the flesh first. I have no food; no animals north-east."}
 - 06:14 act: {"say":"Tommy here, at -250,68,305. I have no food, only saplings and dirt. Billy, I'll head toward the cow lake near -288,67,257 to help look for cows. Meat goes to Jason first.","intent":{"goal":"re
 - 06:15 act: {"say":"I'm at the cow lake, -287,67,257. No cows in sight yet. Billy, Data, if you find any, tell me where.","actions":[{"do":"note","text":"Reached cow lake area -287,67,257 at midday day 266. No co
+- 06:19 act: {"say":"Tommy, Wcrusher here at the cow lake. I have no food and no sword, only dirt and saplings. I'll search west with Billy and Troi and call any cow I see.","intent":{"goal":"search_west_for_cows"
+- 06:19 act: {"say":"Wcrusher at -300,66,257. No cows here, only salmon far out in the water. I'll stay near Billy's shelter for the night and search again at dawn.","actions":[{"do":"note","text":"Day 266 evening

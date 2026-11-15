@@ -1,3 +1,11 @@
+# Handoff, day 266 (dusk)
+
+- Position: -300,66,257 near the cow lake, in the open with Billy, Clark, Tommy, Troi, Lewis, Macdonald. Health 9, hunger 11, no food.
+- Holding 9 oak saplings, 9 dirt, 1 birch sapling, leaf litter. No planks, no sword, no shelter of my own.
+- Searched west of the cow lake: no cows. Salmon and squid only in deep water to the west, out of reach.
+- Billy is building a plank shelter nearby. Group plans to search for cows again at dawn.
+- Next: stay with the group, search west for cows at dawn, meat to Jason first, then Billy. Sleep in an unblocked bed once safe.
+
 # Handoff, day 261 (night, after sleep)
 
 - Position: near the white beds at about -272,67,336, after sleeping through the night. Health 9, hunger about 15, no food. Days since sleep reset to 0.
