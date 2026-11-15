@@ -1,4 +1,5 @@
 # Journal
+- Day 253 night: sleep refused (creeper 8 blocks off), then beds blocked. Dawn 254, no food, health 18, hunger 8. Heading to the group for food search; Trini first.
 - 17:48 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
 - 17:48 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Wesley here. I have two oak logs from the trees east of the sign. I'm making planks and will share wood with anyone who needs it.","int
 - 17:49 act: {"intent":{"goal":"find_apples","program":"gather","arguments":{"block":"oak_leaves","count":5},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
@@ -239,3 +240,13 @@
 - 01:49 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
 - 01:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"No apples from the leaves east, only saplings. No animals seen out here. Heading back to the white beds to check on Trini and Worf.
 - 01:53 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":302}}],"say":"Wesley here. I have no food, but I'll come with Tommy and Jason to look for pigs near -255,67,300. Any meat goes to Trini first, th
+- 01:58 act: {"actions":[{"do":"goto","target":{"x":-244,"y":67,"z":300}}],"say":"Going east in a short step with Tommy and Jason. Calling out anything I see."}
+- 01:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"No pigs east. Heading to the white beds before dusk to rest with the group."}
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying the white bed here at -270,67,318. Food first at dawn: Trini, then Worf."}
+- 02:04 act: {"actions":[{"do":"sleep"}]}
+- 02:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Wesley at dawn, day 254. No food on me. Heading back to the group at the white beds; Trini first for any meat, then Worf.","intent"
+- 02:05 act: {"actions":[{"do":"sleep"}],"say":"Back at the white bed -270,67,318 with Lewis and Kimberly. Trying to sleep. Trini first for food at dawn."}
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":-286,"y":66,"z":245}}],"say":"Wesley at dawn, day 254, no food. Going north to the cow lead at -286,66,245 to look. Any cow or meat goes to Trini first, then Wor
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}],"say":"Wesley at the cow lead: no cows or animals here. Heading back to the group at the beds to help look for food. Any meat goes to Trin
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Wesley at dusk, day 254. No food. Going to a free white bed near the group to sleep. Food first at dawn: Trini, then
+- 02:24 act: {"actions":[{"do":"sleep"}]}

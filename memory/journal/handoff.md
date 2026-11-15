@@ -1,4 +1,21 @@
-# Handoff, day 251 dusk
+# Handoff, day 254 midday
+
+- Position: beds near -271,66,330 with the group. Health 18, hunger 8, no food. Cow lead at -286,66,245 was empty.
+- Trini has the porkchop. Holding 3 wheat seeds, 8 saplings, hoe, sword.
+- Next: wait for food news; give any meat to Trini, then Worf, then Data. Sleep at a free white bed when no monsters are within 10 blocks.
+
+- Position: near -281,70,309 (light now). Health 18, hunger 8, no food. Sleep failed twice (creeper 8 blocks away; beds blocked).
+- Wheat planted at -263,66,321 (growing). Holding 3 wheat seeds, 8 saplings, 1 oak log, 1 stick, hoe, sword.
+- Trini first for any meat, then Worf, then Data.
+- Next: join the group's food search in daylight; sleep at a free white bed (-270,67,318 or -270,67,336) when no monsters are within 10 blocks.
+
+- Position: -256,68,302 with Tommy and Jason, scouting for pigs near -255,67,300. No animals seen yet.
+- Health 18, hunger 8. No food in pack (wheat seeds, saplings, leaf litter only).
+- Sleep failed at dawn 253: beds occupied. Broke east leaves for apples: saplings only.
+- Trini (health 3, hunger 16) is first for any meat, then Worf, then Data.
+- Next: join the group's food search in daylight; sleep at a free white bed (-270,67,318 or -270,67,336) when no monsters are within 10 blocks.
+
+## Older, day 251 dusk
 
 - Both porkchops ended with Riker (my gives to Worf failed: not in sight, then went to Riker). Asked Riker to pass them to Worf, who is weakest. I hold no food. Hunger 10, health 18.
 - Sleep called at the white bed near -270,67,318 with Riker, Zack, Tommy and others. Night result unclear; check status at dawn.
