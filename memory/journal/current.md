@@ -393,3 +393,4 @@
 - 07:03 act: {"reasoning":"Night, golems at 8.7+ blocks. Try the nearest bed.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Going to the yellow bed for the night. No food on m
 - 07:05 act: {"reasoning":"Golems 15+ blocks out. Retry sleep at the yellow bed.","actions":[{"do":"sleep"}]}
 - 07:09 act: {"reasoning":"Dawn, day 269. Join Riker's search for cows or pigs on the grass. Meat goes to Chapman and Trini first.","say":"Wesley, dawn of day 269. I'll join Riker's search for cows or pigs. Meat g
+- 07:21 act: {"reasoning":"Dusk. No food, no bed. Golems south closing; stay near group and wait.","say":"Bcrusher here, dusk, health 20, hunger 20. No food yet. I'll stay near the group and find a free bed once t
