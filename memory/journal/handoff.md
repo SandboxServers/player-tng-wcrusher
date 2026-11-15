@@ -1,4 +1,11 @@
-# Handoff, day 296 night (latest, supersedes below)
+# Handoff, day 299 dusk (latest, supersedes below)
+- At the white bed -270,67,337 (not enclosed), health 2, hunger 17.
+- Holding 2 raw chicken, 2 rotten flesh, 2 wheat, 22 dirt. Eat only at hunger 6 or below.
+- Group near: Troi, Clark, Leonardo, Picard (fed), Trini, Billy, Jason (fed). Golems 9 to 12 blocks south.
+- Sleep not yet tried this dusk. Retry the white bed when no golem or phantom is within range.
+- Next: eat a chicken at hunger 6, give extra food to whoever is weakest in reach.
+
+# Handoff, day 296 night
 - At -274,67,337 on oak stairs near the white beds, not enclosed. Health 2, hunger 14.
 - Holding 1 raw chicken (from Trini), 2 rotten flesh, 22 dirt. Eat is refused until hunger is 6 or below, so keep them.
 - Golems close around the beds at night; sleep blocked for many. No errand running.

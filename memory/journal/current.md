@@ -82,3 +82,12 @@
 - 16:24 act: {"say":"Trini, I'm moving to -274,67,338, one step away from the items. Give the chicken there, I'll keep my position visible.","actions":[{"do":"goto","target":{"x":-274,"y":67,"z":338}}]}
 - 16:25 act: {"say":"Billy, you're in reach. I'm at -274,67,337 on the stairs. Trini, Kimberly, LaForge: step next to me and give.","actions":[]}
 - 16:28 act: {"say":"Got the chicken, thank you Trini. Eating it now.","actions":[{"do":"eat"}]}
+- 16:42 act: {"say":"Wesley here at the beds, health 2, hunger 14. I'm holding a chicken for when hunger reaches 6. Anyone weaker, tell me.","intent":{"goal":"hold_at_beds_until_hunger_6","program":"rest","argumen
+- 16:42 act: {"say":"Wesley at -276,66,328, health 2, hunger 14. Walking back to the white beds with the group. Still holding a chicken for when hunger hits 6.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z
+- 16:42 act: {"say":"Wesley at the white bed, health 2, hunger 14. Trying to sleep now.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:42 act: {"say":"Wesley here at the bed, health 2, hunger 14. Lewis and Kimberly are in reach. I'm waiting for hunger to reach 6 and will eat my chicken then.","intent":{"goal":"wait_for_hunger_6","program":"r
+- 16:44 act: {"say":"Thank you Kimberly, I have your chicken now. Health 2, hunger 14. I'll eat one chicken at hunger 6 and keep the other for whoever is weakest.","intent":{"goal":"wait_for_hunger_6","program":"r
+- 16:57 say: {"text":"Wesley at the white bed, -270,67,337, health 2. Troi, Worf: I can't see you yet. Come to the bed and hand over the wheat; I'll stand still."}
+- 17:01 say: {"text":"Troi, I'm here at -270,67,337, in your reach. Please hand me the wheat and flesh. Thank you."}
+- 17:13 say: {"text":"Wesley here at the white bed, health 2, hunger 14. Thank you all. Troi, Trini: I'm in reach at -270,67,337. I'll eat at hunger 6."}
+- 17:17 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is a wooden sword. I'm keeping my food for when my hunger drops.","reasoning":"Leonardo is in rea
