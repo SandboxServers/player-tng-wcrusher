@@ -1,4 +1,10 @@
-# Handoff, day 305 dawn (latest, supersedes below)
+# Handoff, day 306 dusk (latest, supersedes below)
+- At the north white beds near -271,67,336 with Troi and the group. Health 20, hunger 20, empty pack, no food.
+- Bed use refused twice ("that block is a bed") at -271,67,336 and -270,67,336. Not sleeping tonight. Days since sleep 3; try again at dawn.
+- Golems 6 to 18 blocks south, not attacking. Chapman holds raw chicken; Jason holds 2 rotten flesh for Chapman.
+- Next: wait with the group, call out any meat, give it to Chapman first. The wait was superseded; resume with a fresh wait.
+
+# Handoff, day 305 dawn (older)
 - Died on night 304 to golems and a phantom near -262,321. Respawned at -270,67,337 with nothing: health 20, hunger 20.
 - Dropped at -262,67,321: 2 chicken, 2 wheat, 2 rotten flesh, 2 oak logs, 22 dirt, torch, 2 planks, wooden hoe, stick, white wool. Some may already be taken.
 - Golems stood about 4 blocks east of me at dawn. Wait for them to leave, then fetch the chickens for Clark (health 4) and Chapman (health 3), who are lowest.
