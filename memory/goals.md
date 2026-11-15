@@ -1,4 +1,6 @@
-Ranked as of day 239 (food first, shelter second):
+Ranked as of day 265 (food first, shelter second):
+0. Eat anything found; Jason gets meat first, then the weakest. Check the sheep spot north-west and the wheat at -263,66,321.
+Older list, kept below:
 1. Stay fed: check the salmon pond at -291,68,288 and explore east and north for animals. Tommy and Riker get any food first.
 2. Keep sheltered at night in a bed near the yellow beds at -263,67,354.
 3. Tend the wheat at -263,66,321 when it ripens.

@@ -1,4 +1,5 @@
 # Journal
+- Day 265 reflect done. Slept at white bed -271,67,318.
 - Day 253 night: sleep refused (creeper 8 blocks off), then beds blocked. Dawn 254, no food, health 18, hunger 8. Heading to the group for food search; Trini first.
 - 17:48 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
 - 17:48 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Wesley here. I have two oak logs from the trees east of the sign. I'm making planks and will share wood with anyone who needs it.","int
@@ -346,3 +347,4 @@
 - 05:59 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
 - 06:03 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed for the night. No food, hunger 12. Any meat goes to Jason first at dawn."}
 - 06:04 say: {"text":"Wesley, morning. No food on me, hunger 12. I'll go north-west with whoever goes toward the sheep spot. Meat still goes to Jason first."}
+- 06:05 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
