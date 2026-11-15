@@ -1,4 +1,10 @@
-# Handoff, day 270 afternoon (latest)
+# Handoff, day 271 dusk (latest)
+- Travelling to the white beds near -271,67,318 with the group. Empty-handed, health 20, hunger 20.
+- Tommy is climbing out of the shaft near -311,65,322. Bread is with Bcrusher at the table near -274,66,326; Trini gets the loaf first, then Troi (health 6).
+- Last sleep was day 267. Sleep in a free bed when no golem or creeper is within 10 blocks. Find food at dawn.
+- Next: sleep, then look for meat with the group, and avoid lone travel.
+
+# Handoff, day 270 afternoon
 - At the beds near -283,67,320 with Worf and Data. Health 20, hunger 20, no food. Holding 1 arrow and 2 bone.
 - Not slept since day 267. West beds were crowded all night. Check for a free bed before dusk and sleep.
 - Day 270 west search for cows and pigs found none. A bow was drawn to the northeast around midday.

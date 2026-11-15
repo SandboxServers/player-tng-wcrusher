@@ -397,3 +397,12 @@
 - 07:23 act: {"reasoning":"Night, beds mostly claimed by others. Wait for a free bed or dawn; golems farther off.","intent":{"goal":"wait_for_free_bed","program":"rest","arguments":{},"wake_on":["directly_addresse
 - 07:31 act: {"reasoning":"Dawn. Join group west search for animals; meat goes to Chapman and Trini first.","say":"Bcrusher joining the west search for cows or pigs. Any meat goes to Chapman and Trini first.","int
 - 07:36 act: {"reasoning":"No animals west; group returning to beds. Go back with them and look for a free bed before dusk.","say":"Bcrusher heading back to the beds with the group. No animals west. Still no food.
+- 07:41 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"li
+- 07:41 act: {"actions":[{"do":"sleep"}]}
+- 07:49 act: {"say":"Woke at dawn, day 271, health 20, hunger 20. I have no food to share, but I'll head west toward Chapman's pig sighting. Any meat goes to Chapman and Trini first.","intent":{"goal":"travel_west
+- 07:50 act: {"intent":{"goal":"scout_west_for_pigs","program":"travel","arguments":{"target":{"x":-345,"y":63,"z":300}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
+- 07:50 act: {"intent":{"goal":"scout_far_west_for_animals","program":"travel","arguments":{"target":{"x":-375,"y":63,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fa
+- 07:50 act: {"intent":{"goal":"retreat_east_from_creeper","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":322}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
+- 07:51 act: {"say":"Wesley: a creeper exploded beside me far west at -375,64,320. I died and woke at the yellow bed with nothing. I'm back at -300,65,322 with Worf. No food; I'll hold here with the group and stay
+- 07:59 act: {"intent":{"goal":"hold_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_at_dusk","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addres
