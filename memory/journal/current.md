@@ -299,3 +299,10 @@
 - 04:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Follow failed because Picard is out of sight. Go to the white bed area where the group gathers."}
 - 04:12 act: {"actions":[{"do":"note","text":"At beds -271,67,318 with Picard, Lewis, Kimberly, Jason, Zack. Health 9, no food, no sword."}],"say":"I'm back at the beds with you all. I have no food and no sword; I
 - 04:16 act: {"actions":[{"do":"note","text":"Picard offers his worn wooden sword; waiting for it to arrive. Trini gets meat first; Data has bread from ripe wheat."}],"say":"Thank you, Picard. Yes, please hand me 
+- 04:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack, Picard, Kimberly: it's night and I'm going to sleep in the white bed here with the group. Worf and Trini get a
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley going to the north white bed with Kimberly and Jason to sleep. Troi, I'd like your porkchop to go to Worf or 
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":308}}],"say":"Wesley heading north-east to look for animals now. Any meat goes to Trini first, then Worf."}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley at night, heading to the white bed at -270,67,318. No food. Trini first for any meat."}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}

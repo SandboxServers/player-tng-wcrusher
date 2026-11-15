@@ -1,4 +1,12 @@
-# Handoff, day 260
+# Handoff, day 261 (night)
+
+- Position: standing at the white bed at -270,67,318, daytime, waiting for dusk to sleep. Health 9, hunger 16, no food.
+- West cow seen near -288,67,257 (Billy's find). Worf got the porkchop, beef and wheat; he is weakest.
+- Holding 8 oak saplings and 2 dirt. No sword yet (Picard's offer still unfilled).
+- Searched north-east grass for animals: none found. Trini first for any meat, then Worf.
+- Next: sleep at the white bed when no monster is within 10 blocks.
+
+# Handoff, day 260 (earlier)
 
 - Position: white beds at -271,67,318 with Picard, Lewis, Kimberly, Jason, Zack. Health 9, hunger 17, no food.
 - Lost sword, hoe, sticks and logs in the lake at -319,62,247. Not retrieved; zombies and arrows there.
