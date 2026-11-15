@@ -108,3 +108,6 @@
 - 19:27 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Staying by Trini, away from the golems."}
 - 19:31 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":321}}],"say":"Morning. I am going to the drop at -262,321 for the chicken and wheat. Any meat I find goes to Chapman."}
 - 19:31 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"The drop at -262,321 is empty; someone took it. I am going to the group at the beds."}
+- 19:40 say: {"text":"Wesley here, health 20, hunger 20, no food. Staying with the group at the beds. Any meat goes to Chapman first."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley at the white bed, health 20, hunger 20, no food. Going to sleep w
+- 19:40 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley, dark, health 20, hunger 20, no food. Trying the other half of the bed to sleep. Troi, you are in reach; meat goes
