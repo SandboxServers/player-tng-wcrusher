@@ -250,3 +250,7 @@
 - 02:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}],"say":"Wesley at the cow lead: no cows or animals here. Heading back to the group at the beds to help look for food. Any meat goes to Trin
 - 02:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Wesley at dusk, day 254. No food. Going to a free white bed near the group to sleep. Food first at dawn: Trini, then
 - 02:24 act: {"actions":[{"do":"sleep"}]}
+- 02:28 act: {"say":"Wesley at dawn. No food yet. Scouting the grass to the north-west for animals; any meat goes to Worf or Clark first, then Data.","intent":{"goal":"scout_grass_for_animals","program":"travel","
+- 02:28 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}]}
+- 02:29 act: {"say":"Wesley at dawn, day 255. No food in my pack. I'll scout the east grass for animals and bring any meat to Trini first.","intent":{"goal":"scout_east_grass_for_animals","program":"travel","argum
+- 02:33 act: {"say":"Wesley at -232,66,314, no animals here. Heading to the group at the north-east yellow bed to search with them. Any meat goes to Trini, then Worf, then Data.","intent":{"goal":"rejoin_group_at_

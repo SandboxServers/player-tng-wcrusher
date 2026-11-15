@@ -1,4 +1,8 @@
-# Handoff, day 254 midday
+# Handoff, day 255 midday
+
+- Position: -240,69,344 at the north-east yellow bed, with Trini and Billy. Health 18, hunger 7, no food. East grass scouted at -232,314: no animals.
+- Holding 3 wheat seeds, 8 saplings, hoe, sword. Wheat planted at -263,66,321 is growing.
+- Next: wait with the group for a pig or cow; meat goes to Trini, then Worf, then Data. Sleep at a free white bed at night when no monster is within 10 blocks.
 
 - Position: beds near -271,66,330 with the group. Health 18, hunger 8, no food. Cow lead at -286,66,245 was empty.
 - Trini has the porkchop. Holding 3 wheat seeds, 8 saplings, hoe, sword.
