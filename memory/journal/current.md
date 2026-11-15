@@ -91,3 +91,7 @@
 - 17:01 say: {"text":"Troi, I'm here at -270,67,337, in your reach. Please hand me the wheat and flesh. Thank you."}
 - 17:13 say: {"text":"Wesley here at the white bed, health 2, hunger 14. Thank you all. Troi, Trini: I'm in reach at -270,67,337. I'll eat at hunger 6."}
 - 17:17 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is a wooden sword. I'm keeping my food for when my hunger drops.","reasoning":"Leonardo is in rea
+- 17:38 act: {"actions":[{"do":"eat"}],"say":"Wesley here, health 2, hunger 17. Eating one of my chickens now. I still hold one chicken and two rotten flesh for whoever is lowest.","reasoning":"My health is 2, the
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, health 2. Sleep here if no monster is close.","say":"Wesley going to the bed for the nigh
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed because the way was blocked; the bed is 19 blocks away now. Walk back and try the other bed."}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, golems at 5 to 9 blocks. Try the bed once more; if refused, wait."}
