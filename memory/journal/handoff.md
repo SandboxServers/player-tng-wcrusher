@@ -1,4 +1,11 @@
-# Handoff, day 303 night (latest, supersedes below)
+# Handoff, day 305 dawn (latest, supersedes below)
+- Died on night 304 to golems and a phantom near -262,321. Respawned at -270,67,337 with nothing: health 20, hunger 20.
+- Dropped at -262,67,321: 2 chicken, 2 wheat, 2 rotten flesh, 2 oak logs, 22 dirt, torch, 2 planks, wooden hoe, stick, white wool. Some may already be taken.
+- Golems stood about 4 blocks east of me at dawn. Wait for them to leave, then fetch the chickens for Clark (health 4) and Chapman (health 3), who are lowest.
+- Never walk the bed area alone at night.
+- Last wait was superseded; resume with a fresh wait.
+
+# Handoff, day 303 night (older)
 - Slept at the north white bed (-280,67,320) on night 303; days_since_sleep is 0 now. Health 5.7, hunger 17 at sleep.
 - Holding 2 raw chicken (eat at hunger 6), 2 rotten flesh, 22 dirt, 2 wheat, planks, hoe. Give spare food to the lowest in sight.
 - No errand running. Next: wait for hunger 6, eat chicken, then find food with the group.

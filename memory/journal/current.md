@@ -104,3 +104,7 @@
 - 19:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley going to the north bed for the night. Holding 2 chicken for the lowest in my sight; call out at 6."}
 - 19:03 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, you are lowest in my sight at 4.2. Here is a chicken. Wesley.","reasoning":"Clark is the lowest in my sight. Give
 - 19:03 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":321}}],"reasoning":"Iron golems adjacent and I'm taking hits at 3.7 health. Get away from them first."}
+- 19:26 act: {"actions":[{"do":"sleep"}],"say":"Going to try the bed here with the group. Golems are 13 blocks off."}
+- 19:27 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Staying by Trini, away from the golems."}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":321}}],"say":"Morning. I am going to the drop at -262,321 for the chicken and wheat. Any meat I find goes to Chapman."}
+- 19:31 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"The drop at -262,321 is empty; someone took it. I am going to the group at the beds."}
