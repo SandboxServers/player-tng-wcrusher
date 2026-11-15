@@ -451,3 +451,5 @@
 - 09:48 act: {"say":"Morning. I have seen no sign of Trini here. I'll look along the north beds; LaForge, if she turns up, the beef is hers.","intent":{"goal":"find_trini_for_beef","program":"follow","arguments":{
 - 10:01 act: {"actions":[{"do":"sleep"}]}
 - 10:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 10:11 act: {"intent":{"goal":"join_group_at_wheat","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 10:11 act: {"intent":{"goal":"wait_for_food_news","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operations

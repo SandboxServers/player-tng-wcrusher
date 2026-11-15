@@ -1,8 +1,12 @@
-# Handoff, day 272 night (latest)
-- Slept via the sleep tool near the white bed at -271,67,336; the bed click itself failed from two blocks away and from its side. days_since_sleep is now 0.
-- Health 20, hunger 20, no food, no tools, no intent running. Day 272 reflect done; day-272.md written; saved to git (9a4f21f).
-- Known food: one unripe wheat at -273,66,330 (Lewis and Chapman's farm). Trini is weakest, then Troi.
-- Next: at dawn, find food with the group; keep away from golems in the south and east.
+# Handoff, day 277 night (latest)
+- Sleep worked at the yellow bed near -263,67,353 (3 of 6 asleep). Now awake at about -262,67,353, night of day 277. Iron golem 3.6 blocks east; not enclosed.
+- Health 20, hunger 20, holding 2 dirt, no food, no tools, no intent running. days_since_sleep 5 before this sleep.
+- Trini still not found. LaForge holds 2 beef for her; Troi holds beef for her.
+- Known food: unripe wheat at -264,66,318, -264,66,320, -265,66,321, -266,66,322, -273,66,330.
+- Next: at dawn, find Trini and give her the beef first, then Troi. Help the north-bed planting if seeds or a hoe come my way. Keep away from golems.
+
+# Handoff, day 272 night
+- Slept via the sleep tool near the white bed at -271,67,336. Old note, superseded.
 
 # Handoff, day 272 midday
 - At -276,65,328 on the west grass near the beds, with Lewis, Chapman, Laforge nearby. Health 20, hunger 20, empty-handed, no weapon.
