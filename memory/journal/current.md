@@ -276,3 +276,9 @@
 - 03:28 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 03:43 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
 - 03:44 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"At the white bed. No food yet; I'm going to sleep."}
+- 03:44 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed, night of day 258. Still no food, hunger 6, health 16. Trying to sleep."}
+- 03:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:49 act: {"intent":{"goal":"scout_northwest_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comp
+- 03:49 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 03:58 act: {"say":"Wesley here. Still no food; I found none in the north-west grass either. Any meat goes to Trini first, then Jason. Has anyone seen a pig or cow to the south-west?"}
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the north white bed for the night with the group. No food yet; meat goes to Trini first."}

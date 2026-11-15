@@ -1,8 +1,15 @@
-# Handoff, end of day 258
+# Handoff, night of day 259
+
+- Position: south white bed area, -270,67,336, with Kimberly, Tommy and Worf. Health 16, hunger 5, no food.
+- Sleep failed: "the way was blocked", with an iron golem about 8 blocks west. Not retried.
+- Holding 3 wheat seeds, 8 saplings, hoe, sword, torch.
+- Next at dawn: try sleep at a free white bed once no golem is near; search south-west for a pig or cow with the group. Meat goes to Trini, then Jason.
+
+# Day 258 (earlier)
 
 - Slept at the white bed area near -270,67,336 after a hit at night (phantom or arrow). Health 16, hunger 6, no food.
 - Wheat at -263,66,321 still growing. Holding 8 saplings, 3 wheat seeds, hoe, sword.
-- Next at dawn: food. Meat goes to Trini, then Ezra, then Data. Avoid the north-east, where bows are drawn.
+- Meat goes to Trini, then Ezra, then Data. Avoid the north-east, where bows are drawn.
 
 # Older (day 258 earlier)
 
