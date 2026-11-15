@@ -274,3 +274,5 @@
 - 03:28 act: {"actions":[{"do":"sleep"}]}
 - 03:28 act: {"intent":{"goal":"scout_south_west_for_animals","program":"travel","arguments":{"target":{"x":-284,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
 - 03:28 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 03:43 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 03:44 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"At the white bed. No food yet; I'm going to sleep."}

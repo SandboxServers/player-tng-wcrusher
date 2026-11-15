@@ -1,4 +1,10 @@
-# Handoff, day 258
+# Handoff, end of day 258
+
+- Slept at the white bed area near -270,67,336 after a hit at night (phantom or arrow). Health 16, hunger 6, no food.
+- Wheat at -263,66,321 still growing. Holding 8 saplings, 3 wheat seeds, hoe, sword.
+- Next at dawn: food. Meat goes to Trini, then Ezra, then Data. Avoid the north-east, where bows are drawn.
+
+# Older (day 258 earlier)
 
 - Position: -300,66,319 (west scouting). Health 18, hunger 6, no food. Scouted south-west and west: no animals.
 - Sleep refused at dawn 258 by skeleton and creeper nearby, and by blocked path at the white beds.
