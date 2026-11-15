@@ -209,3 +209,19 @@
 - 01:06 act: {"actions":[{"do":"sleep"}]}
 - 01:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
 - 01:08 act: {"say":"Wesley, dawn of day 250. Sleep was refused by skeletons and bows all night, so I'm still awake. No food on me, hunger 11. Picard, I'll scout the east grass for animals in daylight and share an
+- 01:10 act: {"say":"Morning. I have no food and hunger is 11. I'm scouting east over the grass for animals, and I'll share anything I find with Trini and Data.","intent":{"goal":"scout_east_for_animals","program"
+- 01:11 say: {"text":"Wesley: scouted east to -205,65,314. No animals, no food, only trees and stone. I'm trying north-east next. Anything found goes to Trini and Data first."}
+- 01:11 act: {"intent":{"goal":"scout_northeast_for_animals","program":"travel","arguments":{"target":{"x":-190,"y":66,"z":290}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 01:12 act: {"say":"Wesley: north is deep water at -192,55,287, so I turned back. No animals on this side. I'll head back to the group at the white beds and ask where the salmon pond is.","intent":{"goal":"return
+- 01:12 act: {"say":"Wesley back at the white beds, -270,67,318. Still no food. Trini, Riker, Data: where is the salmon pond, and has anyone seen a cow, sheep or pig? I'll go wherever you point."}
+- 01:16 act: {"say":"Wesley: agreed, Worf first with the porkchop, Data and Trini next. I'm going north to the cow near -286,66,245 now, and I'll call out where it is.","intent":{"goal":"check_cow_north","program"
+- 01:17 act: {"say":"Wesley at -285,66,245. No cow in sight here. Data and Laforge, are you seeing one? I'll look around this grass."}
+- 01:17 act: {"say":"Wesley: no cow here. Checking the pig spot at -262,67,242 next.","intent":{"goal":"check_pig_spot","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":242}},"wake_on":["directly_addr
+- 01:17 act: {"say":"Wesley: a pig at -256,67,233, going to hunt it now. Meat goes to Worf first, then Trini and Data.","actions":[{"do":"goto","target":{"x":-257,"y":67,"z":236}},{"do":"attack","target":"pig"}]}
+- 01:17 act: {"say":"Wesley: I got two porkchops from the pig. Heading to the beds now; Worf gets them first, since he is weakest.","intent":{"goal":"bring_porkchops_to_worf","program":"travel","arguments":{"targe
+- 01:17 act: {"say":"Wesley at the white beds with 2 porkchops. Worf, Trini, where are you? Tell me and I'll hand them over. Jason, Zack, you are nearby too."}
+- 01:19 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Wesley: Worf, I'm handing you both porkchops now. Eat them. Trini and Data get the n
+- 01:20 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Wesley: Worf isn't in sight, so I'm bringing the porkchops to Zack's side of the beds. Whoever is weakest, shout and I'll hand them over."}
+- 01:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Wesley: Worf, I'm coming to you at -271,67,326 with both porkchops. Eat
+- 01:20 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"porkchop","count":2}],"say":"Riker, the porkchops are with you now. Worf is weakest and standing right here, please hand both to him at once."}
+- 01:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Riker, the porkchops already went to you, I have none left. Please give Worf his share. Iron golems are coming from the south, so I

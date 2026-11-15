@@ -1,4 +1,10 @@
-# Handoff, day 250 dawn
+# Handoff, day 251 dusk
+
+- Both porkchops ended with Riker (my gives to Worf failed: not in sight, then went to Riker). Asked Riker to pass them to Worf, who is weakest. I hold no food. Hunger 10, health 18.
+- Sleep called at the white bed near -270,67,318 with Riker, Zack, Tommy and others. Night result unclear; check status at dawn.
+- Next: check Worf ate; find food for Trini and Data; wheat at -266,66,325 and -269,66,325.
+
+## Earlier, day 250 dawn
 
 - Now (session ended mid-errand): at -240,69,344 in the open, dawn, health 18, hunger 11, no food. Sleep failed all night (skeletons, bows, bed path blocked). Porkchops went to Trini via Jason. Intent in progress: scout east grass toward -232,66,314 for animals. Next: food to Trini then Data; try the yellow bed at -263,67,354 at night.
 
