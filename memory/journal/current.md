@@ -489,3 +489,4 @@
 - 12:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Body is awake now. Night, bed adjacent. Sleep."}
 - 12:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Woke early when the world moved; bed is adjacent. Try sleeping again."}
 - 12:05 act: {"actions":[{"do":"note","text":"Night of day 283 at the white bed (-271,67,318). No food on me; health 20, hunger 20. Group (Zack, Picard, LaForge, Trini) still short of food. Going to sleep here."}]
+- 12:06 say: {"text":"Night of day 283. I have no food, health 20, hunger 20. I'm at the white bed to sleep. Any meat I find goes to LaForge, Trini, Picard first."}
