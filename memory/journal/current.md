@@ -111,3 +111,11 @@
 - 19:40 say: {"text":"Wesley here, health 20, hunger 20, no food. Staying with the group at the beds. Any meat goes to Chapman first."}
 - 19:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley at the white bed, health 20, hunger 20, no food. Going to sleep w
 - 19:40 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley, dark, health 20, hunger 20, no food. Trying the other half of the bed to sleep. Troi, you are in reach; meat goes
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley here, night 306, no food, health 20. Trying the bed now.","reasoning":"Night, bed one block away, three days 
+- 19:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley at the white bed, night 306, no food, health 20. Trying sleep again.","reasoning":"Last sleep was interrupted, not
+- 19:44 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The world has moved on and the golems have left. Try the other half of the bed."}
+- 19:45 act: {"actions":[],"say":"Wesley at the white beds, night 306. Sleep refused again, so I'll wait with Data until dawn and then hunt for food with the group.","intent":{"goal":"hold_with_data_until_dawn","p
+- 19:47 act: {"actions":[{"do":"sleep"}],"reasoning":"No golems in sight now. One more try at sleep."}
+- 19:50 act: {"actions":[],"say":"Wesley, dawn 307, health 20, hunger 20, no food. Hunting with the group in sight, following LaForge. Any meat goes to Clark and Troi first.","intent":{"goal":"hunt_meat_with_lafor
+- 19:52 act: {"actions":[],"say":"Wesley, dawn 307, health 20, hunger 20, no food. Pigs were seen north-west near -256,67,233 before. Going there with the group in sight; LaForge, please lead.","intent":{"goal":"h
+- 19:54 act: {"actions":[],"say":"Wesley: LaForge is out of sight, so I'm staying with Zack and Trini at the beds. Macdonald, Worf, Lewis: call out pig sightings and I'll come if you are in sight.","intent":{"goal
