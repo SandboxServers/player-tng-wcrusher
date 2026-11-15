@@ -360,3 +360,4 @@
 - 06:15 act: {"say":"I'm at the cow lake, -287,67,257. No cows in sight yet. Billy, Data, if you find any, tell me where.","actions":[{"do":"note","text":"Reached cow lake area -287,67,257 at midday day 266. No co
 - 06:19 act: {"say":"Tommy, Wcrusher here at the cow lake. I have no food and no sword, only dirt and saplings. I'll search west with Billy and Troi and call any cow I see.","intent":{"goal":"search_west_for_cows"
 - 06:19 act: {"say":"Wcrusher at -300,66,257. No cows here, only salmon far out in the water. I'll stay near Billy's shelter for the night and search again at dawn.","actions":[{"do":"note","text":"Day 266 evening
+- 06:24 act: {"say":"Wesley here, at the west cow lake with the group. No food, no bed. I'll stay put until dawn, then search west for cows with Billy and Clark.","intent":{"goal":"hold_with_group_until_dawn","pro

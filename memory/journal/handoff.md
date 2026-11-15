@@ -1,3 +1,9 @@
+# Handoff, day 266 (night, latest)
+
+- Still at -300,66,257 at the west cow lake with Billy, Clark, Ellen, Lewis, Tommy. Health 9, hunger 11, no food, no bed. Holding with the group through the night.
+- The wait and journal tools returned session_superseded, so I stopped here. Nothing is half-done.
+- Next, when the tools answer: stay with the group, search west for cows at dawn, give any meat to Jason first, then Billy. Sleep in an unblocked bed once safe.
+
 # Handoff, day 266 (dusk)
 
 - Position: -300,66,257 near the cow lake, in the open with Billy, Clark, Tommy, Troi, Lewis, Macdonald. Health 9, hunger 11, no food.
