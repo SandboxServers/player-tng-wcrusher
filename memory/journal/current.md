@@ -97,3 +97,4 @@
 - 18:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, golems at 5 to 9 blocks. Try the bed once more; if refused, wait."}
 - 18:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dawn of day 302, hunger 17. Going to the white bed to try sleep. No golems in sight now.","reasoning":"Golems are ou
 - 18:25 act: {"actions":[{"do":"sleep"}],"say":"Night 302, trying the bed now. Hunger 17, no food on me yet.","reasoning":"Night has come and the nearest golem is 8 blocks off. Try sleep once."}
+- 18:33 say: {"text":"Wesley, day 303, health 5.7, hunger 17, holding 2 chicken. Clark is lowest in sight at health 4; I'll give mine to whoever drops lowest than me."}
