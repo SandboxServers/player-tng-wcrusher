@@ -98,3 +98,9 @@
 - 18:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dawn of day 302, hunger 17. Going to the white bed to try sleep. No golems in sight now.","reasoning":"Golems are ou
 - 18:25 act: {"actions":[{"do":"sleep"}],"say":"Night 302, trying the bed now. Hunger 17, no food on me yet.","reasoning":"Night has come and the nearest golem is 8 blocks off. Try sleep once."}
 - 18:33 say: {"text":"Wesley, day 303, health 5.7, hunger 17, holding 2 chicken. Clark is lowest in sight at health 4; I'll give mine to whoever drops lowest than me."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley at the north white bed, night 303, hunger 16, health 5.7. Holding 2 chicken for whoever is lowest in my sight
+- 18:50 act: {"actions":[],"say":"Wesley, morning of day 304. Slept. Health 5.7, hunger 16. I hold 2 chicken. LaForge and Clark, you are lowest: call out when you are in my sight and I will hand one over.","reason
+- 18:54 act: {"actions":[],"say":"Wesley at the north beds, health 5.7, hunger 16, 2 chicken. Chapman or Clark, come into my sight and I will hand one over."}
+- 19:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley going to the north bed for the night. Holding 2 chicken for the lowest in my sight; call out at 6."}
+- 19:03 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, you are lowest in my sight at 4.2. Here is a chicken. Wesley.","reasoning":"Clark is the lowest in my sight. Give
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":321}}],"reasoning":"Iron golems adjacent and I'm taking hits at 3.7 health. Get away from them first."}
