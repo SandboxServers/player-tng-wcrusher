@@ -1,4 +1,10 @@
-# Handoff, day 299 dusk (latest, supersedes below)
+# Handoff, day 301 night (latest, supersedes below)
+- At the white beds near -270,67,336. Health about 5, hunger about 17 or lower; check status.
+- Sleep refused 4 times ("the way was blocked") with golems 5 to 9 blocks south. Not retrying while golems are close.
+- Holding 2 raw chicken, 2 rotten flesh, 2 wheat, 22 dirt. Eat only at hunger 6 or below.
+- No errand running. Next: wait for hunger 6, eat a chicken, stand next to a bed and retry sleep when no golem is within about 8 to 10 blocks. Give food to the weakest in reach.
+
+# Handoff, day 299 dusk
 - At the white bed -270,67,337 (not enclosed), health 2, hunger 17.
 - Holding 2 raw chicken, 2 rotten flesh, 2 wheat, 22 dirt. Eat only at hunger 6 or below.
 - Group near: Troi, Clark, Leonardo, Picard (fed), Trini, Billy, Jason (fed). Golems 9 to 12 blocks south.
