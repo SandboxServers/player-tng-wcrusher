@@ -324,3 +324,6 @@
 - 05:12 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf is beside me at the white beds. Chapman, your pork chops should go to Worf here, then Trini. I have no food, only saplings for anyone who p
 - 05:18 act: {"actions":[],"say":"I have no food, only 8 oak saplings. Anyone planting a plot, say so and they are yours. Chapman's porkchop is with Trini now; Worf, stay close to me."}
 - 05:22 act: {"actions":[{"do":"sleep"}]}
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Heading to the white bed at -271,67,318 to sleep with the group. Still no food; meat go
+- 05:26 act: {"actions":[{"do":"use","at":{"x":-281,"y":67,"z":320}}],"reasoning":"Bed two blocks away with the group. Try it once."}
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley going to the white bed at -270,67,318 to sleep with the group. No food; Trini and Riker first for any food at
