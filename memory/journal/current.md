@@ -335,3 +335,8 @@
 - 05:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the white bed -270,67,318. No food from me. Waking at dawn to scout for animals with the group."}
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Golems are six blocks south of me. Moving north to the bed at -270,67,318 to sleep."}
 - 05:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 05:50 act: {"intent":{"goal":"scout_northeast_for_animals","program":"travel","arguments":{"target":{"x":-245,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comp
+- 05:50 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed
+- 05:51 act: {"actions":[{"do":"unstick"}]}
+- 05:51 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 05:52 act: {"say":"Wesley back at the white beds -270,67,318. North-east had no animals or food, only logs and a pit at -220,68,320. Jason, I have no food for you. Golem is 19 blocks south-west."}
