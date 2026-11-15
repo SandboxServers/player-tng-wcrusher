@@ -1,4 +1,7 @@
 # Journal
+- Day 268 night: no food, health and hunger 20. Sleep refused by a creeper 10 blocks off at the yellow bed -270,67,326. Waiting, then trying a bed again.
+- Day 269 dawn: sleep failed (way blocked), no food, health and hunger 20. Joining Riker's search for cows and pigs on the grass.
+- Day 269 midday: searched the grass to the west at -284,66,325; no animals found. Laforge reports salmon in the water west near -320,58,256. Waiting with the group; health and hunger still 20.
 - Day 265 reflect done. Slept at white bed -271,67,318.
 - Day 253 night: sleep refused (creeper 8 blocks off), then beds blocked. Dawn 254, no food, health 18, hunger 8. Heading to the group for food search; Trini first.
 - 17:48 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
@@ -386,3 +389,7 @@
 - 06:52 act: {"actions":[{"do":"goto","target":{"x":-322,"y":64,"z":262}}]}
 - 06:53 act: {"intent":{"goal":"return_to_beds_with_fish_news","program":"travel","arguments":{"target":{"x":-268,"y":66,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
 - 06:53 act: {"say":"Back at the beds with the group. No food found on the lake side; only deep-water salmon out of reach."}
+- 07:00 act: {"reasoning":"Dusk, iron golem 3.9 blocks away, no bed in reach. Wait for the golem to move off before sleeping.","say":"Dusk now. Hunger is full. I'll sleep once the golem moves off.","intent":{"goal
+- 07:03 act: {"reasoning":"Night, golems at 8.7+ blocks. Try the nearest bed.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Going to the yellow bed for the night. No food on m
+- 07:05 act: {"reasoning":"Golems 15+ blocks out. Retry sleep at the yellow bed.","actions":[{"do":"sleep"}]}
+- 07:09 act: {"reasoning":"Dawn, day 269. Join Riker's search for cows or pigs on the grass. Meat goes to Chapman and Trini first.","say":"Wesley, dawn of day 269. I'll join Riker's search for cows or pigs. Meat g

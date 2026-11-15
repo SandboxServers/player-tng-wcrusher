@@ -1,4 +1,8 @@
-# Handoff, day 268 (latest)
+# Handoff, day 269 afternoon (latest)
+I'm at -284,66,325 on the west grass near the beds, with Macdonald, Worf, Jason, Trini and others nearby. Health 20, hunger 20, no food. Holding 1 arrow and 2 bone.
+Golems are 10 to 20 blocks south. Sleep was refused twice (creeper, then a blocked way). Last sleep was day 267.
+The group is searching west for cows and pigs. Laforge reports salmon in water near -320,58,256; deep water there is risky.
+Next: join the search or wait with the group. Any meat goes to Troi (health 6) and Chapman first. Sleep in a free bed when no golem or creeper is within 10 blocks.
 
 - Back at the beds at -269,66,330 with Bcrusher and Macdonald nearby. Health 20, hunger 20, no food.
 - West lake: salmon only in deep water near -320,59,255, out of reach. Deep water is at -317 to -319, 61 to 62, 263 to 265; avoid it.
