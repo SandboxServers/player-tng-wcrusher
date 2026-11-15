@@ -1,4 +1,9 @@
-# Handoff, night 257
+# Handoff, day 258
+
+- Position: -300,66,319 (west scouting). Health 18, hunger 6, no food. Scouted south-west and west: no animals.
+- Sleep refused at dawn 258 by skeleton and creeper nearby, and by blocked path at the white beds.
+- Holding 3 wheat seeds, 8 saplings, hoe, sword.
+- Next: check the group for news; sleep at a free white bed (-270,67,336 or -271,67,336) at night when no monster is within 10 blocks. Meat goes to Trini, then Ezra, then Data.
 
 - Position: -274,68,320 near the white beds with Trini, Worf, Tommy, Kimberly, Troi, Laforge. Health 18, hunger 6, no food.
 - Sleep refused: creeper 8 blocks away, then path blocked. Wheat planted by Jason and Tommy at -265,66,323 and -266,66,323.
