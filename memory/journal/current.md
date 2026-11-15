@@ -227,3 +227,15 @@
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Riker, the porkchops already went to you, I have none left. Please give Worf his share. Iron golems are coming from the south, so I
 - 01:21 say: {"text":"I have no food left, hunger is 10. Does anyone have spare bread or meat? I'll sleep in the white bed now."}
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 01:29 act: {"actions":[{"do":"goto","target":{"x":-273,"y":69,"z":318}},{"do":"mine","block":"oak_leaves","count":10}],"say":"Wesley here, dawn of 252. Hunger 10, no food. I'll shake leaves for apples near the b
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":245}}],"say":"Wesley: no apples from the leaves. Heading to the pigs at -255,239 with the group; I have a wooden sword.","intent":{"goal":"reach_
+- 01:32 say: {"text":"Wesley here at the pig field, -255,245. No pig in sight yet. Troi, Kimberly, which way are they?"}
+- 01:34 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":236}}],"intent":{"goal":"find_pigs_at_field","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":236}},"wake_on":["directly_addressed",
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley: no pigs at the field and no food. Going back to the white bed at -270,67,318 with the group for the night.",
+- 01:43 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed -270,67,318 with the group. No food, Data and Worf first at dawn."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 01:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed with the group for the night. Food at dawn: Worf, Trini, then Data."}
+- 01:48 act: {"actions":[{"do":"goto","target":{"x":-240,"y":66,"z":318}}],"say":"Dawn. I have no food. I'm scouting the east grass for animals now. Anything I find goes to Trini first, then Worf and Data."}
+- 01:49 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"No apples from the leaves east, only saplings. No animals seen out here. Heading back to the white beds to check on Trini and Worf.
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":302}}],"say":"Wesley here. I have no food, but I'll come with Tommy and Jason to look for pigs near -255,67,300. Any meat goes to Trini first, th
