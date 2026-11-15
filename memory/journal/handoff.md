@@ -1,4 +1,10 @@
-# Handoff, day 287 dusk (latest)
+# Handoff, day 290 dusk (latest)
+- At the north white bed at -270,67,318, not enclosed, health 20, hunger 16, no food. Holding 43 dirt, hoe, sword, 2 oak logs, 2 planks.
+- Gave my 3 wheat seeds to Jason (Picard is planting them). No errand running.
+- Sleep not yet tried this dusk. Next: sleep at this bed when night comes, with the group nearby.
+- Any meat goes to Zack and Leonardo first (hunger 10), then Trini.
+
+# Handoff, day 287 dusk
 - At the north white bed at -271,67,318, not enclosed, health 20, hunger 19, no food. Holding 4 wheat seeds, 43 dirt, hoe, sword.
 - Porkchop went to Clark (he ate it). Two tills failed: block above not clear. Need open grass to till for farmland.
 - Not night yet when sleep was tried at dusk; waiting for night to sleep in this bed. days_since_sleep 2.

@@ -5,3 +5,17 @@
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}}],"say":"Wesley: the follow failed at dusk. I'm going to the beds at -273,67,325 with the group for the night, and will hunt at first light.
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
 - Day 289 night: reached white bed at -271,67,318 with the group, slept. Hunger 17 at sleep, no food found yet. Next: hunt with group at first light.
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Wesley, dusk. Going to the white bed with the group to sleep. Hunger 17, no food.","intent":{"goal":"reach_white_bed","program":"tr
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"A spider was near, so I'm moving to the bed and trying again."}
+- 14:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:01 act: {"actions":[{"do":"sleep"}]}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Still at night with mobs about. Trying the bed at -271,67,336 with Kimberly and Laforge."}
+- 14:02 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Trying the other half of this bed."}
+- 14:09 act: {"intent":{"goal":"hunt_with_trini","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":316}}],"say":"Wesley here, hunger 16. Heading west toward Trini to look for animals. Billy, stay with me.","intent":{"goal":"join_trini_west","pr
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}},{"do":"sleep"}],"say":"No animals in the west, and a bow sounds west. Going back to the beds with Trini.","intent":{"goal":"return_to_beds"
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":330}}],"say":"Wesley, day 290, hunger 16. I'll search south-east of the beds, not yet checked. Billy, come with me. Any meat goes to Zack, Leonar
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}],"say":"Nothing to the south-east either. I'm back near Troi and Leonardo. I have 3 wheat seeds to plant with Macdonald's patch.","intent":
+- 14:12 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":3}],"say":"Jason, here are my 3 wheat seeds for the tilled patch. I have no food, hunger 16. I can till too if you need a secon
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"say":"Jason, Kimberly: I gave my wheat seeds to Jason for planting. I have no food. I'll stay near the beds and go with anyone who finds 
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Dusk. Move to the north white bed with the group, then sleep when night comes."}
