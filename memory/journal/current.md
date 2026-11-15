@@ -316,3 +316,11 @@
 - 04:49 act: {"actions":[{"do":"goto","target":{"x":-280,"y":70,"z":312}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Wesley at dawn, day 262. No food on me. I hold 8 oak saplings for whoever plants them.
 - 04:52 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Wesley joining the west search, in sight of the group. No food yet. Any meat goes to Worf, then Trini. I still have 8 saplings for planting.","
 - 04:52 act: {"actions":[],"say":"Troi, you hold the mutton. Worf and Trini are the weakest, please give it to them first. I have no food; I'm with the group in the west.","reasoning":"Mutton should go to Worf or 
+- 04:54 act: {"say":"Beverly here, alive at -284,66,316 with 8 oak saplings and no food. I'll stay in sight of the group on the west search. Any apple or meat goes to Worf, then Trini.","intent":{"goal":"stay_with
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":-299,"y":66,"z":319}}],"say":"Beverly moving west to Data at -299,66,319 to stay with the group. No food yet.","intent":{"goal":"rejoin_west_group","program":"tr
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beverly going to the white bed at -270,67,318 with the group for the night. No food; any meat goes to Worf, then Tri
+- 05:03 act: {"actions":[{"do":"sleep"}]}
+- 05:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beverly: sleep blocked at the south bed, golems 7 blocks west of me. Going back north to the bed at -270,67,318 with
+- 05:12 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf is beside me at the white beds. Chapman, your pork chops should go to Worf here, then Trini. I have no food, only saplings for anyone who p
+- 05:18 act: {"actions":[],"say":"I have no food, only 8 oak saplings. Anyone planting a plot, say so and they are yours. Chapman's porkchop is with Trini now; Worf, stay close to me."}
+- 05:22 act: {"actions":[{"do":"sleep"}]}
