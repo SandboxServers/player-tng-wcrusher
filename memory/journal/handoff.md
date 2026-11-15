@@ -1,4 +1,9 @@
-# Handoff, day 301 night (latest, supersedes below)
+# Handoff, day 303 night (latest, supersedes below)
+- Slept at the north white bed (-280,67,320) on night 303; days_since_sleep is 0 now. Health 5.7, hunger 17 at sleep.
+- Holding 2 raw chicken (eat at hunger 6), 2 rotten flesh, 22 dirt, 2 wheat, planks, hoe. Give spare food to the lowest in sight.
+- No errand running. Next: wait for hunger 6, eat chicken, then find food with the group.
+
+# Handoff, day 301 night (older)
 - At the white beds near -270,67,336. Health about 5, hunger about 17 or lower; check status.
 - Sleep refused 4 times ("the way was blocked") with golems 5 to 9 blocks south. Not retrying while golems are close.
 - Holding 2 raw chicken, 2 rotten flesh, 2 wheat, 22 dirt. Eat only at hunger 6 or below.
