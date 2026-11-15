@@ -537,3 +537,14 @@
 - 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantoms were 5 to 8 blocks away, so sleep was refused. Walk back to the bed and try again."}
 - 13:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley, night 287. No food; Kimberly, I'm sorry, I have none. Trying the north bed again.","reasoning":"No monster l
 - 13:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the first bed. Try the other white bed at -270,67,336, a fresh spot."}
+- 13:31 act: {"actions":[{"do":"goto","target":{"x":-324,"y":64,"z":274}}],"say":"Wcrusher: going west to the ripe wheat at -325,64,274 for food. Will bring it to Lewis and LaForge first.","reasoning":"No food; ri
+- 13:32 act: {"actions":[{"do":"mine","block":"wheat","count":2}],"reasoning":"Arrived at ripe wheat. Break it to get food."}
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":-320,"y":62,"z":259}},{"do":"attack","target":"salmon"}],"reasoning":"Wheat gone; salmon nearby is food. Approach and strike."}
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":-324,"y":64,"z":276}}],"reasoning":"In water and perched; return to solid ground. Salmon approach failed."}
+- 13:32 act: {"actions":[{"do":"till","at":{"x":-325,"y":63,"z":276}},{"do":"place","block":"wheat_seeds","at":{"x":-325,"y":64,"z":276}}],"reasoning":"Food gone from this patch. Plant seeds on tilled grass for fu
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"Wcrusher: no food here. The wheat was gone and the salmon were out of reach. Planted one seed at -325,64,276. Heading back to the b
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night approaching; sleep at the white bed with the group."}
+- 13:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"First sleep blocked by crowd; try the adjacent bed once."}
+- 13:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep alone next to the bed."}
+- 13:46 act: {"actions":[{"do":"sleep"}],"say":"Night 288. No food on me, hunger 17. Trying the bed again."}
+- 13:51 act: {"actions":[],"say":"Bcrusher with Trini: agreed. Searching for animals in sight of each other. Call out any meat."}
