@@ -486,3 +486,5 @@
 - 11:50 act: {"actions":[],"say":"Wesley at dawn, day 283. No food, health and hunger 20. I'll join the pig hunt with the group. Meat goes to LaForge, Trini, then Picard. I still hold one wheat seed for a tilled p
 - 11:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":328}}],"say":"Wesley going to the crafting tables to be near LaForge. No food on me; the chicken goes to LaForge first."}
 - 12:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Wesley at dusk, day 283. No food. Going to the north white bed to sleep; LaForge, Trini, Picard first for any food."
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Body is awake now. Night, bed adjacent. Sleep."}
+- 12:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Woke early when the world moved; bed is adjacent. Try sleeping again."}
