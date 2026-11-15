@@ -267,3 +267,10 @@
 - 03:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
 - 03:10 act: {"say":"Wesley here, back at the beds at -271,67,327. Still no food. Meat goes to Trini, then Data, then Worf.","intent":{"goal":"hold_with_group_for_food","program":"travel","arguments":{"target":{"x
 - 03:14 act: {"say":"Wesley, midday day 257: I hold 3 wheat seeds and a hoe, no food. I'll plant beside Jason or Kimberly if someone points me to clear open ground. Meat still goes to Data and Ezra first, then Tri
+- 03:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:28 act: {"actions":[{"do":"sleep"}]}
+- 03:28 act: {"intent":{"goal":"scout_south_west_for_animals","program":"travel","arguments":{"target":{"x":-284,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 03:28 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl

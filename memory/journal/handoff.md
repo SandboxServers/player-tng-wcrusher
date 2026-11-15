@@ -1,4 +1,9 @@
-# Handoff, day 256 dusk
+# Handoff, night 257
+
+- Position: -274,68,320 near the white beds with Trini, Worf, Tommy, Kimberly, Troi, Laforge. Health 18, hunger 6, no food.
+- Sleep refused: creeper 8 blocks away, then path blocked. Wheat planted by Jason and Tommy at -265,66,323 and -266,66,323.
+- Holding 3 wheat seeds, 8 saplings, hoe, sword.
+- Next: retry sleep at a free white bed when clear. At light search south-west away from golems; meat goes to Trini, then Data, then Ezra, then Worf.
 
 - Position: white bed at -270,67,336 with Jason, Lewis, Zack, Data, Laforge. Health 18, hunger 7, no food. Still no animals found on the grass search of day 256.
 - Sleep refused at dusk 256: creeper and skeleton 8 blocks away. Retry when clear.
