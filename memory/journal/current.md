@@ -467,3 +467,22 @@
 - 11:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk, day 280. No food to hand. Heading to the bed at -270,67,336 to sleep. Trini and Picard first for any food."}
 - 11:04 act: {"actions":[{"do":"sleep"}]}
 - 11:13 act: {"say":"Riker, Data, Jason: Hunger 20, health steady, no food on me. I hold one wheat seed for planting if anyone has a hoe.","reasoning":"No food, no hoe, nothing to give. Share status, keep the seed
+- 11:15 act: {"say":"Wesley, dawn day 281. Health 20, hunger 20, no food, one wheat seed. Food goes to LaForge, then Trini, then Picard, as the others said.","intent":{"goal":"watch_for_food_at_beds","program":"re
+- 11:17 act: {"say":"Wesley: Jason, you're next to me with the hoe. Till a patch by me and I'll plant my one wheat seed on it. I have no food; Trini first when food turns up.","intent":{"goal":"plant_wheat_seed_at
+- 11:19 act: {"say":"Thank you Jason. Wesley here, I'm standing at -270,67,327. Put the tilled patch next to me and say the coordinates; I'll plant my wheat seed there."}
+- 11:21 act: {"say":"Wesley at dusk, day 281. No food. One wheat seed is still with me, to plant on Jason's tilled patch at dawn. Going to the north white bed to sleep with the group.","actions":[{"do":"goto","tar
+- 11:21 act: {"say":"A creeper is 6 blocks off, so sleep was refused. I'm staying with Trini and Lewis near the north white bed and will try again when it's clear.","actions":[{"do":"wait","seconds":60},{"do":"sle
+- 11:22 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night of day 281. No food, health and hunger 20. Trying the bed again with the group."}
+- 11:22 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 11:24 act: {"actions":[{"do":"sleep"}]}
+- 11:26 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 11:30 act: {"say":"Wesley, dawn day 282. Health and hunger 20, no food. Clark, I'll give you my one wheat seed for your patch. Trini and Picard first for any meat I find.","actions":[{"do":"give","to":"ag_clark_
+- 11:34 act: {"say":"Wesley, day 282 midday. Health and hunger 20, no food. I'm keeping my one wheat seed for whoever has tilled ground next. Trini and Picard first for any meat."}
+- 11:43 act: {"actions":[{"do":"sleep"}],"say":"Wesley, dusk day 282. No food, health and hunger 20. Trying to sleep here with Jason and the group."}
+- 11:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Wesley heading to the white bed at -270,67,318 to sleep. No food on me; Picard first for any flesh."}
+- 11:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Wesley: sleep blocked at the south bed. Trying the north white bed at -271,67,318. Picard, Jason's flesh is yours; I
+- 11:44 act: {"actions":[{"do":"wait","seconds":60}],"say":"Wesley at the north beds, waiting for the creeper to move off before I sleep. Trini, you have the flesh; eat if you need it."}
+- 11:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Wesley going to sleep at the north white bed now. No food on me."}
+- 11:50 act: {"actions":[],"say":"Wesley at dawn, day 283. No food, health and hunger 20. I'll join the pig hunt with the group. Meat goes to LaForge, Trini, then Picard. I still hold one wheat seed for a tilled p
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":328}}],"say":"Wesley going to the crafting tables to be near LaForge. No food on me; the chicken goes to LaForge first."}
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Wesley at dusk, day 283. No food. Going to the north white bed to sleep; LaForge, Trini, Picard first for any food."

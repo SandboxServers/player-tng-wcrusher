@@ -1,4 +1,16 @@
-# Handoff, day 277 night (latest)
+# Handoff, day 283 dusk (latest)
+- At the north white beds near -270,67,319, not enclosed, health 20, hunger 20, no food. Holding 2 dirt and 1 wheat seed. days_since_sleep 11.
+- Sleep was blocked at night 282 (creeper, then blocked way) and again at dawn 283. Trying sleep at dusk 283 now.
+- LaForge (health 2) got the raw chicken from Riker/Picard/Lewis. Trini has the rotten flesh for Picard.
+- Next: sleep; at dawn join the pig hunt; any food goes to LaForge, then Trini, then Picard.
+
+# Handoff, day 282 night
+- At -281,70,309, not enclosed, health 20, hunger 20, no food. Holding 2 dirt and 1 wheat seed.
+- Sleep failed: the way was blocked. days_since_sleep 10. Walking to the white bed at -270,67,318 to retry when no creeper is near.
+- Clark going to bed at -271,67,336 (hunger 14, holding 7 wheat seeds). Jason keeps the last rotten flesh for Picard at hunger 6 or below.
+- Next: sleep at the white bed, then give any food to LaForge, then Trini, then Picard.
+
+# Handoff, day 277 night
 - Sleep worked at the yellow bed near -263,67,353 (3 of 6 asleep). Now awake at about -262,67,353, night of day 277. Iron golem 3.6 blocks east; not enclosed.
 - Health 20, hunger 20, holding 2 dirt, no food, no tools, no intent running. days_since_sleep 5 before this sleep.
 - Trini still not found. LaForge holds 2 beef for her; Troi holds beef for her.
