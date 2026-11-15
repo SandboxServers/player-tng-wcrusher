@@ -410,3 +410,7 @@
 - 08:10 act: {"say":"Wesley here. I have no food and no weapon either. I'll search the grass north-west with Trini, staying in sight of the group.","intent":{"goal":"search_animals_northwest","program":"travel","a
 - 08:10 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
 - 08:10 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":328}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 08:16 act: {"say":"Wesley here, no food, health 20. I'll stay near the group and watch the unripe wheat at -273,66,330. Any meat or ripe wheat goes to Trini first.","intent":{"goal":"wait_for_food_news","program
+- 08:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":337}}],"say":"Dusk. I'm heading to the white bed at -271,67,336 for the night. Still no food; first wheat goes to Trini."}
+- 08:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. Going to sleep in the white bed here at -271,67,336."}
+- 08:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trying the bed at -271,67,336 again from its side."}
