@@ -119,3 +119,15 @@
 - 19:50 act: {"actions":[],"say":"Wesley, dawn 307, health 20, hunger 20, no food. Hunting with the group in sight, following LaForge. Any meat goes to Clark and Troi first.","intent":{"goal":"hunt_meat_with_lafor
 - 19:52 act: {"actions":[],"say":"Wesley, dawn 307, health 20, hunger 20, no food. Pigs were seen north-west near -256,67,233 before. Going there with the group in sight; LaForge, please lead.","intent":{"goal":"h
 - 19:54 act: {"actions":[],"say":"Wesley: LaForge is out of sight, so I'm staying with Zack and Trini at the beds. Macdonald, Worf, Lewis: call out pig sightings and I'll come if you are in sight.","intent":{"goal
+- 19:59 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the north white beds, dawn 307. Health 20, hunger 20, no food, no tools. I'll hunt with the group in sight. Meat goes to Clark and Troi first.","reasoning"
+- 20:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley at the north bed, night 307, health 20, hunger 20, no food. Trying to sleep with Trini and Zack in reach.","reason
+- 20:03 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"The use on the first bed half failed. Try the other half of the same bed once. Do not repeat the same try again if 
+- 20:03 act: {"actions":[{"do":"sleep"}],"say":"Phantom to the west, 10 blocks. Staying by Trini and Zack. Clark, the phantoms are on you; stay near the beds.","reasoning":"Use on the bed fails, so try plain sleep
+- 20:04 act: {"actions":[],"say":"Wesley here, at the beds with Macdonald, Data, Picard, Billy. I hold 1 chicken and 2 rotten flesh. Clark, step within arm's reach and say so; you get the chicken first.","reasonin
+- 20:07 act: {"actions":[],"say":"Wesley, morning 307. I hold 1 chicken. Data is in reach at health 9, hunger 15; Troi and Chapman are lower but out of my sight. Whoever of them comes into reach first gets it.","r
+- 20:11 act: {"actions":[{"do":"give","to":"ag_data_01","item":"chicken","count":1}],"say":"Data, you're lowest in reach at health 9. Here is my chicken. Riker is at 0.3 health far off; Kimberly is going to him.",
+- 20:11 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"chicken","count":1}],"say":"Data, I'm walking to you to hand over the chicken.","reasoning":"The give was blocked
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Golems are 14 or more blocks off now. I'm trying the bed at -271,67,336 with the group nearby."}
+- 20:21 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at the beds. Fighting it with the group close."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Night 308, trying to sleep at the bed at -271,67,336. Billy is at the same bed."}
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"Trying the yellow bed at -263,67,353 with Worf, Riker and Kimberly nearby. The golem is about 20 blocks off."}

@@ -1,4 +1,10 @@
-# Handoff, day 307 morning (latest, supersedes below)
+# Handoff, night 308 (latest, supersedes below)
+- At about -257,67,360 on grass, not enclosed, after my goto drifted me south-east from the yellow beds. Riker in reach, no one else in sight. Health 20, hunger 20, no food except 2 rotten flesh (eat at hunger 6 or below).
+- Sleep blocked at the north bed (-271,67,336) and the yellow bed (-263,67,353). Golems were 14 to 20 blocks away at last look.
+- Days since sleep 5. Next: rejoin the group (Worf, Kimberly at the yellow beds) at dawn, retry sleep at a bed when no golem is near. Give any meat to Kimberly first.
+- The last wait was superseded. Check position with look before relying on goto.
+
+# Handoff, day 307 morning (older)
 - At the north white beds near -271,67,318 with Zack, Trini, Billy, Worf nearby. Health 20, hunger 20, empty pack, no food.
 - Sleep refused or blocked on every try through night 306. Days since sleep 4. Retry the bed once golems are gone; step away if a monster is near.
 - LaForge, Macdonald, Worf and Lewis went toward pigs north-west near -256,67,235, but walls blocked the way. Most are back at the beds.
