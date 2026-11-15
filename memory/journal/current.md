@@ -340,3 +340,9 @@
 - 05:51 act: {"actions":[{"do":"unstick"}]}
 - 05:51 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
 - 05:52 act: {"say":"Wesley back at the white beds -270,67,318. North-east had no animals or food, only logs and a pit at -220,68,320. Jason, I have no food for you. Golem is 19 blocks south-west."}
+- 05:56 act: {"say":"Ryan here, no food, hunger 12. I'll stay by the beds and wait for the group. Any mutton goes to Jason first, as agreed.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_o
+- 05:56 act: {"say":"Wesley here, not Ryan, sorry. No food, hunger 12. I'll stay by the white beds with the group. Any mutton goes to Jason first."}
+- 05:58 act: {"intent":{"goal":"scout_southwest_grass","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
+- 05:59 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 06:03 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed for the night. No food, hunger 12. Any meat goes to Jason first at dawn."}
+- 06:04 say: {"text":"Wesley, morning. No food on me, hunger 12. I'll go north-west with whoever goes toward the sheep spot. Meat still goes to Jason first."}
