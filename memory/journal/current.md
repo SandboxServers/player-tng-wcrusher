@@ -453,3 +453,16 @@
 - 10:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
 - 10:11 act: {"intent":{"goal":"join_group_at_wheat","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
 - 10:11 act: {"intent":{"goal":"wait_for_food_news","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operations
+- 10:13 act: {"say":"Leonardo, I still have no food. The wheat here is not ripe yet, so I will wait by it and call out anything I find."}
+- 10:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Wesley going to the yellow bed at -271,67,326 for the night. Still no food. Anything found at dawn goes to the hungr
+- 10:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley at dusk, day 279. Still no food. Any meat goes to Trini, then the hungriest. Going to sleep at the white bed.
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 10:43 act: {"actions":[{"do":"sleep"}]}
+- 10:52 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"wheat","count":1},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":340}}],"say":"I got one wheat seed from the grass. Golem is closing from the east, so I'm moving south to the beds. Seed is for the north-bed pla
+- 10:56 act: {"actions":[{"do":"goto","target":{"x":-277,"y":67,"z":332}}],"say":"Wesley, midday day 280. No food, hunger 20, one wheat seed. Golems are close, so I'm stepping west. Trini and LaForge first for foo
+- 10:56 act: {"actions":[{"do":"note","text":"Wesley at -277,65,332. Holding 1 wheat seed. Lewis has a wooden hoe. Asking for the north-bed planting."}],"say":"Lewis, you have the hoe. I have one wheat seed, and C
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk, day 280. No food to hand. Heading to the bed at -270,67,336 to sleep. Trini and Picard first for any food."}
+- 11:04 act: {"actions":[{"do":"sleep"}]}
