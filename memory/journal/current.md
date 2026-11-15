@@ -282,3 +282,20 @@
 - 03:49 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
 - 03:58 act: {"say":"Wesley here. Still no food; I found none in the north-west grass either. Any meat goes to Trini first, then Jason. Has anyone seen a pig or cow to the south-west?"}
 - 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the north white bed for the night with the group. No food yet; meat goes to Trini first."}
+- 04:06 act: {"say":"Night at the white bed. No food yet. Trying to sleep here; meat goes to Trini first at dawn.","actions":[{"do":"sleep"}]}
+- 04:07 act: {"say":"Wesley at the yellow bed, no food, hunger 5. Creeper was 10 blocks off so sleep was refused. Trying again now.","actions":[{"do":"sleep"}]}
+- 04:08 act: {"say":"Wesley at dawn, day 260. No food, hunger 5. Heading south-west toward the pig Tommy and Riker saw at -336,64,229. Any meat goes to Trini and Data first.","intent":{"goal":"search_sw_for_pig","
+- 04:08 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 04:08 act: {"say":"Wesley here, I died in a lake to the south-west and have nothing now. I'm back at the white beds with Picard, Tommy and Zack. Anyone with spare food, I'm hungry; I'll share what I can find.","
+- 04:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 04:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 04:09 act: {"actions":[{"do":"unstick"}]}
+- 04:09 act: {"actions":[{"do":"goto","target":{"x":-316,"y":63,"z":256}}]}
+- 04:09 act: {"actions":[{"do":"goto","target":{"x":-312,"y":65,"z":257}}]}
+- 04:10 act: {"actions":[{"do":"goto","target":{"x":-302,"y":64,"z":262}}],"say":"A zombie is coming from the west. I have no sword, so I am moving away east.","reasoning":"Out of the water onto grass, but a zombi
+- 04:10 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"I am hurt and have no sword. Picard, I am coming to you.","reasoning":"Still being shot at with health 9. The group is east; Picard is 20 bloc
+- 04:10 act: {"actions":[],"say":"Wesley here. I have no food and no sword; I lost them in the lake at -319,62,247. Oak leaves give only saplings and sticks for me. Picard, I'll stay near you and watch for any mea
+- 04:12 act: {"intent":{"goal":"follow_picard_to_beds","program":"follow","arguments":{"target":"ag_picard_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Follow failed because Picard is out of sight. Go to the white bed area where the group gathers."}
+- 04:12 act: {"actions":[{"do":"note","text":"At beds -271,67,318 with Picard, Lewis, Kimberly, Jason, Zack. Health 9, no food, no sword."}],"say":"I'm back at the beds with you all. I have no food and no sword; I
+- 04:16 act: {"actions":[{"do":"note","text":"Picard offers his worn wooden sword; waiting for it to arrive. Trini gets meat first; Data has bread from ripe wheat."}],"say":"Thank you, Picard. Yes, please hand me 

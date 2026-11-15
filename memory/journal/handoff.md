@@ -1,4 +1,12 @@
-# Handoff, night of day 259
+# Handoff, day 260
+
+- Position: white beds at -271,67,318 with Picard, Lewis, Kimberly, Jason, Zack. Health 9, hunger 17, no food.
+- Lost sword, hoe, sticks and logs in the lake at -319,62,247. Not retrieved; zombies and arrows there.
+- Picard offered his worn wooden sword; I accepted, but it has not arrived. Check the pack.
+- Holding 8 oak saplings and 1 dirt.
+- Next: wait at the beds. Any meat goes to Trini first. Sleep at a free white bed at dusk when no monster is within 10 blocks.
+
+# Night of day 259
 
 - Position: south white bed area, -270,67,336, with Kimberly, Tommy and Worf. Health 16, hunger 5, no food.
 - Sleep failed: "the way was blocked", with an iron golem about 8 blocks west. Not retried.
