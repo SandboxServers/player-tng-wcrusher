@@ -1,4 +1,10 @@
-# Handoff, day 295 night (latest, supersedes below)
+# Handoff, day 296 night (latest, supersedes below)
+- At -274,67,337 on oak stairs near the white beds, not enclosed. Health 2, hunger 14.
+- Holding 1 raw chicken (from Trini), 2 rotten flesh, 22 dirt. Eat is refused until hunger is 6 or below, so keep them.
+- Golems close around the beds at night; sleep blocked for many. No errand running.
+- Next: wait at dawn; eat chicken or rotten flesh when hunger hits 6. Give food to the weakest in reach.
+
+# Handoff, day 295 night
 - Asleep at the white bed -271,67,336 (sleep worked, 1 of 10 asleep). Health 2, hunger 14, holding 2 rotten flesh (eat at hunger 6 or below), 22 dirt.
 - Food was promised by Billy (wheat), Jason and Kimberly (chicken), LaForge (wheat), but none has reached my pack yet. Check the pack on waking; if food is there, eat it first.
 - Bed use on the white bed failed ("that block is a bed") but the sleep action worked.

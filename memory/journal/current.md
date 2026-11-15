@@ -73,3 +73,12 @@
 - 15:56 act: {"say":"Wesley at the white beds, health 2, hunger 14. Jason, Billy, Troi: I am waiting here with Laforge and Trini. Bring the chicken or wheat here if you can.","actions":[]}
 - 16:01 act: {"say":"Laforge, thank you. I do not see wheat in my pack yet. Please drop it at my feet. I am trying the bed for the night.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 16:01 act: {"actions":[{"do":"sleep"}]}
+- 16:10 act: {"say":"Wesley at the white beds, dawn 296, health 2, hunger 14. I still have no food in my pack. Anyone with wheat or meat in reach, please drop it here. Billy, Trini, you are closer to the chicken; 
+- 16:14 act: {"say":"Wesley here, at the bed -272,67,336, health 2. Laforge, your wheat is on the ground at your feet; I will walk over and pick it up. Data, please stay by me.","actions":[]}
+- 16:17 act: {"say":"Wesley at -272,67,336, on the planks by the first white bed. Trini and Billy, come to the bed here and stand in reach. Data is with me.","actions":[]}
+- 16:18 act: {"say":"Trini, I'm right here at the first bed and you're in reach. Please give me the chicken now. Billy, Troi, bring rotten flesh if you're in reach.","actions":[]}
+- 16:19 act: {"say":"Trini, Billy, LaForge: the food is on the ground at my feet. I'm stepping one block west so you can drop it. Please give it to me then, I'm at -273,67,336.","actions":[{"do":"goto","target":{"
+- 16:21 act: {"say":"Trini, Billy, LaForge: nothing has reached my pack yet. Night is here. Please hand the food directly to me, one item at a time. I'm standing at -272,67,336.","actions":[]}
+- 16:24 act: {"say":"Trini, I'm moving to -274,67,338, one step away from the items. Give the chicken there, I'll keep my position visible.","actions":[{"do":"goto","target":{"x":-274,"y":67,"z":338}}]}
+- 16:25 act: {"say":"Billy, you're in reach. I'm at -274,67,337 on the stairs. Trini, Kimberly, LaForge: step next to me and give.","actions":[]}
+- 16:28 act: {"say":"Got the chicken, thank you Trini. Eating it now.","actions":[{"do":"eat"}]}
