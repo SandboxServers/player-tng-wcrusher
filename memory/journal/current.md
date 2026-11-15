@@ -183,3 +183,11 @@
 - 00:26 act: {"actions":[{"do":"sleep"}]}
 - 00:26 act: {"actions":[],"intent":{"goal":"wait_with_group_for_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_bl
 - 00:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":336}}],"say":"Geldar at dawn, day 249. Searching east of the beds for animals in short steps. Food goes to Trini first."}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":328}}],"say":"Golems are two blocks away at my back; moving north-east, away from them, to look for animals."}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-244,"y":66,"z":326}}]}
+- 00:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Checking the oak leaves here for apples. Any apple goes to Trini first."}
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":334}}]}
+- 00:36 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":330}}],"say":"Geldar at midday, day 249. No food found east or at the leaves. Back at the beds near the group. Trini first for any food."}
+- 00:37 act: {"say":"No food found yet. I am back near the beds with Picard. I will keep watching for animals on the grass.","actions":[{"do":"goto","target":"ag_picard_01"}]}
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Going to the white beds at dusk with the group. No food on me."}
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
