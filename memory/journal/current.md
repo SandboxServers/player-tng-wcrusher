@@ -204,3 +204,8 @@
 - 00:52 act: {"say":"Trini, Data: I have no food. My hunger is 12. The wheat at -253,66,334 is still unripe. I'll watch it and give any food I find.","intent":{"goal":"hold_near_camp_for_food","program":"rest","ar
 - 00:54 act: {"actions":[{"do":"sleep"}],"say":"No food on me, hunger 12. Trini, Riker: any food at first light goes to you two first, then Data."}
 - 01:02 act: {"actions":[{"do":"sleep"}]}
+- 01:04 act: {"say":"Geldar here. I have no food, hunger 12. Any food goes to Trini first, then Data. Jason, is that porkchop for Trini?","intent":{"goal":"reach_white_bed_sleep","program":"travel","arguments":{"t
+- 01:04 act: {"actions":[{"do":"sleep"}]}
+- 01:06 act: {"actions":[{"do":"sleep"}]}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 01:08 act: {"say":"Wesley, dawn of day 250. Sleep was refused by skeletons and bows all night, so I'm still awake. No food on me, hunger 11. Picard, I'll scout the east grass for animals in daylight and share an

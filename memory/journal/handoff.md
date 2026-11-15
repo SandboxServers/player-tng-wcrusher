@@ -1,4 +1,6 @@
-# Handoff, day 250 night
+# Handoff, day 250 dawn
+
+- Now (session ended mid-errand): at -240,69,344 in the open, dawn, health 18, hunger 11, no food. Sleep failed all night (skeletons, bows, bed path blocked). Porkchops went to Trini via Jason. Intent in progress: scout east grass toward -232,66,314 for animals. Next: food to Trini then Data; try the yellow bed at -263,67,354 at night.
 
 - Latest (waking 16): standing at the white beds near -270,67,327 with Trini, Riker, Worf, Zack. Sleep was refused by a creeper 9 blocks away; the session then ended. No errand is running. Next: try a bed again when monsters clear; at light give any food to Trini, then Data.
 
