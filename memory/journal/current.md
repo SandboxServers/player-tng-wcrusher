@@ -19,3 +19,19 @@
 - 14:12 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":3}],"say":"Jason, here are my 3 wheat seeds for the tilled patch. I have no food, hunger 16. I can till too if you need a secon
 - 14:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"say":"Jason, Kimberly: I gave my wheat seeds to Jason for planting. I have no food. I'll stay near the beds and go with anyone who finds 
 - 14:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Dusk. Move to the north white bed with the group, then sleep when night comes."}
+- 14:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, hunger 16, no food on me. Sleep failed as blocked; I'll try once more in the bed I stand at, with the group near.","say":"Wesley here, still no food, hu
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Hurt by something unseen, perched on a drop, night. Get back to the beds near Lewis and Troi.","say":"Something hit me. Headi
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Still hurt and falling, night, graves nearby show danger. Get into the bed now and try sleep."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health steady at 18, no one in sight, iron golems nearby but friendly. Reach the bed at -271,67,318 and sleep.
+- 14:24 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"reasoning":"I'm at the bed with the group. Sleep is blocked for now; I'll try the bed once more, then wait for dawn among the group."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Dawn is here. Food first. Head back toward the group at the beds, then search for animals with them.","say":"Morning. Wesley,
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Something unseen hit me from behind, health 16. Move away from the spot, toward the southern beds, and stay with Data.","say"
+- 14:25 act: {"actions":[],"say":"Wesley here, hunger 16, no food. Troi, keep Leonardo's chicken for him, he is lowest. Once it is light, anyone who finds meat, I will go with you."}
+- 14:29 act: {"intent":{"goal":"hunt_pigs_east_with_lewis","program":"follow","arguments":{"target":"ag_lewis_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 14:29 act: {"say":"Wesley, dawn 291, no food, health 16, hunger 16. The follow to Lewis failed and he is out of sight. I will stay with the group here until the east pig hunt leaves. Meat goes to Zack and Leonar
+- 14:31 act: {"intent":{"goal":"follow_zack_on_pig_hunt","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"say":"Wesley heading east to the pig hunt at -222,68,351 with the group. No food, hunger 15. Meat goes to Zack and Leonardo first."}
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Wesley heading west with the group to the white beds at -270,67,336 for the night. No pigs found. Still no food."}
+- 14:42 act: {"actions":[{"do":"sleep"}]}
+- 14:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep was blocked at the first bed. Trying the north bed at -270,67,318 now."}
+- 14:51 act: {"say":"Wesley here, hunger 15, no food. I'll stay by the beds. Call out any pig or cow you see."}
