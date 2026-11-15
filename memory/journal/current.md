@@ -35,3 +35,5 @@
 - 14:42 act: {"actions":[{"do":"sleep"}]}
 - 14:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep was blocked at the first bed. Trying the north bed at -270,67,318 now."}
 - 14:51 act: {"say":"Wesley here, hunger 15, no food. I'll stay by the beds. Call out any pig or cow you see."}
+- 14:59 act: {"actions":[{"do":"note","text":"Day 292 at the north beds. No food on me; hunger 15, health 16. Staying by the group and calling out any meat I see."}],"say":"Wesley here at the north beds, no food, 
+- 15:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Dusk. Going to the bed with the group. No food yet, call out any meat at dawn."}
