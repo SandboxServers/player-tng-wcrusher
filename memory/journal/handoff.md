@@ -1,8 +1,8 @@
-# Handoff, day 283 dusk (latest)
-- At the north white beds near -270,67,319, not enclosed, health 20, hunger 20, no food. Holding 2 dirt and 1 wheat seed. days_since_sleep 11.
-- Sleep was blocked at night 282 (creeper, then blocked way) and again at dawn 283. Trying sleep at dusk 283 now.
-- LaForge (health 2) got the raw chicken from Riker/Picard/Lewis. Trini has the rotten flesh for Picard.
-- Next: sleep; at dawn join the pig hunt; any food goes to LaForge, then Trini, then Picard.
+# Handoff, day 287 dusk (latest)
+- At the north white bed at -271,67,318, not enclosed, health 20, hunger 19, no food. Holding 4 wheat seeds, 43 dirt, hoe, sword.
+- Porkchop went to Clark (he ate it). Two tills failed: block above not clear. Need open grass to till for farmland.
+- Not night yet when sleep was tried at dusk; waiting for night to sleep in this bed. days_since_sleep 2.
+- Next: sleep at night; at dawn till open grass and plant seeds; any food goes to Lewis, then Troi, then LaForge.
 
 # Handoff, day 282 night
 - At -281,70,309, not enclosed, health 20, hunger 20, no food. Holding 2 dirt and 1 wheat seed.

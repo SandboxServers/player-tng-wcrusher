@@ -501,3 +501,39 @@
 - 12:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 12:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed to try sleep again. Ripe wheat is at -273,66,332 for Picard, then Trini."}
 - 12:28 say: {"text":"Dawn. I have no food; hunger 20. Picard and Trini first when wheat ripens. I'll stay near the beds and help search for animals with anyone who goes."}
+- 12:30 act: {"say":"I have no food, but my hunger is full. I'll scout the north side for animals and bring anything I find to Picard and Trini.","intent":{"goal":"scout_for_animals","program":"travel","arguments"
+- 12:30 act: {"say":"Wesley here, full on food and with none to spare. Scouting north-west past the pond for animals; anything found goes to Picard and Trini first.","intent":{"goal":"scout_northwest_for_animals",
+- 12:30 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-335,"y":66,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 12:32 act: {"say":"Salmon here in the water! Taking one for Picard and Trini.","actions":[{"do":"attack","target":"salmon"}]}
+- 12:33 act: {"say":"Wesley: I'm in the lake. Getting to the shore by the ripe wheat first.","actions":[{"do":"goto","target":{"x":-325,"y":64,"z":272}}]}
+- 12:33 act: {"actions":[{"do":"unstick"}]}
+- 12:33 act: {"actions":[{"do":"goto","target":{"x":-325,"y":64,"z":273}}],"say":"I'm in the lake at -331,59,266, getting out to shore. Salmon here, and ripe wheat at -325,64,274.","intent":{"goal":"reach_shore_wh
+- 12:34 act: {"actions":[{"do":"goto","target":{"x":-328,"y":62,"z":268}},{"do":"goto","target":{"x":-325,"y":64,"z":272}}]}
+- 12:35 act: {"say":"I'm on the grass at -325,64,271, out of the lake. Ripe wheat at -325,64,274 and -324,64,274. Salmon in the lake to the west. Picard and Trini first.","intent":{"goal":"find_food_salmon","progr
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":-325,"y":64,"z":273}},{"do":"use","at":{"x":-325,"y":64,"z":274}}]}
+- 12:35 act: {"actions":[{"do":"mine","block":"wheat","count":2}]}
+- 12:35 act: {"actions":[{"do":"mine","block":"wheat","count":1},{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}]}
+- 12:35 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}]}
+- 12:38 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"I have 2 wheat from the ripe patch here at -325,64,274. Bread needs 3 wheat. I have a crafting table and 4 wheat seeds. If you have wheat or
+- 12:42 act: {"actions":[{"do":"mine","block":"dirt","count":15}],"intent":{"goal":"dig_dirt_for_shelter","program":"gather","arguments":{"block":"dirt","count":25},"wake_on":["goal_completed","unexpected_damage",
+- 12:44 act: {"intent":{"goal":"build_dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],
+- 12:48 act: {"actions":[{"do":"goto","target":{"x":-325,"y":64,"z":274}},{"do":"mine","block":"wheat","count":2}],"intent":{"goal":"harvest_ripe_wheat","program":"gather","arguments":{"block":"wheat","count":2},"
+- 12:51 act: {"intent":{"goal":"travel_to_group_with_wheat","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_da
+- 12:52 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are my 2 wheat. Picard or LaForge, if you are lower, say so and I'll give
+- 12:52 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, I have 2 wheat in hand for you, handing it over now."}
+- 12:55 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_hoe","count":1}],"say":"I have no food, only 4 wheat seeds. I'
+- 12:55 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-273,"y":67,"z":319}},{"do":"till","at":{"x":-273,"y":67,"z":319}}],"reasoning":"I have the hoe. Place a dirt block beside me and till it to farmland
+- 12:59 act: {"actions":[],"say":"I have a porkchop now. Lewis is at health 5, so he gets it. Lewis, come within arm's reach and I'll hand it over. Clark, thanks for the seeds offer; I already have 4 and will plan
+- 13:06 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"porkchop","count":1}],"say":"Leonardo, here is my porkchop. You're at health 9.8, the lowest in reach. Eat it now.","reasoning":"Leonardo is in r
+- 13:06 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"porkchop","count":1}],"say":"Leonardo, I'm holding a porkchop for you. Come close and eat it.","reasoning":"The last give failed because items we
+- 13:06 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"porkchop","count":1}],"say":"Clark, you're at health 8 and in reach. Here is my porkchop. Eat it.","reasoning":"Leonardo is fed. Clark is in reach a
+- 13:06 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"porkchop","count":1}],"say":"LaForge, you're in reach. Here is my porkchop. Clark was out of sight, so you get it.","reasoning":"Clark is out of s
+- 13:10 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"porkchop","count":1}],"say":"Clark, I'm bringing the porkchop to you now. You asked for it, hunger 11.","intent
+- 13:11 act: {"actions":[{"do":"goto","target":{"x":-277,"y":64,"z":324}},{"do":"give","to":"ag_clark_01","item":"porkchop","count":1}],"say":"Clark, the porkchop is in my hand. I'm stepping back to give it to you
+- 13:16 act: {"actions":[{"do":"till","at":{"x":-276,"y":64,"z":324}}]}
+- 13:16 act: {"actions":[{"do":"till","at":{"x":-278,"y":64,"z":321}}]}
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Wcrusher, dusk day 287, no food, health 20. Going to the white bed at -271,67,318 to sleep."}
+- 13:24 act: {"actions":[{"do":"sleep"}],"say":"Night 287. Going to sleep in the north bed. No food; food goes to Lewis first when I wake.","reasoning":"It is night now, so the bed should accept sleep. Handoff is 
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantoms were 5 to 8 blocks away, so sleep was refused. Walk back to the bed and try again."}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley, night 287. No food; Kimberly, I'm sorry, I have none. Trying the north bed again.","reasoning":"No monster l
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the first bed. Try the other white bed at -270,67,336, a fresh spot."}
