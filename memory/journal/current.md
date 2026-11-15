@@ -348,3 +348,11 @@
 - 06:03 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed for the night. No food, hunger 12. Any meat goes to Jason first at dawn."}
 - 06:04 say: {"text":"Wesley, morning. No food on me, hunger 12. I'll go north-west with whoever goes toward the sheep spot. Meat still goes to Jason first."}
 - 06:05 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 06:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly, I have no food and hunger is 12. Do you have any?","reasoning":"Night and a bed is adjacent; retry sleep a
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Worf, I am starving. Could I have that rotten flesh? Billy, Lewis, do you have any food?","reasoning":"Sleep blocked
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":340}}],"say":"Geldar scouting the grass south-west of the beds for sheep or cows. Any meat goes to Jason first.","reasoning":"Dawn; group starvin
+- 06:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":332}}],"say":"Geldar scouting north-east toward -262,67,332 for animals. Meat goes to Jason first.","reasoning":"Group is covering other directio
+- 06:11 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":325}}],"reasoning":"North-east grass near -262,332 has no animals; push further east along the same side."}
+- 06:11 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":305}}],"reasoning":"Still no animals in the east; check north along the trees, staying within reach of the group."}
+- 06:11 act: {"actions":[],"say":"Geldar at -250,68,305, north-east scouting done: trees, signs, no animals or food. Hunger 11. Will hold here and listen for sheep or cow reports."}
+- 06:13 act: {"actions":[],"say":"Geldar at -250,68,305, health 9, hunger 11. Worf, Chapman and LaForge are weaker than I am, so they take the flesh first. I have no food; no animals north-east."}
