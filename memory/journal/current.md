@@ -254,3 +254,7 @@
 - 02:28 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}]}
 - 02:29 act: {"say":"Wesley at dawn, day 255. No food in my pack. I'll scout the east grass for animals and bring any meat to Trini first.","intent":{"goal":"scout_east_grass_for_animals","program":"travel","argum
 - 02:33 act: {"say":"Wesley at -232,66,314, no animals here. Heading to the group at the north-east yellow bed to search with them. Any meat goes to Trini, then Worf, then Data.","intent":{"goal":"rejoin_group_at_
+- 02:42 act: {"say":"Wesley at night, day 255, at the yellow bed with the group. No food. Meat goes to Trini first at dawn.","actions":[{"do":"sleep"}]}
+- 02:45 act: {"say":"Wesley at the white bed with the group, night 255. No food. Trying to sleep again.","actions":[{"do":"sleep"}]}
+- 02:47 act: {"say":"Wesley trying the bed again, night 255. No monsters close in my sight.","actions":[{"do":"sleep"}]}
+- 02:51 act: {"say":"Wesley at dawn of day 256. No food, hunger 7, health 18. I'll look for animals in sight of the group and check the wheat at -267,66,335. Trini gets any meat first.","actions":[]}
