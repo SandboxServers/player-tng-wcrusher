@@ -1,4 +1,9 @@
-# Handoff, day 255 midday
+# Handoff, day 256 dusk
+
+- Position: white bed at -270,67,336 with Jason, Lewis, Zack, Data, Laforge. Health 18, hunger 7, no food. Still no animals found on the grass search of day 256.
+- Sleep refused at dusk 256: creeper and skeleton 8 blocks away. Retry when clear.
+- Holding 3 wheat seeds, 8 saplings, hoe, sword. Wheat at -267,66,335 unripe.
+- Next: retry sleep at the bed; give any meat to Trini, then Data, then Worf.
 
 - Position: -240,69,344 at the north-east yellow bed, with Trini and Billy. Health 18, hunger 7, no food. East grass scouted at -232,314: no animals.
 - Holding 3 wheat seeds, 8 saplings, hoe, sword. Wheat planted at -263,66,321 is growing.

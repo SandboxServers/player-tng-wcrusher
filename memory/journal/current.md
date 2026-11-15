@@ -258,3 +258,8 @@
 - 02:45 act: {"say":"Wesley at the white bed with the group, night 255. No food. Trying to sleep again.","actions":[{"do":"sleep"}]}
 - 02:47 act: {"say":"Wesley trying the bed again, night 255. No monsters close in my sight.","actions":[{"do":"sleep"}]}
 - 02:51 act: {"say":"Wesley at dawn of day 256. No food, hunger 7, health 18. I'll look for animals in sight of the group and check the wheat at -267,66,335. Trini gets any meat first.","actions":[]}
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:02 act: {"actions":[{"do":"sleep"}]}
+- 03:05 act: {"actions":[{"do":"sleep"}]}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:05 act: {"say":"Wesley: I have no food either, hunger 7. Ezra, if you still hold beef, give it to Data or Trini first, they are weakest.","actions":[]}
