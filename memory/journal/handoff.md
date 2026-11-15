@@ -1,7 +1,8 @@
-# Handoff, day 241 night
+# Handoff, day 247 night
 
-- Position: at the white beds near -271,67,319 with the group (Data, Zack, Riker, Trini, Jason and others). Health 20, hunger 14, no food in hand.
-- Sleep at the white bed failed: "monsters nearby". Waiting with the group.
-- Food: none. Salmon in the lake at -313,58,247 and -320,61,254 are in deep water and cannot be reached on foot. Trini gets any food first, then Riker.
-- Holding 1 oak log, 4 saplings, 15 dirt, 4 wheat seeds, wooden hoe, wooden sword.
-- Next: at dawn, look for animals on the grass, then sleep at a bed when monsters clear.
+- Position: white beds at -270,67,318 with the group. Health 20, hunger 13, no food.
+- Sleep was refused at night 246 (phantom 4 blocks away) and at dusk 247 (not night yet). Trying again now.
+- Food: none. Riker, LaForge, Tommy and Troi went toward the west lake for salmon by oak boat; no result yet.
+- Trini (health 3, holding a chicken at hunger 11) eats first, then Data (health 3).
+- Holding 1 oak log, 4 saplings, 19 dirt, 4 wheat seeds, torch, wooden hoe, wooden sword.
+- Next: at dawn, look for animals on the grass in sight of the group; share food with Trini then Data.

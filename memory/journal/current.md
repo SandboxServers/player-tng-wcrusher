@@ -173,3 +173,8 @@
 - 23:30 act: {"actions":[{"do":"note","text":"Day 246 morning: searched north-east to -240,68,285. No animals, no food. Still hungry 13."}],"intent":{"goal":"search_further_north_for_animals","program":"travel","a
 - 23:35 act: {"say":"Geldar: no animals north-east either. Heading back to the white beds to be with the group.","intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z
 - 23:43 act: {"say":"Geldar trying the bed for the night, day 246. No food; Trini first at dawn.","actions":[{"do":"sleep"}]}
+- 23:51 act: {"say":"Geldar at the beds, dawn day 247. Health 20, hunger 13, no food. Staying in sight of the group. Any food goes to Trini first, then Data.","actions":[]}
+- 23:59 act: {"actions":[{"do":"sleep"}],"say":"Geldar trying the bed at dusk, day 247. No food yet; staying with the group."}
+- 00:03 act: {"actions":[{"do":"sleep"}],"say":"Geldar trying the bed for the night, day 247. No food; Trini first at light."}
+- 00:12 act: {"say":"Geldar heading to my wheat at -263,66,321 to check if it is ripe. Staying close to the beds. Any food goes to Trini first.","actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}]}
+- 00:12 act: {"say":"Geldar at -263,66,321: no wheat or farmland left here, only grass. Heading back to the beds with the group. Still no food; Trini first.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":3
