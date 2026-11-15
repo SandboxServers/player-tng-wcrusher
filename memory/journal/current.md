@@ -60,3 +60,10 @@
 - 15:29 act: {"say":"Bcrusher, health 2, hunger 14, no food. Lewis, if you can spare the wheat, I'm in reach at the north beds. Otherwise any meat, call it out.","intent":{"goal":"hold_at_north_beds_for_food","pro
 - 15:30 act: {"say":"Going to the south farm with the group to look at the wheat. Health 2, so I need food.","intent":{"goal":"reach_south_farm_with_group","program":"travel","arguments":{"target":{"x":-273,"y":66
 - 15:30 act: {"say":"A golem is closing from the north-west, 12 blocks. Staying close to Data, Billy, LaForge and Macdonald. Still no food, health 2.","intent":{"goal":"stay_with_group_out_of_golem_path","program"
+- 15:34 act: {"say":"Wesley at the south farm, health 2, hunger 14, no food. Thank you all. Whoever finds meat or wheat, I'm in reach here; I'll stay with Data and the group.","actions":[{"do":"goto","target":{"x"
+- 15:37 act: {"say":"Data, please hand me the chicken; I'm in reach and at health 2. Thank you, Troi and Zack.","actions":[]}
+- 15:40 act: {"say":"LaForge, I'm in reach at health 2. Please hand me the chicken now. Phantom 8 blocks east, dusk; I'll stay close to you.","actions":[]}
+- 15:41 act: {"say":"Thank you. I have 2 rotten flesh from the drop; eating now.","actions":[{"do":"eat"}],"reasoning":"Rotten flesh in pack. Eat to raise hunger. Golems are around but not attacking."}
+- 15:41 act: {"say":"Wesley: rotten flesh only eats at hunger 6 or below, so I'm keeping it. Staying with Data and Chapman through the night.","actions":[],"intent":{"goal":"hold_with_group_at_night","program":"re
+- 15:43 act: {"say":"Phantom attacking near the bed. I'm next to Zack and Macdonald, health 2. Zack, if it comes low, strike it.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Health 2 
+- 15:47 act: {"say":"Thank you Billy and Trini. I'll pick up the wheat from the ground and make bread at the crafting table if there's enough.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}}],"reasoni
