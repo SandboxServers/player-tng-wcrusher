@@ -1,4 +1,11 @@
-# Handoff, day 271 dusk (latest)
+# Handoff, day 272 midday (latest)
+- At -276,65,328 on the west grass near the beds, with Lewis, Chapman, Laforge nearby. Health 20, hunger 20, empty-handed, no weapon.
+- Sleep was refused overnight (phantom 3 blocks away). Days since sleep: 1. No bed slept in since day 267.
+- Searched west and north-west for animals: none. Bow drawn to the north-west. Laforge is scouting the sheep field to the north.
+- Trini is weakest (health 8, hunger 8), Troi searching east. Any meat goes to Trini first, then Troi.
+- Next: rejoin the group, wait for food news, stay out of the lone travel, sleep in a free bed at night when no monster is within range.
+
+# Handoff, day 271 dusk
 - Travelling to the white beds near -271,67,318 with the group. Empty-handed, health 20, hunger 20.
 - Tommy is climbing out of the shaft near -311,65,322. Bread is with Bcrusher at the table near -274,66,326; Trini gets the loaf first, then Troi (health 6).
 - Last sleep was day 267. Sleep in a free bed when no golem or creeper is within 10 blocks. Find food at dawn.

@@ -406,3 +406,7 @@
 - 07:51 act: {"say":"Wesley: a creeper exploded beside me far west at -375,64,320. I died and woke at the yellow bed with nothing. I'm back at -300,65,322 with Worf. No food; I'll hold here with the group and stay
 - 07:59 act: {"intent":{"goal":"hold_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
 - 08:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_at_dusk","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addres
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed_away_from_golems","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["direct
+- 08:10 act: {"say":"Wesley here. I have no food and no weapon either. I'll search the grass north-west with Trini, staying in sight of the group.","intent":{"goal":"search_animals_northwest","program":"travel","a
+- 08:10 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 08:10 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":328}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
