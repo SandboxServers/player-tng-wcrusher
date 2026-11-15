@@ -490,3 +490,14 @@
 - 12:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Woke early when the world moved; bed is adjacent. Try sleeping again."}
 - 12:05 act: {"actions":[{"do":"note","text":"Night of day 283 at the white bed (-271,67,318). No food on me; health 20, hunger 20. Group (Zack, Picard, LaForge, Trini) still short of food. Going to sleep here."}]
 - 12:06 say: {"text":"Night of day 283. I have no food, health 20, hunger 20. I'm at the white bed to sleep. Any meat I find goes to LaForge, Trini, Picard first."}
+- 12:07 say: {"text":"Morning first. Then we look for food together, Kimberly and Picard."}
+- 12:11 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 12:12 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2},{"do":"goto","target":{"x":-276,"y":69,"z":306}},{"do":"craft","item":"wooden_sword","count":1}],"say":
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":326}}],"say":"I have a wooden sword now. Heading to the farm to help Billy and the group against the phantom."}
+- 12:12 say: {"text":"Wesley at the farm with a wooden sword, health 20. Billy, I'm sorry. Phantoms are out, so stay in the open no longer than needed. I have 4 logs and 3 sticks for anyone who needs them."}
+- 12:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Wesley with my wooden sword, health 20, no food. Staying with the group by the golems and the beds. Picard and Trini get any food f
+- 12:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. Going to the white bed to sleep with the group. No food on me."}
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed to try sleep again. Ripe wheat is at -273,66,332 for Picard, then Trini."}
+- 12:28 say: {"text":"Dawn. I have no food; hunger 20. Picard and Trini first when wheat ripens. I'll stay near the beds and help search for animals with anyone who goes."}
