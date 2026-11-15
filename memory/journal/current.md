@@ -67,3 +67,9 @@
 - 15:41 act: {"say":"Wesley: rotten flesh only eats at hunger 6 or below, so I'm keeping it. Staying with Data and Chapman through the night.","actions":[],"intent":{"goal":"hold_with_group_at_night","program":"re
 - 15:43 act: {"say":"Phantom attacking near the bed. I'm next to Zack and Macdonald, health 2. Zack, if it comes low, strike it.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Health 2 
 - 15:47 act: {"say":"Thank you Billy and Trini. I'll pick up the wheat from the ground and make bread at the crafting table if there's enough.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}}],"reasoni
+- 15:48 act: {"say":"Wesley here, health 2, hunger 14. Trini, I am in reach at the beds. Please hand over the wheat. I will eat it.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}}],"intent":{"goal":"h
+- 15:49 act: {"say":"Billy, I am at the beds in reach, health 2. Please give me the wheat now. Trini, thank you.","actions":[]}
+- 15:52 act: {"say":"Jason, Wesley at the white beds, health 2, hunger 14. Please bring the chicken here to the white beds, I cannot walk south past the golems.","actions":[]}
+- 15:56 act: {"say":"Wesley at the white beds, health 2, hunger 14. Jason, Billy, Troi: I am waiting here with Laforge and Trini. Bring the chicken or wheat here if you can.","actions":[]}
+- 16:01 act: {"say":"Laforge, thank you. I do not see wheat in my pack yet. Please drop it at my feet. I am trying the bed for the night.","actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:01 act: {"actions":[{"do":"sleep"}]}

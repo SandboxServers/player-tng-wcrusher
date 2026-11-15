@@ -1,4 +1,16 @@
-# Handoff, day 293 midday (latest)
+# Handoff, day 295 night (latest, supersedes below)
+- Asleep at the white bed -271,67,336 (sleep worked, 1 of 10 asleep). Health 2, hunger 14, holding 2 rotten flesh (eat at hunger 6 or below), 22 dirt.
+- Food was promised by Billy (wheat), Jason and Kimberly (chicken), LaForge (wheat), but none has reached my pack yet. Check the pack on waking; if food is there, eat it first.
+- Bed use on the white bed failed ("that block is a bed") but the sleep action worked.
+- Next: on waking, look, eat any food, stay with the group.
+
+# Handoff, day 294 night
+- At the white beds near -270,67,336 with the group (Zack, Billy, Macdonald, Chapman, LaForge, Kimberly, Trini, Leonardo, Troi, Data). Health 2, hunger 14, no food. Holding 2 rotten flesh (eat only at hunger 6 or below) and 22 dirt.
+- Wheat on the ground near -272,67,335 not yet picked up. Tool errors occurred (session_superseded, POST errors); nothing half-done.
+- Sleep not tried. Sleep is refused when a monster is within about 10 blocks.
+- Next: look first, pick up the wheat if in reach, give food to the weakest, stay with the group, sleep only when safe.
+
+# Handoff, day 293 midday
 - At -290,66,328 on the grass west of the north beds. Health 14, hunger 14, no food. Holding 23 dirt, hoe, sword, 2 oak logs, 2 planks, torch.
 - Iron golems sit around the beds 17 to 23 blocks south-east. Stay west and clear of them.
 - Chicken is held by Jason for Riker (health 3) and LaForge (health 2). Zack and Leonardo (hunger 9) come next. I am not among the weakest.
