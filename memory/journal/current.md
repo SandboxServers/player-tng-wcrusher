@@ -361,3 +361,28 @@
 - 06:19 act: {"say":"Tommy, Wcrusher here at the cow lake. I have no food and no sword, only dirt and saplings. I'll search west with Billy and Troi and call any cow I see.","intent":{"goal":"search_west_for_cows"
 - 06:19 act: {"say":"Wcrusher at -300,66,257. No cows here, only salmon far out in the water. I'll stay near Billy's shelter for the night and search again at dawn.","actions":[{"do":"note","text":"Day 266 evening
 - 06:24 act: {"say":"Wesley here, at the west cow lake with the group. No food, no bed. I'll stay put until dawn, then search west for cows with Billy and Clark.","intent":{"goal":"hold_with_group_until_dawn","pro
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-302,"y":66,"z":250}}],"say":"Wesley: skeleton to the south-east shot me. Moving north out of its line with Tommy. Health 6, no food.","intent":{"goal":"get_out_
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-311,"y":63,"z":248}},{"do":"attack","target":"salmon"}],"say":"Wesley: salmon are in the water to the west. Going to them for food. Tommy, Clark, the first fish
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-329,"y":62,"z":243}},{"do":"attack","target":"salmon"}],"say":"Wesley in the water after the salmon at -330,62,242. Tommy gets the first fish, as agreed.","inte
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-328,"y":62,"z":238}}],"say":"I hit a salmon and something dropped to the north. Picking it up now; it goes to Tommy."}
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-303,"y":65,"z":249}},{"do":"give","to":"ag_tommy_01","item":"salmon","count":1}],"say":"Tommy, I have a salmon for you, the first fish as we agreed. Coming back
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-304,"y":65,"z":250}}],"say":"Tommy, Clark: I ate the salmon myself when my hunger dropped, so it did not reach you. Hunger is 13 for me now. I'll go back into t
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-309,"y":62,"z":238}},{"do":"attack","target":"salmon"}],"say":"Going after the salmon at -310,62,236 now. Tommy, I'll bring the next one straight to you."}
+- 06:32 act: {"actions":[{"do":"goto","target":{"x":-302,"y":65,"z":251}}],"say":"Wesley: the salmon keep moving out of reach in deep water. Coming back to the shore by Tommy and Clark to rest and regroup. Tommy, 
+- 06:32 act: {"actions":[],"say":"Wesley back on the shore with Tommy and Clark. Salmon are in the pond but the deep water keeps them out of reach. Riker, if your boat gets one, bring it to Tommy first."}
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":-300,"y":64,"z":262}}],"say":"Something is shooting from the north. I'm moving south out of its line. Riker, stay low.","reasoning":"Health 2 after an unseen arr
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Wesley is back at spawn with nothing. I was shot at the shore. I'll stay with the group and look for food.","reasoning":"Respawned 
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"reasoning":"Leave the shore, where the shooter is, and go to the group near spawn."}
+- 06:34 act: {"actions":[],"say":"Kimberly, Picard: I died at the shore and came back with nothing. Do you have any food? Iron golems are 5 blocks south-east of me.","reasoning":"Two golems are close. Ask the grou
+- 06:36 act: {"actions":[{"do":"goto","target":{"x":-250,"y":66,"z":330}}],"say":"Wesley: I have no food, but I'm at full hunger for now. Scouting east, away from the golems, for cows or pigs. Any meat goes to Tom
+- 06:36 act: {"actions":[],"say":"Wesley at -240,67,330. No animals east, only oak trees and a horse. Trying north-east next.","intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"targe
+- 06:36 act: {"actions":[],"say":"Wesley at -225,68,310. Only oak and birch trees, no animals. Going further north to look.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x"
+- 06:36 act: {"actions":[],"say":"Wesley: scouted east and north to -225,68,280. No animals, only trees and a horse. Heading back to the group at the beds now.","intent":{"goal":"return_to_group_at_beds","program"
+- 06:49 act: {"intent":{"goal":"join_west_animal_search","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":300}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 06:49 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-320,"y":66,"z":290}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 06:50 act: {"actions":[{"do":"unstick"}]}
+- 06:50 act: {"intent":{"goal":"scout_cow_lake_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":262}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_
+- 06:50 act: {"intent":{"goal":"scout_far_west_for_animals","program":"travel","arguments":{"target":{"x":-345,"y":66,"z":265}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_
+- 06:52 act: {"actions":[{"do":"goto","target":{"x":-322,"y":64,"z":262}}]}
+- 06:53 act: {"intent":{"goal":"return_to_beds_with_fish_news","program":"travel","arguments":{"target":{"x":-268,"y":66,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
+- 06:53 act: {"say":"Back at the beds with the group. No food found on the lake side; only deep-water salmon out of reach."}

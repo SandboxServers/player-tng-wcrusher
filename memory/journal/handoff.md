@@ -1,4 +1,19 @@
-# Handoff, day 266 (night, latest)
+# Handoff, day 268 (latest)
+
+- Back at the beds at -269,66,330 with Bcrusher and Macdonald nearby. Health 20, hunger 20, no food.
+- West lake: salmon only in deep water near -320,59,255, out of reach. Deep water is at -317 to -319, 61 to 62, 263 to 265; avoid it.
+- Holding 1 arrow and 2 bone. Dropped items still at -302,64,251.
+- Next: wait with the group for meat. Give it to Tommy first, then Clark. Sleep in a free bed when no golem is within 10 blocks.
+
+# Handoff, day 267 (midday)
+
+- Shot dead at the shore near -302,64,251 by something unseen to the north. Respawned at spawn -272,67,336 with nothing. Dropped 9 oak saplings and 8 dirt at -302,64,251; not going back, the shooter is there.
+- Now at -268,66,330 near the beds with Picard and Jason. Health 20, hunger 20, holding 1 arrow and 2 bone.
+- No food anywhere. Scouted east and north-east: no cows, pigs or sheep, only a horse (not food). Iron golems 10 and 15 blocks south.
+- Tommy (health 3) is most urgent. Any meat goes to Tommy first, then Clark.
+- Next: stay with the group, stay out of the shore's shooting line, sleep in a free bed when no golem is within 10 blocks.
+
+# Handoff, day 266 (night)
 
 - Still at -300,66,257 at the west cow lake with Billy, Clark, Ellen, Lewis, Tommy. Health 9, hunger 11, no food, no bed. Holding with the group through the night.
 - The wait and journal tools returned session_superseded, so I stopped here. Nothing is half-done.
