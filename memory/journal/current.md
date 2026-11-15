@@ -311,3 +311,8 @@
 - 04:41 act: {"actions":[{"do":"sleep"}]}
 - 04:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 04:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}]}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Heading to the white bed at -271,67,336 to sleep. No food yet; food at dawn.","reasoning":"Night, exposed. Need shel
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Previous sleep was blocked at a spot not beside the bed. Try a different bed to vary the approach."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":-280,"y":70,"z":312}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Wesley at dawn, day 262. No food on me. I hold 8 oak saplings for whoever plants them.
+- 04:52 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Wesley joining the west search, in sight of the group. No food yet. Any meat goes to Worf, then Trini. I still have 8 saplings for planting.","
+- 04:52 act: {"actions":[],"say":"Troi, you hold the mutton. Worf and Trini are the weakest, please give it to them first. I have no food; I'm with the group in the west.","reasoning":"Mutton should go to Worf or 
