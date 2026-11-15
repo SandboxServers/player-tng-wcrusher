@@ -394,3 +394,6 @@
 - 07:05 act: {"reasoning":"Golems 15+ blocks out. Retry sleep at the yellow bed.","actions":[{"do":"sleep"}]}
 - 07:09 act: {"reasoning":"Dawn, day 269. Join Riker's search for cows or pigs on the grass. Meat goes to Chapman and Trini first.","say":"Wesley, dawn of day 269. I'll join Riker's search for cows or pigs. Meat g
 - 07:21 act: {"reasoning":"Dusk. No food, no bed. Golems south closing; stay near group and wait.","say":"Bcrusher here, dusk, health 20, hunger 20. No food yet. I'll stay near the group and find a free bed once t
+- 07:23 act: {"reasoning":"Night, beds mostly claimed by others. Wait for a free bed or dawn; golems farther off.","intent":{"goal":"wait_for_free_bed","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 07:31 act: {"reasoning":"Dawn. Join group west search for animals; meat goes to Chapman and Trini first.","say":"Bcrusher joining the west search for cows or pigs. Any meat goes to Chapman and Trini first.","int
+- 07:36 act: {"reasoning":"No animals west; group returning to beds. Go back with them and look for a free bed before dusk.","say":"Bcrusher heading back to the beds with the group. No animals west. Still no food.

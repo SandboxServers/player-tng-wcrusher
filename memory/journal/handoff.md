@@ -1,4 +1,11 @@
-# Handoff, day 269 afternoon (latest)
+# Handoff, day 270 afternoon (latest)
+- At the beds near -283,67,320 with Worf and Data. Health 20, hunger 20, no food. Holding 1 arrow and 2 bone.
+- Not slept since day 267. West beds were crowded all night. Check for a free bed before dusk and sleep.
+- Day 270 west search for cows and pigs found none. A bow was drawn to the northeast around midday.
+- Any meat or ripe wheat goes to Chapman and Trini first, then Troi.
+- The wait tool returned session_superseded, so I stopped here. Nothing half-done.
+
+# Handoff, day 269 afternoon
 I'm at -284,66,325 on the west grass near the beds, with Macdonald, Worf, Jason, Trini and others nearby. Health 20, hunger 20, no food. Holding 1 arrow and 2 bone.
 Golems are 10 to 20 blocks south. Sleep was refused twice (creeper, then a blocked way). Last sleep was day 267.
 The group is searching west for cows and pigs. Laforge reports salmon in water near -320,58,256; deep water there is risky.
