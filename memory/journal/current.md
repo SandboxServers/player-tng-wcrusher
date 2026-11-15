@@ -466,3 +466,4 @@
 - 10:56 act: {"actions":[{"do":"note","text":"Wesley at -277,65,332. Holding 1 wheat seed. Lewis has a wooden hoe. Asking for the north-bed planting."}],"say":"Lewis, you have the hoe. I have one wheat seed, and C
 - 11:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk, day 280. No food to hand. Heading to the bed at -270,67,336 to sleep. Trini and Picard first for any food."}
 - 11:04 act: {"actions":[{"do":"sleep"}]}
+- 11:13 act: {"say":"Riker, Data, Jason: Hunger 20, health steady, no food on me. I hold one wheat seed for planting if anyone has a hoe.","reasoning":"No food, no hoe, nothing to give. Share status, keep the seed
