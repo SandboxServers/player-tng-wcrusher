@@ -1,4 +1,11 @@
-# Handoff, day 290 dusk (latest)
+# Handoff, day 293 midday (latest)
+- At -290,66,328 on the grass west of the north beds. Health 14, hunger 14, no food. Holding 23 dirt, hoe, sword, 2 oak logs, 2 planks, torch.
+- Iron golems sit around the beds 17 to 23 blocks south-east. Stay west and clear of them.
+- Chicken is held by Jason for Riker (health 3) and LaForge (health 2). Zack and Leonardo (hunger 9) come next. I am not among the weakest.
+- Sleep not tried this day; days_since_sleep 1. Retry sleep in a bed when no golem or phantom is within range.
+- No errand running. Next: wait for meat calls, go to the weakest first.
+
+# Handoff, day 290 dusk
 - At the north white bed at -270,67,318, not enclosed, health 20, hunger 16, no food. Holding 43 dirt, hoe, sword, 2 oak logs, 2 planks.
 - Gave my 3 wheat seeds to Jason (Picard is planting them). No errand running.
 - Sleep not yet tried this dusk. Next: sleep at this bed when night comes, with the group nearby.

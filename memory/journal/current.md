@@ -37,3 +37,15 @@
 - 14:51 act: {"say":"Wesley here, hunger 15, no food. I'll stay by the beds. Call out any pig or cow you see."}
 - 14:59 act: {"actions":[{"do":"note","text":"Day 292 at the north beds. No food on me; hunger 15, health 16. Staying by the group and calling out any meat I see."}],"say":"Wesley here at the north beds, no food, 
 - 15:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Dusk. Going to the bed with the group. No food yet, call out any meat at dawn."}
+- 15:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Wesley heading to the white bed to sleep. No food yet; meat goes to Macdonald and Zack first.","reasoning":"Night, n
+- 15:01 act: {"actions":[{"do":"wait","seconds":20},{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"reasoning":"Path to bed blocked, maybe by other sleepers or a monster. Pause, then try the other side of the b
+- 15:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the bed now. Golems closing; try to get in and sleep."}
+- 15:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Still not in bed. Try once more via the south side of the bed."}
+- 15:02 act: {"actions":[{"do":"unstick"}],"reasoning":"Movement keeps failing; get free before the next try."}
+- 15:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Golem closing from south-east. Head back toward the beds and try to sleep."}
+- 15:02 act: {"actions":[{"do":"wait","seconds":30}],"say":"Wesley here, no food, hunger 14. Sleep keeps failing; staying near the beds with Trini and Lewis.","reasoning":"Sleep blocked repeatedly; group is near. 
+- 15:04 act: {"intent":{"goal":"shelter_from_phantom","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_b
+- 15:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Sealed shelter, no monsters visible; sleep now."}
+- 15:09 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":330}}],"say":"Wesley here, hunger 14, no food. Moving away from the iron golem. Any meat, call it out at first light.","reasoning":"Golem 1.7 blo
+- 15:09 act: {"actions":[{"do":"goto","target":{"x":-291,"y":66,"z":328}}],"reasoning":"Golems closing from east and south-east. Get distance, west."}
+- 15:12 act: {"actions":[],"say":"Wesley at -290,66,328, west of the beds, hunger 14, no food. Golems sit between me and the beds, so I'm holding here. Chicken or meat goes to LaForge and Zack first.","reasoning":
