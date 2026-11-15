@@ -263,3 +263,7 @@
 - 03:05 act: {"actions":[{"do":"sleep"}]}
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 03:05 act: {"say":"Wesley: I have no food either, hunger 7. Ezra, if you still hold beef, give it to Data or Trini first, they are weakest.","actions":[]}
+- 03:09 act: {"intent":{"goal":"search_sheep_west","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 03:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 03:10 act: {"say":"Wesley here, back at the beds at -271,67,327. Still no food. Meat goes to Trini, then Data, then Worf.","intent":{"goal":"hold_with_group_for_food","program":"travel","arguments":{"target":{"x
+- 03:14 act: {"say":"Wesley, midday day 257: I hold 3 wheat seeds and a hoe, no food. I'll plant beside Jason or Kimberly if someone points me to clear open ground. Meat still goes to Data and Ezra first, then Tri
