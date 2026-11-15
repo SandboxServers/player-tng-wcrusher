@@ -488,3 +488,4 @@
 - 12:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Wesley at dusk, day 283. No food. Going to the north white bed to sleep; LaForge, Trini, Picard first for any food."
 - 12:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Body is awake now. Night, bed adjacent. Sleep."}
 - 12:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Woke early when the world moved; bed is adjacent. Try sleeping again."}
+- 12:05 act: {"actions":[{"do":"note","text":"Night of day 283 at the white bed (-271,67,318). No food on me; health 20, hunger 20. Group (Zack, Picard, LaForge, Trini) still short of food. Going to sleep here."}]
