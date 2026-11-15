@@ -1,1 +1,28 @@
 # Journal
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Heading to the bed for the night."}
+- 21:45 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 21:45 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 21:46 say: {"text":"Leonardo, I died to spiders in the dark and have nothing left. Do you have any food to spare?"}
+- 21:51 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":320,"y":80,"z":-849}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":319,"y":80,"z":-848}},{"do":"goto","target":{"x":322,"y":80,"z":-847}},{"do":"goto","target":{"x":319,"y":79,"z":-850}},{"do":"goto","target":{"x":318,"y":80,"z"
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":325,"y":80,"z":-847}},{"do":"goto","target":{"x":343,"y":88,"z":-847}}]}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":340,"y":87,"z":-855}},{"do":"attack","target":"cow"}]}
+- 21:52 act: {"intent":{"goal":"return_to_spawn_camp","program":"travel","arguments":{"target":{"x":410,"y":107,"z":-1060}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 21:53 say: {"text":"MacDonald, Wesley here. I lost my things last night and have no planks for a shelter. Could you spare some? I can trade beef for them."}
+- 21:55 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"beef","count":1}],"say":"Leonardo, I'm bringing you my beef. I'd love the dirt for walls in return."}
+- 21:55 say: {"text":"Leonardo, I can't see you from here. Come within sight and I'll hand you the beef for the dirt."}
+- 21:57 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"beef","count":1}]}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1064}}],"say":"Wesley here. I'm coming to the beds by the crafting table for the night. I have one beef. Whoever is weakest, speak up and I'll g
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}}],"intent":{"goal":"rest_in_camp_bed","program":"rest","arguments":{},"wake_on":["directly_a
+- 22:03 act: {"actions":[],"say":"Wesley at the beds, by the chest, with one beef. Picard, walk into view and I will give it to you now.","intent":{"goal":"feed_weakest_at_camp","program":"trade_wait","arguments":
+- 22:10 act: {"actions":[],"say":"Wesley, dawn. Meriwether, you are the weakest I can hear at six health. Step into view and I'll give you my beef now."}
+- 22:11 act: {"actions":[],"say":"Zack, Wesley here. Come into view and I'll give you the beef. Your wool and feathers can be my payment if you have them to spare."}
+- 22:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 22:16 act: {"actions":[],"say":"MacDonald, Wesley here, by the crafting table. I offer my beef for your 5 planks. Step into view and hand them over, and I'll give the beef right away."}
+- 22:21 act: {"actions":[{"do":"note","text":"Night, day 314. No one in view. Beef still with me. Picard (health 2) asked for it; MacDonald offers 5 planks for it. I will give it to whoever is in reach first."}],"
+- 22:22 act: {"actions":[{"do":"note","text":"Dawn, day 315 approaching. Nobody in view. Picard is fed by Beverly. Zack (9 health, no food) and MacDonald (planks) both want to trade. Holding beef for whoever is we
+- 22:26 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"beef","count":1}],"say":"Picard, I am giving you the beef now. Eat it when your hunger allows. MacDonald, bring the planks to Data or Chapman if yo
+- 22:26 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1067}}],"say":"Picard, Worf, I'm walking to the beds at 390,107,-1067 with the beef. Call out where you stand."}
+- 22:26 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"beef","count":1}],"say":"MacDonald, here is the beef for your 5 planks. Picard is the weakest, so I ask you to pass the beef to him if he needs 
+- 22:26 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"beef","count":1}],"say":"MacDonald, the beef is yours for the planks. Please step closer so you can take it."}
+- 22:26 act: {"actions":[{"do":"note","text":"Gave beef to MacDonald (worked) for 5 planks. Waiting for him to hand over the planks."}],"say":"MacDonald, the beef is with you. Please hand me the 5 planks now, and 
