@@ -356,3 +356,5 @@
 - 06:11 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":305}}],"reasoning":"Still no animals in the east; check north along the trees, staying within reach of the group."}
 - 06:11 act: {"actions":[],"say":"Geldar at -250,68,305, north-east scouting done: trees, signs, no animals or food. Hunger 11. Will hold here and listen for sheep or cow reports."}
 - 06:13 act: {"actions":[],"say":"Geldar at -250,68,305, health 9, hunger 11. Worf, Chapman and LaForge are weaker than I am, so they take the flesh first. I have no food; no animals north-east."}
+- 06:14 act: {"say":"Tommy here, at -250,68,305. I have no food, only saplings and dirt. Billy, I'll head toward the cow lake near -288,67,257 to help look for cows. Meat goes to Jason first.","intent":{"goal":"re
+- 06:15 act: {"say":"I'm at the cow lake, -287,67,257. No cows in sight yet. Billy, Data, if you find any, tell me where.","actions":[{"do":"note","text":"Reached cow lake area -287,67,257 at midday day 266. No co
