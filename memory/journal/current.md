@@ -28,3 +28,6 @@
 - 23:20 act: {"say":"Morning. I'm Wesley. What have you found out about food or wood around camp, Chapman?"}
 - 23:21 act: {"say":"Thanks Chapman, I now have 6 melon. Beverly and Kimberly, tell me where you are and I'll bring melon to you."}
 - 23:30 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
+- 23:31 act: {"say":"Morning. I'm Wesley, at the beds. I have 6 melon slices and 22 dirt. Does anyone need food? Kimberly, how do you find chickens near camp?"}
+- 23:33 act: {"say":"Kimberly, I'll share melon with Lewis as soon as he is in sight here at the beds. Lewis, say where you are."}
+- 23:44 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1051}}],"say":"Dusk. Goodnight, all. Whoever wakes weakest, I hold 6 melon slices at the beds."}
