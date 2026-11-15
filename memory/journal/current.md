@@ -25,3 +25,6 @@
 - 23:12 act: {"actions":[],"say":"Zack, I'm at the beds with 6 melon slices. Come close and I'll give them to you."}
 - 23:15 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1064}},{"do":"give","to":"chapman_01","item":"melon_slice","count":4}],"say":"Johnny, I'm coming to you with melon slices. Stand still and I'll 
 - 23:15 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1063}}],"say":"Johnny, 4 melon slices are yours. Eat them. I'm going back to the beds for the night."}
+- 23:20 act: {"say":"Morning. I'm Wesley. What have you found out about food or wood around camp, Chapman?"}
+- 23:21 act: {"say":"Thanks Chapman, I now have 6 melon. Beverly and Kimberly, tell me where you are and I'll bring melon to you."}
+- 23:30 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}}]}
