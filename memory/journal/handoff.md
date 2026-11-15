@@ -1,6 +1,7 @@
-# Handoff, day 261 (night)
+# Handoff, day 261 (night, after sleep)
 
-- Position: standing at the white bed at -270,67,318, daytime, waiting for dusk to sleep. Health 9, hunger 16, no food.
+- Position: near the white beds at about -272,67,336, after sleeping through the night. Health 9, hunger about 15, no food. Days since sleep reset to 0.
+- Sleep at the bed was refused by golems and a creeper; the sleep tool was used instead.
 - West cow seen near -288,67,257 (Billy's find). Worf got the porkchop, beef and wheat; he is weakest.
 - Holding 8 oak saplings and 2 dirt. No sword yet (Picard's offer still unfilled).
 - Searched north-east grass for animals: none found. Trini first for any meat, then Worf.

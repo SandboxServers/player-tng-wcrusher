@@ -306,3 +306,8 @@
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":308}}],"say":"Wesley heading north-east to look for animals now. Any meat goes to Trini first, then Worf."}
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley at night, heading to the white bed at -270,67,318. No food. Trini first for any meat."}
 - 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:36 act: {"say":"Wesley here at the white beds, day 261, hunger 16, no food. I'll look for apples in the oak leaves nearby and give any food to Worf first.","intent":{"goal":"gather_oak_leaves","program":"gath
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Wesley at dusk, day 261. No food found. Heading to the white bed at -270,67,318 for the night. Worf first for any food at dawn."}
+- 04:41 act: {"actions":[{"do":"sleep"}]}
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}]}
