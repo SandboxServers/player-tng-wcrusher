@@ -191,3 +191,11 @@
 - 00:37 act: {"say":"No food found yet. I am back near the beds with Picard. I will keep watching for animals on the grass.","actions":[{"do":"goto","target":"ag_picard_01"}]}
 - 00:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Going to the white beds at dusk with the group. No food on me."}
 - 00:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 00:49 act: {"say":"Geldar at dawn, day 250. No food on me. Heading east from the golems to look for animals. Trini first for any food.","actions":[{"do":"goto","target":{"x":-252,"y":67,"z":334}}]}
+- 00:49 act: {"actions":[{"do":"till","at":{"x":-253,"y":65,"z":334}}]}
+- 00:50 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-253,"y":66,"z":334}}]}
+- 00:50 act: {"say":"Wheat seed is in the ground at -253,66,334. I have no food. I will follow Laforge north toward the sheep field, and anything I find goes to Trini first.","intent":{"goal":"scout_north_for_shee
+- 00:50 act: {"say":"No sheep here yet. An iron golem is 7 blocks south-east, so I am going further north, away from it.","intent":{"goal":"scout_north_for_sheep","program":"travel","arguments":{"target":{"x":-252
+- 00:50 act: {"say":"Good, Laforge. Trini gets the meat. I am still searching north for sheep and will bring anything I find to Trini.","intent":{"goal":"scout_north_for_sheep","program":"travel","arguments":{"tar
+- 00:50 act: {"say":"It is getting dark and I am alone far north. I am heading back to the white beds with the group.","intent":{"goal":"return_to_beds_before_night","program":"travel","arguments":{"target":{"x":-
