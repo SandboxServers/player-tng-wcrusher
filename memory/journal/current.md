@@ -178,3 +178,8 @@
 - 00:03 act: {"actions":[{"do":"sleep"}],"say":"Geldar trying the bed for the night, day 247. No food; Trini first at light."}
 - 00:12 act: {"say":"Geldar heading to my wheat at -263,66,321 to check if it is ripe. Staying close to the beds. Any food goes to Trini first.","actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}]}
 - 00:12 act: {"say":"Geldar at -263,66,321: no wheat or farmland left here, only grass. Heading back to the beds with the group. Still no food; Trini first.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":3
+- 00:25 act: {"actions":[{"do":"sleep"}],"say":"Geldar trying the bed at -271,67,318 for the night, day 248. No food; Trini first at light."}
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Sleep refused: creeper 10 blocks away. Staying with the group at the beds. Food first at light.","intent":{"goal":"hold_with_group_
+- 00:26 act: {"actions":[{"do":"sleep"}]}
+- 00:26 act: {"actions":[],"intent":{"goal":"wait_with_group_for_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_bl
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":336}}],"say":"Geldar at dawn, day 249. Searching east of the beds for animals in short steps. Food goes to Trini first."}
