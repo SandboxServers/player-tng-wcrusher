@@ -327,3 +327,11 @@
 - 05:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Heading to the white bed at -271,67,318 to sleep with the group. Still no food; meat go
 - 05:26 act: {"actions":[{"do":"use","at":{"x":-281,"y":67,"z":320}}],"reasoning":"Bed two blocks away with the group. Try it once."}
 - 05:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Wesley going to the white bed at -270,67,318 to sleep with the group. No food; Trini and Riker first for any food at
+- 05:28 act: {"intent":{"goal":"search_leaves_for_apples","program":"gather","arguments":{"block":"oak_leaves","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 05:33 act: {"intent":{"goal":"check_leaves_here_for_apples","program":"gather","arguments":{"block":"oak_leaves","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 05:33 act: {"intent":{"goal":"scout_northeast_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":66,"z":300}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_f
+- 05:33 act: {"say":"Northeast at -220,67,300. No animals or food here, only logs and dirt. It's getting dark, so I'll head back toward the beds before night.","intent":{"goal":"return_to_white_beds","program":"tr
+- 05:34 act: {"say":"Back at the white beds with Worf, Billy and Zack. Still no food for anyone from me. I'll hold here and try the bed at dusk.","intent":{"goal":"hold_at_beds_until_night","program":"rest","argum
+- 05:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the white bed -270,67,318. No food from me. Waking at dawn to scout for animals with the group."}
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Golems are six blocks south of me. Moving north to the bed at -270,67,318 to sleep."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
