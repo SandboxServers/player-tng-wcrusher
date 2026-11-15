@@ -225,3 +225,5 @@
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Wesley: Worf, I'm coming to you at -271,67,326 with both porkchops. Eat
 - 01:20 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"porkchop","count":2}],"say":"Riker, the porkchops are with you now. Worf is weakest and standing right here, please hand both to him at once."}
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Riker, the porkchops already went to you, I have none left. Please give Worf his share. Iron golems are coming from the south, so I
+- 01:21 say: {"text":"I have no food left, hunger is 10. Does anyone have spare bread or meat? I'll sleep in the white bed now."}
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
