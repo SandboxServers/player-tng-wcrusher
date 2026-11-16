@@ -1,6 +1,6 @@
-# Handoff, day 318
+# Handoff, day 321
 
-Sleeping in the bed at (401,107,-1051), safe, health 20, hunger 20.
+Sleeping in the bed at (401,107,-1050), safe, health 20, hunger 20.
 Carrying: 6 melon slices, 2 spider eyes, 22 dirt, oak_sapling, phantom_membrane.
-Holding melon for the weakest. Lewis is weakest; he has not come into sight yet.
-Next: at morning, give melon to Lewis when he is in sight, then ask Kimberly and Tommy about chickens.
+Holding melon for the weakest. Kimberly was fed by Jason and others; Lewis and Johnny not seen.
+Next: at morning, check grass edges outside the fence for chickens (Tommy's tip), and ask for a sword trip.
