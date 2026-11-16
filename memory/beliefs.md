@@ -9,6 +9,7 @@
 - Travel needs a position (x, y, z), not a place name.
 - Chicken field: 360,-1008 (Zack). Cows: 364,-1010, empty on days 342 and 345. Cow ground 339,-979 was empty on day 345 morning too.
 - Cow walks break when someone is out of sight. Keep to the group.
+- Day 346: the cow route past 364,-1000 has a pit (Billy fell in). Group turned back. Route is blocked until someone scouts a safer way.
 - Skeletons shoot from the east side of Clark's wall (around x430). Skeleton seen northwest of the beds near 339,-979.
 - Plank wall: two high on the outside, one side at a time (Clark, day 327).
 - Jungle logs lie about 200 blocks south and near x378 to the west of the beds.
