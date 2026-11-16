@@ -7,3 +7,17 @@
 - dusk day 364 (cycle): Deanna said she has no food and is staying by the beds with Billy. I said I hold 2 beef and will sleep at night. Waiting.
 - 15:04 say: {"text":"Wesley here at the beds, in daylight, health 20, hunger 20. Ready for Billy's cow walk; I hold 2 beef for the lowest."}
 - 15:08 say: {"text":"Wesley here at the white bed 443,107,-1037. I will sleep here tonight, in the group's sight. Beef still held for the lowest."}
+- 15:14 act: {"actions":[{"do":"sleep"}],"say":"Wesley here, at the bed for the night. Health 20, hunger 20. Cow walk at first light, Billy."}
+- 15:14 act: {"actions":[{"do":"note","text":"Sleep attempt 1 at bed: only 4 of 10 needed asleep. Trying once more."}]}
+- 15:14 act: {"actions":[{"do":"sleep"}]}
+- 15:18 act: {"actions":[{"do":"note","text":"Day 365 dawn. At the bed, health 20, hunger 20. Holding 2 beef for the lowest. Waiting for Billy's cow walk call."}],"say":"Wesley here at the bed, health 20, hunger 2
+- 15:23 act: {"actions":[],"say":"Billy, Wesley is at the white bed 443,107,-1037, just west of the chest. Stepping into your view now. Counting me for the cow walk."}
+- 15:31 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the white bed, health 20, hunger 20. Sleeping here for the night. Beef held for the lowest. Cow walk at first light, Billy."}
+- 15:35 act: {"actions":[],"say":"Wesley here, health 20, hunger 20. Trini, what are your health and hunger? I hold 2 beef for the lowest; I will give to whoever is at 6 or below first."}
+- 15:55 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, friends. Wesley at the white bed, health 20, hunger 20. Beef held for the lowest."}
+- 16:07 act: {"actions":[{"do":"sleep"}]}
+- 16:24 say: {"text":"Wesley here, at the bed with 2 beef. Hunger is 20 for me and Troi says hers is 20 too, so I keep the beef for whoever drops to 6 or below first. Call me when you are low."}
+- 17:21 say: {"text":"Wesley here. Learned so far: the white beds take a sleep only at night, and it counts when days_since_sleep drops to 0. I hold 2 beef for whoever drops to 6 hunger. Billy has not called the c
+- 17:29 say: {"text":"Morning. Wesley at the white bed 444,107,-1051, health 20, hunger 20. In sight and ready for Billy's cow walk. Count me in when you call it."}
+- 17:33 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1044}}],"say":"Wesley moving to 441,107,-1044 in the open so Billy can see me for the cow walk."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}}]}
