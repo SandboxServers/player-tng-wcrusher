@@ -1,14 +1,7 @@
 # Journal
-- 11:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Night. Wesley going to bed by the group. Goodnight all."}
-- 11:34 act: {"say":"Morning all. Zack, when you are up, could you spare the 3 cobblestone for my stone sword?","actions":[]}
-- Day 354 morning: woke at the bed 429,107,-1037, health 20, hunger 20. Everyone else was asleep. Asked Zack aloud for the cobblestone. Waiting for him to answer.
-- Zack was at the bed 416,-1065. Got 3 cobblestone. Crafted 4 sticks from 2 planks, then the stone sword at the table 419,107,-1033. Goal 2 done. Holding 1 plank now (the 3 were used for sticks).
-- 11:36 act: {"say":"Zack, I'm coming over to you now. Thank you!","actions":[{"do":"goto","target":"Zack"}]}
-- 11:36 act: {"say":"Zack, I can't see you from here. I'm walking toward the bed row at 415,-1036 to find you.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}]}
-- 11:36 act: {"say":"Zack, I'm at the bed row now, near the beds at 415. Where are you? I'll wait here in sight.","actions":[]}
-- 11:38 act: {"say":"On my way to you, Zack.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}]}
-- 11:38 act: {"say":"Zack, I'm in reach. Could I have the 3 cobblestone? I'll craft my stone sword at the table. Thank you!","actions":[]}
-- 11:39 act: {"say":"Thank you Zack! Crafting my stone sword at the table.","actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1032}},{"do":"craft","item":"stone_sword","count":1}]}
-- 11:39 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"stone_sword","count":1}]}
-- 11:41 act: {"say":"Dark is coming. Wesley going to the bed at 429 with the group in reach. Stone sword is done, thank you Zack.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}]}
-- 11:46 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
+- Day 354 morning: woke at the bed 429,107,-1037, health 20, hunger 20. Got 3 cobblestone from Zack, crafted the stone sword at table 419,107,-1033. Goal 2 done.
+- Day 355 morning: Billy's cow walk stalled, nobody hungry enough. Group holds at the bed row. Lowest: Kimberly (health 11, hunger 16), Trini (13/16), Lewis (14/17), Picard (18/17).
+- Day 355 dusk: slept in the bed at 429. Morning: nobody at 6 or below yet, so my 2 beef stay held for the lowest.
+- Next: wait for Billy's call. Give beef to whoever drops to 6 or below.
+- 12:07 act: {"say":"Wesley: Riker, I have 1 plank to spare for the seal. Could you show me the ring when we are next at Clark's? Still holding at the beds.","actions":[]}
+- 12:11 act: {"say":"Dusk. Wesley in the bed at 429, group in reach. Health 20, hunger 20. Goodnight.","actions":[{"do":"sleep"}]}
