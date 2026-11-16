@@ -15,3 +15,9 @@
 - 01:46 act: {"actions":[],"say":"I'm at Clark's shelter area, 427,107,-1077. Clark, Kimberly, can you show me the wall? I'll watch and learn."}
 - 01:50 act: {"actions":[{"do":"note","text":"Dusk at Clark's shelter. Lewis beside me with beef. Kimberly and Trini are inside the plank wall. I hold 4 melon for the weakest."}],"say":"Kimberly, Lewis, I'm outsid
 - 01:50 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1052}}],"say":"Going back to the beds for the night. Anyone weak, step into my sight; I hold 4 melon.","intent":{"goal":"return_to_beds_for_nigh
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1051}}],"say":"Night at the beds. I hold 8 melon slices for whoever is weakest. Going to sleep here and learning Clark's wall at dawn."}
+- 01:51 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1051}}],"say":"Going to bed at the white bed. Melon is held for whoever is weak in the morning."}
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1077}}],"say":"Morning. Heading to Clark's plank wall at 429,107,-1077 to learn it. Kimberly, Trini, Lewis, call out if you are there.","intent"
+- 01:56 act: {"actions":[],"say":"Wcrusher here, inside Clark's plank wall at 426,107,-1077. Lewis, Kimberly, Trini: how is the wall built? I want to learn it in daylight."}
+- 01:57 act: {"actions":[],"say":"Kimberly, Trini: I am inside the wall now. How many planks did Clark use, and which sides are closed? I will note what I see."}
+- 02:01 act: {"actions":[],"say":"Kimberly, I have only walked inside it so far and cannot build it yet. I will ask Clark how he laid it. Clark, stay safe first."}

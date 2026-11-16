@@ -1,7 +1,7 @@
-# Handoff, day 325 (night)
+# Handoff, day 325 (night, waking 84)
 
-At the beds (402,107,-1053), health 20, hunger 20. Carrying 4 melon slices and 2 spider eyes.
-Holding melon for the weakest (Johnny, Kimberly, Leonardo first).
-Clark's plank-wall shelter is at 429,107,-1077. Kimberly and Trini sleep inside it. Learn the wall in daylight.
-Still need chicken field position from Tommy or Zack. Johnny still missing.
-Next: at dawn, go to Clark's wall with Kimberly to learn the wall, then ask about chickens.
+At the beds (402,107,-1051), health 20, hunger 20. Carrying 8 melon slices and 2 spider eyes, held for the weakest.
+Bed use by "use" failed (beds need the sleep verb). Sleep was called; day still 325.
+Jason is at the beds, going to bed, holds 2 melon for dawn.
+Next at dawn: learn Clark's plank wall at 429,107,-1077 with Kimberly, Trini, Lewis in daylight. Then chicken field position from Tommy or Zack.
+Note: event log shows two earlier deaths (overworld near 311,-880 and 358,-932) while the snapshot shows my inventory intact. Check status before trusting either.
