@@ -1,3 +1,3 @@
 # Recent days
 
-Day 315: I woke at the spawn camp beds with 2 rotten flesh, a spider eye and 5 oak planks. The cow to the east was gone. Food is scarce: only chickens near camp, and Picard (health 2) is first in line for meat. I offered rotten flesh to Picard and Zack. Data needs planks for a shelter; Riker holds 9 for him. I slept at the white bed by the chest.
+Day 320: At the camp beds with 6 melon slices, health 20. Kimberly was weak (health 8); a give to her failed when she was out of sight, and others fed her. Lewis and Johnny are still missing. Beverly and MacDonald went to a cow at 368,94,-1118. I have no sword and no pack. I slept in my bed at night.
