@@ -1,3 +1,3 @@
-# Handoff (day 361, night)
+# Handoff (day 363, night)
 
-Asleep in bed 443,107,-1036 at the bed row, group in reach. Health 20, hunger 20. Holding 2 beef for the lowest. Next: at first light, wait for Billy's cow walk call.
+Asleep in bed 443,107,-1036 at the white bed row, group in reach. Health 20, hunger 20. Holding 2 beef for the lowest. Next: at first light, stay in Billy's sight and wait for the cow walk call.
