@@ -22,3 +22,6 @@
 - 08:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Morning, day 345. Wesley at the beds, health 20, hunger 20. Agree with Billy: nobody walks out alone. I'm staying with the group,
 - 08:33 act: {"actions":[],"say":"Wesley here, in sight, health 20, hunger 20. Holding 2 beef for the lowest. Trini, eat your melon when you need it; I'll give beef if you drop to 6. Ready for Billy's call.","reas
 - 08:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley sleeping at the bed by the group, beef held for the lowest.","reasoning":"Dusk, no errand open, group in sight at the beds. Sleep in a bed."}
+- 08:37 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley here at the beds, health 20, hunger 20. Going to sleep in the bed by the group. Walk at first light with Billy."
+- 08:37 act: {"actions":[{"do":"sleep"}]}
+- 08:37 act: {"actions":[{"do":"sleep"}]}
