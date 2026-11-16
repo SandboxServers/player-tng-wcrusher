@@ -1,41 +1,24 @@
 # Journal
 - 06:26 act: said I was in a pit, safe for now, hunger 17. Slept the night in the pit (no bed nearby).
-- 06:30 day: left the pit at 477,104,-1134. Told Billy, Trini, Leonardo I'd look for cows with them. Billy is at 2 health after an explosion; Leonardo is feeding him melon and chicken.
-- 06:40 act: placed dirt above me to seal the gap. Night, no bed.
-- 06:44 act: morning, alone at the cow ground. Called for the group.
-- Day 340 dusk: still alone, no food seen. days_since_sleep 2.
-- 07:02 day 340: wait showed no one in sight; speech from group earlier said Leonardo holds 3 chicken and 2 melon; Billy walking to cows with Trini. Set travel intent to 480,104,-1137 to look for cows and the group. Hunger 17.
-- 07:02 act: {"say":"I'm at the cow ground edge. No cows or group in sight. Billy, Leonardo, where are you?","intent":{"goal":"find_food_cows","program":"travel","arguments":{"target":{"x":470,"y":104,"z":-1145}},
-- 07:02 act: {"say":"Still no cows or group in sight, hunger 17. I'll keep searching west.","intent":{"goal":"find_food_cows","program":"travel","arguments":{"target":{"x":455,"y":104,"z":-1150}},"wake_on":["direc
-- 07:02 act: {"say":"Walked west, still no cows or people. Trying further out.","intent":{"goal":"find_food_cows","program":"travel","arguments":{"target":{"x":430,"y":104,"z":-1155}},"wake_on":["directly_addresse
-- 07:02 act: {"say":"A cow to the west! Going to get it.","actions":[{"do":"goto","target":{"x":420,"y":104,"z":-1153}},{"do":"attack","target":"cow"}]}
-- 07:02 act: {"actions":[{"do":"eat"}],"say":"Got 3 beef from the cow. Eating one now."}
-- Day 340 afternoon: found a cow at 418,104,-1153 west of the cow ground, killed it, got 3 beef, ate one. Hunger 17 to 20. Now hold 2 beef, 8 dirt, 3 planks. Still alone. Next: shelter before night (I need 25 blocks, I have 8), and find the group.
-- Day 341 morning: survived the night at 425,104,-1154 with no shelter, health 20, hunger 20. Now travelling to the bed row 401,107,-1023.
-- 07:05 act: {"say":"Dusk. I'm alone with 8 dirt and 3 planks, not enough for a shelter. I'll stay near here and keep watch, and fight anything that comes.","intent":{"goal":"rest_through_night","program":"rest","
-- 07:09 act: {"say":"Morning. I'm heading for the bed row at 401,107,-1023 to sleep. If the group is there, I'll find them.","intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":{"x":401,"y":1
-- 07:09 act: {"say":"I'm at the bed row. Anyone from the group around here?"}
-- Day 341 midday: at the bed row 402,107,-1023 (beds next to me). Overheard Leonardo and Tommy at the beds this morning; Trini is slain per the sign. Waiting here for night to sleep in a bed. days_since_sleep 3.
-- 07:17 act: {"say":"Billy, Trini: I'm coming to the beds with 2 beef for Trini.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":431,"y":104,"z":-1026}},"wake_on":["directly_ad
-- 07:18 act: {"say":"Dusk. I'm going into a bed here; Trini, eat the beef when your hunger is 6.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
-- Day 341 dusk: overheard the group bedding down near 415-431,-1022/-1036. Trini alive, health about 7, hunger 17. "use" on a bed failed ("that block is a bed"), but sleep worked at the bed row. Sleeping now; days_since_sleep resets.
-- Day 342 morning: woke at the bed row, health 20, hunger 20. Walked to the beds at 415,-1029. Trini here, health 7.3, hunger 17, holding 3 melon; she eats at 6. I hold 2 beef for her and will give it when her hunger is 6 or below.
-- Learned: cow gives beef; eat gives +3 hunger. Next: give Trini my 2 beef when she is in sight, then plan a shelter (need 25 blocks; I have 8 dirt, 3 planks).
-- 07:22 act: {"say":"Morning. I'm heading to the group at the beds, with 2 beef for Trini.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1030}},"wake_on":["d
-- 07:22 act: {"say":"Trini, I'm at the beds with 2 beef. I'll hand it to you when your hunger is 6 or below. Say when.","intent":{"goal":"hold_beef_for_trini","program":"rest","arguments":{},"wake_on":["directly_a
-- 07:22 act: {"say":"Billy, Jason: I'll stay at the beds with my 2 beef for Trini, since she's the hungriest. Tell me what you find."}
-- 07:31 act: {"say":"Dusk. I'm going to bed at 401,107,-1023 with the group near. Trini, I still hold 2 beef for you at 6.","intent":{"goal":"rest_through_night","program":"travel","arguments":{"target":{"x":401,"
-- 07:31 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Goodnight. Trini, I will give you the beef in the morning when you are hungry."}
-- 07:31 act: {"actions":[{"do":"sleep"}],"say":"I'm in the bed row for the night. Trini, the beef is yours in the morning when you are hungry."}
-- 07:36 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1031}}],"say":"Morning. Wesley here, health 20, hunger 20. I'm joining the group at the beds. Trini, I'll keep my 2 beef for you at 6.","intent"
-- 07:36 act: {"actions":[],"say":"Jason, I'm with you at the beds. Wesley, health 20, hunger 20, holding 2 beef for Trini at 6. Where do we go to the cows?"}
-- 07:38 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1019}}],"say":"Going with you to 427,-1019. Wesley, in sight.","intent":{"goal":"join_cow_group","program":"travel","arguments":{"target":{"x":4
-- 07:38 act: {"actions":[],"say":"Leonardo, Jason, I'm here with you. Leonardo, how did you get your sword? I only have wood, and I want to learn."}
-- 07:41 act: {"actions":[],"say":"Trini, Kimberly: I'm at 427,-1020 with 2 beef. Say when you reach 6 and I'll come to you. Leonardo, I'll stay with you."}
-- 07:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Wesley going to the bed row at 429,-1035 with the group, holding 2 beef for Trini. Trini, call me at 6."}
-- 07:49 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"Morning. Wesley, health 20, hunger 20. Trini has melon now, so I'll keep my beef. I'm going to the cow spot at 364,-1010 to look 
-- 07:50 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1020}}],"say":"No cows at 364,-1010, nothing in sight. I'm heading back to the group at 427,-1020, still holding 2 beef for Trini.","intent":{"g
-- 07:50 act: {"actions":[],"say":"Wesley at 427,-1020, no one in sight. Holding 2 beef for Trini at 6. Call me if you need me."}
-- 07:54 act: {"actions":[{"do":"goto","target":"Jason"}],"say":"Wesley here. I'll walk with you and Leonardo to the cow at 339,-979, and keep in sight of the group.","intent":{"goal":"join_cow_walk","program":"tra
-- 07:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Kimberly, you're at 8 health: please eat a melon now. Night is here, I'm going to the bed at 401,-1023.","intent":{"goal":"reach_
-- 07:58 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the bed row. Holding 2 beef for Trini; will give it in the morning if she's at 6 or below."}
+- 06:30 day: left the pit at 477,104,-1134. Told Billy, Trini, Leonardo I'd look for cows with them.
+- Day 340 afternoon: found a cow at 418,104,-1153, got 3 beef, ate one. Hold 2 beef, 8 dirt, 3 planks.
+- Day 341 dusk: slept at bed row 401,107,-1023. Day 342: joined group at beds, holding 2 beef for Trini.
+- Day 343 night: slept at bed row 401,-1023 (sleep repeats end early, still night). Morning: joined Billy's cow walk; the walk broke up and was re-gathered at 430,-1030.
+- Day 343 midday: group together at bed row 430,-1030 (Billy, Leonardo, Kimberly, Troi). Skeleton seen NW; cow walk to 339,-979 failed. Waiting for next walk, holding 2 beef for lowest. Hunger 20, health 20.
+- Learned: sleep in a bed works even if it ends fast; cow walks break when someone is out of sight; keep to group.
+- 08:12 act: {"say":"Going to sleep here with the group. Beef stays with me for the lowest.","actions":[{"do":"sleep"}]}
+- 08:12 act: {"actions":[{"do":"sleep"}]}
+- 08:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 344, group nearby, health and hunger full. Sleep again in the bed row."}
+- 08:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night, group sleeping nearby. Keep resting until morning."}
+- 08:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night with the group close. Sleep on until dawn."}
+- 08:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night. Keep sleeping in the bed row."}
+- 08:16 act: {"actions":[],"say":"Morning. Wesley here at the beds, health 20, hunger 20. I hold 2 beef for whoever drops to 6, Trini first. Ready for Billy's cow walk once everyone is in sight.","reasoning":"Morn
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"reasoning":"Billy asked everyone to gather at 429,-1035 before the cow walk. Move there and stay in sight."}
+- 08:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Staying at the beds with the group. Beef stays with me for the lowest.","reasoning":"Dusk, group holding at the beds till first light. No errand open. Sleep he
+- 08:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"sleep"}],"reasoning":"A bow was drawn to the south and I am alone at 430,-1023. Return to the group at the beds, then sleep there.
+- 08:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"reasoning":"No one in sight here; the group is at the beds 12 blocks south. Walk back to them."}
+- 08:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Back with the group in sight. Sleep here until first light."}
+- 08:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night, group nearby. Keep sleeping until first light."}
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Morning, day 345. Wesley at the beds, health 20, hunger 20. Agree with Billy: nobody walks out alone. I'm staying with the group,
+- 08:33 act: {"actions":[],"say":"Wesley here, in sight, health 20, hunger 20. Holding 2 beef for the lowest. Trini, eat your melon when you need it; I'll give beef if you drop to 6. Ready for Billy's call.","reas
+- 08:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley sleeping at the bed by the group, beef held for the lowest.","reasoning":"Dusk, no errand open, group in sight at the beds. Sleep in a bed."}
