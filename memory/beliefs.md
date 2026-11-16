@@ -17,5 +17,7 @@
 - Jungle logs lie about 200 blocks south and near x378 to the west of the beds.
 - Enderman wanders near the bed row around x402-404, z-1035 to -1037. A phantom was near the row at dusk on day 360.
 - Open question: a steady food source beyond the chicken field.
+- Day 361: standing next to a bed then calling sleep worked again at dusk. "use" on a bed block still fails.
+- Day 361: Oak trees are not near the bed row; Leonardo's helpers found no logs. Data holds 2 oak logs for Worf.
 
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf.
