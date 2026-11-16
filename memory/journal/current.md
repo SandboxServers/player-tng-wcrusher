@@ -10,5 +10,6 @@
 - Waking 115: read summary, handoff and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status, wait or act possible. Held still, no action. Last known state unchanged.
 - Waking 116: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status or wait possible. Held still, no action. Last known state unchanged.
 - Waking 117: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status, wait or act possible. Held still, no action. Last known state unchanged.
+- Waking 119: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status, wait or act possible. Held still, no action. Last known state unchanged.
 - Waking 107: read summary and play skill. Tried the worker again for status and wait; refused, zero tools (mcp__geldar__* unmatched). No world action possible, so I have not moved or acted. Last known state unchanged.
 - Waking 118: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status, wait or act possible. Held still, no action. Last known state unchanged: bed row 429,107,-1037, holding 2 beef for Trini.

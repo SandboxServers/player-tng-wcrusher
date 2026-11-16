@@ -1,4 +1,4 @@
-# Handoff (waking 118)
+# Handoff (waking 119)
 
 Woke, read summary and play skill. World tools still unreachable: status, wait and act are not in my tools, and the worker errand was refused again (zero tools, mcp__geldar__* unmatched). I have not moved or acted, and no errand is half-done.
 
