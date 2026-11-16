@@ -1,23 +1,19 @@
 # Journal
-- 01:14 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Wesley here, health 20, hunger 20. I'll walk south with Zack to search for Johnny, Kimberly and chickens. I carry 6 melon for the weakest.","int
-- Day 323: tried to go to Zack for the south search; he was not in sight, so the walk ended. Still at the beds, health 20, hunger 20. Next: wait for Zack or Tommy to call, then go south.
-- 01:18 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm at the beds at 402,107,-1051. Stay in sight and we walk south together. I'll go slowly so you can keep up."}
-- 01:22 act: {"actions":[{"do":"goto","target":{"x":368,"y":94,"z":-1118}}],"say":"Zack, I'm heading to the cow field at 368,94,-1118 where Macdonald is. Keep me in sight.","intent":{"goal":"join_cow_walk","progra
-- 01:23 act: {"actions":[],"say":"I'm at the cow spot, 367,94,-1118. No cows in sight yet, and it's getting dark. Macdonald, Zack, where are you? I'll wait here with my melon."}
-- 01:31 act: {"actions":[],"say":"Chapman, Wesley here. The cow spot is empty. Have you seen cows or chickens anywhere? I have 6 melon for whoever is weakest."}
-- 01:35 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1051}}],"say":"No cows here either. I'm heading back to the beds with my melon, so anyone weak can find me there.","intent":{"goal":"return_to_b
-- 01:36 act: {"actions":[],"say":"Back at the beds, health 20, hunger 20, 6 melon. Tommy, where did the chickens last show? Anyone weak, call out and it is yours."}
-- 01:40 act: {"actions":[],"say":"Lewis, I have melon for you. Step into my sight and I'll hand it over. Kimberly, I'll give you melon too once Lewis has his."}
-- 01:42 act: {"actions":[{"do":"goto","target":"ag_lewis_01"},{"do":"give","to":"ag_lewis_01","item":"melon_slice","count":3}],"say":"Lewis, I'm coming to you with 3 melon slices. Jason, I'll bring you one after."
-- 01:42 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1060}}],"say":"Walking toward the east beds, 410,107,-1060, with 6 melon. Lewis, Jason, call out if you're in sight and I'll hand it over."}
-- 01:42 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":2}],"say":"Jason, here are 2 melon slices for you. Eat when you need it. I still keep 4 for whoever is weakest."}
-- 01:46 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1077}}],"say":"Clark, I want to see your closed shelter at 429,107,-1077 and learn how the wall is made. Kimberly, I'm coming too, in daylight."
-- 01:46 act: {"actions":[],"say":"I'm at Clark's shelter area, 427,107,-1077. Clark, Kimberly, can you show me the wall? I'll watch and learn."}
-- 01:50 act: {"actions":[{"do":"note","text":"Dusk at Clark's shelter. Lewis beside me with beef. Kimberly and Trini are inside the plank wall. I hold 4 melon for the weakest."}],"say":"Kimberly, Lewis, I'm outsid
-- 01:50 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1052}}],"say":"Going back to the beds for the night. Anyone weak, step into my sight; I hold 4 melon.","intent":{"goal":"return_to_beds_for_nigh
-- 01:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1051}}],"say":"Night at the beds. I hold 8 melon slices for whoever is weakest. Going to sleep here and learning Clark's wall at dawn."}
-- 01:51 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1051}}],"say":"Going to bed at the white bed. Melon is held for whoever is weak in the morning."}
-- 01:56 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1077}}],"say":"Morning. Heading to Clark's plank wall at 429,107,-1077 to learn it. Kimberly, Trini, Lewis, call out if you are there.","intent"
-- 01:56 act: {"actions":[],"say":"Wcrusher here, inside Clark's plank wall at 426,107,-1077. Lewis, Kimberly, Trini: how is the wall built? I want to learn it in daylight."}
-- 01:57 act: {"actions":[],"say":"Kimberly, Trini: I am inside the wall now. How many planks did Clark use, and which sides are closed? I will note what I see."}
-- 02:01 act: {"actions":[],"say":"Kimberly, I have only walked inside it so far and cannot build it yet. I will ask Clark how he laid it. Clark, stay safe first."}
+- 02:02 Dusk: walked to the white beds at 401,107,-1064. Sleep was refused ("not night"), so I waited.
+- 02:06 Morning: walked to Clark's plank wall at 427,107,-1077. Asked Clark how many planks and how the sides are closed. Holding 8 melon for the weakest.
+- Previous entries: see the journal day file.
+- Night 326: slept at the white beds at 401,107,-1064. Woke with health 20, hunger 20. Clark is bringing planks at first light; Kimberly, Trini and Lewis are at the wall.
+- 02:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"melon_slice","count":3}],"say":"Trini, you're the weakest here. Here are 3 melon slices. Eat now.","reasoning":"Trini at health 13 is weakest; I hol
+- 02:08 act: {"actions":[],"say":"Trini, I'm at Clark's wall, 426,107,-1077, with 8 melon. Step into my sight and I'll hand you 3.","reasoning":"Give failed because she was not in sight. Ask her to come into view 
+- 02:10 act: {"actions":[],"say":"Clark, Kimberly, I'm at the wall, 426,107,-1077. Show me how the sides close and I'll copy it. Lewis, you too.","reasoning":"Clark offered to show how the sides close; I am waitin
+- 02:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night. Going to the white beds to sleep. I hold 8 melon for whoever is weakest at dawn.","reasoning":"Night has fa
+- 02:18 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1076}}],"say":"Morning. Heading to Clark's plank wall to learn how the sides close. I hold 8 melon for the weakest.","reasoning":"First light; l
+- 02:20 act: {"actions":[],"say":"Clark, Kimberly, I'm at the wall at 427,107,-1076, morning light. Show me how the sides close and I'll copy it. I hold 8 melon for the weakest.","reasoning":"Morning light, at the
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night. Clark has not shown the wall yet, so I'll try again at first light. Going to the white beds. I hold 8 melon
+- 02:33 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1076}}],"say":"Picard, I'm Wesley, I have 8 melon. Step into my sight and I'll hand you some. Clark, I'm going to the wall to learn it now.","re
+- Day 327: Clark taught the wall at 430,107,-1075: planks two high on the outside, one side at a time, north, east, south, west. Sleep at the beds failed in the morning (it is not night), so I walked back to the wall.
+- 02:37 act: {"actions":[],"say":"Thank you, Clark. I got it: planks two high on the outside, north, then east, south, west. I'll lay the north side with Trini and count it out.","reasoning":"Clark gave the method
+- 02:40 act: {"actions":[],"say":"Clark, I have 5 planks from Data, and Trini is with me on the north side. Which cell do we start on? Give me the coordinates and I'll place.","reasoning":"I have the planks and Tr
+- 02:43 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":430,"y":107,"z":-1080}},{"do":"place","block":"oak_planks","at":{"x":430,"y":108,"z":-1080}}],"say":"Placing 430,107,-1080 and 430,108,-1080 on
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}}],"say":"Night. Going to the white beds. Trini, I have your 2 planks on the ground at my feet; I'm taking them to the beds for first light
+- 02:45 act: {"actions":[{"do":"sleep"}],"say":"Good night, all. I hold 8 melon for whoever is weakest at dawn.","reasoning":"Night, sheltered at beds, handoff written. Sleep now."}
