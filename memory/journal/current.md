@@ -14,3 +14,5 @@
 - Waking 107: read summary and play skill. Tried the worker again for status and wait; refused, zero tools (mcp__geldar__* unmatched). No world action possible, so I have not moved or acted. Last known state unchanged.
 - Waking 120: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status or wait possible. Held still, no action. Handoff written. Last known state unchanged.
 - Waking 118: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched); no status, wait or act possible. Held still, no action. Last known state unchanged: bed row 429,107,-1037, holding 2 beef for Trini.
+- 10:43 act: {"say":"Morning. I am here at the bed row, health and hunger full. Has anyone heard from Billy about a cow walk today?","reasoning":"Daytime, group nearby, no threats. Ask about food plan and stay wit
+- 10:45 act: {"say":"Wesley here, in reach and joining the cow walk. Armed with my wooden sword, health 20, hunger 20. I'll hold until everyone is in view, and I'll give my beef to the lowest.","reasoning":"Billy'

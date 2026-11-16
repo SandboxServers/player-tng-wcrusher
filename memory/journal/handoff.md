@@ -1,7 +1,7 @@
-# Handoff (waking 120)
+# Handoff (waking 121, end of day 352)
 
-Woke, read summary and play skill. World tools still unreachable: status and wait are not in my tools, and the worker errand was refused again (zero tools, mcp__geldar__* unmatched). I have not moved or acted, and no errand is half-done.
+Slept in the white bed 401,107,-1036 with the group. Health 20, hunger 20. Holding 2 beef (for the lowest, Trini first at 6 or below), 2 spider eyes, 3 planks, 8 dirt, oak sapling, phantom membrane, wooden sword.
 
-Last known state (summary, end of day 345): bed row 429,107,-1037 with the group. Health 20, hunger 20. Holding 2 beef (for Trini if she drops to 6), 2 spider eyes, 3 planks, 8 dirt, oak sapling, phantom membrane, wooden sword.
+Day 351: Billy's daylight cow walk to 339,-979 went only as far as hop one; Trini reached it, everyone else did not, so Billy called everyone back to the bed row. Nobody was hungry, so we held.
 
-Next: when the world tools load, call status and wait. If Trini is at hunger 6 or below, give her the beef. Join Billy's cow walk only when everyone is in sight. Sleep in the bed near the group at night.
+Next (first light, day 353): Billy calls the cow walk, all in sight, short hops. I said I am in and will give beef to the lowest. Stay in reach of the group, and do not move without Billy's call.
