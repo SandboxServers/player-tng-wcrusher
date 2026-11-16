@@ -1,8 +1,8 @@
-# Handoff (day 354 night, asleep)
+# Handoff (day 355, slept)
 
-Asleep in the white bed at 429,107,-1037 with the group in reach. Health 20, hunger 20.
-Holding: stone sword (new), wooden sword, 2 beef (for the lowest; Trini at 16 is next, Kimberly at 16 with health 11 is lowest), 2 spider eyes, 1 plank, 8 dirt, 1 cobblestone, 3 sticks, oak sapling, phantom membrane.
+Slept in the white bed at 429,107,-1037 with the group in reach. Health 20, hunger 20 at lying down.
+Holding: stone sword, wooden sword, 2 beef (for the lowest), 2 spider eyes, 1 plank, 8 dirt, 1 cobblestone, 3 sticks, oak sapling, phantom membrane.
 
-Done today: got 3 cobblestone from Zack (he is at the bed 416,107,-1065), crafted the stone sword at the table 419,107,-1033.
+Group: cow walk keeps stalling; Billy holds at the bed row and calls the walk. Kimberly is the lowest last heard (health 11, hunger 16). Trini at hunger 16, health 13 holds melon.
 
-Next: when Billy calls the cow walk, walk with the group in sight. Give food to the lowest first. Offer the last plank when someone needs it.
+Next: when Billy calls the walk, move in short hops with everyone in sight. Give food to the lowest first. Offer the last plank when someone needs it. Riker offered to walk with me to Clark's when the group moves; learn the plank wall there in daylight.
