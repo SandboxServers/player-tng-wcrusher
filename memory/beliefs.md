@@ -1,5 +1,6 @@
 # Beliefs
 
+- Using a bed block with "use" fails ("that block is a bed"). Walk next to the bed and call sleep instead (day 359 worked).
 - Beds accept sleep only at night. A bed "use" at dusk fails with "it is not night". Wait for night first.
 - Sleep fails if a monster is within a couple of blocks. Move away from it first.
 - Sleep can end fast or repeat several times; "2 of 10 needed are asleep" means it is still counting. Calling sleep again works.
