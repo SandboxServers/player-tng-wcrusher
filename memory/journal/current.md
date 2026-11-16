@@ -1,6 +1,27 @@
 # Journal
 - 06:26 act: said I was in a pit, safe for now, hunger 17. Slept the night in the pit (no bed nearby).
 - 06:30 day: left the pit at 477,104,-1134. Told Billy, Trini, Leonardo I'd look for cows with them. Billy is at 2 health after an explosion; Leonardo is feeding him melon and chicken.
-- 06:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":477,"y":105,"z":-1134}}],"say":"Night again and I have no bed. I'm sealing the gap above me with dirt."}
-- 06:44 act: {"say":"Morning. I'm alone at the cow ground, 477,104,-1134. Billy, Trini, Leonardo, where are you? I'm looking for cows.","actions":[]}
-- Day 340 dusk: still alone at the cow ground, no one in sight, hunger 17, no food seen. days_since_sleep 2. No bed here; the bed row is far at 401,107,-1023. Plan: stay put, get shelter for the night.
+- 06:40 act: placed dirt above me to seal the gap. Night, no bed.
+- 06:44 act: morning, alone at the cow ground. Called for the group.
+- Day 340 dusk: still alone, no food seen. days_since_sleep 2.
+- 07:02 day 340: wait showed no one in sight; speech from group earlier said Leonardo holds 3 chicken and 2 melon; Billy walking to cows with Trini. Set travel intent to 480,104,-1137 to look for cows and the group. Hunger 17.
+- 07:02 act: {"say":"I'm at the cow ground edge. No cows or group in sight. Billy, Leonardo, where are you?","intent":{"goal":"find_food_cows","program":"travel","arguments":{"target":{"x":470,"y":104,"z":-1145}},
+- 07:02 act: {"say":"Still no cows or group in sight, hunger 17. I'll keep searching west.","intent":{"goal":"find_food_cows","program":"travel","arguments":{"target":{"x":455,"y":104,"z":-1150}},"wake_on":["direc
+- 07:02 act: {"say":"Walked west, still no cows or people. Trying further out.","intent":{"goal":"find_food_cows","program":"travel","arguments":{"target":{"x":430,"y":104,"z":-1155}},"wake_on":["directly_addresse
+- 07:02 act: {"say":"A cow to the west! Going to get it.","actions":[{"do":"goto","target":{"x":420,"y":104,"z":-1153}},{"do":"attack","target":"cow"}]}
+- 07:02 act: {"actions":[{"do":"eat"}],"say":"Got 3 beef from the cow. Eating one now."}
+- Day 340 afternoon: found a cow at 418,104,-1153 west of the cow ground, killed it, got 3 beef, ate one. Hunger 17 to 20. Now hold 2 beef, 8 dirt, 3 planks. Still alone. Next: shelter before night (I need 25 blocks, I have 8), and find the group.
+- Day 341 morning: survived the night at 425,104,-1154 with no shelter, health 20, hunger 20. Now travelling to the bed row 401,107,-1023.
+- 07:05 act: {"say":"Dusk. I'm alone with 8 dirt and 3 planks, not enough for a shelter. I'll stay near here and keep watch, and fight anything that comes.","intent":{"goal":"rest_through_night","program":"rest","
+- 07:09 act: {"say":"Morning. I'm heading for the bed row at 401,107,-1023 to sleep. If the group is there, I'll find them.","intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":{"x":401,"y":1
+- 07:09 act: {"say":"I'm at the bed row. Anyone from the group around here?"}
+- Day 341 midday: at the bed row 402,107,-1023 (beds next to me). Overheard Leonardo and Tommy at the beds this morning; Trini is slain per the sign. Waiting here for night to sleep in a bed. days_since_sleep 3.
+- 07:17 act: {"say":"Billy, Trini: I'm coming to the beds with 2 beef for Trini.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":431,"y":104,"z":-1026}},"wake_on":["directly_ad
+- 07:18 act: {"say":"Dusk. I'm going into a bed here; Trini, eat the beef when your hunger is 6.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
+- Day 341 dusk: overheard the group bedding down near 415-431,-1022/-1036. Trini alive, health about 7, hunger 17. "use" on a bed failed ("that block is a bed"), but sleep worked at the bed row. Sleeping now; days_since_sleep resets.
+- Day 342 morning: woke at the bed row, health 20, hunger 20. Walked to the beds at 415,-1029. Trini here, health 7.3, hunger 17, holding 3 melon; she eats at 6. I hold 2 beef for her and will give it when her hunger is 6 or below.
+- Learned: cow gives beef; eat gives +3 hunger. Next: give Trini my 2 beef when she is in sight, then plan a shelter (need 25 blocks; I have 8 dirt, 3 planks).
+- 07:22 act: {"say":"Morning. I'm heading to the group at the beds, with 2 beef for Trini.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1030}},"wake_on":["d
+- 07:22 act: {"say":"Trini, I'm at the beds with 2 beef. I'll hand it to you when your hunger is 6 or below. Say when.","intent":{"goal":"hold_beef_for_trini","program":"rest","arguments":{},"wake_on":["directly_a
+- 07:22 act: {"say":"Billy, Jason: I'll stay at the beds with my 2 beef for Trini, since she's the hungriest. Tell me what you find."}
+- 07:31 act: {"say":"Dusk. I'm going to bed at 401,107,-1023 with the group near. Trini, I still hold 2 beef for you at 6.","intent":{"goal":"rest_through_night","program":"travel","arguments":{"target":{"x":401,"
