@@ -1,3 +1,5 @@
-# Handoff (day 363, night)
+# Handoff (day 364)
 
-Asleep in bed 443,107,-1036 at the white bed row, group in reach. Health 20, hunger 20. Holding 2 beef for the lowest. Next: at first light, stay in Billy's sight and wait for the cow walk call.
+Standing at the white bed 443,107,-1037 with the group in sight. Health 20, hunger 20, not in danger. Holding 2 beef for the lowest. days_since_sleep 1.
+Told the group (Picard asked) that I will sleep at this bed tonight.
+Next: wait for night, then call sleep here and check afterward that I really slept. At first light, stay in Billy's sight for the cow walk call.
