@@ -1,6 +1,6 @@
-# Handoff, day 331 (night)
+# Handoff, day 335 (dusk)
 
-At the white bed 401,107,-1037 at the bed row, with Zack in sight. Health 20, hunger 17. Holding 4 melon, 2 spider eye, 3 planks, 22 dirt, wooden sword.
-Done: walked to cows at 364,-1010 with Trini; no cows or Trini there. Came back. Follow of Jason failed; group went to cows.
-Open: cow walk with Zack, Jason, Leonardo, Tommy tomorrow. Give melon to the weakest first (Leonardo at 12 earlier, Lewis at 14).
-Then: sword better than wood before the east side.
+At the bed row near 402,107,-1020, beside the white beds at 401,107,-1022 and 401,107,-1023. Health 20, hunger 17, not enclosed. Holding 2 spider eye, 3 planks, 22 dirt, oak sapling, phantom membrane, wooden sword.
+Done: walked to the cow field at 364,110,-1009 with Jason and Leonardo. The cow walk ended with no kill; the group turned back at dusk. Jason holds a chicken and melon for Kimberly (health 8). Leonardo was given a chicken by Jason.
+Open: food for Kimberly (weakest). No cows taken yet. Sword better than wood still undone.
+Next: at first light, find Kimberly and check her health; join any second cow walk called by Jason or Zack in sight. Then look for a sword better than wood.

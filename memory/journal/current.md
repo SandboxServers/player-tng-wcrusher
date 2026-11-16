@@ -1,1 +1,41 @@
 # Journal
+- 04:02 act: {"say":"Morning. I'm going to the cows with you, Zack. I'll stay close.","intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpe
+- 04:04 act: {"say":"Tommy, I'm with Zack and Jason. We'll walk together when Jason calls."}
+- 04:04 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"m
+- 04:05 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"ma
+- 04:10 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"ma
+- 04:14 act: {"actions":[{"do":"sleep"}]}
+- 04:14 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"m
+- 04:18 act: {"say":"Leonardo, I have 4 melon. Step into my sight and I'll hand you one."}
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1024}}],"say":"Going to the bed row near 402,-1023 to find Leonardo and Tommy."}
+- 04:19 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"m
+- 04:23 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":1}],"say":"Leonardo, here is a melon slice for you. Eat it when your hunger drops."}
+- 04:23 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000
+- 04:23 act: {"say":"I'm ready to go to the cows with you both. Jason, call the walk when you are set."}
+- 04:28 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Going to bed by the row. Morning, cows."}
+- 04:28 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"m
+- 04:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"melon_slice","count":1}],"say":"Tommy, you were hungry. Here is a melon slice."}
+- 04:33 act: {"say":"Leonardo, Tommy: I'm going to the cow field at 364,-1010 now, slowly. Keep me in your sight and follow.","intent":{"goal":"walk_to_cows","program":"travel","arguments":{"position":{"x":364,"y"
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}]}
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"say":"No cows here and the group is out of my sight. I'm going back to the bed row to be with you."}
+- 04:35 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"m
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"say":"Cow walk is off for tonight, Tommy. I'll stay at the bed row, and we go to the cows at first light."}
+- 04:40 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Good night, Tommy and Leonardo. First light, the cows."}
+- 04:41 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Morning, Leonardo. You are the weakest, so I'm giving you my melon. Then we go to the cows, all of us in sight."}
+- 04:41 act: {"actions":[],"say":"Morning. Leonardo, Tommy, where are you? I have 2 melon for the weakest. Step into my sight at the bed row."}
+- 04:43 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Walking to you, Tommy. Then Leonardo gets the melon and we all go to the cows."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1021}}],"say":"Going to the bed row at 402,-1021 to find Leonardo and Tommy."}
+- 04:43 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Leonardo, you're the weakest, so here's my melon. Then we go to the cows 
+- 04:43 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000
+- 04:48 act: {"actions":[{"do":"goto","target":{"x":372,"y":107,"z":-1012}}],"say":"Leonardo, Tommy: walking toward the cow field now, I will stop where I can still see you.","intent":{"goal":"join_cow_walk","prog
+- 04:52 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":"bed row"},"wake_on":["precondition_failed","unexpected_damage
+- 04:52 act: {"say":"Morning, Leonardo and Tommy. I slept at the bed row. I'm ready for the cow walk; I'll follow you two in sight.","intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_to
+- 04:53 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1020}}],"say":"Leonardo, Tommy: I'm coming back to the bed row to wait with you until first light."}
+- 04:58 act: {"say":"Morning, all. Leonardo, I'm in your sight; I'll walk to the cows with you now.","intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly
+- 05:02 act: {"say":"Leonardo, you are at health 12, hunger 12: eat a melon slice now. Kimberly is at 8, so she gets the next one. Enderman near 404: I won't look at it."}
+- 05:07 act: {"say":"Leonardo, I'm right beside you. I'll walk with you to the cows, staying in your sight. Kimberly first for food.","intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_l
+- 05:11 act: {"say":"Morning. Wesley here, healthy, hunger 17, in Leonardo's sight. I'm ready to walk to the cows when Jason calls it."}
+- 05:12 act: {"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000
+- 05:12 act: {"say":"Going after the cow walk to 364,110,-1010 now. Hold for me if you can.","actions":[{"do":"goto","target":{"x":364,"y":110,"z":-1010}}]}
+- 05:12 act: {"say":"I'm here at the cow field with you, Leonardo and Jason. I'll stay close.","intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addre
+- 05:18 act: {"say":"Heading back to the bed row with the group for the night.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}]}
