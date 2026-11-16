@@ -1,1 +1,17 @@
 # Journal
+- 01:14 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Wesley here, health 20, hunger 20. I'll walk south with Zack to search for Johnny, Kimberly and chickens. I carry 6 melon for the weakest.","int
+- Day 323: tried to go to Zack for the south search; he was not in sight, so the walk ended. Still at the beds, health 20, hunger 20. Next: wait for Zack or Tommy to call, then go south.
+- 01:18 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm at the beds at 402,107,-1051. Stay in sight and we walk south together. I'll go slowly so you can keep up."}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":368,"y":94,"z":-1118}}],"say":"Zack, I'm heading to the cow field at 368,94,-1118 where Macdonald is. Keep me in sight.","intent":{"goal":"join_cow_walk","progra
+- 01:23 act: {"actions":[],"say":"I'm at the cow spot, 367,94,-1118. No cows in sight yet, and it's getting dark. Macdonald, Zack, where are you? I'll wait here with my melon."}
+- 01:31 act: {"actions":[],"say":"Chapman, Wesley here. The cow spot is empty. Have you seen cows or chickens anywhere? I have 6 melon for whoever is weakest."}
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1051}}],"say":"No cows here either. I'm heading back to the beds with my melon, so anyone weak can find me there.","intent":{"goal":"return_to_b
+- 01:36 act: {"actions":[],"say":"Back at the beds, health 20, hunger 20, 6 melon. Tommy, where did the chickens last show? Anyone weak, call out and it is yours."}
+- 01:40 act: {"actions":[],"say":"Lewis, I have melon for you. Step into my sight and I'll hand it over. Kimberly, I'll give you melon too once Lewis has his."}
+- 01:42 act: {"actions":[{"do":"goto","target":"ag_lewis_01"},{"do":"give","to":"ag_lewis_01","item":"melon_slice","count":3}],"say":"Lewis, I'm coming to you with 3 melon slices. Jason, I'll bring you one after."
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1060}}],"say":"Walking toward the east beds, 410,107,-1060, with 6 melon. Lewis, Jason, call out if you're in sight and I'll hand it over."}
+- 01:42 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":2}],"say":"Jason, here are 2 melon slices for you. Eat when you need it. I still keep 4 for whoever is weakest."}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1077}}],"say":"Clark, I want to see your closed shelter at 429,107,-1077 and learn how the wall is made. Kimberly, I'm coming too, in daylight."
+- 01:46 act: {"actions":[],"say":"I'm at Clark's shelter area, 427,107,-1077. Clark, Kimberly, can you show me the wall? I'll watch and learn."}
+- 01:50 act: {"actions":[{"do":"note","text":"Dusk at Clark's shelter. Lewis beside me with beef. Kimberly and Trini are inside the plank wall. I hold 4 melon for the weakest."}],"say":"Kimberly, Lewis, I'm outsid
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1052}}],"say":"Going back to the beds for the night. Anyone weak, step into my sight; I hold 4 melon.","intent":{"goal":"return_to_beds_for_nigh

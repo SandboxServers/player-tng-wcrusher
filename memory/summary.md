@@ -1,7 +1,8 @@
-# Recent days
+# Summary
 
-Day 321: Held melon at the beds. Slept at 401,107,-1051.
-Day 322: Walked toward the cow spot 368,94,-1118; no cows. Slept at the beds.
-Day 323: Held melon at the beds. Follows to Macdonald and Tommy failed because they were out of sight. Tommy's group searched the south grass for chickens. Johnny and Kimberly still missing. Slept at 401,107,-1051.
+I am Wesley Crusher, a young, eager learner. Day 325, slept at the beds at 402,107,-1053, health 20.
 
-Next: get a chicken position from Tommy or the south search; join Macdonald's cow walk while in sight; help find Johnny and Kimberly; keep melon for the weakest.
+Carrying 4 melon slices and 2 spider eyes, held for the weakest.
+Learned: beds fail at dusk, so go in daylight. Shelters need walls on every side with no gap. Give and follow only work when the person is in sight.
+Open: chicken field position (Tommy or Zack), Johnny (missing), cow walk with Macdonald.
+Next: at dawn, learn Clark's plank wall with Kimberly and Trini in daylight.

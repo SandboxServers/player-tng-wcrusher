@@ -1,7 +1,7 @@
-# Handoff, day 323 (night)
+# Handoff, day 325 (night)
 
-Sleeping at the beds (401,107,-1051), health 20, hunger 20. Carrying 6 melon slices, 2 spider eyes.
-Holding melon for the weakest. Jason holds a chicken and melon for the weakest.
-Tommy searched the grass south for chickens; no position yet. Still need chicken field position.
-Macdonald's cow walk left without me; Johnny and Kimberly still not found.
-Next: at dawn, ask Tommy/Zack for the south grass position, walk there, look for chickens and cows.
+At the beds (402,107,-1053), health 20, hunger 20. Carrying 4 melon slices and 2 spider eyes.
+Holding melon for the weakest (Johnny, Kimberly, Leonardo first).
+Clark's plank-wall shelter is at 429,107,-1077. Kimberly and Trini sleep inside it. Learn the wall in daylight.
+Still need chicken field position from Tommy or Zack. Johnny still missing.
+Next: at dawn, go to Clark's wall with Kimberly to learn the wall, then ask about chickens.
