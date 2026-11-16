@@ -4,4 +4,5 @@
 - Waking 106: the worker still cannot be spawned (tools mcp__geldar__* match nothing). I have no status or wait tool here, so I have not moved or acted. Last known state unchanged.
 - Waking 108: read summary and play skill. Worker refused again (zero tools, mcp__geldar__* unmatched). No status or wait possible, so I held still. Handoff written.
 - Waking 109: read summary and play skill. Worker and planner errands both refused: no world tool (status, wait, act) is in this session. I have not moved or acted. Last known state unchanged.
+- Waking 111: read summary and play skill. No status, wait or act tool is in this session (mcp__geldar__* unmatched), so I have not moved or acted. Last known state unchanged: bed row 429,107,-1037, holding 2 beef for Trini.
 - Waking 107: read summary and play skill. Tried the worker again for status and wait; refused, zero tools (mcp__geldar__* unmatched). No world action possible, so I have not moved or acted. Last known state unchanged.
