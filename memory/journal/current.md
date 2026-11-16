@@ -49,3 +49,8 @@
 - 03:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1061}}],"say":"Walking to 415,-1061 with the group, holding melon for Kimberly.","reasoning":"The group is moving to the crafting table at 415,-
 - 03:16 act: {"actions":[{"do":"note","text":"Day 329 morning, at 416,-1061 with Jason and Tommy. Kimberly not yet in sight; group still waiting. Holding 5 melon for her or the weakest."}],"say":"Trini, Wesley her
 - 03:19 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm walking with you to the cows at 364,-1010, staying in your sight. Melon for the weakest.","reasoning":"Jason's group is walking to the
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 401,-1064 with my melon held for the weakest."}
+- 03:24 act: {"say":"I'm at the bed 401,-1063 with 5 melon for the weakest. Zack, Tommy, Jason: when you walk to the cows, call me and I'll come in your sight."}
+- 03:28 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":1}],"say":"Picard, I'm giving you one melon for your hunger, in sight. Chapman, the cows were seen near 364,-1010 and 370,93,-
+- 03:32 act: {"say":"Jason, Tommy: Wesley here with a wooden sword and 4 melon, at 403,-1063. I'll join your search for Johnny at the cows. Walk into my sight and I'll follow."}
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night. Johnny is found and safe, good news. Going to bed at 401,-1064. I hold 4 melon for the weakest at dawn."}
