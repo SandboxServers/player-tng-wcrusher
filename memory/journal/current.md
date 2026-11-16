@@ -54,3 +54,5 @@
 - 03:28 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":1}],"say":"Picard, I'm giving you one melon for your hunger, in sight. Chapman, the cows were seen near 364,-1010 and 370,93,-
 - 03:32 act: {"say":"Jason, Tommy: Wesley here with a wooden sword and 4 melon, at 403,-1063. I'll join your search for Johnny at the cows. Walk into my sight and I'll follow."}
 - 03:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night. Johnny is found and safe, good news. Going to bed at 401,-1064. I hold 4 melon for the weakest at dawn."}
+- 03:38 act: {"say":"Morning. Wesley here, health 20, hunger 17. I hold 4 melon slices for whoever is weakest. Tommy, you said 12 health: where are you? I'd like to learn the chicken field.","actions":[{"do":"goto
+- 03:38 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"melon_slice","count":2}],"say":"Tommy, Zack: I'm with you, here are 2 melon for Tommy, who was at 12 health. Zack, where is the chicken field? I'll 
