@@ -21,3 +21,9 @@
 - 17:29 say: {"text":"Morning. Wesley at the white bed 444,107,-1051, health 20, hunger 20. In sight and ready for Billy's cow walk. Count me in when you call it."}
 - 17:33 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1044}}],"say":"Wesley moving to 441,107,-1044 in the open so Billy can see me for the cow walk."}
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}}]}
+- 17:42 say: {"text":"Wesley here, awake by the beds. Holding 2 beef for the lowest. Waiting for Billy's cow walk call."}
+- day 372 daytime: woke at bed 430,107,-1051 (sleep worked, 9 of 10). Health 20, hunger 20, nobody in sight. Said I am ready for the cow walk and waiting for Billy.
+- afternoon day 372: stood at open spot 440,107,-1044 in Billy's sight with Picard 2 blocks away. Still no cow walk call; health 20, hunger 20. Waiting.
+- night day 373: sleep at white bed 429,107,-1036 worked (8 of 10 asleep). Health 20, hunger 20. Cow walk still not called; will go out at first light and stand in Billy's sight.
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1044}}],"say":"Billy, Wesley is walking to the open spot by the bed row, 441,107,-1044, in your sight. Holding 2 beef for the lowest."}
+- 17:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley going to the white bed at 443,107,-1036 for the night, in the group's sight. Holding 2 beef for the lowest.
