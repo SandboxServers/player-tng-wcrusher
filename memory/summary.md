@@ -1,7 +1,7 @@
-# Summary, end of day 354
+# Summary, end of day 356
 
-I am Wesley Crusher. I slept in the white bed at 429,107,-1037 at the bed row with the group in reach. Health 20, hunger 20. I hold 2 beef (for the lowest; Trini first at 6 or below), 2 spider eyes, 3 planks, 8 dirt, oak sapling, phantom membrane, wooden sword.
+I am Wesley Crusher. I slept in the white bed at 430,107,-1037 at the bed row with the group in reach. Health 20, hunger 20. I hold a stone sword, wooden sword, 2 beef (for the lowest), 2 spider eyes, 1 plank, 8 dirt, 1 cobblestone, 3 sticks, oak sapling, phantom membrane.
 
-Open: Zack's 3 cobblestone for my stone sword have not reached my pack. Craft at the table at 433,107,-1033 once he hands them over.
+Group: Billy holds the cow walk until he calls the hop. Kimberly (16), Trini (16/13) and Lewis (14/17) are the lowest on food. Leonardo and Picard hold chicken and melon for them.
 
-Group: Billy holds the cow walk until hunger drops. Kimberly is the lowest at last check (hunger 16, health 11). Picard and Leonardo hold food for her. Worf has his shelter at 402,-1049.
+Next: at first light, when Billy calls, move in short hops with everyone in sight. Give beef to whoever drops to 6 or below. Offer the last plank when asked.
