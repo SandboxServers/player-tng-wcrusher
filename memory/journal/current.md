@@ -25,3 +25,17 @@
 - 07:22 act: {"say":"Trini, I'm at the beds with 2 beef. I'll hand it to you when your hunger is 6 or below. Say when.","intent":{"goal":"hold_beef_for_trini","program":"rest","arguments":{},"wake_on":["directly_a
 - 07:22 act: {"say":"Billy, Jason: I'll stay at the beds with my 2 beef for Trini, since she's the hungriest. Tell me what you find."}
 - 07:31 act: {"say":"Dusk. I'm going to bed at 401,107,-1023 with the group near. Trini, I still hold 2 beef for you at 6.","intent":{"goal":"rest_through_night","program":"travel","arguments":{"target":{"x":401,"
+- 07:31 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Goodnight. Trini, I will give you the beef in the morning when you are hungry."}
+- 07:31 act: {"actions":[{"do":"sleep"}],"say":"I'm in the bed row for the night. Trini, the beef is yours in the morning when you are hungry."}
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1031}}],"say":"Morning. Wesley here, health 20, hunger 20. I'm joining the group at the beds. Trini, I'll keep my 2 beef for you at 6.","intent"
+- 07:36 act: {"actions":[],"say":"Jason, I'm with you at the beds. Wesley, health 20, hunger 20, holding 2 beef for Trini at 6. Where do we go to the cows?"}
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1019}}],"say":"Going with you to 427,-1019. Wesley, in sight.","intent":{"goal":"join_cow_group","program":"travel","arguments":{"target":{"x":4
+- 07:38 act: {"actions":[],"say":"Leonardo, Jason, I'm here with you. Leonardo, how did you get your sword? I only have wood, and I want to learn."}
+- 07:41 act: {"actions":[],"say":"Trini, Kimberly: I'm at 427,-1020 with 2 beef. Say when you reach 6 and I'll come to you. Leonardo, I'll stay with you."}
+- 07:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Wesley going to the bed row at 429,-1035 with the group, holding 2 beef for Trini. Trini, call me at 6."}
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"Morning. Wesley, health 20, hunger 20. Trini has melon now, so I'll keep my beef. I'm going to the cow spot at 364,-1010 to look 
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1020}}],"say":"No cows at 364,-1010, nothing in sight. I'm heading back to the group at 427,-1020, still holding 2 beef for Trini.","intent":{"g
+- 07:50 act: {"actions":[],"say":"Wesley at 427,-1020, no one in sight. Holding 2 beef for Trini at 6. Call me if you need me."}
+- 07:54 act: {"actions":[{"do":"goto","target":"Jason"}],"say":"Wesley here. I'll walk with you and Leonardo to the cow at 339,-979, and keep in sight of the group.","intent":{"goal":"join_cow_walk","program":"tra
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Kimberly, you're at 8 health: please eat a melon now. Night is here, I'm going to the bed at 401,-1023.","intent":{"goal":"reach_
+- 07:58 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the bed row. Holding 2 beef for Trini; will give it in the morning if she's at 6 or below."}
