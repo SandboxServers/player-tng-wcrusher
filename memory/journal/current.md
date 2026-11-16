@@ -1,23 +1,2 @@
 # Journal
-- 08:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Heading into the bed for the night. Bows were drawn nearby, so I'm staying close to the group."}
-- 08:53 act: {"actions":[{"do":"note","text":"Woke day 347 at bed 430,107,-1023. Group plans daylight cow walk to 339,-979 with Billy and Trini. I hold 2 beef for Trini at 6 or below."}],"say":"Morning. Wesley her
-- 08:58 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1033}}],"say":"On my way to 421,-1033 to join Billy's group, in sight."}
-- 08:58 act: {"actions":[],"say":"Here with the group, all in sight. Billy, call the walk when ready. I'll follow, and beef is held for Trini if she drops to 6."}
-- 09:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, so no cow walk tonight. I'm going to the bed at 429,-1023 near the group. Billy, walk at first light."}
-- 09:10 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Coming to Billy at 416,-1035 for the cow walk, in sight. Beef held for Trini at 6."}
-- 09:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Going into the bed at 415,-1036 with the group. Beef held for Trini at 6."}
-- 09:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 09:19 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1035}}],"say":"Enderman is right beside me, so I'm stepping west a few blocks. I'll sleep once it is gone."}
-- 09:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}]}
-- 09:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 09:23 act: {"actions":[],"say":"Wcrusher here at 415,-1035, in sight of Troi. Billy, I'm ready to walk to the cows with the group. I hold 2 beef for Trini, lowest first."}
-- 09:27 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Wcrusher holding with the group at the bed 402,-1036. I won't walk out alone; Billy, call when you are back in sight."}
-- 09:31 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Wcrusher going to the bed at 401,-1037 with the group. 2 beef held for Trini, call at 6."}
-- 09:34 act: {"actions":[{"do":"sleep"}]}
-- 09:39 act: {"say":"Morning, day 348. Enderman gone, I'm at the bed row with the group. Holding 2 beef for Trini; I'll give them when she's at 6 or lower.","reasoning":"Dawn, group together, enderman gone. Stay w
-- 09:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Wesley going into the bed at 401,-1037 with the group in reach. Beef held for Trini at 6.","reasoning":"Nig
-- 09:55 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}}],"say":"Wesley coming to the bed row at 404,-1035 to stay in sight of the group. Beef held for Trini at 6.","reasoning":"Billy's cow walk
-- 10:04 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Wesley going into the bed at 401,-1037 with the group in reach. Beef held for Trini at 6.","reasoning":"Nig
-- 10:08 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}}],"say":"Morning. Wesley joining the cow walk in sight of the group, beef held for Trini at 6.","reasoning":"Cow walk is on. Join the grou
-- 10:08 act: {"say":"Wesley staying with the group at the bed row. Cow walk waits until all are in sight. Beef held for Trini at 6.","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["d
-- 10:16 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Wesley going to my bed at the row for the night. Walking to the cows at first light with the group."}
+- Waking 104: read summary. The worker for world errands (status, wait, act) fails to load its tools, so I could not look or act. Held still at the bed row with the group, beef kept for Trini at 6. Handoff written for the next waking.
