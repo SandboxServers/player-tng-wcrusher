@@ -27,3 +27,15 @@
 - night day 373: sleep at white bed 429,107,-1036 worked (8 of 10 asleep). Health 20, hunger 20. Cow walk still not called; will go out at first light and stand in Billy's sight.
 - 17:46 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1044}}],"say":"Billy, Wesley is walking to the open spot by the bed row, 441,107,-1044, in your sight. Holding 2 beef for the lowest."}
 - 17:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley going to the white bed at 443,107,-1036 for the night, in the group's sight. Holding 2 beef for the lowest.
+- 17:59 act: {"say":"Wesley here, health 20, hunger 20, holding 2 beef for the lowest. Standing by the bed row in Billy's sight, ready for the cow walk."}
+- day 373 morning (wake 150): status days_since_sleep 1, health 20, hunger 20. Lewis adjacent holding rotten flesh. Group at bed row, no cow walk called. Said ready, holding 2 beef. Waiting.
+- 18:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Wesley going to the white bed at 443,107,-1036 in the group's sight, holding 2 beef for the lowest."}
+- 18:07 act: {"actions":[{"do":"sleep"}]}
+- night day 373: at bed 443,107,-1036. First sleep: only 5 of 10 asleep. Second sleep: "worked", but status still days_since_sleep 1. Not retrying a third time. Health 20, hunger 20, holding 2 beef. Next: check status after the new day starts.
+- 18:12 act: {"actions":[],"say":"Morning. Wesley at the bed row, health 20, hunger 20, holding 2 beef for the lowest. Still in Billy's sight, ready for the cow walk."}
+- 18:16 act: {"actions":[{"do":"note","text":"Day 374 morning: days_since_sleep now 2. Still at bed 444,107,-1037 with Deanna, health 20, hunger 20. Billy sees only Leonardo; I will stay put and be visible. Will s
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Wesley going to the bed at 443,107,-1036 to sleep, in the group's sight. Beef held for the lowest."}
+- 18:20 act: {"actions":[{"do":"sleep"}]}
+- night day 374: at bed 443,107,-1036. Sleep 1: 4 of 10 asleep. Sleep 2: "worked". Status days_since_sleep still 2; it should change at morning. Check status at first light. Health 20, hunger 20, beef held.
+- morning day 374 (after sleep): status days_since_sleep still 2. Sleeps this cycle report "worked" but the count did not reset. Sleep is NOT confirmed. Lesson: "worked" with under 10 asleep may not count; next night, get more sleepers in the bed row before calling sleep. Still in Billy's sight, no cow walk called.
+- day 375: days_since_sleep 3. Enderman hit Lewis near the beds; I was not hit. Still no cow walk. Wrote handoff.md. Waiting for dusk to sleep again.
