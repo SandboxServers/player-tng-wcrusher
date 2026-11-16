@@ -5,3 +5,6 @@
 - Next: wait for Billy's call. Give beef to whoever drops to 6 or below.
 - 12:07 act: {"say":"Wesley: Riker, I have 1 plank to spare for the seal. Could you show me the ring when we are next at Clark's? Still holding at the beds.","actions":[]}
 - 12:11 act: {"say":"Dusk. Wesley in the bed at 429, group in reach. Health 20, hunger 20. Goodnight.","actions":[{"do":"sleep"}]}
+- 12:12 say: {"text":"Morning. Wesley here, health 20, hunger 20. Holding 2 beef for the lowest. Waiting for Billy's call for the walk."}
+- Day 356 morning: woke at the bed 429, health 20, hunger 20. Group (Picard, Tommy, Data, Trini) holds at bed row for Billy's call. Nobody at 6 or below yet. Holding beef and 1 plank.
+- Day 356 dusk: still at the bed row, nobody called the walk. Lewis 14/17 is the lowest reported. Going to sleep at bed 429, group in reach.
