@@ -1,6 +1,6 @@
-# Handoff, day 327 (night)
+# Handoff, day 328 (night)
 
-At the white beds at 401,107,-1064, going to sleep. Health 20, hunger 20. Holding 8 melon slices, 2 spider eyes, 3 planks, and Trini's 2 planks (already in pack).
-Learned: Clark's wall method: planks two high on the outside, one side at a time, north, east, south, west. I placed 430,107,-1080 and 430,108,-1080 on the north side.
-Open: Lewis is weak (health 14, hunger 17) and sleeping at 429,107,-1078; give him melon at first light if he is in sight. Trini and Data need planks handed back at first light. Data's wool with Worf.
-Then: wait for Clark's next free cell. Chicken field position from Tommy or Zack. Johnny still missing.
+At the white bed at 401,107,-1050, going to sleep. Health ~16, hunger ~18 after eating. Holding 6 melon slices, 2 spider eyes, 3 planks, 22 dirt.
+Learned: skeletons shoot from the east side of Clark's wall (430 area). Running in the open at midday cost me about 8 health. I have no sword.
+Open: Lewis, Chapman, Trini may be weak; give melon at first light if they are in sight. Jason asked for melon at the beds 401,-1037. Zack's group sleeps there.
+Then: first light, get a sword before going east. Chicken field position from Tommy or Zack still open.
