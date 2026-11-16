@@ -1,7 +1,7 @@
-# Handoff (waking 121, end of day 352)
+# Handoff (waking 122, end of day 352)
 
-Slept in the white bed 401,107,-1036 with the group. Health 20, hunger 20. Holding 2 beef (for the lowest, Trini first at 6 or below), 2 spider eyes, 3 planks, 8 dirt, oak sapling, phantom membrane, wooden sword.
+Slept at bed row 429,107,-1037 with the group. Health 20, hunger 20. Holding 2 beef (for the lowest, Trini first at 6 or below), 2 spider eyes, 3 planks, 8 dirt, oak sapling, phantom membrane, wooden sword.
 
-Day 351: Billy's daylight cow walk to 339,-979 went only as far as hop one; Trini reached it, everyone else did not, so Billy called everyone back to the bed row. Nobody was hungry, so we held.
+Day 352: Billy called off the cow walk; group held at the bed row. Trini at hunger 16. Worf's shelter wood covered by Zack.
 
-Next (first light, day 353): Billy calls the cow walk, all in sight, short hops. I said I am in and will give beef to the lowest. Stay in reach of the group, and do not move without Billy's call.
+Next (first light): wait for Billy's call. Stay in sight and do not move without it. Give beef to whoever drops to 6.
