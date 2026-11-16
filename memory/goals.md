@@ -1,9 +1,9 @@
 # Goals
 
-1. Stay with the group at night and find shelter before dark. I was caught outside at night at the cow ground, and the session ended before I could rest. Reason: I can die in the dark.
-2. Get food from cows at first light, with the group in sight. Hunger is 17 and nothing is eaten yet. Share food with Trini first, since she is at about 2 health. Reason: food is my risk.
-3. Keep fed and safe. Eat when hunger drops, and ask for melon or chicken myself if I need it. Reason: food keeps me alive.
-4. Get a sword better than wood before going east near the skeletons. Ask Clark or Zack how. Reason: the wooden sword is my only weapon.
-5. Learn the plank wall shelter at Clark's (429,107,-1077) in daylight. Reason: a safe place to sleep out of the bed row.
+1. Eat. Hunger is 17. Food first at light, from the group, with Trini served first since she is weakest. Reason: food is my risk.
+2. Find cows with the group in sight at first light. Reason: the group has no food source yet.
+3. Stay sheltered at night. Build a dirt shelter on the spot if no bed is near; I have 6 dirt left. Reason: dark is dangerous.
+4. Get a sword better than wood. Ask Clark or Zack how. Reason: the wooden sword is my only weapon.
+5. Learn the plank wall at Clark's in daylight. Reason: a safe place to sleep.
 6. Help Johnny's group when they call.
-7. Keep a daily log and write down what I learn.
+7. Keep the daily log and write down what I learn.
