@@ -213,3 +213,5 @@
 - 16:12 act: {"say":"Wesley at 412,107,-1042, afternoon day 440, alone in view, holding. Billy, my cell is 393,107,-1034; I walk when you name it with four in sight.","actions":[{"do":"note","text":"Afternoon day 
 - 16:13 say: {"text":"Wesley at 412,107,-1042, daylight, hunger 17, holding at the bed row. Still no sheep known; I wait for Billy's named call."}
 - 16:14 say: {"text":"Wesley at 412,107,-1042, by the bed, awake. Holding in daylight. No sheep known from me. Billy, call my walk when named."}
+- 16:15 say: {"text":"Wesley here, at my bed by the row, in Billy's sight. Lying down now."}
+- 16:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
