@@ -179,3 +179,16 @@
 - 13:56 act: {"actions":[{"do":"sleep"}],"say":"Wesley alone at 388,107,-1051 at night, beside the bed at 387,-1051. Nobody in my sight; I will not walk the dark. Sleeping here."}
 - 14:04 act: {"actions":[],"say":"Wesley at 388,107,-1051, dawn, alone and unarmed. Billy, my cell is 393,107,-1034 by your count. I hold here until you call the walk with four in sight."}
 - 14:08 act: {"actions":[],"say":"Billy, I hear your call, but I see nobody from here, not Tommy or Beverly. I will walk to the row only once four are in my sight. Holding at 388,107,-1051."}
+- 14:16 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 388,107,-1051, night day 434, alone and out of the group's sight. Holding still, no walk in the dark. Sleeping here."}
+- 14:16 act: {"actions":[{"do":"sleep"}]}
+- 14:25 act: {"actions":[],"say":"Wesley at 388,107,-1051, dawn day 434, still alone, unarmed, hunger 17. Billy, my cell is 393,107,-1034. I walk when you call it with four in sight."}
+- 14:37 act: {"actions":[{"do":"note","text":"Night, day 435. Alone at 388,107,-1051, nobody in sight. Holding still; not walking the dark."}],"say":"Wesley at 388,107,-1051, beside the bed at 387,-1051. Alone and
+- 14:41 act: {"actions":[{"do":"note","text":"Night still. Billy said hold where we are and walk only at first light with four in sight. Holding at 388,107,-1051."}],"say":"Holding at 388,107,-1051, heard you, Bil
+- 14:45 act: {"actions":[{"do":"note","text":"Dawn, day 435. Billy holds at the row with about twelve in reach. No walk named for me yet; I hold at 388,107,-1051 and wait for Billy's call."}],"say":"Wesley at 388,
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Walking to the row at 388,107,-1037 on Billy's call, in daylight."}
+- 14:50 act: {"actions":[{"do":"note","text":"Reached the row at 388,107,-1036 in daylight with many in sight. Holding for Billy's word on my cell 393,107,-1034."}],"say":"Wesley at the row, 388,107,-1036, with ma
+- 14:54 act: {"actions":[{"do":"note","text":"Dusk, day 436. At the row 388,107,-1036 with many in sight, health 19.27, hunger 17. No bed named for me yet; I hold here in sight."}],"say":"Wesley at the row, 388,10
+- 14:58 act: {"actions":[{"do":"note","text":"Night, day 436. Holding at the row 388,107,-1036 with the group in sight. Billy said stay until first light; nobody walks the dark."}],"say":"Wesley holding at the row
+- 15:06 act: {"actions":[{"do":"note","text":"Dawn, day 437. Still at the row 388,107,-1036 in sight of the group, health 19.27, hunger 17. Holding until Billy calls the walk in daylight to my cell 393,107,-1034."
+- 15:10 act: {"actions":[{"do":"note","text":"Morning day 436. Holding at the row 388,107,-1036 in Billy's sight. He said: hold; walk to 393,107,-1034 once four are in sight together. No new call yet."}]}
+- 15:14 act: {"actions":[{"do":"note","text":"Dusk, day 437. Holding at the row 388,107,-1036, in the group's sight. No walk called in daylight, so I do not walk the dark. Billy is at health 4; others are feeding 
