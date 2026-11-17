@@ -155,3 +155,9 @@
 - 12:40 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Wesley walking to 389,107,-1033 at the 387 row in daylight, on Billy's naming."}
 - 12:40 act: {"actions":[],"say":"Wesley at 389,107,-1033, in Billy's sight, daylight. Holding, nothing in hand but a sword. Hunger 17."}
 - 12:48 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 389,107,-1033, in Billy's sight at dusk. Holding the sword, no food, hunger 17. Sleeping here."}
+- 12:49 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 416,107,-1036 by the 415 beds, alone in the dark. Holding still until first light and Billy's named cell."}
+- 12:49 act: {"actions":[{"do":"sleep"}]}
+- 12:49 act: {"say":"Still at the 415 beds, 416,107,-1036, in Clark's sight. Holding still until Billy names a cell for first light.","actions":[]}
+- 12:53 act: {"say":"Wesley at 416,107,-1037 by the 415 beds, daylight, holding nothing in hand but my pack. Billy, name my cell and I walk to the row.","actions":[]}
+- 12:57 act: {"say":"Walking to 393,107,-1034 at the row as Billy named, in daylight.","actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}}]}
+- 12:57 act: {"say":"Wesley at 393,107,-1034 at the row, daylight, holding nothing in hand. Hunger 17, health 19. Holding for Billy's call.","actions":[]}
