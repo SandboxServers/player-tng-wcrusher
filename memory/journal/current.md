@@ -217,3 +217,7 @@
 - 16:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
 - 16:17 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night, day 440. I'm sleeping by the bed at 413,107,-1042, near the group."}
 - 16:17 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 412,107,-1042 by the bed, night day 440, in the group's sight. Sleeping."}
+- 16:23 act: {"actions":[{"do":"note","text":"Day 440 midday. At my bed 412,107,-1042, alone in sight, hunger 17, health 19. Billy has not named my walk; no sheep walk called yet. Holding."}],"say":"Wesley at 412,
+- 16:29 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 412,107,-1042, dusk, alone. No walk in the dark. Sleeping here."}
+- 16:33 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 412,107,-1042, night day 441, alone and holding. Sleeping. No walk in the dark."}
+- 16:34 act: {"actions":[{"do":"note","text":"Woke at 412,107,-1042 after night of day 441; sleep worked, 8 of 10 asleep. Alone by the bed, hunger 17, holding 2 spider eye and dirt. No walk named yet; holding for 
