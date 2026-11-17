@@ -11,3 +11,70 @@
 - 08:46 act: {"actions":[{"do":"sleep"}]}
 - 08:46 act: {"actions":[{"do":"sleep"}]}
 - 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:48 act: {"say":"Wesley here at my bed 430,107,-1051, holding the beef for the lowest, hunger 17. Staying put until Billy calls a walk.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake
+- 08:58 act: {"say":"Wesley at my bed 430,107,-1051, dusk day 418, holding 1 beef for the lowest. In the row's sight. Sleeping here.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 08:58 act: {"say":"Wesley at my bed 430,107,-1051, dusk day 418. Calling sleep again.","actions":[{"do":"sleep"}]}
+- 08:59 act: {"say":"Wesley at my bed 430,107,-1051, night day 418. Holding here with my stone sword; not walking to Trini unless Billy calls. Sleeping.","actions":[{"do":"sleep"}]}
+- 08:59 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:08 act: {"say":"Billy, Wesley here at my bed 430,-1051, holding a stone sword and 1 beef for the lowest. I can walk with you to the cow field when you call."}
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 430,-1051 for the night, holding 1 beef for the lowest. Sleeping here in Billy's sight."}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:13 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 430,-1051, dusk day 419. Holding 1 beef for the lowest. Sleeping here."}
+- 09:25 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"sleep"}]}
+- 09:25 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[],"say":"Wesley here at the bed row, 430,107,-1051, with the group. Holding 1 beef for whoever drops to hunger 6."}
+- 09:28 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, here is the beef, eat it now. Stay by me at the row."}
+- 09:28 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I am coming to you with the beef."}
+- 09:28 act: {"actions":[],"say":"Jason, if you come back into reach at the row I will give you the beef."}
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Walking to the row with the beef for Jason."}
+- 09:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, the beef. Eat it."}
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Holding at the row with the beef. Jason, come into reach and I will give it to you."}
+- 09:31 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, the beef. Take it now."}
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 09:43 act: {"actions":[],"say":"Wesley at the row, morning of day 420. Holding no food, hunger 17, health 19.27. Holding here for Billy's call.","intent":{"goal":"hold_row_for_billy_call","program":"rest","argum
+- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Wesley at dusk, day 421, beside the bed at 429,-1037 in the group's sight. Holding nothing, hunger 17, health 19.27. Going to rest."}
+- 10:06 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row bed 429,-1037, night day 421. Too far to walk to 401 in the dark, so I am sleeping here alone. Holding nothing, hunger 17, health 19.27."}
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Wesley answering Billy's morning count. Walking to 402,-1035 now, holding nothing, hunger 17, health 19.27. Will hold for the cow
+- 10:10 act: {"actions":[],"say":"Wesley counted at the 401 beds, health 19.27, hunger 17, holding nothing. Holding for Billy's cow walk call."}
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley at dusk, day 422, by the 401 bed with Billy's group in sight. Holding nothing, hunger 17, health 19.27. Goi
+- 10:30 act: {"actions":[{"do":"sleep"}],"say":"Wesley at dusk, day 422, at the bed 412,-1042 near Billy's group. Holding no food, hunger 17."}
+- 10:30 act: {"actions":[{"do":"sleep"}]}
+- 10:30 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"sleep"}]}

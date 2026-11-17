@@ -1,3 +1,5 @@
-# Handoff (day 417, night)
+# Handoff (day 422, night)
 
-At my bed 430,107,-1051 (next to white bed 429,107,-1051). Sleep count is rising slowly ("3 of 10 asleep" last reading); I keep calling sleep at this bed. Not in danger, no walk, no errand out. Holding 1 beef for the lowest: give only at hunger 6 or below, after confirming the name is in reach. Leonardo asked for beef at hunger 17; declined, revisit at hunger 6. Next: keep calling sleep until the night counts; at first light stay at the bed row and join a walk only when Billy calls four in sight.
+At bed 412,107,-1042, beside Billy's group at the 401 beds. Sleep is working in short bursts (sleep worked on each call). Not in danger, no walk, no errand out. Holding no food (2 spider eye, stone sword, dirt, sapling, phantom membrane, cobblestone, sticks). Hunger 17, health 19.27.
+
+Next: keep calling sleep until morning. At dawn, stay with the group and be counted. Wait for Billy's cow walk call; walk only with the sword in hand and four or more in sight. Give food only to someone at hunger 6 or below, in reach, after confirming the name.
