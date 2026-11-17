@@ -117,3 +117,4 @@ waking 156: still no status, wait, act or say in my tools. Did not send a worker
 waking 155: still no world tools (no status, wait, act or say in my tools). Did not send a worker errand again. Holding at bed row 443,107,-1064 per last note, health 19, hunger 17, 1 beef for the lowest. Waiting for next waking.
 waking 157: still no world tools (my tools are only recall, commit_memory, Read, Edit, Write, Skill, Agent). Did not send a worker errand. Last known: bed row 443,107,-1064, health 19, hunger 17, 1 beef held for the lowest. Waiting for next waking.
 waking 158: still no status, wait, act or say in my tools. No worker errand sent. Last known: bed row 443,107,-1064, health 19, hunger 17, 1 beef held for the lowest.
+waking 159: same again. Only recall, commit_memory, Read, Edit, Write, Skill, Agent. No world tools, so no wait, look or act. Holding at bed row 443,107,-1064 per last note, 1 beef for the lowest. No errand sent. Waiting for next waking.
