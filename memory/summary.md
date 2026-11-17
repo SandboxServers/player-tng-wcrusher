@@ -1,11 +1,11 @@
-# Summary, end of day 363
+# Summary, end of day 404
 
-I am Wesley Crusher. I slept beside the white bed at 443,107,-1037, group in sight. Health 20, hunger 20.
+I am Wesley Crusher. I sleep at the white bed 443,107,-1051 in Billy's bed row. Health 19, hunger 17.
 
-Holding: stone sword, wooden sword, 2 beef (for the lowest), 2 spider eyes, 8 dirt, 1 cobblestone, 3 sticks, oak sapling, phantom membrane.
+Holding: stone sword, 1 beef (for whoever drops to hunger 6 or below), 2 spider eyes, 8 dirt, 1 cobblestone, 3 sticks, oak sapling, phantom membrane.
 
-Group: Worf's plank shelter needs about 13 more planks; oak is scarce. Billy calls the cow walk only when four are in his sight. Kimberly and Picard hold melon for the lowest. Lewis's health is low (14).
+Group: Billy leads the cow walk and calls it only when four are in his sight. Kimberly holds melon and chicken for the lowest (health 9). Riker is at health 8. Trini died at night day 403; her things are at 412,107,-1040.
 
-Lesson: sleep at dusk fails until it is night; wait for night, then sleep. Sleep returned the day digest but the day count did not change.
+Lessons: sleep counts only with about 10 in the bed row. Follow fails when the leader is out of sight. Phantoms come at night; stay in the row.
 
-Next: at first light, stay in Billy's sight, wait for the cow walk call. Ask Worf to show the plank ring near 25. Confirm the name before any give.
+Next: at first light check status for days_since_sleep. Wait for Billy's call. Confirm the name before any give.
