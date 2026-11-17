@@ -89,3 +89,69 @@
 - 11:13 act: {"say":"Wesley at the 401 bed with Picard, MacDonald and Beverly in reach. Holding no food, hunger 17, sword in hand. Staying here at dusk; will sleep at the bed when it is dark.","intent":{"goal":"ho
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Wesley walking to Billy at 389,-1034 in daylight, to stand in his sight. Holding no food, hunger 17, sword in pack."}
 - 11:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Wesley going to the 387 bed row for the night, in Billy's group's sight. Holding no food, health 19, hunger 17."}
+- 11:27 act: {"actions":[{"do":"sleep"}],"say":"Wesley here at the 387 bed row, in reach of Jason. Going to sleep for the night."}
+- 11:28 act: {"actions":[{"do":"sleep"}]}
+- 11:42 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the 387 bed, Jason and Chapman in reach. Sleeping for the night."}
+- 11:42 act: {"actions":[{"do":"sleep"}]}
+- 11:42 act: {"actions":[{"do":"sleep"}]}
+- 11:42 act: {"actions":[{"do":"sleep"}]}
+- 11:42 act: {"actions":[{"do":"sleep"}]}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1030}}],"say":"Morning. Wesley walking to Billy's row at 387 with Beverly and Kimberly, in daylight."}
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Wesley going to the 387 bed row for the night, in Billy's group's sight."}
+- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Wesley sleeping at the 387 bed row, in Billy's group's sight."}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 11:55 act: {"actions":[{"do":"sleep"}]}
+- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley at the 387 row, in Billy's group's sight, sleeping by the bed."}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}],"say":"Still at the 387 row, in the group's sight, sleeping by the bed."}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"sleep"}]}
+- 12:22 act: {"actions":[{"do":"sleep"}]}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 12:22 act: {"actions":[{"do":"sleep"}]}
+- 12:22 act: {"actions":[{"do":"sleep"}]}
+- 12:22 act: {"say":"Wesley at 416,-1023 by the 415 beds, daylight, alone, holding nothing for food, hunger 17. Billy, name the cell and I walk to the group."}
+- 12:26 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}]}
+- 12:26 act: {"say":"Wesley counted at the 387 row, 389,-1033, in sight. Holding nothing for food, hunger 17. Holding for Billy's call."}
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:35 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the 415 beds, alone in the dark. I will hold still until Billy names a cell at the 387 row."}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:36 act: {"actions":[{"do":"sleep"}]}
+- 12:36 act: {"actions":[{"do":"sleep"}]}
+- 12:36 act: {"actions":[],"say":"Wesley at the 415 beds, 416,-1023, daylight, alone in sight. Billy, name the cell at the 387 row and I walk there in sight."}
+- 12:40 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Wesley walking to 389,107,-1033 at the 387 row in daylight, on Billy's naming."}
+- 12:40 act: {"actions":[],"say":"Wesley at 389,107,-1033, in Billy's sight, daylight. Holding, nothing in hand but a sword. Hunger 17."}
+- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 389,107,-1033, in Billy's sight at dusk. Holding the sword, no food, hunger 17. Sleeping here."}
