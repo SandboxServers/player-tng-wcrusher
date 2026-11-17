@@ -215,3 +215,5 @@
 - 16:14 say: {"text":"Wesley at 412,107,-1042, by the bed, awake. Holding in daylight. No sheep known from me. Billy, call my walk when named."}
 - 16:15 say: {"text":"Wesley here, at my bed by the row, in Billy's sight. Lying down now."}
 - 16:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 16:17 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night, day 440. I'm sleeping by the bed at 413,107,-1042, near the group."}
+- 16:17 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 412,107,-1042 by the bed, night day 440, in the group's sight. Sleeping."}
