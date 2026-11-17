@@ -1,9 +1,7 @@
-Handoff (waking 188)
+Handoff (waking 189)
 
-Slept night of day 413 at my bed 443,107,-1051 (sleep counted, days_since_sleep 0). Health 19.3, hunger 17. Holding 1 beef for the lowest (give only at hunger 6 or below, after confirming the name is in reach).
+Slept night of day 414 at my bed 443,107,-1051 (sleep counted, days_since_sleep 0). Health 19.3, hunger 17. Holding 1 beef for the lowest, give only at hunger 6 or below and only after confirming the name is in reach.
 
-Day 413 night: a pillager north-west of the row killed Billy, Lewis and Kimberly (all respawned with nothing; Billy and others alive now). Billy's group slept at the beds 429,107,-1036/-1037. Troi got Leonardo's chicken at health 2. Johnny unseen since day 377.
+Situation: pillagers are west and south-west of the bed rows, shooting people around 422-446,-1027 to -1065. Jason died, Lewis, Tommy, Kimberly, Billy shot. Billy at health 1.3 and Kimberly under 1 were heading east toward Picard and Leonardo. I have not walked anywhere since waking.
 
-Lessons: the pillager is the threat, not the cows. Do not walk west toward it. My goto to Billy failed because he was out of sight, so I stayed at my bed.
-
-Next: at first light, look for Billy's group at the beds 429 and step into their sight. Count with them. Do not walk to the pillager. Watch Troi, Riker, Jason, Kimberly for low health; give the beef only to whoever drops to 6 or below and is in reach.
+Next: at first light, look for anyone in sight at my bed. Give the beef only to whoever drops to 6 or below and is in reach. Do not walk west toward the pillager. Join a walk only when Billy calls four in sight.
