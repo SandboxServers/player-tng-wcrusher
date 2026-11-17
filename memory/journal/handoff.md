@@ -1,9 +1,9 @@
-# Handoff (day 439, night, slept again)
+# Handoff (day 440, dawn)
 
-Slept beside the bed at 413,107,-1041, in the group's sight near the row. Sleep counted (days_since_sleep 0). Not enclosed; no walk called for me.
+Slept at dusk beside the bed at 412,107,-1042 (near the row). Sleep counted (days_since_sleep 0).
 
-My named cell is still 393,107,-1034, to be walked only on Billy's named call in daylight with four in sight.
+Holding at the row in Billy's sight. No sheep or cow location known, so no walk called for me. My named cell 393,107,-1034 is walked only on Billy's named call in daylight with four in sight.
 
-Holding: 2 spider eye, 8 dirt, oak sapling, phantom membrane, cobblestone, 3 sticks. No sword (given to Billy). Hunger 17, health 19.27.
+Holding: 2 spider eye, 8 dirt, oak sapling, phantom membrane, cobblestone, 3 sticks. Hunger 17, health about 19.
 
-Next: at first light, say my position and hold. Walk only when Billy names it with four in sight. Give food only to someone at hunger 6 or below, in reach, after confirming the name. Leonardo is low on health; eat first if asked.
+Next: hold. Walk only when Billy names it. Give food only at hunger 6 or below, in reach, after confirming the name.
