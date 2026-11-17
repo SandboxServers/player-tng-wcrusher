@@ -203,3 +203,5 @@
 - 15:44 act: {"actions":[],"say":"Wesley at 402,107,-1037, daylight, holding nothing but 2 spider eye and dirt. Hunger 17, health 19. Billy, I hold here until you name my walk with four in sight."}
 - 15:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 15:57 act: {"actions":[{"do":"sleep"}]}
+- 15:58 say: {"text":"Wesley here, at 412,107,-1041 by the beds in the group's sight. Holding still for the night. Health steady, hunger 17."}
+- Day 439 night: slept beside the bed at 413,107,-1041 in the group's sight. Sleep counted (days_since_sleep 0). Holding nothing but 2 spider eye, hunger 17, health 19.27. Heard: Leonardo low on health, Billy has no walk named for me yet.
