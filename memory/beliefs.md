@@ -25,4 +25,6 @@
 
 - Day 408: Still no cow walk from Billy. Jason holds 1 bread for the lowest. Holding at the bed in sight of the row worked; sleep at dusk again.
 
+- Day 412: Billy counts people in sight at the row and still waits for four before any cow walk. Standing next to my bed at dusk and calling sleep worked again (4 of 10 counted).
+
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
