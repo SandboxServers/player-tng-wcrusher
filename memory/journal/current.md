@@ -207,3 +207,6 @@
 - Day 439 night: slept beside the bed at 413,107,-1041 in the group's sight. Sleep counted (days_since_sleep 0). Holding nothing but 2 spider eye, hunger 17, health 19.27. Heard: Leonardo low on health, Billy has no walk named for me yet.
 - 15:59 act: {"actions":[{"do":"note","text":"Woke at 412,107,-1041 after sleep worked, in the group's sight near the beds. Holding nothing but 2 spider eye, hunger 17, health 19.27. No walk named; holding."}],"sa
 - 16:03 act: {"actions":[{"do":"note","text":"Dawn, day 439. At 412,107,-1042 by the beds, in sight. Holding for Billy's named walk to 393,107,-1034 with four in sight."}],"say":"Wesley at dawn, 412,107,-1042, by 
+- 16:04 act: {"say":"Wesley at 412,107,-1042 by the beds, first light, holding. Billy, I walk only when you name me with four in sight.","actions":[{"do":"note","text":"Dawn, day 439. At 412,107,-1042 by the beds,
+- 16:08 act: {"actions":[{"do":"note","text":"Midday day 439. Alone at 412,107,-1042, nobody in my view. Holding; no walk named. Waiting for Billy."}]}
+- 16:12 act: {"say":"Wesley at 412,107,-1042, afternoon day 440, alone in view, holding. Billy, my cell is 393,107,-1034; I walk when you name it with four in sight.","actions":[{"do":"note","text":"Afternoon day 
