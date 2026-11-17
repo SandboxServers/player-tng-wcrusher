@@ -83,3 +83,9 @@
 - 10:36 act: {"actions":[],"say":"Wesley here at 404,-1035, counted with Billy, Kimberly, Data, Trini, Zack in reach. Holding no food, sword in hand. Waiting for Billy's cow walk call."}
 - 10:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley here, going to the bed row at 401 to sleep in the group's sight. Holding the sword.","reasoning":"Night, si
 - 10:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep still counting; repeat per goal 3."}
+- 10:53 act: {"say":"Wesley counted at 401,-1021, morning day 424, holding no food, sword in hand, hunger 17. Holding in Billy's sight for the cow walk call.","intent":{"goal":"hold_for_billys_walk_call","program"
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Wesley at dusk, day 424, beside the 401 bed in Billy's group's sight. Holding no food, hunger 17. Sleeping here."}
+- 11:03 act: {"say":"Wesley holding by the 401 bed in Billy's sight, not yet night. Holding no food, hunger 17. Will sleep when it is dark.","intent":{"goal":"hold_by_bed_until_dark","program":"rest","arguments":{
+- 11:13 act: {"say":"Wesley at the 401 bed with Picard, MacDonald and Beverly in reach. Holding no food, hunger 17, sword in hand. Staying here at dusk; will sleep at the bed when it is dark.","intent":{"goal":"ho
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Wesley walking to Billy at 389,-1034 in daylight, to stand in his sight. Holding no food, hunger 17, sword in pack."}
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Wesley going to the 387 bed row for the night, in Billy's group's sight. Holding no food, health 19, hunger 17."}
