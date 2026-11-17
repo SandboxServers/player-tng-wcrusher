@@ -12,3 +12,5 @@
 - 07:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"note","text":"Day 415 dusk. Billy ate Picard's melon, hunger 19, so the beef stays with me. Going to bed at 443,-1051 for the nigh
 - 07:58 act: {"actions":[{"do":"note","text":"Day 415-416. At my bed 443,-1051 with Riker in sight. Billy at 430,-1051 health 4.3, hunger 17 (not yet 6), so beef held. Waiting for day/night."}]}
 - 08:02 act: {"actions":[{"do":"note","text":"Day 415 bright. Still at bed 443,-1051 with Riker in sight. Billy getting rotten flesh from Kimberly; beef held for hunger 6. No walks east or west."}]}
+- 08:07 say: {"text":"Wesley here, at my bed 443,107,-1051. Holding the beef for whoever drops to 6. Good night."}
+- 08:07 act: {"actions":[{"do":"note","text":"Day 415 night. At bed 443,107,-1051, Riker in reach, hunger 17, health 19.3. Holding beef for hunger 6. Going to sleep."},{"do":"sleep"}]}
