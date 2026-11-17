@@ -1,1 +1,13 @@
 # Journal
+- 08:46 act: {"actions":[{"do":"sleep"}],"say":"Wesley counted at my bed 430,107,-1051, dusk day 417, holding 1 beef for the lowest. In the row's sight. Sleeping here."}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
