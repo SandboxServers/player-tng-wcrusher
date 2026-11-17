@@ -20,4 +20,7 @@
 - Day 361: standing next to a bed then calling sleep worked again at dusk. "use" on a bed block still fails.
 - Day 361: Oak trees are not near the bed row; Leonardo's helpers found no logs. Data holds 2 oak logs for Worf.
 
-Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf.
+- Day 405: No cow walk; Billy did not call with four in sight. Waiting in the bed row in sight worked fine. Sleep at dusk-to-night in my bed (standing next to it, calling sleep) reset days_since_sleep to 0.
+- Day 405: Picard and Beverly also count at the row (413,107,-1042 and 429,107,-1049). Nobody has food beyond 1-2 beef and melon.
+
+Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
