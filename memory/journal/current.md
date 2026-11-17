@@ -81,3 +81,5 @@
 - 10:31 act: {"actions":[{"do":"sleep"}],"say":"Wesley at bed 412,107,-1042, night, holding no food, hunger 17. Calling sleep."}
 - 10:35 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1035}}],"say":"Wesley awake, morning day 423, holding no food, hunger 17, sword in hand. Walking to Billy's group at 405,-1035 to be counted."}
 - 10:36 act: {"actions":[],"say":"Wesley here at 404,-1035, counted with Billy, Kimberly, Data, Trini, Zack in reach. Holding no food, sword in hand. Waiting for Billy's cow walk call."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley here, going to the bed row at 401 to sleep in the group's sight. Holding the sword.","reasoning":"Night, si
+- 10:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep still counting; repeat per goal 3."}
