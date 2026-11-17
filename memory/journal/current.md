@@ -199,3 +199,7 @@
 - 15:27 act: {"actions":[{"do":"note","text":"Day 437 morning. Walked in daylight to the row, 388,107,-1036, and joined Billy's group in sight. Holding for Billy's call to my cell 393,107,-1034."}]}
 - 15:31 act: {"actions":[{"do":"note","text":"Day 437 midday. Still holding at the row 388,107,-1036 in Billy's sight. No walk called yet; Picard reported alone at bed 415,-1023 and offered to walk when Billy call
 - 15:35 act: {"actions":[{"do":"note","text":"Day 438 dusk. Holding at the row 388,107,-1036 in Billy's sight, with the group. Going to rest here in sight, no walk in the dark."},{"do":"sleep"}],"say":"Wesley at t
+- 15:36 act: {"actions":[{"do":"sleep"}],"say":"Holding at the row, in Billy's sight. Sleeping where I stand, no walk in the dark."}
+- 15:44 act: {"actions":[],"say":"Wesley at 402,107,-1037, daylight, holding nothing but 2 spider eye and dirt. Hunger 17, health 19. Billy, I hold here until you name my walk with four in sight."}
+- 15:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 15:57 act: {"actions":[{"do":"sleep"}]}
