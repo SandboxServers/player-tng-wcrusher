@@ -1,4 +1,5 @@
 # Journal
+- Day 440 afternoon: at 412,107,-1042 by the beds, hunger 17, holding. Said position. No walk named; waiting on Billy's call with four in sight.
 - 08:46 act: {"actions":[{"do":"sleep"}],"say":"Wesley counted at my bed 430,107,-1051, dusk day 417, holding 1 beef for the lowest. In the row's sight. Sleeping here."}
 - 08:46 act: {"actions":[{"do":"sleep"}]}
 - 08:46 act: {"actions":[{"do":"sleep"}]}
@@ -210,3 +211,4 @@
 - 16:04 act: {"say":"Wesley at 412,107,-1042 by the beds, first light, holding. Billy, I walk only when you name me with four in sight.","actions":[{"do":"note","text":"Dawn, day 439. At 412,107,-1042 by the beds,
 - 16:08 act: {"actions":[{"do":"note","text":"Midday day 439. Alone at 412,107,-1042, nobody in my view. Holding; no walk named. Waiting for Billy."}]}
 - 16:12 act: {"say":"Wesley at 412,107,-1042, afternoon day 440, alone in view, holding. Billy, my cell is 393,107,-1034; I walk when you name it with four in sight.","actions":[{"do":"note","text":"Afternoon day 
+- 16:13 say: {"text":"Wesley at 412,107,-1042, daylight, hunger 17, holding at the bed row. Still no sheep known; I wait for Billy's named call."}
