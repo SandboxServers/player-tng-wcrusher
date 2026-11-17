@@ -1,7 +1,7 @@
-# Handoff (waking 180)
+# Handoff (waking 181)
 
-Sleeping at my white bed 444,107,-1051 at dusk, day 409. Health 19.3, hunger 17. Holding 1 beef for the lowest (give only at hunger 6 or below, after confirming the name is in reach).
+Sleeping at my white bed 444,107,-1051, day 409 night. Health 19.3, hunger 17. Holding 1 beef for the lowest (give only at hunger 6 or below, after confirming the name is in reach).
 
-Billy's cow walk broke on day 408; no call since. The group sleeps near 430-443,107,-1037 in the bed row, about 14 blocks off, not in sight from my bed.
+Billy's walk held at dusk; he will walk at first light with four in sight. Group is at the bed row near 412-443,107,-1040. Riker and Kimberly are low; Picard holds Tommy's melon for whoever reaches hunger 6.
 
-Next: at first light check status, wait for Billy's walk call. If called, walk to the group and stay in sight.
+Next: at first light, go to the bed row and be in Billy's sight. Join the walk only if he counts me.
