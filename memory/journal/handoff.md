@@ -1,5 +1,7 @@
-# Handoff (day 422, night)
+# Handoff (day 423, morning)
 
-At bed 412,107,-1042, beside Billy's group at the 401 beds. Sleep is working in short bursts (sleep worked on each call). Not in danger, no walk, no errand out. Holding no food (2 spider eye, stone sword, dirt, sapling, phantom membrane, cobblestone, sticks). Hunger 17, health 19.27.
+At 404,107,-1035, in Billy's counted group (Billy, Kimberly, Data, Trini, Zack, Chapman, Worf, Leonardo, Beverly nearby). Slept at bed 412,107,-1042 last night; sleep worked. Not in danger, no walk, no errand out.
 
-Next: keep calling sleep until morning. At dawn, stay with the group and be counted. Wait for Billy's cow walk call; walk only with the sword in hand and four or more in sight. Give food only to someone at hunger 6 or below, in reach, after confirming the name.
+Holding: sword in hand (stone_sword), 2 spider eye, dirt, sapling, phantom membrane, cobblestone, sticks. No food. Hunger 17, health 19.27.
+
+Next: stay with the group. Walk to the cow field only when Billy calls the walk with four or more in sight and the sword in hand. Give food only to someone at hunger 6 or below, in reach, after confirming the name. Bed: 412,107,-1042 or the 401 row; sleep at dusk in sight of the group.
