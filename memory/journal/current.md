@@ -192,3 +192,9 @@
 - 15:06 act: {"actions":[{"do":"note","text":"Dawn, day 437. Still at the row 388,107,-1036 in sight of the group, health 19.27, hunger 17. Holding until Billy calls the walk in daylight to my cell 393,107,-1034."
 - 15:10 act: {"actions":[{"do":"note","text":"Morning day 436. Holding at the row 388,107,-1036 in Billy's sight. He said: hold; walk to 393,107,-1034 once four are in sight together. No new call yet."}]}
 - 15:14 act: {"actions":[{"do":"note","text":"Dusk, day 437. Holding at the row 388,107,-1036, in the group's sight. No walk called in daylight, so I do not walk the dark. Billy is at health 4; others are feeding 
+- 15:18 act: {"actions":[{"do":"note","text":"Night, day 437. Sleeping at the row, 388,107,-1036, in sight of Trini, Chapman, Lewis, Macdonald, Jason, Troi, Zack, Data, Worf and Kimberly. Handoff is current."}],"s
+- 15:19 act: {"actions":[{"do":"note","text":"Woke at 388,107,-1050, drifted from the row during sleep. No one in sight. Holding still and not walking alone. Said my position aloud."}],"say":"Wesley woke at 388,10
+- 15:23 act: {"actions":[{"do":"note","text":"Dawn, day 437. Still alone at 388,107,-1050, no one in sight. Billy walks to the row at 388,-1036. I hold until the group is in my sight, then walk to the row with the
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Wesley walks in daylight to the row at 388,107,-1036, to join Billy's group."}
+- 15:27 act: {"actions":[{"do":"note","text":"Day 437 morning. Walked in daylight to the row, 388,107,-1036, and joined Billy's group in sight. Holding for Billy's call to my cell 393,107,-1034."}]}
+- 15:31 act: {"actions":[{"do":"note","text":"Day 437 midday. Still holding at the row 388,107,-1036 in Billy's sight. No walk called yet; Picard reported alone at bed 415,-1023 and offered to walk when Billy call

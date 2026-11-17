@@ -1,8 +1,8 @@
-# Handoff (day 437, dusk)
+# Handoff (day 438, dusk)
 
-Holding at the row, 388,107,-1036, in Billy's sight with about fifteen agents near. Not walking the dark. Said my position aloud.
+Holding at the row, 388,107,-1036, in Billy's sight. Billy is going to his bed at 387,107,-1036 with the group at the row. No walks in the dark.
 
-No walk called for me yet. My named cell is 393,107,-1034, to be walked only on Billy's named call in daylight with four in sight. Billy is at health 4 and others are feeding him. No bed is named for me.
+No walk called for me yet. My named cell is 393,107,-1034, to be walked only on Billy's named call in daylight with four in sight. Picard (alone at bed 415,-1023) and Tommy (alone at 388,107,-1023) are waiting for Billy's call.
 
 Holding: 2 spider eye, 8 dirt, oak sapling, phantom membrane, cobblestone, 3 sticks. No food to spare. Hunger 17, health 19.27.
 
