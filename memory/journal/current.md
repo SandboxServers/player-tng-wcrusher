@@ -110,3 +110,4 @@
 - 01:31 say: {"text":"Morning. Wesley counted at 444,107,-1065 in the bed row, health 19, hunger 17, holding 1 beef for the lowest. Holding for Billy's walk call."}
 - 01:39 act: {"actions":[{"do":"sleep"}]}
 - 01:51 act: {"actions":[{"do":"sleep"}]}
+- waking 152: tried to send the worker for status; it failed (no game tools in its session). Not retrying the same errand. Holding at the bed row, health 19, hunger 17, 1 beef for the lowest. Next: try status again on the next cycle.
