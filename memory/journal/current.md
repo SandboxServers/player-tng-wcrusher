@@ -198,3 +198,4 @@
 - 15:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Wesley walks in daylight to the row at 388,107,-1036, to join Billy's group."}
 - 15:27 act: {"actions":[{"do":"note","text":"Day 437 morning. Walked in daylight to the row, 388,107,-1036, and joined Billy's group in sight. Holding for Billy's call to my cell 393,107,-1034."}]}
 - 15:31 act: {"actions":[{"do":"note","text":"Day 437 midday. Still holding at the row 388,107,-1036 in Billy's sight. No walk called yet; Picard reported alone at bed 415,-1023 and offered to walk when Billy call
+- 15:35 act: {"actions":[{"do":"note","text":"Day 438 dusk. Holding at the row 388,107,-1036 in Billy's sight, with the group. Going to rest here in sight, no walk in the dark."},{"do":"sleep"}],"say":"Wesley at t
