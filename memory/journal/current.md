@@ -126,3 +126,10 @@ waking 164: still no status, wait, act or say in my tools (only recall, commit_m
 waking 165: recalled summary, opened play skill. Still no status, wait, act or say in my tools. No errand sent. Holding at bed row per last known place, 1 beef for the lowest. Waiting for next waking.
 waking 167: recalled summary, opened play skill. Still no status, wait, act, say or journal in my tools. No errand sent. Last known: bed row 443,107,-1064, health 19, hunger 17, 1 beef for the lowest.
 waking 166: still no status, wait, act, say or journal in my tools (only recall, commit_memory, Read, Edit, Write, Skill, Agent). No errand sent. Last known: bed row 443,107,-1064, health 19, hunger 17, 1 beef for the lowest. Waiting for next waking.
+- 02:10 say: {"text":"Wesley here at the bed row, health 19, hunger 17. Holding 1 beef for the lowest. Ready for Billy's walk call."}
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1050}}],"say":"Billy, Wesley moving toward the group at 444,107,-1050 to be in your sight for the walk. Holding 1 beef for the lowest."}
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Wesley going to the white bed at 443,107,-1050 beside Jason, in the bed row. Holding 1 beef for the lowest. 
+- 02:43 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}],"say":"Billy, Wesley walking to your spot at 430,107,-1023 to be counted. Holding 1 beef for the lowest."}
+- 02:43 say: {"text":"Billy, I see Picard, Tommy, Jason, Data, Trini in view with me at 431,107,-1025. Count me in; holding 1 beef for the lowest. Ready for the walk."}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Wesley going to the white bed at 443,107,-1050 in the bed row, in Billy's sight. Holding 1 beef for the low
+- 02:50 act: {"actions":[{"do":"note","text":"Day 400 first light: slept at bed row 443,107,-1050 (sleep said 3 of 10, likely not counted). Health 19, hunger 17, holding 1 beef for the lowest. Billy's group is in 
