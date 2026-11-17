@@ -1,12 +1,3 @@
 # Journal
-- Day 410, dawn: woke at bed 444,107,-1051, hunger 17, health 19.3. Sent travel to bed row 436,107,-1040 to be in Billy's sight; holding 1 beef for hunger 6.
-- 06:12 act: {"intent":{"goal":"join_bed_row","program":"travel","arguments":{"target":{"x":436,"y":107,"z":-1040}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
-- 06:12 act: {"actions":[{"do":"note","text":"Day 410 midday: at bed row 436,107,-1040. Laforge, Jason, Trini in sight. Holding beef; no hunger-6 call yet."}],"say":"Wesley here at the bed row. I see Laforge, Jaso
-- 06:20 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}}],"say":"Dusk. Going to my bed at 443,107,-1051 for the night. Count me at first light."}
-- 06:21 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
-- 06:21 act: {"say":"Wesley here at the bed row. Holding, no walk until Billy calls it.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","prec
-- Night, day 410, at my bed 444,107,-1051. Sleep started (7 of 10 asleep). Riker holds the bed row; no walk until Billy calls it. Hunger 17, health 19.3. Next: first light, count in Billy's sight.
-- Day 411 first light: Billy counted 9 incl. me; sword still refused by containers, no walk. Midday: at bed row 436,107,-1040 with Billy and LaForge in sight. Hunger 17, health 19.3. Holding beef for hunger 6.
-- 06:27 act: {"say":"Wesley counted at first light, holding beef for the lowest. No walk until Billy calls it.","intent":{"goal":"join_bed_row","program":"travel","arguments":{"target":{"x":436,"y":107,"z":-1040}}
-- 06:27 act: {"say":"At the bed row, midday. Counted by Billy's sight. Holding beef for the lowest.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_d
-- 06:34 act: {"say":"Dusk. Going to my bed at 443,107,-1051 for the night. Count me at first light.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
+- Day 411 morning: Billy's cow walk left with four (Troi, Kimberly, Jason, Trini). I was not in his sight, so I held at bed 444,107,-1051. Holding 1 beef for hunger 6. Riker health 8.4 and Leonardo health 8.8 at the row.
+- Day 411 night: slept at bed 444,107,-1051 with the group in the row. Hunger 17, health 19.3. Lesson: be in Billy's sight before the count, not after.
