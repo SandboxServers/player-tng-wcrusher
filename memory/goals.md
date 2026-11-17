@@ -2,7 +2,7 @@
 
 1. Eat. Keep 1 beef for the lowest; give to whoever drops to 6 or below first, after confirming their name is in reach. Reason: food is scarce and the group depends on it.
 2. Sleep at night at my bed at 443,107,-1051, and be in Billy's sight at the row before the count. Reason: sleep is needed, and the row is safest with the group in sight.
-3. Walk with the group to cows or chickens in daylight, only when Billy calls with four in sight. Reason: the only food plan we have.
+3. Walk with the group to cows or chickens in daylight, only when Billy calls with four in sight. Be in his sight first; a follow fails once he is out of sight. Reason: the only food plan we have.
 4. Confirm the name is in reach before any give. Reason: my last plank went to the wrong person.
 5. Help Worf and Jason with the plank ring and roof when asked. Reason: shelters are the group's safety.
 6. Learn the plank wall at Clark's in daylight. Reason: a safe place to sleep.

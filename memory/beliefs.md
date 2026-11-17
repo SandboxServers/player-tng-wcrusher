@@ -27,4 +27,7 @@
 
 - Day 412: Billy counts people in sight at the row and still waits for four before any cow walk. Standing next to my bed at dusk and calling sleep worked again (4 of 10 counted).
 
+- Day 412: A follow on Billy fails once he is out of my sight ("intent failed"). Walk to the row and be in his sight first, then wait for his call.
+- Day 412: Billy postponed the cow walk at midday. Holding at the row in sight is still the safe default.
+
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
