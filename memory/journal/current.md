@@ -161,3 +161,10 @@
 - 12:53 act: {"say":"Wesley at 416,107,-1037 by the 415 beds, daylight, holding nothing in hand but my pack. Billy, name my cell and I walk to the row.","actions":[]}
 - 12:57 act: {"say":"Walking to 393,107,-1034 at the row as Billy named, in daylight.","actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}}]}
 - 12:57 act: {"say":"Wesley at 393,107,-1034 at the row, daylight, holding nothing in hand. Hunger 17, health 19. Holding for Billy's call.","actions":[]}
+- 13:01 act: {"say":"Wesley at 393,107,-1034 at the row, dusk, in Billy's sight. No bed walk in the dark; sleeping here where I stand.","actions":[{"do":"sleep"}]}
+- 13:01 act: {"say":"Wesley at 388,107,-1023, beside the white bed at 387,-1023, night, sleeping. Holding still until Billy names a cell.","actions":[]}
+- 13:05 act: {"say":"Wesley at 388,107,-1023 at the row, morning, daylight, holding nothing. Hunger 17, health 19. Holding for Billy's count.","actions":[]}
+- 13:14 act: {"say":"Wesley at 388,107,-1023 beside the white bed at 387,-1023, dusk, in sight of the row. Sleeping here, no walk in the dark.","actions":[{"do":"sleep"}]}
+- 13:18 act: {"say":"Wesley at 388,107,-1023, daylight, holding nothing. Billy, I have a stone sword in my pack. Name a cell and I will bring it to you at the row, or say the word and I give it to you.","actions":
+- 13:22 act: {"say":"Walking to 388,107,-1037 with the stone sword, as Billy asked, in daylight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}]}
+- 13:22 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"stone_sword","count":1}],"say":"Billy, here is my stone sword, as you asked."}
