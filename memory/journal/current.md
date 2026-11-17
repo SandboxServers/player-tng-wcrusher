@@ -172,3 +172,10 @@
 - 13:27 act: {"actions":[],"say":"Wesley here at 388,107,-1050, drifted off the row in my sleep. Troi is in reach. Billy, I'm holding still until you name a cell."}
 - 13:31 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}}],"say":"Billy named my cell, 393,107,-1034. Walking there in daylight."}
 - 13:31 act: {"actions":[],"say":"Wesley at 393,107,-1035, at my named cell near the row. No one in my sight; holding still until Billy calls."}
+- 13:43 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 393,107,-1035, my named cell, sleeping here for the night. Nobody in my sight; I will not walk in the dark."}
+- 13:43 act: {"actions":[],"say":"Wesley awake at 388,107,-1050 after the drift; Tommy in reach. Holding still until Billy names my cell."}
+- 13:48 act: {"actions":[],"say":"Billy, Wesley at 388,107,-1051, alone and out of your sight. I will not walk alone. Name my cell and the walk, and I will come to the row in daylight."}
+- 13:52 act: {"actions":[],"say":"Billy, Wesley still alone at 388,107,-1051 with nobody in sight. I'll wait for Data or Kimberly to come into view before walking to my cell at 393,-1034."}
+- 13:56 act: {"actions":[{"do":"sleep"}],"say":"Wesley alone at 388,107,-1051 at night, beside the bed at 387,-1051. Nobody in my sight; I will not walk the dark. Sleeping here."}
+- 14:04 act: {"actions":[],"say":"Wesley at 388,107,-1051, dawn, alone and unarmed. Billy, my cell is 393,107,-1034 by your count. I hold here until you call the walk with four in sight."}
+- 14:08 act: {"actions":[],"say":"Billy, I hear your call, but I see nobody from here, not Tommy or Beverly. I will walk to the row only once four are in my sight. Holding at 388,107,-1051."}
