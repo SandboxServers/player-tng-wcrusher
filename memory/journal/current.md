@@ -133,3 +133,5 @@ waking 166: still no status, wait, act, say or journal in my tools (only recall,
 - 02:43 say: {"text":"Billy, I see Picard, Tommy, Jason, Data, Trini in view with me at 431,107,-1025. Count me in; holding 1 beef for the lowest. Ready for the walk."}
 - 02:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Wesley going to the white bed at 443,107,-1050 in the bed row, in Billy's sight. Holding 1 beef for the low
 - 02:50 act: {"actions":[{"do":"note","text":"Day 400 first light: slept at bed row 443,107,-1050 (sleep said 3 of 10, likely not counted). Health 19, hunger 17, holding 1 beef for the lowest. Billy's group is in 
+- 02:59 act: {"say":"Wesley at the bed row, holding my beef for the lowest. It is dark, so I am going to sleep here in the group's sight.","actions":[{"do":"sleep"}]}
+- 03:03 say: {"text":"Wesley at the bed row, holding my beef for the lowest. Billy, I am in your sight and will walk when you call four in sight."}
