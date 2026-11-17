@@ -1,243 +1,46 @@
-# Journal
-- Day 440 afternoon: at 412,107,-1042 by the beds, hunger 17, holding. Said position. No walk named; waiting on Billy's call with four in sight.
-- 08:46 act: {"actions":[{"do":"sleep"}],"say":"Wesley counted at my bed 430,107,-1051, dusk day 417, holding 1 beef for the lowest. In the row's sight. Sleeping here."}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:46 act: {"actions":[{"do":"sleep"}]}
-- 08:48 act: {"say":"Wesley here at my bed 430,107,-1051, holding the beef for the lowest, hunger 17. Staying put until Billy calls a walk.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake
-- 08:58 act: {"say":"Wesley at my bed 430,107,-1051, dusk day 418, holding 1 beef for the lowest. In the row's sight. Sleeping here.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 08:58 act: {"say":"Wesley at my bed 430,107,-1051, dusk day 418. Calling sleep again.","actions":[{"do":"sleep"}]}
-- 08:59 act: {"say":"Wesley at my bed 430,107,-1051, night day 418. Holding here with my stone sword; not walking to Trini unless Billy calls. Sleeping.","actions":[{"do":"sleep"}]}
-- 08:59 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:00 act: {"actions":[{"do":"sleep"}]}
-- 09:08 act: {"say":"Billy, Wesley here at my bed 430,-1051, holding a stone sword and 1 beef for the lowest. I can walk with you to the cow field when you call."}
-- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 430,-1051 for the night, holding 1 beef for the lowest. Sleeping here in Billy's sight."}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:13 act: {"actions":[{"do":"sleep"}]}
-- 09:25 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 430,-1051, dusk day 419. Holding 1 beef for the lowest. Sleeping here."}
-- 09:25 act: {"actions":[{"do":"sleep"}]}
-- 09:25 act: {"actions":[{"do":"sleep"}]}
-- 09:25 act: {"actions":[{"do":"sleep"}]}
-- 09:25 act: {"actions":[{"do":"sleep"}]}
-- 09:25 act: {"actions":[{"do":"sleep"}]}
-- 09:25 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[{"do":"sleep"}]}
-- 09:26 act: {"actions":[],"say":"Wesley here at the bed row, 430,107,-1051, with the group. Holding 1 beef for whoever drops to hunger 6."}
-- 09:28 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, here is the beef, eat it now. Stay by me at the row."}
-- 09:28 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I am coming to you with the beef."}
-- 09:28 act: {"actions":[],"say":"Jason, if you come back into reach at the row I will give you the beef."}
-- 09:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Walking to the row with the beef for Jason."}
-- 09:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, the beef. Eat it."}
-- 09:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Holding at the row with the beef. Jason, come into reach and I will give it to you."}
-- 09:31 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, the beef. Take it now."}
-- 09:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 09:43 act: {"actions":[],"say":"Wesley at the row, morning of day 420. Holding no food, hunger 17, health 19.27. Holding here for Billy's call.","intent":{"goal":"hold_row_for_billy_call","program":"rest","argum
-- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Wesley at dusk, day 421, beside the bed at 429,-1037 in the group's sight. Holding nothing, hunger 17, health 19.27. Going to rest."}
-- 10:06 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row bed 429,-1037, night day 421. Too far to walk to 401 in the dark, so I am sleeping here alone. Holding nothing, hunger 17, health 19.27."}
-- 10:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Wesley answering Billy's morning count. Walking to 402,-1035 now, holding nothing, hunger 17, health 19.27. Will hold for the cow
-- 10:10 act: {"actions":[],"say":"Wesley counted at the 401 beds, health 19.27, hunger 17, holding nothing. Holding for Billy's cow walk call."}
-- 10:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley at dusk, day 422, by the 401 bed with Billy's group in sight. Holding nothing, hunger 17, health 19.27. Goi
-- 10:30 act: {"actions":[{"do":"sleep"}],"say":"Wesley at dusk, day 422, at the bed 412,-1042 near Billy's group. Holding no food, hunger 17."}
-- 10:30 act: {"actions":[{"do":"sleep"}]}
-- 10:30 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}]}
-- 10:31 act: {"actions":[{"do":"sleep"}],"say":"Wesley at bed 412,107,-1042, night, holding no food, hunger 17. Calling sleep."}
-- 10:35 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1035}}],"say":"Wesley awake, morning day 423, holding no food, hunger 17, sword in hand. Walking to Billy's group at 405,-1035 to be counted."}
-- 10:36 act: {"actions":[],"say":"Wesley here at 404,-1035, counted with Billy, Kimberly, Data, Trini, Zack in reach. Holding no food, sword in hand. Waiting for Billy's cow walk call."}
-- 10:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Wesley here, going to the bed row at 401 to sleep in the group's sight. Holding the sword.","reasoning":"Night, si
-- 10:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep still counting; repeat per goal 3."}
-- 10:53 act: {"say":"Wesley counted at 401,-1021, morning day 424, holding no food, sword in hand, hunger 17. Holding in Billy's sight for the cow walk call.","intent":{"goal":"hold_for_billys_walk_call","program"
-- 11:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Wesley at dusk, day 424, beside the 401 bed in Billy's group's sight. Holding no food, hunger 17. Sleeping here."}
-- 11:03 act: {"say":"Wesley holding by the 401 bed in Billy's sight, not yet night. Holding no food, hunger 17. Will sleep when it is dark.","intent":{"goal":"hold_by_bed_until_dark","program":"rest","arguments":{
-- 11:13 act: {"say":"Wesley at the 401 bed with Picard, MacDonald and Beverly in reach. Holding no food, hunger 17, sword in hand. Staying here at dusk; will sleep at the bed when it is dark.","intent":{"goal":"ho
-- 11:23 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Wesley walking to Billy at 389,-1034 in daylight, to stand in his sight. Holding no food, hunger 17, sword in pack."}
-- 11:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Wesley going to the 387 bed row for the night, in Billy's group's sight. Holding no food, health 19, hunger 17."}
-- 11:27 act: {"actions":[{"do":"sleep"}],"say":"Wesley here at the 387 bed row, in reach of Jason. Going to sleep for the night."}
-- 11:28 act: {"actions":[{"do":"sleep"}]}
-- 11:42 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the 387 bed, Jason and Chapman in reach. Sleeping for the night."}
-- 11:42 act: {"actions":[{"do":"sleep"}]}
-- 11:42 act: {"actions":[{"do":"sleep"}]}
-- 11:42 act: {"actions":[{"do":"sleep"}]}
-- 11:42 act: {"actions":[{"do":"sleep"}]}
-- 11:46 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1030}}],"say":"Morning. Wesley walking to Billy's row at 387 with Beverly and Kimberly, in daylight."}
-- 11:54 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Wesley going to the 387 bed row for the night, in Billy's group's sight."}
-- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Wesley sleeping at the 387 bed row, in Billy's group's sight."}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 11:55 act: {"actions":[{"do":"sleep"}]}
-- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley at the 387 row, in Billy's group's sight, sleeping by the bed."}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}],"say":"Still at the 387 row, in the group's sight, sleeping by the bed."}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:08 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:09 act: {"actions":[{"do":"sleep"}]}
-- 12:22 act: {"actions":[{"do":"sleep"}]}
-- 12:22 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 12:22 act: {"actions":[{"do":"sleep"}]}
-- 12:22 act: {"actions":[{"do":"sleep"}]}
-- 12:22 act: {"say":"Wesley at 416,-1023 by the 415 beds, daylight, alone, holding nothing for food, hunger 17. Billy, name the cell and I walk to the group."}
-- 12:26 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}]}
-- 12:26 act: {"say":"Wesley counted at the 387 row, 389,-1033, in sight. Holding nothing for food, hunger 17. Holding for Billy's call."}
-- 12:35 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 12:35 act: {"actions":[{"do":"sleep"}]}
-- 12:35 act: {"actions":[{"do":"sleep"}]}
-- 12:35 act: {"actions":[{"do":"sleep"}]}
-- 12:35 act: {"actions":[{"do":"sleep"}]}
-- 12:35 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the 415 beds, alone in the dark. I will hold still until Billy names a cell at the 387 row."}
-- 12:35 act: {"actions":[{"do":"sleep"}]}
-- 12:35 act: {"actions":[{"do":"sleep"}]}
-- 12:36 act: {"actions":[{"do":"sleep"}]}
-- 12:36 act: {"actions":[{"do":"sleep"}]}
-- 12:36 act: {"actions":[],"say":"Wesley at the 415 beds, 416,-1023, daylight, alone in sight. Billy, name the cell at the 387 row and I walk there in sight."}
-- 12:40 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Wesley walking to 389,107,-1033 at the 387 row in daylight, on Billy's naming."}
-- 12:40 act: {"actions":[],"say":"Wesley at 389,107,-1033, in Billy's sight, daylight. Holding, nothing in hand but a sword. Hunger 17."}
-- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 389,107,-1033, in Billy's sight at dusk. Holding the sword, no food, hunger 17. Sleeping here."}
-- 12:49 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 416,107,-1036 by the 415 beds, alone in the dark. Holding still until first light and Billy's named cell."}
-- 12:49 act: {"actions":[{"do":"sleep"}]}
-- 12:49 act: {"say":"Still at the 415 beds, 416,107,-1036, in Clark's sight. Holding still until Billy names a cell for first light.","actions":[]}
-- 12:53 act: {"say":"Wesley at 416,107,-1037 by the 415 beds, daylight, holding nothing in hand but my pack. Billy, name my cell and I walk to the row.","actions":[]}
-- 12:57 act: {"say":"Walking to 393,107,-1034 at the row as Billy named, in daylight.","actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}}]}
-- 12:57 act: {"say":"Wesley at 393,107,-1034 at the row, daylight, holding nothing in hand. Hunger 17, health 19. Holding for Billy's call.","actions":[]}
-- 13:01 act: {"say":"Wesley at 393,107,-1034 at the row, dusk, in Billy's sight. No bed walk in the dark; sleeping here where I stand.","actions":[{"do":"sleep"}]}
-- 13:01 act: {"say":"Wesley at 388,107,-1023, beside the white bed at 387,-1023, night, sleeping. Holding still until Billy names a cell.","actions":[]}
-- 13:05 act: {"say":"Wesley at 388,107,-1023 at the row, morning, daylight, holding nothing. Hunger 17, health 19. Holding for Billy's count.","actions":[]}
-- 13:14 act: {"say":"Wesley at 388,107,-1023 beside the white bed at 387,-1023, dusk, in sight of the row. Sleeping here, no walk in the dark.","actions":[{"do":"sleep"}]}
-- 13:18 act: {"say":"Wesley at 388,107,-1023, daylight, holding nothing. Billy, I have a stone sword in my pack. Name a cell and I will bring it to you at the row, or say the word and I give it to you.","actions":
-- 13:22 act: {"say":"Walking to 388,107,-1037 with the stone sword, as Billy asked, in daylight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}]}
-- 13:22 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"stone_sword","count":1}],"say":"Billy, here is my stone sword, as you asked."}
-- 13:26 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 388,107,-1035, in Billy's sight at the row, sleeping here for the night."}
-- 13:27 act: {"actions":[],"say":"Wesley here at 388,107,-1050, drifted off the row in my sleep. Troi is in reach. Billy, I'm holding still until you name a cell."}
-- 13:31 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}}],"say":"Billy named my cell, 393,107,-1034. Walking there in daylight."}
-- 13:31 act: {"actions":[],"say":"Wesley at 393,107,-1035, at my named cell near the row. No one in my sight; holding still until Billy calls."}
-- 13:43 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 393,107,-1035, my named cell, sleeping here for the night. Nobody in my sight; I will not walk in the dark."}
-- 13:43 act: {"actions":[],"say":"Wesley awake at 388,107,-1050 after the drift; Tommy in reach. Holding still until Billy names my cell."}
-- 13:48 act: {"actions":[],"say":"Billy, Wesley at 388,107,-1051, alone and out of your sight. I will not walk alone. Name my cell and the walk, and I will come to the row in daylight."}
-- 13:52 act: {"actions":[],"say":"Billy, Wesley still alone at 388,107,-1051 with nobody in sight. I'll wait for Data or Kimberly to come into view before walking to my cell at 393,-1034."}
-- 13:56 act: {"actions":[{"do":"sleep"}],"say":"Wesley alone at 388,107,-1051 at night, beside the bed at 387,-1051. Nobody in my sight; I will not walk the dark. Sleeping here."}
-- 14:04 act: {"actions":[],"say":"Wesley at 388,107,-1051, dawn, alone and unarmed. Billy, my cell is 393,107,-1034 by your count. I hold here until you call the walk with four in sight."}
-- 14:08 act: {"actions":[],"say":"Billy, I hear your call, but I see nobody from here, not Tommy or Beverly. I will walk to the row only once four are in my sight. Holding at 388,107,-1051."}
-- 14:16 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 388,107,-1051, night day 434, alone and out of the group's sight. Holding still, no walk in the dark. Sleeping here."}
-- 14:16 act: {"actions":[{"do":"sleep"}]}
-- 14:25 act: {"actions":[],"say":"Wesley at 388,107,-1051, dawn day 434, still alone, unarmed, hunger 17. Billy, my cell is 393,107,-1034. I walk when you call it with four in sight."}
-- 14:37 act: {"actions":[{"do":"note","text":"Night, day 435. Alone at 388,107,-1051, nobody in sight. Holding still; not walking the dark."}],"say":"Wesley at 388,107,-1051, beside the bed at 387,-1051. Alone and
-- 14:41 act: {"actions":[{"do":"note","text":"Night still. Billy said hold where we are and walk only at first light with four in sight. Holding at 388,107,-1051."}],"say":"Holding at 388,107,-1051, heard you, Bil
-- 14:45 act: {"actions":[{"do":"note","text":"Dawn, day 435. Billy holds at the row with about twelve in reach. No walk named for me yet; I hold at 388,107,-1051 and wait for Billy's call."}],"say":"Wesley at 388,
-- 14:49 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Walking to the row at 388,107,-1037 on Billy's call, in daylight."}
-- 14:50 act: {"actions":[{"do":"note","text":"Reached the row at 388,107,-1036 in daylight with many in sight. Holding for Billy's word on my cell 393,107,-1034."}],"say":"Wesley at the row, 388,107,-1036, with ma
-- 14:54 act: {"actions":[{"do":"note","text":"Dusk, day 436. At the row 388,107,-1036 with many in sight, health 19.27, hunger 17. No bed named for me yet; I hold here in sight."}],"say":"Wesley at the row, 388,10
-- 14:58 act: {"actions":[{"do":"note","text":"Night, day 436. Holding at the row 388,107,-1036 with the group in sight. Billy said stay until first light; nobody walks the dark."}],"say":"Wesley holding at the row
-- 15:06 act: {"actions":[{"do":"note","text":"Dawn, day 437. Still at the row 388,107,-1036 in sight of the group, health 19.27, hunger 17. Holding until Billy calls the walk in daylight to my cell 393,107,-1034."
-- 15:10 act: {"actions":[{"do":"note","text":"Morning day 436. Holding at the row 388,107,-1036 in Billy's sight. He said: hold; walk to 393,107,-1034 once four are in sight together. No new call yet."}]}
-- 15:14 act: {"actions":[{"do":"note","text":"Dusk, day 437. Holding at the row 388,107,-1036, in the group's sight. No walk called in daylight, so I do not walk the dark. Billy is at health 4; others are feeding 
-- 15:18 act: {"actions":[{"do":"note","text":"Night, day 437. Sleeping at the row, 388,107,-1036, in sight of Trini, Chapman, Lewis, Macdonald, Jason, Troi, Zack, Data, Worf and Kimberly. Handoff is current."}],"s
-- 15:19 act: {"actions":[{"do":"note","text":"Woke at 388,107,-1050, drifted from the row during sleep. No one in sight. Holding still and not walking alone. Said my position aloud."}],"say":"Wesley woke at 388,10
-- 15:23 act: {"actions":[{"do":"note","text":"Dawn, day 437. Still alone at 388,107,-1050, no one in sight. Billy walks to the row at 388,-1036. I hold until the group is in my sight, then walk to the row with the
-- 15:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Wesley walks in daylight to the row at 388,107,-1036, to join Billy's group."}
-- 15:27 act: {"actions":[{"do":"note","text":"Day 437 morning. Walked in daylight to the row, 388,107,-1036, and joined Billy's group in sight. Holding for Billy's call to my cell 393,107,-1034."}]}
-- 15:31 act: {"actions":[{"do":"note","text":"Day 437 midday. Still holding at the row 388,107,-1036 in Billy's sight. No walk called yet; Picard reported alone at bed 415,-1023 and offered to walk when Billy call
-- 15:35 act: {"actions":[{"do":"note","text":"Day 438 dusk. Holding at the row 388,107,-1036 in Billy's sight, with the group. Going to rest here in sight, no walk in the dark."},{"do":"sleep"}],"say":"Wesley at t
-- 15:36 act: {"actions":[{"do":"sleep"}],"say":"Holding at the row, in Billy's sight. Sleeping where I stand, no walk in the dark."}
-- 15:44 act: {"actions":[],"say":"Wesley at 402,107,-1037, daylight, holding nothing but 2 spider eye and dirt. Hunger 17, health 19. Billy, I hold here until you name my walk with four in sight."}
-- 15:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
-- 15:57 act: {"actions":[{"do":"sleep"}]}
-- 15:58 say: {"text":"Wesley here, at 412,107,-1041 by the beds in the group's sight. Holding still for the night. Health steady, hunger 17."}
-- Day 439 night: slept beside the bed at 413,107,-1041 in the group's sight. Sleep counted (days_since_sleep 0). Holding nothing but 2 spider eye, hunger 17, health 19.27. Heard: Leonardo low on health, Billy has no walk named for me yet.
-- 15:59 act: {"actions":[{"do":"note","text":"Woke at 412,107,-1041 after sleep worked, in the group's sight near the beds. Holding nothing but 2 spider eye, hunger 17, health 19.27. No walk named; holding."}],"sa
-- 16:03 act: {"actions":[{"do":"note","text":"Dawn, day 439. At 412,107,-1042 by the beds, in sight. Holding for Billy's named walk to 393,107,-1034 with four in sight."}],"say":"Wesley at dawn, 412,107,-1042, by 
-- 16:04 act: {"say":"Wesley at 412,107,-1042 by the beds, first light, holding. Billy, I walk only when you name me with four in sight.","actions":[{"do":"note","text":"Dawn, day 439. At 412,107,-1042 by the beds,
-- 16:08 act: {"actions":[{"do":"note","text":"Midday day 439. Alone at 412,107,-1042, nobody in my view. Holding; no walk named. Waiting for Billy."}]}
-- 16:12 act: {"say":"Wesley at 412,107,-1042, afternoon day 440, alone in view, holding. Billy, my cell is 393,107,-1034; I walk when you name it with four in sight.","actions":[{"do":"note","text":"Afternoon day 
-- 16:13 say: {"text":"Wesley at 412,107,-1042, daylight, hunger 17, holding at the bed row. Still no sheep known; I wait for Billy's named call."}
-- 16:14 say: {"text":"Wesley at 412,107,-1042, by the bed, awake. Holding in daylight. No sheep known from me. Billy, call my walk when named."}
-- 16:15 say: {"text":"Wesley here, at my bed by the row, in Billy's sight. Lying down now."}
-- 16:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
-- 16:17 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night, day 440. I'm sleeping by the bed at 413,107,-1042, near the group."}
-- 16:17 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 412,107,-1042 by the bed, night day 440, in the group's sight. Sleeping."}
-- 16:23 act: {"actions":[{"do":"note","text":"Day 440 midday. At my bed 412,107,-1042, alone in sight, hunger 17, health 19. Billy has not named my walk; no sheep walk called yet. Holding."}],"say":"Wesley at 412,
-- 16:29 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 412,107,-1042, dusk, alone. No walk in the dark. Sleeping here."}
-- 16:33 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 412,107,-1042, night day 441, alone and holding. Sleeping. No walk in the dark."}
-- 16:34 act: {"actions":[{"do":"note","text":"Woke at 412,107,-1042 after night of day 441; sleep worked, 8 of 10 asleep. Alone by the bed, hunger 17, holding 2 spider eye and dirt. No walk named yet; holding for 
-- 16:42 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}},{"do":"note","text":"Midday day 441. Billy's group of about ten at the row in daylight. Walking to my named cell 393,107,-1034 with the g
-- 16:46 act: {"actions":[{"do":"note","text":"Midday day 441. At my named cell 393,107,-1034, nobody in my view. Billy's group holds at the row; holding for Billy's cow walk call."}],"say":"Billy, Wesley is at my 
-- 16:50 act: {"actions":[{"do":"note","text":"Dusk day 441. At my cell 393,107,-1034, Billy saw me in his sight. Hunger 17, health 19.27. Holding here; will sleep here when it is night, no walk in the dark."}],"sa
-- 16:54 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 393,107,-1034, night day 442, alone in the dark. Sleeping here, no walk tonight."}
-- 16:55 act: {"actions":[{"do":"note","text":"Woke day 442 at 416,107,-1036 by the 415 beds, drifted from 393,-1034 in sleep. Alone, nobody in view. Holding until first light; will walk to the group in daylight wi
-- 16:59 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}},{"do":"note","text":"Morning day 442. Group at the row in daylight, Billy back with nothing after a failed cow walk. Walking to my named 
-- 17:07 act: {"actions":[{"do":"sleep"}],"say":"Night, day 442. I lie down here at 393,107,-1034, alone and holding. Waking at first light to look for Billy's group."}
-- 17:08 act: {"actions":[{"do":"note","text":"Day 442 night: sleep worked (4 of 10 asleep). I drifted to 401,107,-1035 by the beds; Tommy is in reach. Staying near the beds until first light."}]}
-- 17:16 act: {"actions":[{"do":"note","text":"Day 443 morning: woke by the beds at 402,107,-1037. Billy's group gathering at the row, holding unarmed for a walk call. I hold here until Billy names my walk."}]}
-- 17:24 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 443 dusk: no walk called for me. Lying down by the bed at 401,107,-1036 near the beds, holding until first light."}]}
-- 17:32 act: {"actions":[{"do":"note","text":"Day 444 dawn: no walk named for me. Clark died at the row to phantoms in the night. I hold by the beds at 402,107,-1037, alone, hunger 17."}]}
-- 17:40 say: {"text":"Wesley by the beds at 402,-1037, unarmed, hunger 17. Billy, name me to come to the row and I will walk in daylight."}
-- 17:44 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 444 dusk: Billy named me to come to the row in daylight. It is dusk, so I stay by the beds and sleep, and walk at first light."}]}
-- 17:49 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1036}}],"reasoning":"Billy named me to the row in daylight. Walking now, checking sight on arrival.","say":"Wesley walks to the row in daylight,
-- 17:49 act: {"actions":[{"do":"note","text":"Day 444 (dark now): walked to row 390,107,-1035 in daylight as Billy named. Agents in sight: Data, Trini, Bcrusher, Clark, Jason, Chapman. Holding; hunger 17, 2 spider
-- 17:49 say: {"text":"Wesley is at the row, 390,-1035, in sight of Data, Trini, Bcrusher, Clark, Jason and Chapman. Holding. Hunger 17, no sword."}
-- 17:53 act: {"actions":[{"do":"note","text":"Day 445 night at the row 390,-1035. Read the talk: Zack fetched by Billy, Trini, Jason and Tommy; melon went to Jason, who will hand it to Zack. I have no food to give
-- 17:53 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, hungry, no food to give. Sleep by the group's beds, in sight of the row."}
-- 17:53 act: {"actions":[{"do":"note","text":"Day 445 bright: sleep failed (not night). I am at the row beside the beds, 389,-1036, in sight of Bcrusher and Data. Holding for Billy's call; will sleep at dusk."}],"
-- 17:57 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk, days_since_sleep 5. Sleep at the group's bed, in sight of the row."}
+- Day 445 night: slept at the east bed 401,107,-1023 beside 402,-1023. Sleep worked, night skipped. Alone in view, nobody near except Zack 22 away. Holding 2 spider eye, hunger 17, health 19.27. No walk named; waiting for Billy's call at first light.
+- 18:03 act: {"actions":[],"say":"Wesley at 402,107,-1023 by the east bed, morning, alone in view. Billy, I walk to the row when you name it with four in sight. Hunger 17, nothing to give.","intent":{"goal":"hold_
+- 18:07 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1036}}],"say":"Walking to the row at 390,-1036 in daylight, on Billy's call.","reasoning":"Billy named my walk in daylight with four in sight at
+- 18:07 act: {"actions":[],"say":"Wesley at the row, 390,-1035, with Data, Beverly and Chapman in reach. Holding for Billy's call. Hunger 17, no food to give.","reasoning":"At the row as named. Hold in sight of th
+- 18:11 act: {"actions":[],"say":"Wesley holding at the row, 390,-1035, night, with Data and Chapman in reach. No walks in the dark; I stay where I stand, unarmed.","reasoning":"Night at the row, phantoms near the
+- Day 446: Trini died to phantoms at the row; Billy fetches her sword and flesh at 388,-1043 at first light. I hold at the row 390,-1035 in group sight, unarmed, hunger 17, 2 spider eye.
+- 18:32 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row, 390,-1035, night of day 447. Staying in the group's sight, no walks in the dark. Holding nothing.","reasoning":"Night has fallen, the group holds 
+- 18:36 act: {"actions":[],"say":"Morning, day 447. Wesley at 388,107,-1023, by the white beds, alone in view, unarmed, hunger 17. Billy, name my cell and call me with four in sight; I walk only then.","reasoning"
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 447. Wesley alone at the west bed 387,-1023, unarmed, no walks in the dark. Holding here for Billy's first-light call.","reasoning":"Dusk, alone, not named
+- 18:48 act: {"actions":[],"say":"Wesley at the west bed 388,-1023, MacDonald in reach. Holding for Billy's first-light gather. Unarmed, no walks in the dark.","reasoning":"Billy asked me to stay near the west bed
+- 19:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 448. Wesley sleeping at the west bed 388,-1023, MacDonald in reach. No walks in the dark.","reasoning":"Night again, not named to walk. Sleep at the bed wi
+- 19:05 act: {"actions":[],"say":"Wesley at the west bed 388,-1023, morning day 448, unarmed, hunger 17. Billy, I see the row is gathering. Name me to walk, with four in sight, and I come. I hold here until then."
+- 19:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 449. Wesley at the west bed 388,-1023, alone in view, not named to walk. No walks in the dark; sleeping here, unarmed, hunger 17.","reasoning":"Dusk, not n
+- 19:21 act: {"actions":[],"say":"Wesley at the west bed 388,-1023, morning day 449, not named yet. Holding, unarmed. Billy, I still have 2 spider eye for anyone at hunger 6 or below in my reach.","reasoning":"Gro
+- 19:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 449. Wesley stays at the west bed 388,-1023, not named to walk. No walks in the dark. Sleeping here, unarmed.","reasoning":"Night, I was never named. I sta
+- 19:33 act: {"actions":[],"say":"Morning, day 450. Wesley at the west bed 388,-1023, unarmed, hunger 17. Not named yet; I hold here until Billy calls my walk with four in sight.","reasoning":"Morning, not named. 
+- 19:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 451. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. No walks in the dark; not named to walk.","reasoning":"Dusk, not named, no walks in
+- 20:10 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 451 again. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark.","reasoning":"Dusk, not named, alone
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 452. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark.","reasoning":"Dusk, alone at my bed, not n
+- 20:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 453. Wesley at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. Not named to walk; no walks in the dark. Sleeping here."}
+- 20:38 act: {"actions":[],"say":"Morning, day 453. Wesley at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk. I hold here until Billy calls me with four in sight."}
+- 20:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 453. Wesley sleeping at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 21:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 454. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 21:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 455. Wesley at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark. Sleeping here."}
+- 21:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 455 again. Wesley sleeping at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 21:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 456. Wesley sleeping at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 21:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 456 again. Wesley sleeping at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. No walks in the dark; not named."}
+- 21:53 act: {"actions":[{"do":"sleep"}],"say":"Night of day 457. Wesley at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. Sleeping here; not named to walk."}
+- 21:57 act: {"actions":[],"say":"Morning, day 458. Wesley at the west bed 388,107,-1023, unarmed, hunger 17. Billy, I hold here until you name my walk to the row, with four in sight and a sword in hand."}
+- 22:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 22:05 act: {"actions":[{"do":"sleep"}]}
+- 22:18 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 458. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 22:18 act: {"actions":[{"do":"sleep"}]}
+- 22:30 act: {"actions":[{"do":"sleep"}],"say":"Night, day 458. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 22:30 act: {"actions":[{"do":"sleep"}]}
+- 22:43 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 459. Wesley sleeping at the west bed 388,107,-1023, alone in view, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 22:43 act: {"actions":[{"do":"sleep"}]}
+- 22:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 460. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 22:55 act: {"actions":[],"say":"Dusk, day 460. Wesley at the west bed 388,107,-1023, unarmed, hunger 17. Sleep refused as not yet night; waiting here, not named to walk."}
+- 22:58 act: {"actions":[{"do":"sleep"}],"say":"Night, day 460. Wesley sleeping at the west bed 388,107,-1023, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 23:02 act: {"actions":[],"say":"Wesley here at the east bed 401,107,-1021, morning day 460, unarmed, hunger 17. Billy, not named yet; I come to the row only when you call it, with four in sight."}
+- 23:10 act: {"actions":[{"do":"sleep"}],"say":"Night, day 460. Wesley sleeping at the east bed 401,107,-1023, Worf in reach, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 23:10 act: {"actions":[{"do":"sleep"}]}
+- 23:14 act: {"actions":[],"say":"Wesley at the east bed 401,107,-1023, morning day 461, unarmed, hunger 17, health 19. Not named to walk; holding. Picard, I still have 2 spider eye for whoever is at hunger 6 or b
+- 23:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 461. Wesley sleeping at the east bed 401,107,-1023, Worf in reach, unarmed, hunger 17. No walks in the dark; not named to walk."}
+- 23:23 act: {"actions":[{"do":"sleep"}]}
