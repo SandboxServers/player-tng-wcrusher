@@ -44,3 +44,6 @@
 - 23:14 act: {"actions":[],"say":"Wesley at the east bed 401,107,-1023, morning day 461, unarmed, hunger 17, health 19. Not named to walk; holding. Picard, I still have 2 spider eye for whoever is at hunger 6 or b
 - 23:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 461. Wesley sleeping at the east bed 401,107,-1023, Worf in reach, unarmed, hunger 17. No walks in the dark; not named to walk."}
 - 23:23 act: {"actions":[{"do":"sleep"}]}
+- 23:25 act: {"say":"Wesley here at the east beds, morning. Holding for Billy's walk call. Hunger 17, health steady.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_add
+- 23:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 462. Wesley sleeping at the east bed 401,107,-1023, Worf in reach, unarmed, hunger 17. Not named to walk; no walks in the dark."}
+- 23:35 act: {"actions":[{"do":"sleep"}]}
