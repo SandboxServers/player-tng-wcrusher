@@ -32,4 +32,6 @@
 
 - Day 416: Billy's count of four at 415,-1035 held and a walk to spawn was planned together. Kimberly at health 0.93 was given rotten flesh. Beef stays held until hunger 6 or below.
 
+- Day 417: Leonardo asked me for beef at hunger 17; I held it. Billy's count at 413-415,-1035 held with Kimberly, Trini and Picard in reach. Bows drawing south kept us at the row all day.
+
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
