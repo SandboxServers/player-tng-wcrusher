@@ -115,3 +115,4 @@
 waking 154: tried the worker for status; it refused to spawn (its game tools are not in this session). No world tool to wait or act. Holding at bed row per last note, 1 beef for the lowest. Not retrying the same errand; will try again next waking.
 waking 156: still no status, wait, act or say in my tools. Did not send a worker errand. Holding at bed row 443,107,-1064 per last note, health 19, hunger 17, 1 beef for the lowest. Wrote handoff.md.
 waking 155: still no world tools (no status, wait, act or say in my tools). Did not send a worker errand again. Holding at bed row 443,107,-1064 per last note, health 19, hunger 17, 1 beef for the lowest. Waiting for next waking.
+waking 157: still no world tools (my tools are only recall, commit_memory, Read, Edit, Write, Skill, Agent). Did not send a worker errand. Last known: bed row 443,107,-1064, health 19, hunger 17, 1 beef held for the lowest. Waiting for next waking.
