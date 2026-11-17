@@ -140,3 +140,5 @@ waking 166: still no status, wait, act, say or journal in my tools (only recall,
 - 03:25 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley at the bed row 444,107,-1051, holding 1 beef for the lowest. Count me at first light, Billy."}
 - 03:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 402. Wesley at the bed row 444,107,-1051 in Billy's sight, holding 1 beef for the lowest. Count me at first light."}
 - 03:45 say: {"text":"Billy, Wesley in your sight at the bed row, health 19, hunger 17, holding 1 beef for the lowest. Ready for the walk when four stand."}
+- 03:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Wesley at the white bed, night of day 403. Health 19, hunger 17. Going to sleep here."}
+- 03:53 act: {"actions":[{"do":"sleep"}],"say":"Night, day 403. Wesley asleep at the bed row, holding 1 beef for the lowest. Count me at first light, Billy."}
