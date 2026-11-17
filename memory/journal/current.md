@@ -221,3 +221,23 @@
 - 16:29 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 412,107,-1042, dusk, alone. No walk in the dark. Sleeping here."}
 - 16:33 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed 412,107,-1042, night day 441, alone and holding. Sleeping. No walk in the dark."}
 - 16:34 act: {"actions":[{"do":"note","text":"Woke at 412,107,-1042 after night of day 441; sleep worked, 8 of 10 asleep. Alone by the bed, hunger 17, holding 2 spider eye and dirt. No walk named yet; holding for 
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}},{"do":"note","text":"Midday day 441. Billy's group of about ten at the row in daylight. Walking to my named cell 393,107,-1034 with the g
+- 16:46 act: {"actions":[{"do":"note","text":"Midday day 441. At my named cell 393,107,-1034, nobody in my view. Billy's group holds at the row; holding for Billy's cow walk call."}],"say":"Billy, Wesley is at my 
+- 16:50 act: {"actions":[{"do":"note","text":"Dusk day 441. At my cell 393,107,-1034, Billy saw me in his sight. Hunger 17, health 19.27. Holding here; will sleep here when it is night, no walk in the dark."}],"sa
+- 16:54 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 393,107,-1034, night day 442, alone in the dark. Sleeping here, no walk tonight."}
+- 16:55 act: {"actions":[{"do":"note","text":"Woke day 442 at 416,107,-1036 by the 415 beds, drifted from 393,-1034 in sleep. Alone, nobody in view. Holding until first light; will walk to the group in daylight wi
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}},{"do":"note","text":"Morning day 442. Group at the row in daylight, Billy back with nothing after a failed cow walk. Walking to my named 
+- 17:07 act: {"actions":[{"do":"sleep"}],"say":"Night, day 442. I lie down here at 393,107,-1034, alone and holding. Waking at first light to look for Billy's group."}
+- 17:08 act: {"actions":[{"do":"note","text":"Day 442 night: sleep worked (4 of 10 asleep). I drifted to 401,107,-1035 by the beds; Tommy is in reach. Staying near the beds until first light."}]}
+- 17:16 act: {"actions":[{"do":"note","text":"Day 443 morning: woke by the beds at 402,107,-1037. Billy's group gathering at the row, holding unarmed for a walk call. I hold here until Billy names my walk."}]}
+- 17:24 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 443 dusk: no walk called for me. Lying down by the bed at 401,107,-1036 near the beds, holding until first light."}]}
+- 17:32 act: {"actions":[{"do":"note","text":"Day 444 dawn: no walk named for me. Clark died at the row to phantoms in the night. I hold by the beds at 402,107,-1037, alone, hunger 17."}]}
+- 17:40 say: {"text":"Wesley by the beds at 402,-1037, unarmed, hunger 17. Billy, name me to come to the row and I will walk in daylight."}
+- 17:44 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 444 dusk: Billy named me to come to the row in daylight. It is dusk, so I stay by the beds and sleep, and walk at first light."}]}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1036}}],"reasoning":"Billy named me to the row in daylight. Walking now, checking sight on arrival.","say":"Wesley walks to the row in daylight,
+- 17:49 act: {"actions":[{"do":"note","text":"Day 444 (dark now): walked to row 390,107,-1035 in daylight as Billy named. Agents in sight: Data, Trini, Bcrusher, Clark, Jason, Chapman. Holding; hunger 17, 2 spider
+- 17:49 say: {"text":"Wesley is at the row, 390,-1035, in sight of Data, Trini, Bcrusher, Clark, Jason and Chapman. Holding. Hunger 17, no sword."}
+- 17:53 act: {"actions":[{"do":"note","text":"Day 445 night at the row 390,-1035. Read the talk: Zack fetched by Billy, Trini, Jason and Tommy; melon went to Jason, who will hand it to Zack. I have no food to give
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, hungry, no food to give. Sleep by the group's beds, in sight of the row."}
+- 17:53 act: {"actions":[{"do":"note","text":"Day 445 bright: sleep failed (not night). I am at the row beside the beds, 389,-1036, in sight of Bcrusher and Data. Holding for Billy's call; will sleep at dusk."}],"
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk, days_since_sleep 5. Sleep at the group's bed, in sight of the row."}
