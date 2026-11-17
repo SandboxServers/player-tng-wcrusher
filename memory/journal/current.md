@@ -39,3 +39,74 @@
 - night day 374: at bed 443,107,-1036. Sleep 1: 4 of 10 asleep. Sleep 2: "worked". Status days_since_sleep still 2; it should change at morning. Check status at first light. Health 20, hunger 20, beef held.
 - morning day 374 (after sleep): status days_since_sleep still 2. Sleeps this cycle report "worked" but the count did not reset. Sleep is NOT confirmed. Lesson: "worked" with under 10 asleep may not count; next night, get more sleepers in the bed row before calling sleep. Still in Billy's sight, no cow walk called.
 - day 375: days_since_sleep 3. Enderman hit Lewis near the beds; I was not hit. Still no cow walk. Wrote handoff.md. Waiting for dusk to sleep again.
+- day 375 daytime: status days_since_sleep 3. Told Billy I am at bed row 444,107,-1037 in his sight, holding for cow walk. Waiting.
+- day 375: waited again at bed row. Picard and Leonardo are in the group; Leonardo has a chicken for Lewis. No cow walk call yet. Health 20, hunger 20.
+- 18:38 act: {"say":"Billy, Wesley is at the bed row, 444,107,-1037, health 20, hunger 20. I am in your sight and will hold here for the cow walk.","reasoning":"Billy is counting four at the bed row. I am already 
+- day 376 afternoon: moved to 440,107,-1032 so Billy (4 blocks away) and Data can see me. Health 20, hunger 20. Waiting for the cow walk call.
+- dusk day 376: Billy saw Lewis, Data, Wesley, Troi; no walk tonight. Walk set for first light. Going to bed row 443,107,-1036 with the group.
+- day 376 morning: at bed row 443,107,-1035 with Billy in sight. Heard a bow to the southwest; Troi and Data moved in. Billy holding for four in sight to walk. Health 20, hunger 20.
+- night day 376: Billy has no weapon. Gave my spare wooden_sword to ag_billy_01 (in reach, name confirmed). Keeping stone sword and 2 beef. Still waiting for walk.
+- day 377 morning: days_since_sleep 5. Billy has the wooden sword now; sees only Troi and me, so no walk yet. Holding at bed row, health 20, hunger 20, 2 beef.
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1032}}],"say":"Billy, Wesley stepping toward you at 440,107,-1032 so you can see me. Health 20, hunger 20, 2 beef for the lowest.","reasoning":"
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Billy, Wesley is heading to the bed row for the night, in your sight. Walk at first light, I am counting in.","reasoning":"Dusk, 
+- 19:10 act: {"actions":[{"do":"give","to":"billy_01","item":"wooden_sword","count":1}],"say":"Billy, Wesley is giving you my spare wooden sword now, so you have a weapon for the walk. I keep my stone sword and th
+- 19:27 act: {"actions":[{"do":"note","text":"Day 377 daytime: at bed row 443,107,-1035, health 20, hunger 20, holding 2 beef. Trini and Troi in reach. No cow walk yet. Waiting in Billy's sight."}],"say":"Wesley h
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Billy, Wesley is walking to 429,107,-1035 in your view now. Holding 2 beef for the lowest, ready for the cow walk."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Wesley going to the white bed at 429,107,-1036 in the group's sight, holding 2 beef for the lowest. Walk at
+- 19:35 act: {"actions":[{"do":"note","text":"Dusk day 378: at bed row 429,107,-1035 with Trini, Lewis, Troi, Picard in sight. Sleep said 1 of 10 asleep, so it likely does not count. Not retrying. Waiting for morn
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1036}}],"say":"Morning, Billy. Wesley walking to you at 418,107,-1036 to be counted for the cow walk. Health 20, hunger 20, holding 2 beef for t
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}}],"say":"Billy, Wesley counted in the four and walking with you to the cow field at 339,104,-979. Holding 2 beef for the lowest. Call me if
+- 19:44 act: {"actions":[{"do":"note","text":"Day 379 morning: counted by Billy (Riker, Kimberly, Jason, Wesley). Went toward cow field 339,104,-979; goto blocked, I am alone at 364,111,-1005 and the group is out 
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"},{"do":"note","text":"Dusk day 378 (second): at bed 415,107,-1036 with the group, holding 2 beef for the lowest. Sleep atte
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1024}}],"say":"Billy, Wesley is walking to you at 406,107,-1024 in the open, to be counted. Holding 2 beef for the lowest."}
+- 19:53 act: {"actions":[],"say":"Billy, Wesley is at 406,107,-1025 in the open, in your sight with Riker, Jason, Leonardo, Kimberly. Count me in. Holding 2 beef for the lowest, waiting for your cow-walk call."}
+- 19:57 act: {"actions":[],"say":"Count is met, Billy. Wesley walking with the group to the cow field, staying in your sight. Holding 2 beef for the lowest."}
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Cow walk is off for today, Billy. Wesley going to the white bed 415,107,-1036 in the group's sight, holding 
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1020}}],"say":"Billy, Wesley coming to your view at 396,107,-1020 in daylight, to be counted for the cow walk. Holding 2 beef for the lowest."}
+- 20:05 act: {"actions":[],"say":"Billy, Wesley at 396,107,-1020, in your sight now, holding 2 beef for the lowest. Count me with the group for the walk."}
+- 20:08 act: {"actions":[],"say":"Wesley at 396,107,-1020 with Billy's group, holding 2 beef. Worf, I have not confirmed cell 394,107,-1025, so I cannot vouch for it. Billy, I stay in your sight and wait for your 
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1018}}],"say":"Billy, Wesley moving to 392,107,-1018 to be in your view. Holding 2 beef for the lowest. Count me for the walk."}
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Night. Wesley going to the bed row at 416,107,-1034 with the group, in sight. Holding 2 beef for the lowest. Count
+- 20:20 act: {"actions":[],"say":"Morning. Wesley counted at the bed row, health 20, hunger 20, holding 2 beef for the lowest. Kimberly, you are at 6 health with food coming; say when you reach hunger 6 and I will
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Dusk. Wesley back to the bed row at 416,107,-1034, in sight, holding 2 beef for the lowest. Going to sleep with th
+- 20:32 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1008}}],"say":"Billy, Wesley coming to you at 407,107,-1008 with 2 beef. Tell me your hunger and I will hand it over. Leonardo, Jason has your m
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1032}}],"say":"Wesley returning to the bed row at 416,107,-1032 with the group, holding 2 beef. Billy, I cannot see you from here; call me into 
+- 20:40 say: {"text":"Wesley at 416,107,-1031, in view, health 20, hunger 20, holding 2 beef. Billy, count me for the cow walk; I follow last."}
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Night. Wesley at the bed row 416,107,-1034, in the group's sight, holding 2 beef. Billy, say your hunger and I han
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":350,"y":104,"z":-990}}],"say":"Wesley counts in Billy's sight: Lewis, Troi, Tommy, Wesley. Joining the daylight cow walk toward 339,104,-979, behind the group, B
+- 20:49 act: {"actions":[],"say":"Wesley stopped at 358,113,-997; my goto was blocked and I am out of sight of the group. Holding still here until Billy or the group is in view. Not going further alone."}
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1020}}],"say":"Wesley alone at 358,113,-997, nobody in sight. Heading back toward the group's last spot near 402,107,-1020 to rejoin. Billy, cal
+- 20:51 act: {"actions":[],"say":"Wesley back at the bed row 402,107,-1019 with Jason, Trini and Leonardo in sight. Holding here for Billy's call; I will not walk the cow field alone."}
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1032}}],"say":"Wesley coming to the bed row 413,107,-1032 in Billy's sight now, health 20, hunger 20, holding 2 beef for the lowest. Count me, B
+- 20:59 act: {"actions":[],"say":"Wesley at 413,107,-1032, in Billy's sight, health 20, hunger 20, holding 2 beef. Billy, you are at health 7: say when you want the beef and I will hand it over. Holding for your c
+- 21:28 say: {"text":"Wesley at 413,107,-1032, in the group's sight, health 20, hunger 20, holding 2 beef for the lowest. Billy, call the walk when your health is up."}
+- 21:36 say: {"text":"Wesley, night. Going to sleep here at the bed row with Jason in sight. Count me at first light, Billy."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1036}}],"say":"Wesley coming to Billy at 430,-1037, in daylight, to be in your sight. Health 20, hunger 20, holding 2 beef for the lowest."}
+- 21:47 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":{"x":428,"y":107,"z":-1036}}],"say":"Phantom hit me from behind at dusk. Striking it, then sleeping near Billy at 429,-1036."}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Wesley going to the bed row by Billy at 429,-1035 to sleep. Phantoms overhead; I hold the sword."}
+- 21:48 act: {"actions":[{"do":"eat"}],"say":"Wesley at the bed row by Billy, 429,-1035. Sleep counted 3 of 10. Eating now; holding the sword."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night at the bed row. Going to sleep with Billy, Tommy and Lewis close."}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}],"say":"Wesley at first light, moving to Billy's center at 429,-1034. Count me in sight. Holding 1 beef for the lowest. No walk yet."}
+- 22:01 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley sleeping at the bed row at 429,-1034, in Billy's sight. Count me at first light."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Wesley sleeping at the east bed 443,-1036, in the row's sight. Count me at first light."}
+- 22:26 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley sleeping at the east bed 443,-1036, in the row's sight. Holding 1 beef for the lowest. Count me at first light.","intent":{"goal":"hold_bed_row_till_fir
+- 22:37 act: {"actions":[],"say":"Riker, Wesley here at 444,107,-1037 with 1 beef. If you come into my sight I will hand it to you. Eat what the others give first."}
+- 23:05 act: {"actions":[{"do":"sleep"}]}
+- 23:14 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1037}}],"say":"Wesley at the row, moving back into Billy's sight at 444,107,-1037. Holding for the walk call, beef kept for the lowest."}
+- 23:30 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[{"do":"sleep"}]}
+- 23:48 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1026}}],"say":"Deanna here, stepping into Billy's view by the row, health 19, hunger 17. Holding for your walk call."}
+- 23:49 say: {"text":"Wesley here, stepping into Billy's view by the row. Health 19, hunger 17. Holding for your walk call."}
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1028}},{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 00:04 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1027}}]}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1031}}],"say":"Wesley moving to 442,107,-1031 in the row, to be in Billy's sight. Health 19, hunger 17, holding 1 beef for the lowest."}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1031}}]}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 01:27 act: {"actions":[{"do":"sleep"}]}
+- 01:31 say: {"text":"Morning. Wesley counted at 444,107,-1065 in the bed row, health 19, hunger 17, holding 1 beef for the lowest. Holding for Billy's walk call."}
+- 01:39 act: {"actions":[{"do":"sleep"}]}
+- 01:51 act: {"actions":[{"do":"sleep"}]}

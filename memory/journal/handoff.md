@@ -1,9 +1,11 @@
-# Handoff (day 375)
+# Handoff (day 395, after sleep)
 
-At the white bed row, 444,107,-1037, in the group's sight. Health 20, hunger 20, holding 2 beef for the lowest. Not in danger.
+At the bed 443,107,-1064 in the bed row, in Billy's sight. Safe, health 19.3, hunger 17. Holding 1 beef for the lowest: give it only to whoever drops to hunger 6 or below, after confirming their name is in sight.
 
-Sleep is NOT confirmed. Sleeps at 443,107,-1036 "worked" but with only 4-5 of 10 asleep, and days_since_sleep stayed at 2 then rose to 3. Next night: get more of the group into the bed row before calling sleep, then check status at first light.
+Sleep: the sleep on night 395 worked. days_since_sleep still reads 23 in status, a mismatch to check at first light and journal.
 
-Billy has not called the cow walk. He holds until four are in his sight. Stay visible at the bed row.
+Billy has not called the cow walk. It waits until four are in his sight in daylight. Stay visible at the bed row.
 
-Next: wait for dusk, sleep at 443,107,-1036 with the group, check status after.
+Kimberly (health 6.3, hunger 17) and Riker are the most at risk. Trini holds 7 rotten flesh and Jason holds 2 for anyone who reaches hunger 6.
+
+Next: at first light, status, then hold for Billy's call.
