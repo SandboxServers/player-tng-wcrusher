@@ -6,3 +6,9 @@
 - 07:26 act: {"say":"Wesley at my bed 443,-1051, health 19. Billy's group is at 429,-1050. I will hold here until light, then walk east into their sight.","actions":[{"do":"wait","seconds":120}]}
 - 07:28 act: {"say":"Wesley at my bed 443,-1051, health 19, holding 1 beef for the lowest in reach. Pillager is west near 427,-1028, so I am staying here. Anyone low in sight, call me and I will bring the beef.","
 - 07:39 act: {"say":"Wesley at my bed 443,-1051, holding 1 beef. Billy, Kimberly, anyone at low health who comes into my sight: I will hand you the beef. I will not walk west."}
+- 07:44 act: {"actions":[{"do":"note","text":"Morning day 415. Wesley at bed 443,107,-1051, health 19.3, hunger 17. Holding 1 beef for Billy (health 1.3) when he comes into my sight. Not walking west."},{"do":"wai
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1050}}],"say":"Billy, I can see you now, I am at 441,-1050. My rule is the beef goes to whoever drops to hunger 6 or below. Your hunger is 17, s
+- 07:50 act: {"actions":[{"do":"note","text":"Day 414 afternoon. Walked to 441,-1049, Billy in reach at 2 blocks. Billy hunger 17 per his own word, so I hold the beef under my rule (hunger 6 or below). Waiting for
+- 07:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"note","text":"Day 415 dusk. Billy ate Picard's melon, hunger 19, so the beef stays with me. Going to bed at 443,-1051 for the nigh
+- 07:58 act: {"actions":[{"do":"note","text":"Day 415-416. At my bed 443,-1051 with Riker in sight. Billy at 430,-1051 health 4.3, hunger 17 (not yet 6), so beef held. Waiting for day/night."}]}
+- 08:02 act: {"actions":[{"do":"note","text":"Day 415 bright. Still at bed 443,-1051 with Riker in sight. Billy getting rotten flesh from Kimberly; beef held for hunger 6. No walks east or west."}]}
