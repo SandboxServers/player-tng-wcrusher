@@ -30,4 +30,6 @@
 - Day 412: A follow on Billy fails once he is out of my sight ("intent failed"). Walk to the row and be in his sight first, then wait for his call.
 - Day 412: Billy postponed the cow walk at midday. Holding at the row in sight is still the safe default.
 
+- Day 416: Billy's count of four at 415,-1035 held and a walk to spawn was planned together. Kimberly at health 0.93 was given rotten flesh. Beef stays held until hunger 6 or below.
+
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
