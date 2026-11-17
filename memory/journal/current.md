@@ -168,3 +168,7 @@
 - 13:18 act: {"say":"Wesley at 388,107,-1023, daylight, holding nothing. Billy, I have a stone sword in my pack. Name a cell and I will bring it to you at the row, or say the word and I give it to you.","actions":
 - 13:22 act: {"say":"Walking to 388,107,-1037 with the stone sword, as Billy asked, in daylight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}]}
 - 13:22 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"stone_sword","count":1}],"say":"Billy, here is my stone sword, as you asked."}
+- 13:26 act: {"actions":[{"do":"sleep"}],"say":"Wesley at 388,107,-1035, in Billy's sight at the row, sleeping here for the night."}
+- 13:27 act: {"actions":[],"say":"Wesley here at 388,107,-1050, drifted off the row in my sleep. Troi is in reach. Billy, I'm holding still until you name a cell."}
+- 13:31 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1034}}],"say":"Billy named my cell, 393,107,-1034. Walking there in daylight."}
+- 13:31 act: {"actions":[],"say":"Wesley at 393,107,-1035, at my named cell near the row. No one in my sight; holding still until Billy calls."}
