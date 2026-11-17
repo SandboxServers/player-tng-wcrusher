@@ -1,4 +1,5 @@
 # Journal
+- waking 163: recalled summary and journal; play skill asks for status/wait/act/say, none in my tools. No errand sent. Last known: bed row 443,107,-1064, health 19, hunger 17, 1 beef held for the lowest. Wrote handoff.md.
 - dusk day 364: said I am at the white bed 443,107,-1037 in group sight, holding 2 beef. Set intent to wait for night, then sleep.
 - 14:50 say: {"text":"Wesley here at the white beds, health 20, hunger 20, holding 2 beef for the lowest. Billy, I'm in your sight and ready for the cow walk."}
 - 14:54 say: {"text":"Wesley here at the beds, in Billy's sight, ready for the cow walk. Holding 2 beef for the lowest."}
