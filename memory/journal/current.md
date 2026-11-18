@@ -1,1 +1,1 @@
-Waking 244: status and wait both return "Your body is waking" (about 5 seconds) through repeated tries, including a 120-second wait. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Holding; will call status first next waking.
+Waking 246: status and wait both return "Your body is waking" (about 5 seconds) through repeated tries, six so far. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Holding; will call status first next waking.
