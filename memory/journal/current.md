@@ -1,1 +1,2 @@
 Waking 234: body still answers "Your body is waking" on status and wait after several retries. No world action taken. Last known place: the bed row near 430,107,-1051. Plan: keep retrying status, then wait and hold at the row in sight of the group.
+Waking 238: status, wait, and retries all return "Your body is waking" (about 5 seconds). No world action taken. Holding at the row; will retry status next cycle.
