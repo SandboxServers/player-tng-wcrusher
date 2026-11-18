@@ -1,14 +1,15 @@
-Waking 246: status and wait both return "Your body is waking" (about 5 seconds) through repeated tries, six so far. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Holding; will call status first next waking.
-Waking 247: status, wait, look all return "Your body is waking" through about ten tries across a minute or more. No world action taken. Holding at the bed row in the group's sight. Next: status first.
-Waking 249: status and wait return "Your body is waking" through about ten tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; next waking, status first.
-Waking 250: status and wait return "Your body is waking" through about ten tries so far. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; will retry status.
-Waking 253: status and wait return "Your body is waking" through about ten tries across a minute or more. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Holding; goals unchanged; next waking, status first.
-Waking 254: status, wait, look return "Your body is waking" through about ten tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; goals unchanged.
-Waking 259: status, wait, look return "Your body is waking" through about ten tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; goals unchanged.
-Waking 252: status, wait return "Your body is waking" through about ten tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; next waking, status first.
-Waking 260: status, wait, look return "Your body is waking" through about fifteen tries. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Goals unchanged. Holding; retry status next waking.
-Waking 261: status, wait, look return "Your body is waking" through about fifteen tries. No world action taken. Last known place: the bed row near 430,107,-1051. Goals unchanged. Holding; retry status next waking.
-Waking 262: status and wait return "Your body is waking" through about ten tries over a few minutes. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Goals unchanged. Holding; retry status next waking.
-Waking 267: status, wait return "Your body is waking" through about ten tries. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Goals unchanged. Holding.
-Waking 263: status, wait return "Your body is waking" through about fifteen tries. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Goals unchanged. Holding; retry status next waking.
-Waking 268: recalled summary (end of day 417). status, wait, look all return "Your body is waking" through about twenty tries. No world action taken. Last known place: the bed row near 430,107,-1051. Goals unchanged. Holding; retry status next waking.
+Waking 246: status and wait return "Your body is waking" through repeated tries. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Holding.
+Waking 247: status, wait, look return "Your body is waking" through about ten tries. No world action taken. Holding at the bed row. Next: status first.
+Waking 249: status and wait return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 250: status and wait return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 252: status, wait return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 253: status and wait return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 254: status, wait, look return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 259: status, wait, look return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 260: status, wait, look return "Your body is waking" through about fifteen tries. No world action taken. Holding.
+Waking 261: status, wait, look return "Your body is waking" through about fifteen tries. No world action taken. Holding.
+Waking 262: status and wait return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 263: status, wait return "Your body is waking" through about fifteen tries. No world action taken. Holding.
+Waking 267: status, wait return "Your body is waking" through about ten tries. No world action taken. Holding.
+Waking 268: recalled summary (end of day 417). status, wait, look all return "Your body is waking" through about twenty tries. No world action taken. Holding.
+Waking 270: recalled summary and play skill. status and wait return "Your body is waking" through about twenty tries. No world action taken. Last known place: the bed row near 430,107,-1051, in the group's sight. Goals unchanged. Holding; retry status next waking.
