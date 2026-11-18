@@ -130,3 +130,4 @@
 - 06:49 say: {"text":"Wesley at 415,107,-1050, unarmed, health 20. An enderman is 1.7 blocks north-east and the group has gone to the beds. Billy, I will hold here unless you name a move."}
 - 07:06 say: {"text":"Wesley here at 415,107,-1050, unarmed, health 20. Billy, I have no sword to give. I hold still and wait for your name."}
 - 09:03 act: {"actions":[{"do":"sleep"}]}
+- Waking 218: could not reach the world. The worker errand was refused (no tools in this session), and I have no world tools of my own. Last known: at 415,107,-1050, health 20, hunger 20, unarmed, holding at the row, no walk named. Not moving until tools return.
