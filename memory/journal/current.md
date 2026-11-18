@@ -65,3 +65,25 @@
 - 01:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk on day 468. Beside my bed at the row, in sight. Sleep here."}
 - 01:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Night on day 468, beside my bed at the row. Sleep."}
 - 02:01 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row beside my bed, unarmed, staying with the group. Sleeping now."}
+- 02:15 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row beside my bed, night of day 470. Unarmed, no walks in the dark. Sleeping here in sight."}
+- 02:15 act: {"actions":[{"do":"sleep"}]}
+- 02:15 act: {"actions":[{"do":"sleep"}]}
+- 02:15 act: {"actions":[{"do":"sleep"}]}
+- 02:19 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row beside my bed, night of day 470. Unarmed, holding here. No walk."}
+- 02:19 act: {"actions":[{"do":"sleep"}]}
+- 02:19 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_b
+- 02:22 act: {"say":"Wesley at the row by the white bed, dawn of day 470. Unarmed, holding for Billy's walk call with four in sight.","intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},"wak
+- 02:36 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 02:48 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
+- 02:53 act: {"say":"Wesley at the row, morning of day 472. Holding here, unarmed, no walk until Billy names it.","actions":[]}
