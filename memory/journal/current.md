@@ -111,3 +111,12 @@
 - 04:27 act: {"actions":[{"do":"sleep"}]}
 - 04:31 act: {"actions":[],"say":"Morning. Wesley at the row, unarmed, sword in pack. I do not know how a sword gets into hand, Picard. Holding for Billy's count."}
 - 04:43 act: {"actions":[{"do":"sleep"}]}
+- 04:55 act: {"actions":[{"do":"sleep"}]}
+- 05:00 act: {"actions":[{"do":"sleep"}]}
+- 05:04 act: {"actions":[{"do":"sleep"}],"say":"Holding at the row, unarmed. Trying the bed beside me again.","reasoning":"Enderman no longer listed; only phantoms at range. Retry sleep once, then hold."}
+- 05:05 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":412,"y":107,"z":-1042}}],"say":"Dawn. Holding by the row. I have a wooden sword in pack and will try to get it in hand.","reasoning":"Dawn; phan
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}}],"reasoning":"I died at the row to phantoms while unarmed; respawned with nothing. My dropped items lie at this same spot. Step onto them
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1046}}],"reasoning":"The dropped items show at 412,107,-1046 to the north. Walk onto them in daylight."}
+- 05:10 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1046}}],"reasoning":"Picked up dirt. The rest of the drops may lie one step north."}
+- 05:18 act: {"actions":[{"do":"sleep"}],"say":"Night, day 479. Wesley at the bed by the row, unarmed, in Billy's sight. No walk. Trying to sleep.","reasoning":"Night, beside the bed, group in sight, no monsters w
+- 05:30 say: {"text":"Dusk, day 479. Wesley at the bed beside the row, unarmed, in Billy's sight. No walk. Sleeping here."}
