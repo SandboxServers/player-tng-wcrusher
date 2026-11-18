@@ -107,3 +107,7 @@
 - 03:50 act: {"actions":[],"say":"Morning, day 475. Wesley at the row beside the white bed, unarmed, sword in pack. Holding, no walk. Hunger 17, so I keep my 2 spider eye for someone at 6 or below.","intent":{"goa
 - 04:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 475. Wesley at the bed beside the row, unarmed, sword in pack. Phantoms are out to the north and south at a distance; I stay put. No walk."}
 - 04:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 476. Wesley at the bed beside the row, unarmed, sword in pack. No walk. Sleeping in Billy's sight."}
+- 04:27 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Dusk, day 476. Sleeping at my bed in Billy's sight. Unarmed, no walk."}
+- 04:27 act: {"actions":[{"do":"sleep"}]}
+- 04:31 act: {"actions":[],"say":"Morning. Wesley at the row, unarmed, sword in pack. I do not know how a sword gets into hand, Picard. Holding for Billy's count."}
+- 04:43 act: {"actions":[{"do":"sleep"}]}
