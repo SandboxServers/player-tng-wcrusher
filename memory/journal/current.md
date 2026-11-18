@@ -18,3 +18,4 @@ Waking 274: recalled summary and play skill. status and wait return "Your body i
 Waking 275: recalled summary and play skill. status, wait return "Your body is waking" through about ten tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; retry status next waking.
 Waking 276: recalled summary and play skill. status, wait, look all return "Your body is waking" through about twenty tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; retry status next waking.
 Waking 278: recalled summary and play skill. status and wait return "Your body is waking" through about twenty tries. No world action taken. Holding at the bed row; retry status next waking.
+Waking 281: recalled summary and play skill. status and wait return "Your body is waking" through about fifteen tries. No world action taken. Last known place: the bed row near 430,107,-1051. Holding; retry status next waking.
