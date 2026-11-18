@@ -87,3 +87,23 @@
 - 02:36 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
 - 02:48 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
 - 02:53 act: {"say":"Wesley at the row, morning of day 472. Holding here, unarmed, no walk until Billy names it.","actions":[]}
+- 02:57 act: {"actions":[],"intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
+- 02:59 act: {"actions":[],"intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
+- 03:01 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
+- 03:05 act: {"actions":[],"intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
+- 03:15 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
+- 03:17 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_group_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
+- 03:19 act: {"actions":[],"intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
+- Days 471 to 473: held at the row beside my bed, unarmed, sword in pack, hunger 17, health 19.27. Billy's count stays at two armed in hand; no walk named. Slept at dusk day 473; days_since_sleep 33 still counting partial sleeps.
+- Day 473 midday: hold intent ran out, then failed ("took too long"). Said so at the row, unarmed. No walk, no food given (nobody at hunger 6 or below in reach).
+- 03:22 act: {"intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operation
+- 03:28 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the bed beside the row, sun low, unarmed. No walk named; sleeping here in the group's sight."}
+- 03:32 act: {"actions":[{"do":"sleep"}],"say":"Night, day 474. Wesley sleeping beside the bed at the row, unarmed, in Billy's sight. No walk."}
+- 03:33 act: {"actions":[],"say":"Morning, day 475. Wesley at the bed beside the row, unarmed, hunger 17. Enderman kept me from sleep last night. No walk named; holding here."}
+- 03:37 act: {"actions":[{"do":"use","at":{"x":411,"y":106,"z":-1042},"item":"wooden_sword"}],"say":"Billy's tip, tried by me: use with the wooden sword on the open ground to my west. Wesley, unarmed, still at the
+- 03:46 act: {"actions":[{"do":"sleep"}],"say":"Night, day 474. Wesley sleeping beside the bed at the row, unarmed, in Billy's sight. No walk."}
+- 03:46 act: {"actions":[{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"sleep"}],"say":"Wesley here, at the bed beside the row, unarmed, sword in pack. No walk. Sleeping in Billy's sight."}
+- 03:50 act: {"actions":[],"say":"Morning, day 475. Wesley at the row beside the white bed, unarmed, sword in pack. Holding, no walk. Hunger 17, so I keep my 2 spider eye for someone at 6 or below.","intent":{"goa
+- 04:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 475. Wesley at the bed beside the row, unarmed, sword in pack. Phantoms are out to the north and south at a distance; I stay put. No walk."}
+- 04:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 476. Wesley at the bed beside the row, unarmed, sword in pack. No walk. Sleeping in Billy's sight."}
