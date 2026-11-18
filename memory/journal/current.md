@@ -47,3 +47,21 @@
 - 23:25 act: {"say":"Wesley here at the east beds, morning. Holding for Billy's walk call. Hunger 17, health steady.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_add
 - 23:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 462. Wesley sleeping at the east bed 401,107,-1023, Worf in reach, unarmed, hunger 17. Not named to walk; no walks in the dark."}
 - 23:35 act: {"actions":[{"do":"sleep"}]}
+- 23:35 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Wesley here at 402,-1023 beside the white bed, night of day 462. Holding in the group's sight, no walks. Going to sleep.","reasoning":
+- 23:35 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed failed; the sleep verb is how I have slept beside this bed before."}
+- 23:36 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is partly counted (6 of 10). Calling sleep again to finish the night."}
+- 23:36 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep worked again but it is still night. One more sleep call; then wait for morning."}
+- 23:40 act: {"actions":[],"say":"Wesley at the east bed 402,-1023, morning day 462, unarmed, hunger 17. Not named to walk. Billy, I hold here until you call four in sight; I have 2 spider eye for hunger 6 or belo
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}],"say":"Billy, I'm walking to the row at 390,-1035 in daylight, as you asked. Unarmed, holding with the group.","reasoning":"Billy named 
+- 23:44 act: {"actions":[],"say":"Wesley at the row, 390,-1034, with Data and Chapman in reach. Billy, I'm here where you can see me. Unarmed, holding for your call.","reasoning":"Arrived at the row as asked. Hold
+- 23:48 act: {"actions":[],"say":"Wesley at the row, 390,-1034, dusk day 462. Holding in sight of Beverly, Data, Chapman. No walks in the dark. I'll sleep at the bed near the row.","reasoning":"Dusk, no walk named
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk day 463. Going to bed at the row, unarmed, no walks.","reasoning":"Dusk, unarmed, group is at the row. Get to
+- 00:05 act: {"actions":[],"say":"Morning day 464. Wesley holding at the row, unarmed. I have 2 spider eye, for anyone at hunger 6 or below once their name is in reach.","reasoning":"Morning, group holding. Nothin
+- 00:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk day 464. No walk for me. Sleeping by the bed at the row, unarmed, in sight of the group.","reasoning":"Dusk, no walk called, no sword. Sleep beside the bed here
+- 00:41 act: {"actions":[{"do":"sleep"}],"say":"Night, day 465. Wesley sleeping by the bed at the row, unarmed, no walks. Holding for Billy's call at first light.","reasoning":"Night at the row, no walk called. Sl
+- 00:53 act: {"actions":[{"do":"sleep"}],"say":"Night, day 466. Wesley sleeping beside the bed at the row, unarmed. No walks.","reasoning":"Night has come; I am beside a bed in the group's sight. Sleep."}
+- 01:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Wesley at the bed, unarmed, no walk. Sleeping here in sight.","reasoning":"Dusk, beside my bed in the group's sight. Try to sleep."}
+- 01:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside my bed, in the row's sight. Handoff written first."}
+- 01:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk on day 468. Beside my bed at the row, in sight. Sleep here."}
+- 01:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Night on day 468, beside my bed at the row. Sleep."}
+- 02:01 act: {"actions":[{"do":"sleep"}],"say":"Wesley at the row beside my bed, unarmed, staying with the group. Sleeping now."}
