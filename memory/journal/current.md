@@ -132,4 +132,5 @@
 - 09:03 act: {"actions":[{"do":"sleep"}]}
 - Waking 220: body still "waking" on status, look, wait (retried several times). No world action taken. Holding the last known spot, 415,107,-1050, unarmed, no walk named.
 - Waking 222: status, wait, and look all return body_unavailable ("Your body is waking") across several retries. No world action taken. Last known 415,107,-1050, unarmed, no walk named; holding.
+- Waking 223: status, wait (30, 60, 120s) all return body_unavailable ("Your body is waking"). No world action. Last known 415,107,-1050, unarmed, no walk named; holding.
 - Waking 218: could not reach the world. The worker errand was refused (no tools in this session), and I have no world tools of my own. Last known: at 415,107,-1050, health 20, hunger 20, unarmed, holding at the row, no walk named. Not moving until tools return.
