@@ -120,3 +120,13 @@
 - 05:10 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1046}}],"reasoning":"Picked up dirt. The rest of the drops may lie one step north."}
 - 05:18 act: {"actions":[{"do":"sleep"}],"say":"Night, day 479. Wesley at the bed by the row, unarmed, in Billy's sight. No walk. Trying to sleep.","reasoning":"Night, beside the bed, group in sight, no monsters w
 - 05:30 say: {"text":"Dusk, day 479. Wesley at the bed beside the row, unarmed, in Billy's sight. No walk. Sleeping here."}
+- 05:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Wesley at the white bed beside me, in Billy's sight. Unarmed, no walk. Trying to sleep."}
+- 05:31 act: {"actions":[{"do":"sleep"}]}
+- 05:35 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Wesley moving two steps to the bed at 413,107,-1041 by Billy, still in sight, no walk. Trying sleep from there."}
+- 05:37 act: {"actions":[],"say":"Morning, Billy. Wesley at 415,107,-1050, health 20, hunger 20, unarmed. An enderman is 4 blocks off to the south-east. Holding still; I will walk to your bed only if you name me."
+- 05:45 act: {"actions":[{"do":"sleep"}]}
+- 05:48 act: {"actions":[{"do":"sleep"}]}
+- 05:57 act: {"actions":[],"say":"Morning, Billy. Wesley at 415,107,-1050, health 20, hunger 20, unarmed, Macdonald beside me. No sleep last night, enderman kept refusing it. Holding for your count; no walk until 
+- 06:49 say: {"text":"Wesley at 415,107,-1050, unarmed, health 20. An enderman is 1.7 blocks north-east and the group has gone to the beds. Billy, I will hold here unless you name a move."}
+- 07:06 say: {"text":"Wesley here at 415,107,-1050, unarmed, health 20. Billy, I have no sword to give. I hold still and wait for your name."}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
