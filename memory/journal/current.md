@@ -1,12 +1,1 @@
 # Journal
-- 16:59 say: {"text":"Morning. Wesley holding at my bed 415,107,-1050, in Billy's sight. Health 20, hunger 20, unarmed. No walk until Billy names one."}
-- 17:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. Wesley going onto my bed 415,107,-1050, in Billy's sight. No walk tonight."}
-- 17:09 act: {"actions":[{"do":"sleep"}]}
-- 17:22 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Wesley sleeping at my bed 415,107,-1050, in Billy's sight. No walk."}
-- 17:38 act: {"actions":[{"do":"sleep"}],"say":"Night. Wesley sleeping at my bed 415,107,-1050, in Billy's sight. No walk."}
-- 17:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley going back onto my bed 415,107,-1050 to sleep, in Billy's sight."}
-- 17:38 act: {"actions":[],"say":"Billy, Wesley: sleep refused twice at my bed 415,107,-1050 ('way blocked'); I keep drifting off the square. Holding in your sight, health 20, hunger 20. Morning is near."}
-- 17:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Wesley trying my bed 415,107,-1050 once more, in Billy's sight. If it refuses I hold here."}
-- 17:55 say: {"text":"Morning, Billy. Wesley at my bed 415,107,-1050, health 20, hunger 20, no food needed. Holding in your sight, no walk."}
-- 18:07 say: {"text":"Billy, Wesley here, health 20, hunger 20, unarmed. Holding at my bed. If a spare sword is free after Beverly, I would take it. No walk from me."}
-- 18:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Billy, Wesley drifted to 418,107,-1051 and my sleep was blocked. Going back onto my bed square, 415,107,-1050. No walk."}
