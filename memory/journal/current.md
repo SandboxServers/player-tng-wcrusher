@@ -12,3 +12,6 @@
 - 04:58 say: {"text":"Wesley, at the row, unarmed, no food, holding in sight. Worf, did you see why the bed would not take sleep? I will wait for your word before trying the other bed."}
 - 05:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley, night 550. Trying my bed at 415,107,-1050 now, in Worf's and the row's sigh
 - 05:09 act: {"actions":[{"do":"sleep"}]}
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed_in_sight","program":"rest","arguments":{"bed"
+- 05:21 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"intent":{"goal":"sleep_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goa
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf, the bed at 415,107,-1050 will not take me. Do you know why? I will try 415,10
