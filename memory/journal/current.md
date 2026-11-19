@@ -8,3 +8,10 @@
 - 12:10 act: {"actions":[],"say":"Morning. Wesley here, unarmed, health 20, hunger 20, five potatoes. Holding at the row until Billy names a walk. Troi, Lewis and Tommy, if you're at hunger 6 or below, say so and 
 - 12:23 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Wesley going to the white bed at 415,107,-1050, in Billy's sight at the row. Potatoes held for hunger 6 or 
 - 12:23 act: {"actions":[{"do":"sleep"}]}
+- 12:27 act: {"say":"Wesley here at the row, health 20, hunger 20, unarmed. Holding in Billy's sight for a named walk. Ready to help with shelter work.","intent":{"goal":"hold_at_row","program":"rest","arguments":
+- 572 morning: at row bed, health 20, hunger 20, unarmed, 5 potatoes held for hunger 6 or below. Billy holds 25 potatoes; no walk named. Holding at row; said so aloud. Waiting on Billy.
+- 573 dusk: held at row, no walk named, nobody at hunger 6. Tried sleep at the white bed 415,107,-1050, in Billy's sight. Sleep worked (3 of 10). Morning 573: Billy named a potato walk for Trini only; Billy back with 23 potatoes, failed harvest. I stay at the row, unnamed, unarmed. Troi at health 8, hunger 17: not yet due for my potatoes. Dusk 573 again: sleeping at my bed in sight. Sleep worked (2 of 10). Morning: everyone holds at the row; Billy has no word on the oak; no walk named.
+- 12:35 act: {"actions":[{"do":"sleep"}],"say":"Night 573. Wesley at the white bed 415,107,-1050, in Billy's sight at the row. Potatoes held for hunger 6 or below."}
+- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk 573. Wesley at the white bed 415,107,-1050, in Billy's sight. Potatoes held for hunger 6 or below."}
+- 13:00 act: {"actions":[{"do":"sleep"}]}
+- 574 dusk: sleep refused, "not night yet". Holding at my bed in Billy's sight; will retry at full night.
