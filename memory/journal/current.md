@@ -1,1 +1,7 @@
 - 571 morning: at row bed 416,107,-1050, health 20, hunger 20, unarmed, 5 potatoes held for hunger 6 or below. Holding for Billy's named call. No walks.
+- 571 wake: held at row bed; Troi and Riker traded potatoes among themselves (not mine). Lewis at 18, not yet 6. Said my holding line. Waiting for Billy's walk.
+- 12:20 night 571: sleep called at the row bed. Reply showed events, days_since_sleep still 0. Phantoms hit Troi from the east; Billy gave her his spare sword. I stayed at the row, unarmed, did not walk out in the dark.
+- 12:10 dusk: sleep refused, "not night yet"; use on bed refused "that block is a bed". Holding at row bed, not enclosed; will retry sleep when night comes. Reporting to Billy.
+- 12:01 say: {"text":"Morning 571. Wesley here at the row, health 20, hunger 20. Holding for Billy's named walk. I have 5 potatoes for anyone at hunger 6 or below in reach."}
+- 12:06 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 12:06 say: {"text":"Billy, Wesley at the row bed. Sleep was refused at dusk: not night yet. Use on the bed was refused too. I will try sleep again when night comes."}
