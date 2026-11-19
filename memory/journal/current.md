@@ -15,3 +15,5 @@
 - 05:20 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed_in_sight","program":"rest","arguments":{"bed"
 - 05:21 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"intent":{"goal":"sleep_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goa
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf, the bed at 415,107,-1050 will not take me. Do you know why? I will try 415,10
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley at the row, night 552, in Worf's sight. Trying the white bed to sleep; will 
+- 05:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050},"item":"white_bed"}],"say":"Worf, the bed refuses me again with 'that block is a bed'. Do you know why? I will try the sleep call next."}
