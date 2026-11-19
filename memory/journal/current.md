@@ -69,3 +69,26 @@
 - 08:15 act: {"actions":[{"do":"sleep"}],"say":"It is getting dark, so I am going to sleep here by the bed.","reasoning":"Dusk is here and Billy's rule is no walking in the dark. Try sleep first, as my notes say."
 - 08:19 act: {"actions":[{"do":"sleep"}],"say":"Night. Wesley bedding down here by the white beds, with Worf near.","reasoning":"It is night, I am near the beds and Worf. Sleep now."}
 - 08:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 4 of 10 asleep. Try sleep again at the bed."}
+- 08:20 act: {"actions":[{"do":"sleep"}],"say":"Wesley here, at the white bed by the row, sleeping in Worf's sight. Billy, I will be ready for the potatoes at first light."}
+- 08:24 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Wesley coming to you now in daylight, hunger 18, with Worf. Please give the potatoes once I am in your sight."}
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1051}}],"say":"Billy, Wesley walking to 425,107,-1051 toward your spot in daylight. Hunger 18, unarmed. Say when you see me."}
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, the way was blocked and it is dark again. I am back at my bed 416,107,-1050 with Worf, not walking the dark
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1051}}],"say":"Billy, it is bright now. Wesley walking to 425,107,-1051 with Worf to be in your sight for the potatoes."}
+- 08:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, the way east is blocked at the crafting table again and it is dark. I am at my bed with Worf. I hold until first light and
+- 08:25 act: {"actions":[],"say":"Billy, Wesley at 417,107,-1050, in daylight, beside Worf, hunger 18. The way east keeps blocking at the crafting table. Could you come here with the potatoes? I am in your sight i
+- 08:27 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Billy, Wesley stepping to 420,107,-1050 now, hungry, ready for the potatoes."}
+- 08:27 act: {"actions":[],"say":"Billy, Wesley at 419,108,-1050, standing on dirt. I can see Worf but not you. Where are you, and are the potatoes still with you?"}
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1051}}],"say":"Billy, Wesley moving to 421,107,-1051 to reach you. Hunger 18. Deanna is hungrier than me; give her the potatoes first if she is 
+- 08:29 act: {"actions":[],"say":"Billy, my path east is blocked by the table and walls, no path to you. Give the potatoes to Deanna and Riker first. I am at 419,107,-1051, hunger 18, and will wait here with Worf.
+- 08:33 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, Riker, thank you both. I am going to my bed 416,107,-1050 with Worf for the night. Wesley gets food at firs
+- 08:37 act: {"say":"Billy, Wesley here at my bed 416,107,-1050 with Worf, hunger 18, no food. I hold until you name a daylight walk or bring the potatoes into sight."}
+- 08:42 act: {"say":"Jason, Tommy, Wesley here at 416,107,-1050, hunger 18. I am stepping to you now. Please give the 8 potatoes.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 08:42 act: {"say":"Jason, Tommy, I cannot see you from my bed. Wesley at 416,107,-1050 with Worf. Please step to me, the 8 potatoes into my sight."}
+- 08:45 act: {"say":"Tommy, Jason, Wesley at my bed 416,107,-1050 with Worf, I am in your sight from here. Dusk is coming, so I will not walk. Please give the 8 potatoes in reach at first light, or Tommy, step to 
+- 08:49 act: {"say":"Morning 562. Wesley at my bed 416,107,-1050 with Worf, hunger 18. Jason, Tommy, Billy: when you walk in daylight, come to this bed. I will stay put and wait for you."}
+- 08:53 act: {"say":"Jason, Wesley here at 416,107,-1050. I am stepping to you, hunger 18. Give the 8 potatoes when I am in reach.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 08:53 act: {"say":"Jason, I cannot see you from here, though Worf is in reach. I hold at 416,107,-1050. Please step where I can see you and I will come at once."}
+- 08:57 act: {"say":"Jason, I see you now, Wesley at 416,107,-1050. Giving the potatoes; please hand them over.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 08:57 act: {"say":"Jason, I still cannot see you, so I will not walk. Wesley stays at 416,107,-1050 with Worf. Please step into my view and give the 8 potatoes."}
+- 09:05 act: {"say":"Jason, Wesley stepping west toward you at 414,107,-1049, in daylight, hunger 18. Please give the 8 potatoes when I am in your sight.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-104
+- 09:05 act: {"say":"Jason, Wesley at 415,107,-1048, two blocks from my bed, Worf in reach. It is dark, so I stop here and will not walk. Potatoes at first light, please, when you see me.","actions":[{"do":"sleep"
