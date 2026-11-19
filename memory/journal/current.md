@@ -15,3 +15,6 @@
 - 12:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk 573. Wesley at the white bed 415,107,-1050, in Billy's sight. Potatoes held for hunger 6 or below."}
 - 13:00 act: {"actions":[{"do":"sleep"}]}
 - 574 dusk: sleep refused, "not night yet". Holding at my bed in Billy's sight; will retry at full night.
+- 13:17 act: {"say":"Good morning. Wesley, health 20, hunger 20, unarmed, holding at the row in Billy's sight. Waiting for a named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["
+- 575 morning: at row bed, health 20, hunger 20, unarmed, 5 potatoes held. Troi at 8/17, not yet 6; Clark and Leonardo offered food for her. No walk named. Holding in sight; days_since_sleep 4, will sleep at full night.
+- 13:17 act: {"intent":{"goal":"hold_at_row_wait","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":
