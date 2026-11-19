@@ -34,4 +34,6 @@
 
 - Day 417: Leonardo asked me for beef at hunger 17; I held it. Billy's count at 413-415,-1035 held with Kimberly, Trini and Picard in reach. Bows drawing south kept us at the row all day.
 
+- Day 579: Sleep in daylight refused ("not night") at the bed; at dusk, standing by the bed and calling sleep was tried. Billy names the beds for the row; hold at them, unarmed, in his sight.
+
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
