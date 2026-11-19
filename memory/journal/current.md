@@ -5,3 +5,6 @@
 - 12:01 say: {"text":"Morning 571. Wesley here at the row, health 20, hunger 20. Holding for Billy's named walk. I have 5 potatoes for anyone at hunger 6 or below in reach."}
 - 12:06 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
 - 12:06 say: {"text":"Billy, Wesley at the row bed. Sleep was refused at dusk: not night yet. Use on the bed was refused too. I will try sleep again when night comes."}
+- 12:10 act: {"actions":[],"say":"Morning. Wesley here, unarmed, health 20, hunger 20, five potatoes. Holding at the row until Billy names a walk. Troi, Lewis and Tommy, if you're at hunger 6 or below, say so and 
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Wesley going to the white bed at 415,107,-1050, in Billy's sight at the row. Potatoes held for hunger 6 or 
+- 12:23 act: {"actions":[{"do":"sleep"}]}
