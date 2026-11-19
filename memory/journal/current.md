@@ -118,3 +118,11 @@
 - 10:36 act: {"actions":[{"do":"eat"}],"say":"Wesley morning 567, hunger 19, 6 potatoes held, holding at 417,107,-1051 in sight. Waiting for Billy's named call."}
 - 11:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Wesley going to sleep at the bed in night 568, Worf and Jason in reach. Holding 5 potatoes for Billy."}
 - 11:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley at the bed 415,107,-1050, night 568, hunger 20, 5 potatoes in hand. Holding in Jason's and Worf's sight for first light.","reas
+- 11:01 act: {"say":"Wesley at the bed, night 568, hunger 20, 5 potatoes in hand. Holding in Jason's and Worf's sight until first light."}
+- 11:05 act: {"say":"Morning 568. Wesley at the bed 416,107,-1050, hunger 20, 5 potatoes held. Holding in sight until Billy names a walk. I can help look for wood once a place is known."}
+- 11:10 act: {"say":"Holding at the row bed 416,107,-1050 as Billy named. Unarmed, so I stay with the others while the armed group goes for oak."}
+- 11:14 act: {"actions":[{"do":"note","text":"Night 569: slept at the bed 415,107,-1050 with Worf in reach; sleep worked (days since sleep reset). Holding 5 potatoes for hunger 6 or below. Waiting for Billy's dayl
+- 11:26 act: {"actions":[{"do":"sleep"}],"say":"Dusk 569. Wesley holding at 415,107,-1047 with Jason in reach and Worf near, hunger 20, 5 potatoes held. Going to sleep here. Billy, the potatoes stay for those at 6
+- 11:30 act: {"actions":[{"do":"note","text":"Morning 570 at bed 416,107,-1050. Hunger 20, 5 potatoes held. Billy's wood trip north with Zack and Tommy; I am unarmed and hold in sight at the row."}]}
+- 11:38 act: {"actions":[{"do":"sleep"}],"say":"Dusk 570. Wesley at my bed 416,107,-1050 with Worf in reach, hunger 20, unarmed, 5 potatoes held for anyone at 6 or below. Sleeping here in the row's sight."}
+- 11:51 act: {"actions":[{"do":"note","text":"Morning 570, dim, at row 416,107,-1050. Health 20, hunger 20, 5 potatoes held. Holding in Billy's sight. Riker and Deanna fed; no one at 6 or below in reach."}]}
