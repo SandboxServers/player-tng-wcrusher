@@ -18,3 +18,6 @@
 - 13:17 act: {"say":"Good morning. Wesley, health 20, hunger 20, unarmed, holding at the row in Billy's sight. Waiting for a named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["
 - 575 morning: at row bed, health 20, hunger 20, unarmed, 5 potatoes held. Troi at 8/17, not yet 6; Clark and Leonardo offered food for her. No walk named. Holding in sight; days_since_sleep 4, will sleep at full night.
 - 13:17 act: {"intent":{"goal":"hold_at_row_wait","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 13:30 act: {"say":"Morning. Wesley here, holding at the row with 5 potatoes. Tommy, Riker, Lewis: if your hunger is 6 or below and you are in reach, say so and I will hand one over on Billy's word."}
+- 13:34 act: {"say":"Billy, I heard your word. Tommy is 27 blocks from me, so I cannot hand it over from here. You are already going to him with a potato, so I hold my five. Tommy, eat and rest at the bed."}
+- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Night 576. Wesley at the white bed 415,107,-1050, in Billy's sight at the row. Five potatoes held. Trying to sleep."}
