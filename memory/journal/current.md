@@ -9,3 +9,6 @@
 - 04:55 act: {"actions":[{"do":"sleep"}]}
 - 04:55 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
 - night 550: sleep failed 3 times at the bed ("the way was blocked"), from 419, 416 and 416,-1051. Use on the bed also failed. Stopped trying. Holding in Worf's and Billy's sight, health 20, hunger 18, no food. Next: wait for dawn, ask Billy about the bed.
+- 04:58 say: {"text":"Wesley, at the row, unarmed, no food, holding in sight. Worf, did you see why the bed would not take sleep? I will wait for your word before trying the other bed."}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley, night 550. Trying my bed at 415,107,-1050 now, in Worf's and the row's sigh
+- 05:09 act: {"actions":[{"do":"sleep"}]}
