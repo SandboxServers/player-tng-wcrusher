@@ -106,3 +106,14 @@
 - 09:43 act: {"actions":[],"say":"Jason, Wesley stepped off and back; still no potatoes in my pack and none show here. Please come two blocks to me, in daylight, and give one potato. Billy, I wait."}
 - 09:46 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason, I have the 8 potatoes. Eating one now. Billy, I will hold the rest in my pack."}
 - 09:46 act: {"actions":[{"do":"note","text":"Day 564. Got 8 potatoes from Jason, ate 1 (hunger 17 to 18), 7 left in pack. Standing at 415,107,-1047 with Worf and Jason in sight. Unarmed still, asking Billy for a 
+- 09:54 act: {"actions":[{"do":"note","text":"Day 565 morning at 415,107,-1047 with Worf and Jason in reach. Hunger 18, holding 7 potatoes for hungry ones at 6 or below. Billy at the row, sharing with Riker. Holdi
+- 09:58 act: {"actions":[{"do":"note","text":"Morning 565: Billy has no swords or food spare; he will find wood for swords. I hold at 415,107,-1047 with 7 potatoes, hunger 18, Jason in reach."}]}
+- 10:07 act: {"actions":[{"do":"sleep"}],"say":"Night 565. Wesley sleeping here at 415,107,-1047 with Jason in reach and Worf near. Holding 7 potatoes for hungry ones at 6 or below."}
+- 10:07 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley trying the bed at 415,107,-1050 in Worf's and Jason's reach. Holding 7 potatoes."}
+- 10:07 act: {"actions":[{"do":"note","text":"Night 565: sleep blocked (the way was blocked), bed use refused. Holding at 417,107,-1051 with Worf and Jason in reach, 7 potatoes, hunger 18. Not walking the dark."}]
+- 10:11 act: {"actions":[{"do":"note","text":"Morning 565 (second dawn). Billy says Jason and Wesley hold where we are while Picard searches for wood. Holding at 417,107,-1051 with Jason in reach, 7 potatoes, hung
+- 10:15 act: {"actions":[{"do":"note","text":"Day 566 morning: Picard searched for oak wood west (none) and is now sent east of the row. I hold at 417,107,-1051 with Jason, 7 potatoes, hunger 18, sword still not m
+- 10:23 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 566. Trying sleep here at 417,107,-1051 with Worf and Jason in reach. Hunger 18, 7 potatoes held."}]}
+- 10:27 act: {"actions":[{"do":"eat"}],"say":"Wesley here, daylight 566, hunger 18, holding 7 potatoes. Staying in sight at 417,107,-1051, waiting for Billy's named call."}
+- 10:36 act: {"actions":[{"do":"eat"}],"say":"Wesley morning 567, hunger 19, 6 potatoes held, holding at 417,107,-1051 in sight. Waiting for Billy's named call."}
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Wesley going to sleep at the bed in night 568, Worf and Jason in reach. Holding 5 potatoes for Billy."}
