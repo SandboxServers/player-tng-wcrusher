@@ -4,3 +4,8 @@
 - day 548 morning: Billy has no safe cow route (pillagers 370-380); Picard knows none. No walk named for me. Held at the row, health 20, hunger 18, no food. Waiting for Billy's word.
 - 04:42 act: goto bed, then sleep, for night 549. Sleep refused: it is day now.
 - dawn 549: Billy's cow walk south of pillagers turned back (bows heard). I was not named; I held at the row, in sight. Health 20, hunger 18, no food, unarmed.
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley at the row, dusk 550. No food, hunger 18, going to my bed at 415,107,-1050 in Billy's sight."}
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 04:55 act: {"actions":[{"do":"sleep"}]}
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- night 550: sleep failed 3 times at the bed ("the way was blocked"), from 419, 416 and 416,-1051. Use on the bed also failed. Stopped trying. Holding in Worf's and Billy's sight, health 20, hunger 18, no food. Next: wait for dawn, ask Billy about the bed.

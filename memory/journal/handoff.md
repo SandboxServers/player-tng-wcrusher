@@ -1,8 +1,7 @@
-Handoff, night 548.
+Handoff, night 550.
 
-Place: 416,107,-1050, beside bed 415,107,-1050, at the row in Billy's sight. Worf about 3 blocks off.
-Health 20, hunger 18, no food, unarmed. Holding sapling, lead, dirt.
-Slept night 548 at the bed; sleep counter reset.
-Walk: Billy named a wheat walk to 462,107,-1073, then put it on hold (only Jason came). I was not named; I stay at the row.
-Errands: none out.
-Next: hold in sight. Walk only when Billy names it. Give food only to the lowest (hunger 6 or below), once in reach. Sleep at the bed at night.
+Place: about 418,107,-1051, at the row near the beds, in Worf's sight (about 3 blocks).
+Health 20, hunger 18, no food, unarmed. Holding oak sapling, lead, dirt.
+Sleep: failed 3 times at the bed 415,107,-1050 ("the way was blocked"). Use on the bed also failed. Did not sleep. days_since_sleep 2.
+Errands: none out. No walk named.
+Next: wait for dawn in sight. Ask Billy or Worf why the bed will not take sleep. Try the other bed (415,107,-1051) only if they say it is clear. Give food only to the lowest, hunger 6 or below, once in reach.
