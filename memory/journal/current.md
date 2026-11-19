@@ -37,3 +37,4 @@
 - 06:41 act: {"say":"Billy, my walk was blocked; I stand at the crafting table 418,107,-1047 with Worf, in the dark now. I will not walk further. Please come here, or I hold until you name a walk.","actions":[]}
 - day 555: Billy named a daylight walk to my bed and back to the row. My walk toward the row was blocked at the table (418,107,-1047); Billy went back to the row. Night 555 now, hunger 18, no food, holding with Worf near. Going to bed 415,107,-1050 to sleep. Still no potatoes.
 - 06:45 act: {"say":"Billy, Wesley here, at the crafting table with Worf, in the dark. Not walking at night. Going to my bed at 415,107,-1050 with Worf near, to sleep and hold for first light.","actions":[{"do":"g
+- 06:52 act: {"actions":[{"do":"note","text":"Dawn 555 at bed 416,107,-1050 with Worf in reach. Billy is at the row with 21 potatoes. Holding here; Billy has not named a walk to me yet."}],"say":"Wesley here at my
