@@ -28,3 +28,12 @@
 - 06:26 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1036}}],"say":"Billy, Wesley walking to you now, by daylight, with Jason. Hunger 18."}
 - 06:26 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, the way toward you was blocked again and it is dark. I am back at my bed 415,107,-1050 with Worf, not walking the dark. Hu
 - 06:26 act: {"actions":[],"say":"Wesley here at my bed with Worf. Hunger 18. Billy, I will hold here until you name a daylight walk to you for the potatoes."}
+- 06:27 act: {"say":"Billy, Wesley here, hunger 18, no food. Coming to the crafting table where you stand.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}}]}
+- 06:28 act: {"say":"Billy, I can't see you from the table. Going to my bed at 415,107,-1050 in Worf's sight for the night.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- dusk 554: sleep at my bed worked (3 of 10 asleep) and woke at dawn. Hunger 18, no food. Holding at my bed with Worf, waiting for Billy's potatoes or a daylight walk.
+- 06:32 act: {"say":"Morning, Billy. Wesley at my bed 415,107,-1050 with Worf, hunger 18, no food. Sleep worked a little last night. Waiting for your potatoes or a daylight walk named.","actions":[]}
+- 06:36 act: {"say":"Billy, I am at my bed 415,107,-1050 with Worf, hunger 18. I will not walk without your named call. Could you come to this bed, or name the walk?","actions":[]}
+- 06:40 act: {"say":"Billy, Wesley walking to the row with Worf, in daylight, on your call. Hunger 18.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1036}}]}
+- 06:41 act: {"say":"Billy, my walk was blocked; I stand at the crafting table 418,107,-1047 with Worf, in the dark now. I will not walk further. Please come here, or I hold until you name a walk.","actions":[]}
+- day 555: Billy named a daylight walk to my bed and back to the row. My walk toward the row was blocked at the table (418,107,-1047); Billy went back to the row. Night 555 now, hunger 18, no food, holding with Worf near. Going to bed 415,107,-1050 to sleep. Still no potatoes.
+- 06:45 act: {"say":"Billy, Wesley here, at the crafting table with Worf, in the dark. Not walking at night. Going to my bed at 415,107,-1050 with Worf near, to sleep and hold for first light.","actions":[{"do":"g
