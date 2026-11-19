@@ -90,3 +90,24 @@ Day 515 morning: told Billy I was unarmed. Jason gave me his wooden sword; it is
 - 21:09 act: {"actions":[{"do":"note","text":"Day 526 morning: health 20, hunger 19. Billy, Picard, Trini and others are at the row near 402,-1036, out of my sight. Enderman 3.9 E. Holding still at 415,107,-1050 w
 - 21:13 act: {"actions":[{"do":"note","text":"Day 526 mid-morning: health 20, hunger 19. Enderman now 1.4 SE, I hold still and do not look at it. No one in my sight. Billy is handing out bread at the row."}]}
 - 21:17 act: {"actions":[{"do":"note","text":"Night 527: slept at my bed 415,107,-1050 (days since sleep reset to 0). Health 20, hunger 19. Still holding my wooden sword in pack, spare for Picard not yet given. En
+- 21:18 act: {"say":"Dark now. An enderman is 4 east of me, so I won't sleep yet. I'll stay put and not look at it.","intent":{"goal":"hold_at_bed_until_clear","program":"rest","arguments":{},"wake_on":["directly_
+- 21:26 say: {"text":"Wesley at 415,107,-1050, daylight. Health 20, hunger 19, no food. Enderman 4 SE, I am holding still. Billy, I wait for your word."}
+- 21:38 act: {"actions":[{"do":"sleep"}],"say":"Night 528. Wesley at my bed at 415,107,-1050, holding still. Enderman near, so I will not look at it."}
+- 21:59 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 529, at my white bed 415,107,-1050. Holding still, no food, health 20, hunger 19. No walk."}
+- 22:03 say: {"text":"Wesley: I have no food, only a sapling and a wooden sword. Holding at 415,107,-1050."}
+- 22:19 act: {"actions":[{"do":"sleep"}]}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Wesley, dawn 530, at 415,107,-1047 in sight. Health 20, hunger 19, no food. Walking back to my bed in daylight. No walk."}
+- 22:32 act: {"actions":[{"do":"sleep"}]}
+- 22:44 say: {"text":"Wesley, dusk, at the bed row, health 20. No food. Going to bed now."}
+- 22:44 act: {"actions":[{"do":"sleep"}]}
+- 22:48 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 531, sleeping at the bed in Billy's sight. No food, no walk."}
+- 22:55 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is my spare wooden sword. Holding at the row, morning 532."}
+- 23:03 act: {"actions":[{"do":"sleep"}]}
+- 23:18 act: {"actions":[{"do":"sleep"}]}
+- 23:31 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 533: holding at 418,107,-1047 in the row's sight, unarmed, health 20, hunger 19, no food. Trying the bed once tonight."}
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 534: sleeping here beside the bed at 415,107,-1050, in the row's sight. Unarmed, health 20, hunger 19, no food."}
+- 23:55 act: {"actions":[{"do":"sleep"}],"say":"Wesley, dusk 535: sleeping by the bed at 415,107,-1050 in the row's sight. Unarmed, health 20, hunger 19, no food."}
+- 00:11 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 535: sleeping by the bed at 415,107,-1050 in the row's sight. No walk."}
+- 00:28 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 536: at 416,107,-1050 beside my bed, in sight. Health 20, hunger 19, no food, unarmed. No walk. Sleeping."}
+- 00:48 act: {"actions":[{"do":"sleep"}]}
+- 00:50 act: {"actions":[{"do":"sleep"}]}

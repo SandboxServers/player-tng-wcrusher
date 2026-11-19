@@ -1,8 +1,7 @@
-Handoff, waking 292.
+Handoff, dawn 538.
 
-Body still reports "Your body is waking" on status, wait and look after several tries. No world action taken, nothing half-done, no errand out.
-
-Last known place: bed row near 430,107,-1051, in the group's sight.
-Holding: stone sword, 1 beef (for the lowest, only at hunger 6 or below), 2 spider eyes, dirt, cobblestone, sticks, oak sapling, phantom membrane.
-
-Goals unchanged. Next waking: call status first. If it answers, wait, then hold at the row until Billy names a daylight walk to 393,107,-1034 with four in sight.
+Place: 416,107,-1050, beside bed 415,107,-1050, in the row's sight. Worf about 3 blocks off.
+Health 20, hunger 19, no food, unarmed. Holding a sapling, lead, dirt.
+Sleep: worked on night 536; refused on night 537 by a skeleton 9 blocks off (two tries, no more that night).
+Errands: none out.
+Next: hold in sight until Billy names a daylight walk to 393,107,-1034 with four armed. Give food only to the lowest (hunger 6 or below), once in reach. At night, sleep once at the bed beside 415,107,-1050 when no monster is in range.
