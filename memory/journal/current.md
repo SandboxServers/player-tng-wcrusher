@@ -17,3 +17,14 @@
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf, the bed at 415,107,-1050 will not take me. Do you know why? I will try 415,10
 - 05:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley at the row, night 552, in Worf's sight. Trying the white bed to sleep; will 
 - 05:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050},"item":"white_bed"}],"say":"Worf, the bed refuses me again with 'that block is a bed'. Do you know why? I will try the sleep call next."}
+- 05:52 act: {"say":"Morning. Wesley here at the row, unarmed, hunger 18, no food. Holding in Billy's sight. Worf, thanks for the note about the bed at -1051.","intent":{"goal":"hold_at_row","program":"rest","argu
+- 05:56 act: {"say":"Wesley here, Billy, at the row by the crafting table, in your sight. Hunger 18, no food. Ready for a potato."}
+- 05:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1033}}],"say":"Billy, Wesley walking now to your table at 430,107,-1032, in daylight, to be in your sight for the potatoes."}
+- 05:58 act: {"say":"Billy, my walk to your table was blocked and it is going dark. I am stopping at the crafting table at 418,107,-1047 with Worf, not walking the dark. I hold until dawn; Wesley, hunger 18, ready
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, Wesley going to my bed at 415,107,-1050 for the night, by Worf and in your sight. Hunger 18."}
+- 06:14 act: {"actions":[{"do":"sleep"}],"say":"Wesley at my bed, dusk 554, in Worf's sight. Hunger 18, no food, still waiting for the potato line. Billy, I am in your sight."}
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1047}}],"say":"Billy, Wesley stepping to the crafting table now, hunger 18, no food. Say when you see me."}
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, Wesley at my bed 415,107,-1050, staying here for your potatoes. Hunger 18."}
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1036}}],"say":"Billy, Wesley walking to you now, by daylight, with Jason. Hunger 18."}
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, the way toward you was blocked again and it is dark. I am back at my bed 415,107,-1050 with Worf, not walking the dark. Hu
+- 06:26 act: {"actions":[],"say":"Wesley here at my bed with Worf. Hunger 18. Billy, I will hold here until you name a daylight walk to you for the potatoes."}
