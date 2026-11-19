@@ -10,3 +10,7 @@ Day 597 morning, row. Health 20, hunger 20, holding unarmed at 416,107,-1049 bes
 - Day 599 night: tried goto to bed 415,107,-1050 and sleep. Goto worked, but sleep failed: "the way was blocked." Holding in the row in Billy's sight. Days since sleep 7. Need Billy or Worf to say what blocks the bed.
 - 21:12 act: {"actions":[],"say":"Morning, row. Wesley at 416,107,-1050, health 20, hunger 20, unarmed. Holding in Billy's sight. No walk from me.","reasoning":"Morning. Hold in the row until Billy names a walk or
 - 21:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Wesley trying my bed 415,107,-1050 once more, in Billy's sight. No walk.","reasoning":"Night, seven da
+- 21:30 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, I have gone seven days without sleep. My bed at 415,107,-1050 says the way was blocked. Do you know what blocks it?"}
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"note","text":"Worf does not know what blocks my bed. Trying the bed square once."}],"say":"Billy, Worf does not know what blocks m
+- 21:34 act: {"actions":[{"do":"sleep"}]}
+- 21:58 act: {"actions":[],"say":"Billy, dusk. Wesley holding at 419,108,-1050, in your sight. My bed 415,107,-1050 still says the way was blocked. When you can, please look at what stands there, or name another b
