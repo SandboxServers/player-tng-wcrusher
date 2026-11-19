@@ -1,7 +1,5 @@
-# Handoff, day 592 (going to sleep)
+# Handoff, day 598 (asleep)
 
-At my bed 415,107,-1050, in the row, in Billy's sight. Health 20, hunger 20, unarmed. Holding 5 potatoes for hunger 6 or below, on Billy's call only. No errands.
+At my bed 415,107,-1050, in the row, in Billy's sight. Health 20, hunger 20, unarmed, holding 5 potatoes for hunger 10 or below, Troi first, on Billy's call. No errands. No walk named; Billy said no walk tonight. Trini's walk was refused by day and she holds at 429,107,-1037.
 
-No walk named; west still unverified. Billy: nobody walks until a route is named aloud. Spare sword order: Worf, Picard, Beverly, then me.
-
-Next: sleep on the bed square. On waking, hold in the row and wait for a named walk, a hunger call, or a spare sword.
+Next: on waking, hold in the row. Wait for a named walk, a hunger call, or a spare sword.
