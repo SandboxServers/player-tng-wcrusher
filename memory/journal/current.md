@@ -38,3 +38,10 @@
 - day 555: Billy named a daylight walk to my bed and back to the row. My walk toward the row was blocked at the table (418,107,-1047); Billy went back to the row. Night 555 now, hunger 18, no food, holding with Worf near. Going to bed 415,107,-1050 to sleep. Still no potatoes.
 - 06:45 act: {"say":"Billy, Wesley here, at the crafting table with Worf, in the dark. Not walking at night. Going to my bed at 415,107,-1050 with Worf near, to sleep and hold for first light.","actions":[{"do":"g
 - 06:52 act: {"actions":[{"do":"note","text":"Dawn 555 at bed 416,107,-1050 with Worf in reach. Billy is at the row with 21 potatoes. Holding here; Billy has not named a walk to me yet."}],"say":"Wesley here at my
+- 07:00 act: {"say":"Wesley here at my bed, day 556, health 20, hunger 18, no food. Billy, I am holding here and will wait for your daylight walk and potatoes. Worf is with me.","intent":{"goal":"hold_for_billy_wa
+- 07:01 act: {"say":"Billy, Wesley holding at my bed 415,107,-1050 with Worf, hunger 18, no food. Waiting for you and Jason to come here in daylight with the potatoes.","intent":{"goal":"await_billy_potatoes","pro
+- 07:05 act: {"say":"Billy, I am here at my bed 416,107,-1050 with Worf, in daylight. I was out of your sight when you came. Walking now to the row for the potatoes, Worf with me. Hunger 18.","actions":[{"do":"got
+- 07:05 act: {"say":"Billy, it went dark on the way; I am at the crafting table 418,107,-1048 with Worf, not walking the dark. I will go back to my bed and sleep. Potatoes at first light, please.","actions":[{"do"
+- 07:05 act: {"say":"Billy, coming to you now at 426,107,-1036 in daylight with Worf. Hunger 18.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1037}}]}
+- 07:05 act: {"say":"Billy, my walk was blocked again at the crafting table 418,107,-1047, and it is dark. I am holding here with Worf, not walking the dark. Hunger 18. Please come to this table with the potatoes 
+- 07:09 act: {"say":"Billy, Wesley going to my bed 416,107,-1050 with Worf, staying safe for the dark. Will walk to you at first light.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
