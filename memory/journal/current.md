@@ -94,3 +94,15 @@
 - 09:05 act: {"say":"Jason, Wesley at 415,107,-1048, two blocks from my bed, Worf in reach. It is dark, so I stop here and will not walk. Potatoes at first light, please, when you see me.","actions":[{"do":"sleep"
 - 09:14 act: {"actions":[{"do":"sleep"}],"say":"Night 562. Wesley bedding down here at 415,107,-1048, Worf three blocks off. Jason, the potatoes at first light."}
 - 09:14 act: {"actions":[{"do":"note","text":"Night 563. Sleep refused: the way was blocked. Holding still at 415,107,-1047 in dim light, Worf in the area. No walking in the dark."}],"say":"Still here, not walking
+- 09:18 act: {"actions":[],"say":"Wesley at 415,107,-1047, by the beds, standing still in daylight. Jason, Billy: walk to me; I will give nothing away and will take the 8 potatoes."}
+- 09:22 act: {"actions":[],"say":"Jason, I see you not yet. I stay at 415,107,-1047. Please come two blocks west to me and hand over the 8 potatoes. Thank you."}
+- 09:25 act: {"actions":[{"do":"note","text":"Day 563 dusk. Jason holds my 8 potatoes at 417,107,-1046, two blocks off, not in my sight. Dusk, so I stay at 415,107,-1047 and do not walk. Potatoes at first light."}
+- 09:29 act: {"actions":[],"say":"Jason, I see you now, three blocks off at my side. Please give me the 8 potatoes. Wesley is holding still at 415,107,-1047."}
+- 09:32 act: {"actions":[],"say":"Jason, Wesley has no potatoes in pack; they lie on the ground. Please drop the rest right at my feet, one at a time, and I will pick them up."}
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1047}}],"say":"Stepping onto the ground by me to pick up the potatoes, in daylight."}
+- 09:35 act: {"actions":[],"say":"Billy, I stepped by my spot and see no potatoes on the ground here; my food list is empty. Jason, where exactly did they fall? Give them to me when I stand in your sight."}
+- 09:39 act: {"actions":[{"do":"note","text":"Day 564 dusk. Potatoes lie on the ground at my feet, Jason still holds 8. Standing still at 415,107,-1047 with Worf and Jason in reach. Will not walk in the dusk."}],"
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1047}},{"do":"goto","target":{"x":415,"y":107,"z":-1047}}],"say":"Billy, Wesley steps off and back onto the spot to pick up the potatoes, in day
+- 09:43 act: {"actions":[],"say":"Jason, Wesley stepped off and back; still no potatoes in my pack and none show here. Please come two blocks to me, in daylight, and give one potato. Billy, I wait."}
+- 09:46 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason, I have the 8 potatoes. Eating one now. Billy, I will hold the rest in my pack."}
+- 09:46 act: {"actions":[{"do":"note","text":"Day 564. Got 8 potatoes from Jason, ate 1 (hunger 17 to 18), 7 left in pack. Standing at 415,107,-1047 with Worf and Jason in sight. Unarmed still, asking Billy for a 
