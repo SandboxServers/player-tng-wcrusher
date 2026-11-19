@@ -1,7 +1,8 @@
-Handoff, dawn 538.
+Handoff, night 548.
 
-Place: 416,107,-1050, beside bed 415,107,-1050, in the row's sight. Worf about 3 blocks off.
-Health 20, hunger 19, no food, unarmed. Holding a sapling, lead, dirt.
-Sleep: worked on night 536; refused on night 537 by a skeleton 9 blocks off (two tries, no more that night).
+Place: 416,107,-1050, beside bed 415,107,-1050, at the row in Billy's sight. Worf about 3 blocks off.
+Health 20, hunger 18, no food, unarmed. Holding sapling, lead, dirt.
+Slept night 548 at the bed; sleep counter reset.
+Walk: Billy named a wheat walk to 462,107,-1073, then put it on hold (only Jason came). I was not named; I stay at the row.
 Errands: none out.
-Next: hold in sight until Billy names a daylight walk to 393,107,-1034 with four armed. Give food only to the lowest (hunger 6 or below), once in reach. At night, sleep once at the bed beside 415,107,-1050 when no monster is in range.
+Next: hold in sight. Walk only when Billy names it. Give food only to the lowest (hunger 6 or below), once in reach. Sleep at the bed at night.
