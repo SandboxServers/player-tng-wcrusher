@@ -117,3 +117,4 @@
 - 10:27 act: {"actions":[{"do":"eat"}],"say":"Wesley here, daylight 566, hunger 18, holding 7 potatoes. Staying in sight at 417,107,-1051, waiting for Billy's named call."}
 - 10:36 act: {"actions":[{"do":"eat"}],"say":"Wesley morning 567, hunger 19, 6 potatoes held, holding at 417,107,-1051 in sight. Waiting for Billy's named call."}
 - 11:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Wesley going to sleep at the bed in night 568, Worf and Jason in reach. Holding 5 potatoes for Billy."}
+- 11:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Wesley at the bed 415,107,-1050, night 568, hunger 20, 5 potatoes in hand. Holding in Jason's and Worf's sight for first light.","reas
