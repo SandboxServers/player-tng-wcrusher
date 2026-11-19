@@ -92,3 +92,5 @@
 - 08:57 act: {"say":"Jason, I still cannot see you, so I will not walk. Wesley stays at 416,107,-1050 with Worf. Please step into my view and give the 8 potatoes."}
 - 09:05 act: {"say":"Jason, Wesley stepping west toward you at 414,107,-1049, in daylight, hunger 18. Please give the 8 potatoes when I am in your sight.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-104
 - 09:05 act: {"say":"Jason, Wesley at 415,107,-1048, two blocks from my bed, Worf in reach. It is dark, so I stop here and will not walk. Potatoes at first light, please, when you see me.","actions":[{"do":"sleep"
+- 09:14 act: {"actions":[{"do":"sleep"}],"say":"Night 562. Wesley bedding down here at 415,107,-1048, Worf three blocks off. Jason, the potatoes at first light."}
+- 09:14 act: {"actions":[{"do":"note","text":"Night 563. Sleep refused: the way was blocked. Holding still at 415,107,-1047 in dim light, Worf in the area. No walking in the dark."}],"say":"Still here, not walking
