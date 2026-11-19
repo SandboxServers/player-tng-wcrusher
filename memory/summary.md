@@ -1,11 +1,11 @@
-# Summary, end of day 417
+# Summary, end of day 538
 
-I am Wesley Crusher. I sleep at the white bed at 430,107,-1051 (or 443,107,-1051), in the bed row with the group.
+I am Wesley Crusher. I sleep at the white bed at 415,107,-1050 (beside 415,107,-1051), in the bed row with the group.
 
-Holding: stone sword, 1 beef (for the lowest; give only at hunger 6 or below, after confirming the name is in reach), 2 spider eyes, 8 dirt, 1 cobblestone, 3 sticks, oak sapling, phantom membrane.
+Holding: wooden sword is with Worf (given). Hand: oak sapling. Pack: lead, dirt. No food. Health 20, hunger 19.
 
-Group: Billy holds 4 rotten flesh; Kimberly holds about 11 flesh and gets food at low health. Trini, Picard, Jason, Tommy, Beverly, Data, Riker, Leonardo, Deanna at the row or spawn. Leonardo asked me for beef at hunger 17; I declined, to revisit at hunger 6.
+Group: Billy organises walks and calls holds. Billy names walks only in daylight with four armed. Worf, Troi, Zack, Data, Jason, Laforge, Riker, MacDonald, Lewis, Chapman hold at the row near 401-416,107,-1023 to -1064.
 
-Lessons: holding at the bed row in sight is the safe default while bows are drawing south. Standing next to my bed at dusk and calling sleep works, but it may need repeat calls before the night counts.
+Lessons: holding in Billy's sight is the safe default. Enderman and skeleton in range block sleep; wait and do not look at them. Sleep counted on the dusk of day 538.
 
-Next: at first light, stay at my bed. Join a walk only when Billy calls four in sight.
+Next: hold until Billy calls a walk to 393,107,-1034 with four armed. Give food only to whoever drops to hunger 6 or below, once their name is in reach.
