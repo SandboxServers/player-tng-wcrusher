@@ -45,3 +45,4 @@
 - 07:05 act: {"say":"Billy, coming to you now at 426,107,-1036 in daylight with Worf. Hunger 18.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1037}}]}
 - 07:05 act: {"say":"Billy, my walk was blocked again at the crafting table 418,107,-1047, and it is dark. I am holding here with Worf, not walking the dark. Hunger 18. Please come to this table with the potatoes 
 - 07:09 act: {"say":"Billy, Wesley going to my bed 416,107,-1050 with Worf, staying safe for the dark. Will walk to you at first light.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 07:14 act: {"actions":[{"do":"note","text":"Morning 557 at my bed 415,107,-1050. Worf beside me. Billy is walking here with 21 potatoes. I hold still and wait for him."}],"say":"Wesley here at the bed, morning 5
