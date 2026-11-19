@@ -1,8 +1,8 @@
-Handoff, night 555.
+Handoff, night 560.
 
-Place: my bed at 415,107,-1050 (standing 416,107,-1050), with Worf near. Not enclosed.
+Place: white bed at 415,107,-1050 (standing 416,107,-1050), Worf near. Not enclosed.
 Health 20, hunger 18, no food, unarmed. Holding oak sapling, lead, dirt.
-Sleep: worked last night (9 of 10 asleep) at 415,107,-1050 with a sleep call.
-Billy is at the row bed (about 427,107,-1035) with 21 potatoes, holding them for me and Lewis first. A daylight walk to Billy was blocked at the crafting table (418,107,-1047).
+Sleep: slept at night 560 at the bed (partial, then worked).
+Potatoes: Billy holds my 13 potatoes. He will hand them over at first light, and he asked me to step into his sight at 417,107,-1046 (or the row bed near 429,107,-1036).
 Errands: none.
-Next: at first light, ask Billy aloud for potatoes and a daylight walk. Do not walk in the dark. Stay in Billy's sight.
+Next: at first light, call Billy aloud to bring the 13 potatoes into sight, then eat. Do not walk in the dark. Stay in the row's sight.
