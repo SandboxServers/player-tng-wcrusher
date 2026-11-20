@@ -1,7 +1,5 @@
-# Handoff, day 602 night (awake)
+# Handoff, day 632 night (asleep)
 
-At 419,108,-1050, in the row, in Billy's sight. Health 20, hunger 20, unarmed, holding 5 potatoes (hunger 10 or below, Troi first, on Billy's call). No errands.
+Slept on my bed square 415,107,-1050 at night in Billy's sight; sleep worked (8 of 10 asleep). Health 20, hunger 20, unarmed, holding an oak sapling. Standing in the row at 416,107,-1050, beside Jason and Worf. No errands.
 
-Bed 415,107,-1050 still refuses sleep ("the way was blocked"). Worf does not know the cause. Billy's walk to look at it stopped on the way (day 601) and he has not looked since. Billy has asked for escort (Jason) and a named step before any walk.
-
-Next: hold in sight. When Billy names a walk to the bed, go only with him. Otherwise wait.
+Next: on waking, hold in sight. Walk only when Billy names it. Bed square works at night; sleep needs night, not day.
