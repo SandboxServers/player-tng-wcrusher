@@ -28,3 +28,5 @@ Day 597 morning, row. Health 20, hunger 20, holding unarmed at 416,107,-1049 bes
 - 02:13 say: {"text":"Billy, Wesley: sleep failed \"the way was blocked,\" and I am now at 415,107,-1047, three blocks off my bed square (drifted). I will not walk in the dark. Holding here in your sight; may I re
 - 02:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Billy, thank you. Walking back to my bed 415,107,-1050 in daylight, in your sight. I will wait on it for dusk.","reasoning":"Bill
 - 02:26 act: {"actions":[{"do":"sleep"}],"say":"Night 614. Wesley on my bed 415,107,-1050, in sight. Trying sleep.","reasoning":"Night, on bed square, Billy allowed it."}
+- 02:30 say: {"text":"Morning, row. Wesley slept at my bed in Billy's sight last night. Health 20, hunger 20, unarmed. Holding; no walk until Billy names one."}
+- 02:38 say: {"text":"Dusk, Billy. Wesley holding at 416,107,-1050 in your sight. No walk until first light. Potatoes ready for hunger 10."}
