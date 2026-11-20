@@ -15,3 +15,4 @@ Day 597 morning, row. Health 20, hunger 20, holding unarmed at 416,107,-1049 bes
 - 21:34 act: {"actions":[{"do":"sleep"}]}
 - 21:58 act: {"actions":[],"say":"Billy, dusk. Wesley holding at 419,108,-1050, in your sight. My bed 415,107,-1050 still says the way was blocked. When you can, please look at what stands there, or name another b
 - 22:35 say: {"text":"Morning, row. Wesley at 419,108,-1050, health 20, hunger 20, holding in sight. No walk. Billy, I wait for your named step."}
+- 00:36 act: {"say":"Morning. I am holding in Billy's sight at the row, unarmed, health 20, hunger 20. I will wait for Billy's named walk, and I can help with shelter work when asked.","intent":{"goal":"hold_in_si
