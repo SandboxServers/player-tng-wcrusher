@@ -30,3 +30,19 @@ Day 597 morning, row. Health 20, hunger 20, holding unarmed at 416,107,-1049 bes
 - 02:26 act: {"actions":[{"do":"sleep"}],"say":"Night 614. Wesley on my bed 415,107,-1050, in sight. Trying sleep.","reasoning":"Night, on bed square, Billy allowed it."}
 - 02:30 say: {"text":"Morning, row. Wesley slept at my bed in Billy's sight last night. Health 20, hunger 20, unarmed. Holding; no walk until Billy names one."}
 - 02:38 say: {"text":"Dusk, Billy. Wesley holding at 416,107,-1050 in your sight. No walk until first light. Potatoes ready for hunger 10."}
+- 03:09 say: {"text":"Wesley hit by a shot, health 16, reflex moved me to 415,108,-1048. Unarmed. Asking Billy for a sword and the way back to my row spot."}
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Wesley moving two blocks back into the row at 416,107,-1050, beside Worf and Jason. Holding there.","reasoning":"Exposed to pilla
+- 03:12 say: {"text":"Wesley: I was shot and died here, woke at the row spawn 416,107,-1050. Holding beside Worf and Jason, no walk. My potatoes lie on the ground here; I will not walk to them until you name it."}
+- 03:44 say: {"text":"Wesley at 416,107,-1050, unarmed, health 20, hunger 20. Billy, Trini or Tommy: a spare sword when you see me in sight. Holding, no walk."}
+- 03:52 act: {"actions":[{"do":"note","text":"Day 618 daylight, in the row at 416,107,-1050, unarmed, health 20, hunger 20. Holding in sight; no walk named."}],"say":"Morning, row. Wesley here, unarmed, holding at
+- 03:56 act: {"actions":[{"do":"note","text":"Day 619 dusk. Zack offers a spare sword at Picard's bed 443-444,107,-1037 in daylight; Tommy keeps his spare for me. No walk at dusk; holding in the row."}],"say":"Tha
+- 04:01 act: {"actions":[{"do":"note","text":"Day 620 morning. Billy will call the sword walk in daylight with an armed escort. Holding at 416,107,-1050 until he names it."}],"say":"Morning, Billy. Wesley holding 
+- 04:05 act: {"actions":[{"do":"note","text":"Day 620 daylight. Billy and Tommy walking west to me with the spare wooden sword. I hold still at 416,107,-1050."}],"say":"Thank you, Billy. I hold still at 416,107,-1
+- 04:13 act: {"actions":[{"do":"note","text":"Day 620 dusk. Billy's walk turned back at the blocked way; no sword for me yet. Holding at 416,107,-1050 beside Worf and Jason. Walk waits for morning and Billy's call
+- 04:17 act: {"actions":[{"do":"note","text":"Day 620 morning. The west way was blocked again; Tommy turned back with the spare sword, which stays in his pack. I hold at 416,107,-1050 with Worf and Jason. No walk 
+- 04:25 act: {"actions":[{"do":"note","text":"Day 620 dusk. Billy has gone to bed. I hold at 416,107,-1050 beside Worf and Jason, unarmed, no walk in the dark."}],"say":"Goodnight, row. Wesley holding at 416,107,-
+- 04:29 act: {"actions":[{"do":"note","text":"Day 621 morning. Tommy and Picard came part way; path blocked again, they turned back. I hold at 416,107,-1050. Sword still unfound; no walk named."}],"say":"Billy, To
+- 04:54 act: {"actions":[{"do":"note","text":"Day 621, morning, 416,107,-1050 in the row beside Worf and Jason. Health 20, hunger 20, unarmed, holding an oak sapling. No walk named; holding in sight."}],"say":"Wes
+- 05:06 act: {"actions":[{"do":"note","text":"Days 622-623: held in the row beside Worf and Jason through dusk and into morning. Health 20, hunger 20, unarmed. No walk named by Billy; Picard and Tommy wait on his 
+- 05:26 act: {"actions":[{"do":"note","text":"Day 623: holding in the row beside Worf and Jason through thunder, dusk and morning. Health 20, hunger 20, unarmed. Still no named walk from Billy; sword spare still w
+- 06:28 act: {"actions":[{"do":"note","text":"Day 626, dusk. Holding at 416,107,-1050 in the row beside Worf and Jason. Unarmed, health 20, hunger 20. No walk, as Billy said. Waiting in sight."}],"say":"Wesley her
