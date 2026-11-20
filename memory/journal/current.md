@@ -46,3 +46,4 @@ Day 597 morning, row. Health 20, hunger 20, holding unarmed at 416,107,-1049 bes
 - 05:06 act: {"actions":[{"do":"note","text":"Days 622-623: held in the row beside Worf and Jason through dusk and into morning. Health 20, hunger 20, unarmed. No walk named by Billy; Picard and Tommy wait on his 
 - 05:26 act: {"actions":[{"do":"note","text":"Day 623: holding in the row beside Worf and Jason through thunder, dusk and morning. Health 20, hunger 20, unarmed. Still no named walk from Billy; sword spare still w
 - 06:28 act: {"actions":[{"do":"note","text":"Day 626, dusk. Holding at 416,107,-1050 in the row beside Worf and Jason. Unarmed, health 20, hunger 20. No walk, as Billy said. Waiting in sight."}],"say":"Wesley her
+- 07:44 act: {"say":"Morning, row. Wesley at my bed, health 20, hunger 20, unarmed. Holding in Billy's sight. No walk for me until Billy names one.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{}
