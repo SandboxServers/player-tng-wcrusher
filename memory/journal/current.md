@@ -5,3 +5,11 @@
 - 10:34 say: thanked Clark; holding in sight until Billy says the row can arm me.
 - Clark (day 639) asks me to come to 416,107,-1023 for the sword. Not walking without Billy's word.
 - Day 639: health 20, hunger 20, unarmed, holding at bed 416,107,-1050 with Worf and Jason near.
+- 10:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Wesley on bed 415,107,-1050, in sight. Holding, no walk."}
+- 10:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Wesley going to bed 415,107,-1050, in Billy's sight. Holding, no walk."}
+- 10:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Wesley trying bed 415,107,-1051 in Billy's sight. No walk."}
+- 11:08 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley on bed in Billy's sight. Sleeping, no walk."}
+- 11:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley on bed 415,107,-1051, in Billy's sight. No walk."}
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Wesley back to bed 415,107,-1050, in sight. No walk."}
+- 11:21 act: {"actions":[],"say":"Jason, I'm on 415,107,-1050 now, so 415,107,-1051 is yours. I hold here in sight, no walk."}
+- 11:33 act: {"actions":[{"do":"sleep"}]}
