@@ -25,3 +25,5 @@
 - 15:26 act: {"say":"Going to bed 429,107,-1022 in daylight, as Billy named. Will say when I am at it.","intent":{"goal":"reach_billy_bed_429_1022","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-10
 - 15:28 say: {"text":"Billy, the walk toward 429,107,-1022 was blocked again; every route from here refuses me. I am back at 418,107,-1047, health 20, hunger 20. Holding here. I will not force it."}
 - 15:41 act: {"say":"Wesley here, holding at 418,107,-1047 in daylight. Billy, I have no verified route to 443,107,-1037. I will walk only if you name it again and say the way is clear.","actions":[],"reasoning":"
+- 15:59 act: {"actions":[],"say":"Holding here at 418,107,-1047 with Jason and Worf. No walk named. Waiting for Billy."}
+- 16:31 act: {"actions":[],"say":"Worf, I have no sheep knowledge. My old notes list cows at 434,106,-1113 and 339,104,-979, but I have not seen them lately. Holding for Billy."}
