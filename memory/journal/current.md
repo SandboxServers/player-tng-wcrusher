@@ -46,3 +46,4 @@
 - 20:23 act: {"say":"Wesley here, health 20, hunger 20, holding in the row. No walk until Billy names a verified route.","reasoning":"Daytime, in sight of Jason and Worf. Goals say hold, no walk without Billy's wo
 - 20:39 act: {"say":"Good morning, Billy. Wesley here, health 20, hunger 20, no food needed. Holding in the row, no verified route from me, no walk.","reasoning":"Billy asked who is at hunger 10 or below. I am not
 - 21:08 act: {"actions":[{"do":"note","text":"Day 742 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 32 days since sleep. No walk named, no food asked for, no route verified."}
+- 23:26 act: {"actions":[{"do":"note","text":"Day 749 dusk. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 39 days since sleep. No walk named; no walk in the dark."}],"say":"Wesley here
