@@ -10,3 +10,4 @@
 - 11:05 say: {"text":"Morning, row. Wesley, health 20, hunger 20, no sleep for two days. Billy, my sleep at the bed beside 416,107,-1050 was blocked last night. (Day 712: no answer yet; still at 418,107,-1047, holding in sight, health 20, hunger 20, sleep 2 days owed.) Night 712: sleep at 415,107,-1050 failed again, "the way was blocked". Will not retry that bed; waiting for Billy's named square.
 - Dusk 713: still at 418,107,-1047 in the row, health 20, hunger 20, 3 days since sleep. No word from Billy yet. Holding in sight, no walk, no food given. May I step back to 416,107,-1050 in the row, or do y
 - 11:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley trying the bed again, in sight of Jason and Worf. Holding otherwise."}
+- 11:51 say: {"text":"Wesley here, holding in sight at 418,107,-1047. Billy, I still need a bed square that takes me. I will not walk without your word."}
