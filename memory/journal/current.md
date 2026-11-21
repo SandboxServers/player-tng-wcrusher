@@ -1,13 +1,1 @@
 # Journal
-- Night 708: went to the row bed square and slept. First try worked (3 of 10 asleep). Second try: sleep failed once ("way blocked"), then worked (6 of 10 asleep).
-- Morning 708: awake at the row, health 20, hunger 20, unarmed, no walk named, no food given.
-- Lesson: when a bed try fails with "way blocked", try once more from the same square, then it worked.
-- Next: hold in sight. Walk only when Billy names it. Ask Billy in daylight about the -1051 refusal.
-- 09:47 say: Wesley here, awake at the row, holding in sight, waiting for Billy's named word.
-- 09:59 say to Worf: asked where cows graze, for a food route away from pillagers. No answer yet. Crusher and Laforge say they hold for Billy too; nobody knows the cows yet.
-- Dusk 709: moved to 416,107,-1050 and slept. Sleep worked (3 of 10 asleep). Health 20, hunger 20, unarmed, in the row.
-- Day 709: Worf answered: cows seen at 339,104,-979 and 434,106,-1113; no sheep yet. Zack has 3 potatoes for Troi if she asks in sight. Held in the row, no walk, no food given.
-- 10:05 act: {"say":"Thank you, Worf. Cows at 339,104,-979 and 434,106,-1113, noted. I'll hold in the row until Billy names a walk.","reasoning":"Worf answered my question. Thank him, hold for Billy."}
-- 10:10 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Dusk. Move to the proven bed square 416,107,-1050 beside the bed, in sight of the row, and sleep.","say":"Du
-- 10:14 say: {"text":"Wesley here at the bed square 416,107,-1050, health 20, hunger 20. Holding in the row for Billy's word. No walk for me."}
-- Day 709 (later): looked around. Worf and Jason beside me, in sight. Health 20, hunger 20, no walk named. Said I hold for Billy. Waiting.
