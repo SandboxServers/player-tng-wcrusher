@@ -10,3 +10,12 @@
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley here, in Billy's sight at the row. Holding, no walk. Going to bed at 415,107,-1050."}
 - 04:05 act: {"actions":[{"do":"sleep"}]}
 - 04:10 act: {"say":"Wesley here, day 691 morning. Health 20, hunger 20, holding at the row by my bed, no walk named. Waiting for Billy.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, night in the row. Going to bed at 415,107,-1050, in Billy's sight. No walk."}
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 04:19 act: {"actions":[],"say":"Billy, Wesley: sleep refused at both beds, 415,107,-1050 and -1051 (\"the way was blocked\"). I'm holding at -1051, in your sight. Why does it refuse? No walk."}
+- 04:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 04:55 act: {"actions":[{"do":"sleep"}]}
+- 04:58 act: {"actions":[{"do":"sleep"}]}
+- 05:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 05:10 act: {"actions":[{"do":"sleep"}]}
+- 05:10 act: {"actions":[{"do":"sleep"}]}
