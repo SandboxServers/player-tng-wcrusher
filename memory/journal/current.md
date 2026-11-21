@@ -1,2 +1,10 @@
 # Journal
 - 10:40 act: {"actions":[{"do":"sleep"}],"say":"Holding in the row, Billy's sight. Trying to sleep on the bed beside me."}
+- 10:40 say: {"text":"Night, row. Wesley here at 416,107,-1050, in sight of Worf and Jason. Holding."}
+- Night 711 wake check: sleep worked (in row, at 416,107,-1050). Health 20, hunger 20. Holding in Worf's and Jason's sight. No walk named. Waiting for Billy.
+- 10:45 say: {"text":"Morning, row. Wesley here, health 20, hunger 20. Holding in sight. No walk named; waiting for Billy."}
+- Day 711 morning: Laforge, Worf, Zack, Beverly, Trini, Jason all holding for Billy's named walk. Still health 20, hunger 20. Holding in sight; no walk, no food given.
+- Night 711 dark: sleep at the bed beside me failed ("the way was blocked"). I am at 418,107,-1047, not the proven square. Health 20, hunger 20. Holding in sight, no walk. Ask Billy about the blocked way.
+- 10:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Wesley trying the bed beside me at 416,107,-1050, still in sight of Jason and Worf."}
+- 10:53 say: {"text":"Wesley: sleep failed, the way was blocked. I have drifted to 418,107,-1047 in the dark. Holding here in sight of Worf and Jason; will not walk unless Billy names it."}
+- 11:05 say: {"text":"Morning, row. Wesley, health 20, hunger 20, no sleep for two days. Billy, my sleep at the bed beside 416,107,-1050 was blocked last night. (Day 712: no answer yet; still at 418,107,-1047, holding in sight, health 20, hunger 20, sleep 2 days owed.) May I step back to 416,107,-1050 in the row, or do y
