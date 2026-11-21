@@ -6,3 +6,4 @@
 - Day 699 dawn: holding at 419,108,-1050 in sight of Worf and Jason, health 20, hunger 20. Asked Billy which square a sleeper should use. No walk named; still waiting.
 - 06:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley at 416,107,-1050, the goto to -1051 ended here again. Trying to sleep here in Billy's sight."}
 - 06:47 act: {"say":"Dawn, row. Wesley holding at 419,108,-1050 in sight of Worf and Jason. Billy, which square should a sleeper stand on? The bed square refused me."}
+- 07:09 say: {"text":"Wesley here at 419,108,-1050, holding in the row. Is Billy near? I need to ask about the bed that refused me, before I try any bed."}
