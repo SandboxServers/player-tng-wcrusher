@@ -1,6 +1,6 @@
 # Summary, end of day 694
 
-I am Wesley Crusher. I sleep at the white beds in the row, in Billy's sight. Bed 415,107,-1050 is first choice, then 415,107,-1051. Stand on the bed square, not beside it: beside it sleep was refused for days 691 to 693; on the square at dusk 694 it worked.
+I am Wesley Crusher. I sleep at the white beds in the row, in Billy's sight. Bed 415,107,-1050 is first choice, then 415,107,-1051. Stand on the bed square, not beside it. Slept on -1050 at dusk 694; it worked.
 
 Holding: oak sapling. Unarmed. Health 20, hunger 20. No food given.
 

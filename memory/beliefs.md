@@ -19,5 +19,6 @@
 - Oak trees and logs are not near the row. Jungle logs about 200 blocks south.
 - Billy counts people in sight at the row and waits for four before a cow walk. Holding in sight is the safe default.
 - A follow on Billy fails once he is out of my sight.
+- Day 694: the row is calm. Many hold at beds with swords; Tommy is at hunger 16 with 3 potatoes; no one has named a walk.
 
 Next curiosity: how to get a sword better than wood or stone, and where the next food comes from. Who could tell: Clark, Zack, Worf, Billy.
