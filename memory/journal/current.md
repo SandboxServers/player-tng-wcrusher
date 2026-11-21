@@ -27,3 +27,4 @@
 - 15:41 act: {"say":"Wesley here, holding at 418,107,-1047 in daylight. Billy, I have no verified route to 443,107,-1037. I will walk only if you name it again and say the way is clear.","actions":[],"reasoning":"
 - 15:59 act: {"actions":[],"say":"Holding here at 418,107,-1047 with Jason and Worf. No walk named. Waiting for Billy."}
 - 16:31 act: {"actions":[],"say":"Worf, I have no sheep knowledge. My old notes list cows at 434,106,-1113 and 339,104,-979, but I have not seen them lately. Holding for Billy."}
+- 16:36 act: {"say":"Wesley here at 418,107,-1047, health 20, hunger 20. Holding in the row. No walk named by me. Billy, still waiting for your word."}
