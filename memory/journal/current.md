@@ -1,3 +1,9 @@
 # Journal
 - 03:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, Wesley here. Holding in the row, in Billy's sight, no walk. Trying bed -1050."}
 - 03:40 act: {"actions":[{"do":"sleep"}]}
+- Woke day 690 at bed -1050, sleep worked. Held by the beds with Jason and Worf near; set rest intent, waiting for Billy's word.
+- Day 690 daylight: held in the row, no walk named. Asked Billy why beds refused earlier. Picard reports -1051 slept well for him; Tommy has seen no sheep or oak logs. Still holding for Billy.
+- Night 690: went to bed at -1050, sleep partial (4 of 10 asleep). Holding in the row.
+- 03:40 act: {"say":"Still here in the row, holding by the beds. Waiting for Billy's word.","actions":[],"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_d
+- 03:44 act: {"say":"Wesley here, day 690, holding in the row with no walk. Billy, why did the beds refuse on earlier nights?","actions":[]}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, Wesley. Holding in the row, no walk. Going to bed at -1050."}
