@@ -11,3 +11,4 @@
 - Dusk 713: still at 418,107,-1047 in the row, health 20, hunger 20, 3 days since sleep. No word from Billy yet. Holding in sight, no walk, no food given. May I step back to 416,107,-1050 in the row, or do y
 - 11:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley trying the bed again, in sight of Jason and Worf. Holding otherwise."}
 - 11:51 say: {"text":"Wesley here, holding in sight at 418,107,-1047. Billy, I still need a bed square that takes me. I will not walk without your word."}
+- 12:25 act: {"say":"Wesley here, holding in the row at 418,107,-1047. Health 20, hunger 20. Waiting for Billy's word."}
