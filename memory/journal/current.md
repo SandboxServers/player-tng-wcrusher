@@ -12,3 +12,4 @@
 - 11:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley trying the bed again, in sight of Jason and Worf. Holding otherwise."}
 - 11:51 say: {"text":"Wesley here, holding in sight at 418,107,-1047. Billy, I still need a bed square that takes me. I will not walk without your word."}
 - 12:25 act: {"say":"Wesley here, holding in the row at 418,107,-1047. Health 20, hunger 20. Waiting for Billy's word."}
+- 13:46 act: {"say":"Billy, Wesley here at 418,107,-1047. Ten days without sleep. Which bed square may I use? The -1050 and -1051 beds refused me. Holding till you name one."}
