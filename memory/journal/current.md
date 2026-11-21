@@ -38,3 +38,8 @@
 - 19:12 act: {"say":"Billy, thank you for 415,107,-1023. It is dusk now, and my rule is no walk in the dark. I will hold here in sight and go at first light, if you still name it then.","actions":[{"do":"note","te
 - 19:17 act: {"say":"Morning, Billy. Wesley here at 418,107,-1047, health 20, hunger 20. No walk from me until you name a route for today. Holding in sight.","actions":[{"do":"note","text":"Day 736, morning. Billy
 - 19:43 act: {"actions":[{"do":"note","text":"Day 737, daytime. Holding at 418,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 27 days since sleep. Billy has not named a walk for today; no walk, no foo
+- 19:48 act: {"actions":[{"do":"note","text":"Day 738, daytime. Holding at 418,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 28 days since sleep. Billy named no walk; MacDonald and Zack hold too. No 
+- 20:00 act: {"actions":[{"do":"note","text":"Day 739 morning. Held in the row at 418,107,-1047 through the night, in sight of Jason and Worf. Health 20, hunger 20, 28+ days since sleep. Billy still names no route
+- 20:04 act: {"intent":{"goal":"reach_billy_bed_415_1023","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1023}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addre
+- 20:06 act: {"actions":[{"do":"note","text":"Day 739 dusk. Walk toward 415,107,-1023 was blocked for the whole day; intent ran out. I am at 415,107,-1047 in the row, health 20, hunger 20. No walk in the dark."}],
+- 20:11 act: {"actions":[{"do":"note","text":"Day 740 morning. Held at 415,107,-1047 through the night in the row. Health 20, hunger 20. Billy: no walk until he names a route. Holding."}],"say":"Morning, row. Wesl
