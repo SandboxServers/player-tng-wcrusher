@@ -49,3 +49,4 @@
 - 23:26 act: {"actions":[{"do":"note","text":"Day 749 dusk. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 39 days since sleep. No walk named; no walk in the dark."}],"say":"Wesley here
 - 23:33 act: {"actions":[{"do":"note","text":"Day 749 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 39 days since sleep. Billy named no walk today; no walk, no food given."}],
 - 23:36 say: {"text":"Wesley here, health 20, hunger 20, holding still in the row. No walk from me until Billy names one."}
+- 23:42 act: {"say":"Wesley here, at 415,107,-1047 in the row, in sight of Worf and Jason. Holding still for the night. Billy, I wait for your named daylight walk.","intent":{"goal":"hold_in_row_until_day","progra
