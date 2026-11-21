@@ -43,3 +43,6 @@
 - 20:04 act: {"intent":{"goal":"reach_billy_bed_415_1023","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1023}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addre
 - 20:06 act: {"actions":[{"do":"note","text":"Day 739 dusk. Walk toward 415,107,-1023 was blocked for the whole day; intent ran out. I am at 415,107,-1047 in the row, health 20, hunger 20. No walk in the dark."}],
 - 20:11 act: {"actions":[{"do":"note","text":"Day 740 morning. Held at 415,107,-1047 through the night in the row. Health 20, hunger 20. Billy: no walk until he names a route. Holding."}],"say":"Morning, row. Wesl
+- 20:23 act: {"say":"Wesley here, health 20, hunger 20, holding in the row. No walk until Billy names a verified route.","reasoning":"Daytime, in sight of Jason and Worf. Goals say hold, no walk without Billy's wo
+- 20:39 act: {"say":"Good morning, Billy. Wesley here, health 20, hunger 20, no food needed. Holding in the row, no verified route from me, no walk.","reasoning":"Billy asked who is at hunger 10 or below. I am not
+- 21:08 act: {"actions":[{"do":"note","text":"Day 742 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 32 days since sleep. No walk named, no food asked for, no route verified."}
