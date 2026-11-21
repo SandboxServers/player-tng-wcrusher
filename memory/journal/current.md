@@ -7,3 +7,6 @@
 - Day 696 dusk to day 697 morning: slept on -1050, worked. Holding; Picard, Beverly, Leonardo, Zack all holding; no walk named.
 - Day 696 morning: sleep on -1050 worked. Health 20, hunger 20. Jason, Worf, Zack all holding; no walk named. Still unarmed.
 - 05:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Wesley to bed on the square. Health 20, hunger 17? No, 20. No walk named."}
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Wesley here. Dusk, holding in the row. No walk named, so I go to my bed at 415,107,-1050 to sleep, in Billy's sight."}
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 06:02 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
