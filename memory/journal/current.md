@@ -32,3 +32,4 @@
 - 17:29 act: {"say":"Wesley here, at 418,107,-1047 in the row, health 20, hunger 20. Holding in sight of Billy, Worf and Jason. No walk.","reasoning":"Dusk in the row. Goal says hold in sight, no walks without Bil
 - 17:45 act: {"say":"Morning, Billy. Wesley at 418,107,-1047, health 20, hunger 20. Holding. Still open: why the -1051 squares refused me. No walk.","reasoning":"Holding in the row as the goal says. Ask the open q
 - 18:14 say: {"text":"Morning, Billy. Wesley here at 418,107,-1047, health 20, hunger 20. Holding in your sight. No walk from me."}
+- 18:47 act: {"actions":[{"do":"note","text":"Dusk 735. Holding at 418,107,-1047 in sight of Worf and Jason. Health 20, hunger 20. No walk named; 25 days since sleep."}],"say":"Wesley here at 418,107,-1047, health
