@@ -7,3 +7,5 @@
 - 03:40 act: {"say":"Still here in the row, holding by the beds. Waiting for Billy's word.","actions":[],"intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_d
 - 03:44 act: {"say":"Wesley here, day 690, holding in the row with no walk. Billy, why did the beds refuse on earlier nights?","actions":[]}
 - 03:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, Wesley. Holding in the row, no walk. Going to bed at -1050."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley here, in Billy's sight at the row. Holding, no walk. Going to bed at 415,107,-1050."}
+- 04:05 act: {"actions":[{"do":"sleep"}]}
