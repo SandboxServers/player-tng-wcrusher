@@ -12,3 +12,5 @@
 - 07:09 say: {"text":"Wesley here at 419,108,-1050, holding in the row. Is Billy near? I need to ask about the bed that refused me, before I try any bed."}
 - 07:22 act: {"say":"Night in the row. Wesley holding here near Worf, no walk. Billy, I will wait for you before trying any bed."}
 - 07:47 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Wesley going to the bed at 416,107,-1050, in sight of the group. No walk."}
+- 07:47 act: {"actions":[{"do":"sleep"}],"say":"Wesley here, at 416,107,-1050 beside my bed, holding in the row. Health 20, hunger 20, unarmed. No walk. Going to sleep here in Billy's sight."}
+- Night, day 702: sleep at 416,107,-1050 worked ("Your sleep worked", twice). Health 20, hunger 20, holding in the row with Worf and Jason. No walk named. Next: wait for dawn and Billy's word.
