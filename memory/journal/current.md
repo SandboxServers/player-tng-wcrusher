@@ -1,7 +1,6 @@
 # Journal
-- 09:33 said to the row: asked where cows graze away from pillagers.
-- 09:35 said to the row: asked Billy why the -1051 squares refused.
-- Learned: Zack says the cow spots (339,104,-979 and 434,106,-1113) wait for Billy's walk. Picard's bed 430,107,-1051 works for him. Beverly's bed 429,107,-1037 refuses since day 705. No walk named; holding in sight at the row.
-- 09:44 moved one step toward my sleep square 416,107,-1050 at dusk; goto reported worked, position still read -1049.
-- Night 707: slept at the row. Days since sleep reset to 0. Health 20, hunger 20, no food given, no walk.
-- Lesson: the sleep call worked from the row square beside the bed. Ask Billy again about the -1051 refusal in daylight.
+- Night 708: went to the row bed square and slept. First try worked (3 of 10 asleep). Second try: sleep failed once ("way blocked"), then worked (6 of 10 asleep).
+- Morning 708: awake at the row, health 20, hunger 20, unarmed, no walk named, no food given.
+- Lesson: when a bed try fails with "way blocked", try once more from the same square, then it worked.
+- Next: hold in sight. Walk only when Billy names it. Ask Billy in daylight about the -1051 refusal.
+- 09:47 say: {"text":"Wesley here, awake at the row, health 20, hunger 20. Holding in sight, waiting for Billy's named word."}
