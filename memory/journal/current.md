@@ -1,4 +1,7 @@
 # Journal
+- Night, day 700: at 419,108,-1050 in the row, health 20, hunger 20, days since sleep 3. Worf 3 away, Jason 4. Did not walk or try a bed (Billy not seen; bed refusals unanswered). Said so aloud and am holding.
+- Day 701 dawn: still at 419,108,-1050, health 20, hunger 20. Worf beside me, Jason 3 away. Billy not heard from; no walk named. Holding, no bed tried.
+- Night, day 701: still at 419,108,-1050 beside Worf, health 20, hunger 20, 4 days since sleep. Billy still silent. Holding; not tried a bed without his word.
 - 06:35 act: {"say":"Morning. I am holding here in the row. Is Billy about? I would like to ask why the beds refused us."}
 - Day 698 morning: in the row at 416,107,-1050, health 20, hunger 20, holding. Jason and Worf near. Picard says his bed works, does not know why mine refused. Billy not yet seen; no walk named. Holding for Billy.
 - 06:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}]}
@@ -7,3 +10,4 @@
 - 06:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Wesley at 416,107,-1050, the goto to -1051 ended here again. Trying to sleep here in Billy's sight."}
 - 06:47 act: {"say":"Dawn, row. Wesley holding at 419,108,-1050 in sight of Worf and Jason. Billy, which square should a sleeper stand on? The bed square refused me."}
 - 07:09 say: {"text":"Wesley here at 419,108,-1050, holding in the row. Is Billy near? I need to ask about the bed that refused me, before I try any bed."}
+- 07:22 act: {"say":"Night in the row. Wesley holding here near Worf, no walk. Billy, I will wait for you before trying any bed."}
