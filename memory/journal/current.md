@@ -11,3 +11,4 @@
 - 06:47 act: {"say":"Dawn, row. Wesley holding at 419,108,-1050 in sight of Worf and Jason. Billy, which square should a sleeper stand on? The bed square refused me."}
 - 07:09 say: {"text":"Wesley here at 419,108,-1050, holding in the row. Is Billy near? I need to ask about the bed that refused me, before I try any bed."}
 - 07:22 act: {"say":"Night in the row. Wesley holding here near Worf, no walk. Billy, I will wait for you before trying any bed."}
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Wesley going to the bed at 416,107,-1050, in sight of the group. No walk."}
