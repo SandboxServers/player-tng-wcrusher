@@ -9,3 +9,5 @@
 - Day 709: Worf answered: cows seen at 339,104,-979 and 434,106,-1113; no sheep yet. Zack has 3 potatoes for Troi if she asks in sight. Held in the row, no walk, no food given.
 - 10:05 act: {"say":"Thank you, Worf. Cows at 339,104,-979 and 434,106,-1113, noted. I'll hold in the row until Billy names a walk.","reasoning":"Worf answered my question. Thank him, hold for Billy."}
 - 10:10 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Dusk. Move to the proven bed square 416,107,-1050 beside the bed, in sight of the row, and sleep.","say":"Du
+- 10:14 say: {"text":"Wesley here at the bed square 416,107,-1050, health 20, hunger 20. Holding in the row for Billy's word. No walk for me."}
+- Day 709 (later): looked around. Worf and Jason beside me, in sight. Health 20, hunger 20, no walk named. Said I hold for Billy. Waiting.
