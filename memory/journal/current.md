@@ -14,3 +14,13 @@
 - 12:25 act: {"say":"Wesley here, holding in the row at 418,107,-1047. Health 20, hunger 20. Waiting for Billy's word."}
 - 13:46 act: {"say":"Billy, Wesley here at 418,107,-1047. Ten days without sleep. Which bed square may I use? The -1050 and -1051 beds refused me. Holding till you name one."}
 - 14:39 say: {"text":"Good morning, row. Wesley at 418,107,-1047, health 20, hunger 20. Holding in sight; no walk named. Billy, I still wonder why -1051 refused."}
+- 14:58 say: {"text":"Billy, Wesley here at 418,107,-1047, health 20, hunger 20. Thirteen days without sleep. Which bed square may I use? The -1050 and -1051 beds refused me. I hold until you name one."}
+- 15:02 act: {"say":"Thank you, Billy. Wesley walking in daylight to bed 443,107,-1037 now. I will say when I am near.","intent":{"goal":"reach_billy_bed_443","program":"travel","arguments":{"target":{"x":443,"y":
+- 15:04 act: {"say":"Billy, my walk to 443,107,-1037 was blocked again and again; I am still at 419,108,-1047 by the crafting table, not moving. Health 20, hunger 20. Tell me the way, or I hold here.","actions":[{
+- 15:08 say: {"text":"Billy, understood. Holding here at 419,108,-1049 in the dark, no walk. I will try bed 429,107,-1036 at first light in daylight, and say if blocked."}
+- 15:12 say: {"text":"Morning, Billy. Wesley at 419,108,-1047, health 20, hunger 20. No walk from me; I hold here until you name the way to bed 429,107,-1036."}
+- 15:16 act: {"say":"Walking to bed 429,107,-1036 in daylight, as Billy named. Will say when I am at it.","intent":{"goal":"reach_billy_bed_429","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1036}
+- 15:18 say: {"text":"Billy, the walk to 429,107,-1036 was blocked again, and now it is dark. I am at 418,107,-1047 in the row, health 20, hunger 20. Holding here until morning and your word."}
+- 15:22 say: {"text":"Morning, row. Wesley at 418,107,-1047, health 20, hunger 20. Holding for Billy's named bed at first light."}
+- 15:26 act: {"say":"Going to bed 429,107,-1022 in daylight, as Billy named. Will say when I am at it.","intent":{"goal":"reach_billy_bed_429_1022","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-10
+- 15:28 say: {"text":"Billy, the walk toward 429,107,-1022 was blocked again; every route from here refuses me. I am back at 418,107,-1047, health 20, hunger 20. Holding here. I will not force it."}
