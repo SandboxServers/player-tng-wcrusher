@@ -37,3 +37,4 @@
 - 19:08 act: {"say":"Wesley here at 418,107,-1047, health 20, hunger 20. Holding in sight. Billy, when you have checked a bed square, I would like to hear it.","actions":[{"do":"note","text":"Day 736, daylight. At
 - 19:12 act: {"say":"Billy, thank you for 415,107,-1023. It is dusk now, and my rule is no walk in the dark. I will hold here in sight and go at first light, if you still name it then.","actions":[{"do":"note","te
 - 19:17 act: {"say":"Morning, Billy. Wesley here at 418,107,-1047, health 20, hunger 20. No walk from me until you name a route for today. Holding in sight.","actions":[{"do":"note","text":"Day 736, morning. Billy
+- 19:43 act: {"actions":[{"do":"note","text":"Day 737, daytime. Holding at 418,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 27 days since sleep. Billy has not named a walk for today; no walk, no foo
