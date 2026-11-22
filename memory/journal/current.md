@@ -93,3 +93,4 @@
 - 10:02 say: {"text":"Wesley here, health 20, hunger 20, holding in the row. Billy, when you have a moment: why did the -1051 squares refuse me?"}
 - 10:19 say: {"text":"Wesley here, holding still in the row at 415,107,-1047, in Worf's sight. No walk at night. Goodnight, row."}
 - 10:42 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, holding still in the row. No walk from me. Billy, is there a daylight route named today?"}
+- 12:21 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. No route west, no sheep, no pillager news from me. Holding for your word, Billy."}
