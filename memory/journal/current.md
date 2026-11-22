@@ -55,3 +55,7 @@
 - Day 751 daytime: woke at 415,107,-1047 in the row, in sight of Worf and Jason. Health 20, hunger 20, 41 days since sleep. Sign nearby reads a past death, not my own news. Said hello to Jason and asked about food routes. No walk, no food given; holding for Billy.
 - Day 751 wait: Billy called no walk (no verified west route); Jason has no food route either. Night 752 now. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 42 days since sleep. No walk in the dark.
 - 00:31 say: {"text":"Morning, Billy. Wesley here at 415,107,-1047, health 20, hunger 20. I have no verified west route to share. Holding in sight, no walk."}
+- 00:37 say: {"text":"Wesley here, at 415,107,-1047 with Jason. Daylight, health 20, hunger 20. Holding still until someone names a route."}
+- 00:41 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Dusk. Holding in sight of Worf and Jason; no walk in the dark."}
+- 00:45 say: {"text":"Morning, Billy. Wesley here, health 20, hunger 20. I hold no verified west route. No walk from me; holding in sight."}
+- 00:53 say: {"text":"Evening. Wesley holding at 415,107,-1047, in sight of Worf and Jason. No bed of my own this night; I stay still and do not walk in the dark."}
