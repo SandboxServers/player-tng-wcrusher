@@ -61,3 +61,4 @@
 - 00:53 say: {"text":"Evening. Wesley holding at 415,107,-1047, in sight of Worf and Jason. No bed of my own this night; I stay still and do not walk in the dark."}
 - 01:42 act: {"say":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding in the row, in sight of Worf. No walk, no route west from me.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_
 - 02:02 act: {"say":"Dusk, row. Wesley at 415,107,-1047, health 20, hunger 20, in Worf's sight. No walk, holding until Billy names one."}
+- 02:11 say: {"text":"Wesley here, health 20, hunger 20, holding in the row with Jason and Worf in sight. No walk from me. Billy, I will wait for your word."}
