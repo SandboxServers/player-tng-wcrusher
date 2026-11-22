@@ -102,3 +102,4 @@
 - 13:26 say: {"text":"Morning, Billy. Wesley at 415,107,-1047, health 20, hunger 20. No food, sheep, verified route or pillager news from me. Holding, no walk."}
 - 13:39 say: {"text":"Billy, Wesley holds in sight at 415,107,-1047. I am not one of the walkers, so I stay here. Shout if you need me."}
 - 14:03 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, no food. Holding in sight. No walk until Billy names one."}
+- 14:20 act: {"say":"Wesley, holding in the row. Hunger 20, no walk named. Billy, I can give food or carry a sword once you name it.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["dire
