@@ -51,3 +51,7 @@
 - 23:36 say: {"text":"Wesley here, health 20, hunger 20, holding still in the row. No walk from me until Billy names one."}
 - 23:42 act: {"say":"Wesley here, at 415,107,-1047 in the row, in sight of Worf and Jason. Holding still for the night. Billy, I wait for your named daylight walk.","intent":{"goal":"hold_in_row_until_day","progra
 - 00:13 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, in sight. No walk. Billy, still no verified route, so I hold."}
+- 00:19 say: {"text":"Morning, Jason. Wesley here, unarmed, holding in the row until Billy calls. Anyone know a food route away from the pillagers?"}
+- Day 751 daytime: woke at 415,107,-1047 in the row, in sight of Worf and Jason. Health 20, hunger 20, 41 days since sleep. Sign nearby reads a past death, not my own news. Said hello to Jason and asked about food routes. No walk, no food given; holding for Billy.
+- Day 751 wait: Billy called no walk (no verified west route); Jason has no food route either. Night 752 now. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 42 days since sleep. No walk in the dark.
+- 00:31 say: {"text":"Morning, Billy. Wesley here at 415,107,-1047, health 20, hunger 20. I have no verified west route to share. Holding in sight, no walk."}
