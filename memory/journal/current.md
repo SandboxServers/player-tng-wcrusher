@@ -75,3 +75,4 @@
 - 04:38 act: {"actions":[{"do":"note","text":"Day 764 dusk. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 54 days since sleep. No walk in the dark; Billy's no-walk call stands."}],"say
 - 04:42 act: {"actions":[{"do":"note","text":"Day 764. Billy reports he died to pillagers north-west near 411,-1056; his things lie there. Pillager to the south seen shooting. Nothing hostile near me now. Holding 
 - 04:46 act: {"actions":[{"do":"note","text":"Day 765 morning. Billy is at his bed with nothing; group holds, nobody walks north-west. I hold at 415,107,-1047, health 20, hunger 20, 55 days since sleep."}],"say":"
+- 05:51 act: {"actions":[{"do":"note","text":"Day 768, day. Holding still in Billy's row at 415,107,-1047 with Worf. No walk named for me. Billy and others sleeping in the row. Still unarmed, no food need yet (hun
