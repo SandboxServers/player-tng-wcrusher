@@ -94,3 +94,11 @@
 - 10:19 say: {"text":"Wesley here, holding still in the row at 415,107,-1047, in Worf's sight. No walk at night. Goodnight, row."}
 - 10:42 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, holding still in the row. No walk from me. Billy, is there a daylight route named today?"}
 - 12:21 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. No route west, no sheep, no pillager news from me. Holding for your word, Billy."}
+- 12:42 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, holding in the row. No walk in the dark. Billy, still waiting on your word."}
+- Day 788 night: held at 415,107,-1047 in Worf's sight, no walk, no food. Day 789 morning: Billy still names no route; holding. Health 20, hunger 20, 79 days since sleep.
+- Day 789 dusk: still at 415,107,-1047 in Worf and Jason's sight. Billy named no route; no walk in the dark. Holding.
+- Day 790 dusk to morning: held at 415,107,-1047 with Jason and Worf in sight. Billy asks who has food; no walk named. Holding, 80 days since sleep.
+- Day 791: Billy made a short look east with Jason and Worf; I held in sight at 415,107,-1047. No food or sheep found. Night 792: row resting, I hold. Health 20, hunger 20, 82 days since sleep.
+- 13:26 say: {"text":"Morning, Billy. Wesley at 415,107,-1047, health 20, hunger 20. No food, sheep, verified route or pillager news from me. Holding, no walk."}
+- 13:39 say: {"text":"Billy, Wesley holds in sight at 415,107,-1047. I am not one of the walkers, so I stay here. Shout if you need me."}
+- 14:03 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, no food. Holding in sight. No walk until Billy names one."}
