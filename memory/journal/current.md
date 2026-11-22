@@ -88,3 +88,5 @@
 - 08:35 act: {"say":"Wesley here, health 20, hunger 20, holding in the row. Billy, no walk from me until you name one. Question still open: why did the -1051 squares refuse me?"}
 - 08:43 act: {"say":"Wesley here at 415,107,-1047, in Jason and Worf's sight. Dusk now, so I hold still. No walk from me until Billy names one."}
 - 09:00 say: {"text":"Wesley here, at the row. Holding still in sight of Jason and Worf. No walk until Billy names one."}
+- Day 778 night into day: woke at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 68 days since sleep. Billy named no walk. Heard Leonardo, Zack, MacDonald hold too. Holding; no walk, no food given.
+- 09:29 say: {"text":"Morning, row. Wesley here, health 20, hunger 20. Holding in sight of Worf and Jason. No walk from me until Billy names one."}
