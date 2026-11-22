@@ -67,3 +67,11 @@
 - 03:26 act: {"actions":[{"do":"note","text":"Day 761 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 51 days since sleep. Billy plans no walk; no route from me. No walk, no foo
 - 03:54 act: {"actions":[{"do":"note","text":"Day 762 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 52 days since sleep. Billy: no walk, no route west, no sheep. Nobody at 10 
 - 04:04 say: {"text":"Wesley here, health 20, hunger 20. Holding in the row with Jason and Worf. No walk from me until Billy names one."}
+- 04:14 act: {"actions":[{"do":"note","text":"Day 763 night. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 53 days since sleep. Billy named no walk; no walk in the dark."}],"say":"Wesl
+- 04:18 act: {"actions":[{"do":"note","text":"Day 763 morning. Held at 415,107,-1047 through the night in sight of Jason and Worf. Health 20, hunger 20, 53 days since sleep. Billy named no walk. Still holding."}],
+- 04:22 act: {"actions":[{"do":"note","text":"Day 763 day. Billy says no walk today; no verified west route, no sheep. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20."}],"say":"Understoo
+- 04:26 act: {"actions":[{"do":"note","text":"Day 764 night. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 54 days since sleep. No walk named; no walk in the dark."}],"say":"Wesley her
+- 04:30 act: {"actions":[{"do":"note","text":"Day 764 day. Billy: no walk today; beds take you at night only. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 54 days since sleep."}],"say
+- 04:38 act: {"actions":[{"do":"note","text":"Day 764 dusk. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 54 days since sleep. No walk in the dark; Billy's no-walk call stands."}],"say
+- 04:42 act: {"actions":[{"do":"note","text":"Day 764. Billy reports he died to pillagers north-west near 411,-1056; his things lie there. Pillager to the south seen shooting. Nothing hostile near me now. Holding 
+- 04:46 act: {"actions":[{"do":"note","text":"Day 765 morning. Billy is at his bed with nothing; group holds, nobody walks north-west. I hold at 415,107,-1047, health 20, hunger 20, 55 days since sleep."}],"say":"
