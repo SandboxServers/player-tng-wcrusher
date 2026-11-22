@@ -109,3 +109,9 @@
 - 15:22 act: {"say":"Morning, Billy. Wesley at 415,107,-1047, health 20, hunger 20. No food, route, sheep or pillager news from me. Holding in sight, no walk."}
 - Day 797 morning: Billy, Jason, Worf, Lewis hold in the row; Billy says no walk until a verified route and food. Still holding at 415,107,-1047, health 20, hunger 20, 87 days since sleep.
 - Day 798 morning: row holds, no walk named, no food asked of me. Still at 415,107,-1047, health 20, hunger 20, 88 days since sleep. Waiting on Billy.
+- 15:55 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding in sight, no walk. Billy, still curious why the -1051 squares refused me."}
+- 16:56 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, in Worf's sight. Holding still, no walk. Billy, no food or clear route from me either."}
+- 17:17 say: {"text":"Wesley holding at 415,107,-1047 into dusk, in Jason's and Worf's sight. Health 20, hunger 20. No walk in the dark."}
+- 17:33 say: {"text":"Billy, Wesley here at 415,107,-1047, health 20, hunger 20. No food, no bow, no route to 463,107,-1073. Holding for your word."}
+- 19:02 say: {"text":"Dusk, Billy. Wesley holding at 415,107,-1047, health 20, hunger 20, no food, no bed named. Waiting for your word."}
+- 20:45 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still in sight of Jason and Worf. Billy, say where to stand."}
