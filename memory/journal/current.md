@@ -62,3 +62,7 @@
 - 01:42 act: {"say":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding in the row, in sight of Worf. No walk, no route west from me.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_
 - 02:02 act: {"say":"Dusk, row. Wesley at 415,107,-1047, health 20, hunger 20, in Worf's sight. No walk, holding until Billy names one."}
 - 02:11 say: {"text":"Wesley here, health 20, hunger 20, holding in the row with Jason and Worf in sight. No walk from me. Billy, I will wait for your word."}
+- 03:06 act: {"actions":[{"do":"note","text":"Day 760 dusk. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 50 days since sleep. Billy says hold, no walk, call at hunger 10."}],"say":"We
+- 03:10 act: {"actions":[],"say":"Morning, Billy. Wesley at 415,107,-1047, health 20, hunger 20. I hold no verified west route. Holding still in sight, no walk."}
+- 03:26 act: {"actions":[{"do":"note","text":"Day 761 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 51 days since sleep. Billy plans no walk; no route from me. No walk, no foo
+- 03:54 act: {"actions":[{"do":"note","text":"Day 762 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 52 days since sleep. Billy: no walk, no route west, no sheep. Nobody at 10 
