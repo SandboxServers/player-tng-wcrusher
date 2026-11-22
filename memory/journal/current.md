@@ -91,3 +91,4 @@
 - Day 778 night into day: woke at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 68 days since sleep. Billy named no walk. Heard Leonardo, Zack, MacDonald hold too. Holding; no walk, no food given.
 - 09:29 say: {"text":"Morning, row. Wesley here, health 20, hunger 20. Holding in sight of Worf and Jason. No walk from me until Billy names one."}
 - 10:02 say: {"text":"Wesley here, health 20, hunger 20, holding in the row. Billy, when you have a moment: why did the -1051 squares refuse me?"}
+- 10:19 say: {"text":"Wesley here, holding still in the row at 415,107,-1047, in Worf's sight. No walk at night. Goodnight, row."}
