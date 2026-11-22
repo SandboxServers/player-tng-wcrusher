@@ -115,3 +115,4 @@
 - 17:33 say: {"text":"Billy, Wesley here at 415,107,-1047, health 20, hunger 20. No food, no bow, no route to 463,107,-1073. Holding for your word."}
 - 19:02 say: {"text":"Dusk, Billy. Wesley holding at 415,107,-1047, health 20, hunger 20, no food, no bed named. Waiting for your word."}
 - 20:45 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still in sight of Jason and Worf. Billy, say where to stand."}
+- 21:42 say: {"text":"Wesley here, at 415,107,-1047, health 20, holding still in the row. Waiting for Billy's word on any walk or bed."}
