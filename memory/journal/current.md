@@ -87,3 +87,4 @@
 - 08:26 say: {"text":"Wesley here. Health 20, hunger 20, holding in the row. No walk named. Billy, I still wonder why the -1051 squares refused me."}
 - 08:35 act: {"say":"Wesley here, health 20, hunger 20, holding in the row. Billy, no walk from me until you name one. Question still open: why did the -1051 squares refuse me?"}
 - 08:43 act: {"say":"Wesley here at 415,107,-1047, in Jason and Worf's sight. Dusk now, so I hold still. No walk from me until Billy names one."}
+- 09:00 say: {"text":"Wesley here, at the row. Holding still in sight of Jason and Worf. No walk until Billy names one."}
