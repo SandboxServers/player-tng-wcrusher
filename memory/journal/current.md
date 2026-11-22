@@ -104,3 +104,4 @@
 - 14:03 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, no food. Holding in sight. No walk until Billy names one."}
 - 14:20 act: {"say":"Wesley, holding in the row. Hunger 20, no walk named. Billy, I can give food or carry a sword once you name it.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["dire
 - 14:45 act: {"say":"Wesley, holding at 415,107,-1047 in sight of Worf. Health 20, hunger 20. Billy, when you name a route I will follow. Still asking why the -1051 squares refused me."}
+- 15:01 act: {"say":"Good morning, row. Wesley here at 415,107,-1047, health 20, hunger 20. Holding still, no walk. Billy, if you name a daylight route or a bed, I will hear it."}
