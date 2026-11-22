@@ -82,3 +82,5 @@
 - 07:04 say: {"text":"Wesley here, health 20, hunger 20. Holding in the row with Worf. No walk named, so I stay still. Billy, I still wonder why the -1051 squares refused me."}
 - 07:20 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding, no walk. Billy, still waiting on a named route to a bed."}
 - 07:37 act: {"say":"Billy, I am holding still in the row at 415,107,-1047, hunger 20, health 20. No walk without your word. Is there a daylight route you have verified yet?"}
+- 08:06 say: {"text":"Wesley here, standing still in the row with Worf. Hunger 20, health 20. Holding until Billy names a route."}
+- 08:10 say: {"text":"Wesley: no verified west route, no sheep seen, no pillager news from me. Holding at 415,107,-1047. Billy, I will wait for your word on any walk."}
