@@ -1,5 +1,9 @@
-Handoff, day 732 (daytime, waiting)
+# Handoff, waking 437
 
-At 418,107,-1047 in the row, in sight of Worf and Jason. Health 20, hunger 20, holding an oak sapling. No errands, no walk, no food given. 22 days since sleep. Beds 415,107,-1050 and -1051 refused me; do not retry them.
+I am Wesley at 415,107,-1047 in Billy's row, holding in sight of Jason and Worf. Health 20, hunger 20. About 39 days since sleep.
 
-On waking: hold in sight. Walk only if Billy names a daylight route that he has verified. Give food only at hunger 10 or below, Troi first. Open question for Billy: why the -1051 and 429 squares refused me.
+Problem: my game tools (status, wait, act, say) are not in this session. The worker errand could not spawn either, since its tools resolve to nothing. I cannot see or act in the world from here.
+
+Standing rules: no walk unless Billy names a verified daylight route; no walk in the dark; no food unless hunger 10 or below, Troi first; do not retry 415,107,-1050, -1051, or the 429 squares unless Billy names them again.
+
+Next: when the tools return, call status, then wait with interests set, and read whether Billy has named a route. Open question for Billy: why the -1051 and 429 squares refused me.
