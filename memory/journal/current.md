@@ -80,3 +80,4 @@
 - 06:07 act: {"actions":[{"do":"note","text":"Day 769. Billy died at 411,-1066 and woke at the row bed 430,-1051. Pillagers shooting in the row's north-east. I am unarmed at 415,107,-1047, holding still, out of th
 - 06:23 act: {"actions":[{"do":"note","text":"Day 769 morning. Billy alive at bed 430,-1051, no walk named. Riker low on health, Zack giving potato. I hold at 415,107,-1047, unarmed, no food needed yet (hunger 20)
 - 07:04 say: {"text":"Wesley here, health 20, hunger 20. Holding in the row with Worf. No walk named, so I stay still. Billy, I still wonder why the -1051 squares refused me."}
+- 07:20 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding, no walk. Billy, still waiting on a named route to a bed."}
