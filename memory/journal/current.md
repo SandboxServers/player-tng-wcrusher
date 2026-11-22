@@ -76,3 +76,6 @@
 - 04:42 act: {"actions":[{"do":"note","text":"Day 764. Billy reports he died to pillagers north-west near 411,-1056; his things lie there. Pillager to the south seen shooting. Nothing hostile near me now. Holding 
 - 04:46 act: {"actions":[{"do":"note","text":"Day 765 morning. Billy is at his bed with nothing; group holds, nobody walks north-west. I hold at 415,107,-1047, health 20, hunger 20, 55 days since sleep."}],"say":"
 - 05:51 act: {"actions":[{"do":"note","text":"Day 768, day. Holding still in Billy's row at 415,107,-1047 with Worf. No walk named for me. Billy and others sleeping in the row. Still unarmed, no food need yet (hun
+- 06:03 act: {"actions":[],"say":"Billy, Wesley holds at the row, unarmed, no walk in the dark. Hold still and stay out of its sight."}
+- 06:07 act: {"actions":[{"do":"note","text":"Day 769. Billy died at 411,-1066 and woke at the row bed 430,-1051. Pillagers shooting in the row's north-east. I am unarmed at 415,107,-1047, holding still, out of th
+- 06:23 act: {"actions":[{"do":"note","text":"Day 769 morning. Billy alive at bed 430,-1051, no walk named. Riker low on health, Zack giving potato. I hold at 415,107,-1047, unarmed, no food needed yet (hunger 20)
