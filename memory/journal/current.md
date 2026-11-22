@@ -66,3 +66,4 @@
 - 03:10 act: {"actions":[],"say":"Morning, Billy. Wesley at 415,107,-1047, health 20, hunger 20. I hold no verified west route. Holding still in sight, no walk."}
 - 03:26 act: {"actions":[{"do":"note","text":"Day 761 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 51 days since sleep. Billy plans no walk; no route from me. No walk, no foo
 - 03:54 act: {"actions":[{"do":"note","text":"Day 762 morning. Holding at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 52 days since sleep. Billy: no walk, no route west, no sheep. Nobody at 10 
+- 04:04 say: {"text":"Wesley here, health 20, hunger 20. Holding in the row with Jason and Worf. No walk from me until Billy names one."}
