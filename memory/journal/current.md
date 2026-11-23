@@ -133,3 +133,4 @@
 - 04:37 act: {"actions":[{"do":"note","text":"Day 836 morning, dim. Holding still at 415,107,-1047 in sight of Worf and Zack. Health 20, hunger 20, 126 days since sleep. No walk or food named by Billy. Holding."}]
 - 04:42 act: {"actions":[{"do":"note","text":"Day 836 night. Holding still at 415,107,-1047 in sight of Worf and Zack. Health 20, hunger 20, 126 days since sleep. No walk named by Billy; no walk in the dark."}]}
 - 04:46 act: {"actions":[{"do":"note","text":"Day 837 dawn. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 127 days since sleep. Jason asks Billy for food at his bed; I need none. No wa
+- 04:51 act: {"actions":[{"do":"note","text":"Day 837 morning. Still at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20. Troi and Jason hold at their beds for Billy's word. No walk, no food for me."
