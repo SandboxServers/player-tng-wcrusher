@@ -9,3 +9,4 @@
 - 06:10 act: {"actions":[{"do":"note","text":"Day 841 morning. Still at 415,107,-1047 in sight of Worf and Jason. No walk named by Billy. Holding."}],"say":"Wesley here, health 20, hunger 20, unarmed. Still holdin
 - 06:20 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Night now; I hold still in sight of Worf and Jason. Billy, I wait for your word."}
 - 06:28 say: {"text":"Morning, row. Wesley here at 415,107,-1047, health 20, hunger 20. Still holding, no walk for me. Billy, your word."}
+- 06:33 act: {"say":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still in the row at dusk. Waiting for Billy's word.","reasoning":"Dusk, no walk named, unarmed. Hold in sight and wait for 
