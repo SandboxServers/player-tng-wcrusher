@@ -12,3 +12,10 @@
 - 10:46 act: {"actions":[],"say":"Morning, day 855. Wesley at 415,107,-1047, health 20, hunger 20. Holding in sight of Worf and Zack. No walk named by Billy yet. I wait."}
 - 10:50 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding in sight of Worf, Zack and Jason. No walk. Billy, I wait for your named word."}
 - 11:19 say: {"text":"Wesley holding at 415,107,-1047, health 20, hunger 20. Billy, no walk from me until you name one. Open question: why did the -1051 and 429 squares refuse me?"}
+- 13:17 say: {"text":"Morning, row. Wesley at 415,107,-1047, health 20, hunger 20, unarmed. Holding here in sight. Billy, I have no food need now and no walk named; I wait for your word."}
+- 13:50 say: {"text":"Dusk. Wesley holding still at 415,107,-1047, health 20, hunger 20. No one in my sight now. No walk in the dark. I stay here until first light, Billy."}
+- 15:03 say: {"text":"Night. Wesley holding still at 415,107,-1047, health 20, hunger 20. No walk in the dark. First light, Billy, in sight."}
+- 15:48 say: {"text":"Wesley here, holding at 415,107,-1047 in sight of Worf. No walk for me. I wait for Billy's word."}
+- 15:52 say: {"text":"Zack, I know of no cows, sheep or melons. I have seen none near the row. I hold here and wait for Billy."}
+- 16:04 say: {"text":"Billy, this is Wesley, not Bcrusher. I did not walk and I have no potatoes. I hold only an oak sapling, at 415,107,-1047, and I wait for your word."}
+- 18:17 say: {"text":"Zack, Billy's correction stands: I owe nothing and have no food. I hold here at 415,107,-1047 and wait for Billy's word."}
