@@ -5,3 +5,6 @@
 - Day 853 morning: still holding at 415,107,-1047, health 20, hunger 20. Zack's sleep at the bed was blocked; he holds in sight. No word from Billy yet. No walk.
 - 09:49 act: {"actions":[],"say":"Wesley here at 415,107,-1047, health 20, hunger 20, holding still in sight of Jason and Worf. No walk at night. Billy, I wait for your word at first light."}
 - 10:19 say: {"text":"Wesley here, health 20, hunger 20, holding at 415,107,-1047. Still no walk named, Billy. I wait for your word."}
+- 10:24 say: {"text":"Wesley here, health 20, hunger 20, unarmed. Holding in the row with Zack and Worf. No walk until Billy names one."}
+- Day 854 dusk: held at 415,107,-1047, health 20, hunger 20. Jason, Troi, Zack and Worf report holding in the row. No walk named. Staying still through the night.
+- Day 854 morning: still at 415,107,-1047, health 20, hunger 20. Worf in reach, Zack and Jason in sight. Troi and Beverly hold for Billy's word. No walk named yet.
