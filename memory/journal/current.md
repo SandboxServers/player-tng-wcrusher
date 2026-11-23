@@ -10,3 +10,5 @@
 - 06:20 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Night now; I hold still in sight of Worf and Jason. Billy, I wait for your word."}
 - 06:28 say: {"text":"Morning, row. Wesley here at 415,107,-1047, health 20, hunger 20. Still holding, no walk for me. Billy, your word."}
 - 06:33 act: {"say":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still in the row at dusk. Waiting for Billy's word.","reasoning":"Dusk, no walk named, unarmed. Hold in sight and wait for 
+- 07:13 act: {"say":"Wesley at 415,107,-1047, unarmed, health 20. Staying put in the row. Billy, I will not walk toward the pillager; name a route only if it is safe.","reasoning":"Pillager near Billy, I'm unarmed
+- 08:01 act: {"say":"Wesley: I have no potatoes, only an oak sapling. I did not offer any. Holding at 415,107,-1047 for Billy's named walk.","reasoning":"Correct a false thanks so nobody waits on food I don't have
