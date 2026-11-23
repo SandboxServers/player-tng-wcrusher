@@ -1,1 +1,2 @@
 - Day 851 night: held at 415,107,-1047 with Worf and Jason in sight. Health 20, hunger 20, unarmed. No walk named by Billy. Note and say went through. Still holding, waiting for Billy's word at first light.
+- 09:40 say: {"text":"Wesley here, health 20, hunger 20, holding in the row. Billy, I wait for your named walk."}
