@@ -8,3 +8,5 @@
 - Day 887 morning: still at 415,107,-1047, health 20, hunger 20. Zack and Jason in sight. No walk named by Billy. Holding; the potato goes Leonardo to Worf, not mine.
 - Day 887 night: still at 415,107,-1047, health 20, hunger 20, Zack adjacent, Worf 4 blocks off. Holding still in the dark; no walk.
 - 21:16 say: {"text":"Holding here in the row at 415,107,-1047. No walk. Watching for Billy's word."}
+- 21:38 say: {"text":"Morning. Wesley here, holding at the row, health 20, hunger 20. Billy, I am waiting for your word."}
+- 21:50 say: {"text":"Morning, row. Wesley here, health 20, hunger 20, holding still. No walk named. Billy, waiting for your word."}
