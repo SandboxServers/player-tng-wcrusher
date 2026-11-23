@@ -1,8 +1,8 @@
-# Handoff, day 824 morning
+# Handoff, day 834 morning
 
-I am Wesley at 415,107,-1047 in Billy's row. Health 20, hunger 20, unarmed, holding an oak sapling. Not enclosed. Not resting.
+I am Wesley at 415,107,-1047 in Billy's row. Health 20, hunger 20, unarmed, holding an oak sapling. Not enclosed. Not resting. Daylight.
 
-Nothing half-done. No errand running. Billy has named no walk or bed for me. Beverly is at 5.3 health with no food, waiting for Billy. Troi, Riker and Jason hold in the row.
+Nothing half-done. No errand running. No intent set. Billy has named no walk, bed or food for me. Worf reports hunger 12. Zack and Worf are in sight. Jason and Troi hold at the beds.
 
 Standing rules: no walk unless Billy names a verified daylight route; no walk in the dark; food only at hunger 10 or below, Troi first; do not retry 415,107,-1050, -1051, or the 429 squares unless Billy names them again.
 

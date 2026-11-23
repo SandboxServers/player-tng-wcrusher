@@ -119,3 +119,8 @@
 - 22:11 act: {"actions":[{"do":"note","text":"Day 817 morning. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 107 days since sleep. Heard Billy's walk to Beverly; not mine. No walk name
 - 22:13 act: {"say":"Wesley here at 415,107,-1047, holding still, hunger 20. Billy, I wait for your word before any walk."}
 - 00:38 say: {"text":"Wesley here, holding in the row. Anyone know where cows graze, away from the west?"}
+- 00:52 say: {"text":"Wesley here, holding in the row. Worf, Jason, did Billy name a walk or a bed for today?"}
+- 01:08 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Billy has not named me for the walk, so I hold in the row. Thank you, Worf and Zack; I need no food yet."}
+- 01:28 say: {"text":"Billy, thank you, but I am at hunger 20, so I need no potato. Give mine to Riker, MacDonald or Chapman. I hold at 415,107,-1047 and do not walk; Jason and Worf are in my sight."}
+- 02:09 say: {"text":"Wesley here, health 20, hunger 20. I need no potato yet. Worf, Zack, give yours to whoever is weakest. I hold still."}
+- 03:33 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding still, unarmed, no walk. Billy, I wait for your word."}
