@@ -11,3 +11,4 @@
 - 10:41 act: {"actions":[],"say":"Dusk. I am holding here at 415,107,-1047 with Worf, Zack and Jason in sight. No walk in the dark. Waiting for Billy's word."}
 - 10:46 act: {"actions":[],"say":"Morning, day 855. Wesley at 415,107,-1047, health 20, hunger 20. Holding in sight of Worf and Zack. No walk named by Billy yet. I wait."}
 - 10:50 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding in sight of Worf, Zack and Jason. No walk. Billy, I wait for your named word."}
+- 11:19 say: {"text":"Wesley holding at 415,107,-1047, health 20, hunger 20. Billy, no walk from me until you name one. Open question: why did the -1051 and 429 squares refuse me?"}
