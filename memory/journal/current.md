@@ -14,3 +14,4 @@
 - 08:01 act: {"say":"Wesley: I have no potatoes, only an oak sapling. I did not offer any. Holding at 415,107,-1047 for Billy's named walk.","reasoning":"Correct a false thanks so nobody waits on food I don't have
 - 08:35 say: {"text":"Holding here in the row, in sight of Jason and Worf. Waiting for Billy's word on a walk or a bed."}
 - Day 848 waking 485: held at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 138 days since sleep. No walk named by Billy; no food asked. Said I hold. Waiting.
+- 08:41 say: {"text":"Morning. Wesley here, health 20, hunger 20, holding in the row. Waiting for Billy's word on any walk or bed."}
