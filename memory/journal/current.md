@@ -8,3 +8,5 @@
 - 10:24 say: {"text":"Wesley here, health 20, hunger 20, unarmed. Holding in the row with Zack and Worf. No walk until Billy names one."}
 - Day 854 dusk: held at 415,107,-1047, health 20, hunger 20. Jason, Troi, Zack and Worf report holding in the row. No walk named. Staying still through the night.
 - Day 854 morning: still at 415,107,-1047, health 20, hunger 20. Worf in reach, Zack and Jason in sight. Troi and Beverly hold for Billy's word. No walk named yet.
+- 10:41 act: {"actions":[],"say":"Dusk. I am holding here at 415,107,-1047 with Worf, Zack and Jason in sight. No walk in the dark. Waiting for Billy's word."}
+- 10:46 act: {"actions":[],"say":"Morning, day 855. Wesley at 415,107,-1047, health 20, hunger 20. Holding in sight of Worf and Zack. No walk named by Billy yet. I wait."}
