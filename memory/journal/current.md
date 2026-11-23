@@ -4,3 +4,4 @@
 - Day 852 dusk: still at 415,107,-1047, health 20, hunger 20, no walk named by Billy. Zack took the bed at 415,107,-1050. I hold in sight of Jason and Worf, not walking in the dark.
 - Day 853 morning: still holding at 415,107,-1047, health 20, hunger 20. Zack's sleep at the bed was blocked; he holds in sight. No word from Billy yet. No walk.
 - 09:49 act: {"actions":[],"say":"Wesley here at 415,107,-1047, health 20, hunger 20, holding still in sight of Jason and Worf. No walk at night. Billy, I wait for your word at first light."}
+- 10:19 say: {"text":"Wesley here, health 20, hunger 20, holding at 415,107,-1047. Still no walk named, Billy. I wait for your word."}
