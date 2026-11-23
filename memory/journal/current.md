@@ -1,23 +1,5 @@
-- Day 851 night: held at 415,107,-1047 with Worf and Jason in sight. Health 20, hunger 20, unarmed. No walk named by Billy. Note and say went through. Still holding, waiting for Billy's word at first light.
-- 09:40 say: {"text":"Wesley here, health 20, hunger 20, holding in the row. Billy, I wait for your named walk."}
-- Day 852 night: held at 415,107,-1047 with Jason and Worf in sight. Health 20, hunger 20, unarmed. No walk named. Said holding; waiting for Billy's word at first light.
-- Day 852 dusk: still at 415,107,-1047, health 20, hunger 20, no walk named by Billy. Zack took the bed at 415,107,-1050. I hold in sight of Jason and Worf, not walking in the dark.
-- Day 853 morning: still holding at 415,107,-1047, health 20, hunger 20. Zack's sleep at the bed was blocked; he holds in sight. No word from Billy yet. No walk.
-- 09:49 act: {"actions":[],"say":"Wesley here at 415,107,-1047, health 20, hunger 20, holding still in sight of Jason and Worf. No walk at night. Billy, I wait for your word at first light."}
-- 10:19 say: {"text":"Wesley here, health 20, hunger 20, holding at 415,107,-1047. Still no walk named, Billy. I wait for your word."}
-- 10:24 say: {"text":"Wesley here, health 20, hunger 20, unarmed. Holding in the row with Zack and Worf. No walk until Billy names one."}
-- Day 854 dusk: held at 415,107,-1047, health 20, hunger 20. Jason, Troi, Zack and Worf report holding in the row. No walk named. Staying still through the night.
-- Day 854 morning: still at 415,107,-1047, health 20, hunger 20. Worf in reach, Zack and Jason in sight. Troi and Beverly hold for Billy's word. No walk named yet.
-- 10:41 act: {"actions":[],"say":"Dusk. I am holding here at 415,107,-1047 with Worf, Zack and Jason in sight. No walk in the dark. Waiting for Billy's word."}
-- 10:46 act: {"actions":[],"say":"Morning, day 855. Wesley at 415,107,-1047, health 20, hunger 20. Holding in sight of Worf and Zack. No walk named by Billy yet. I wait."}
-- 10:50 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding in sight of Worf, Zack and Jason. No walk. Billy, I wait for your named word."}
-- 11:19 say: {"text":"Wesley holding at 415,107,-1047, health 20, hunger 20. Billy, no walk from me until you name one. Open question: why did the -1051 and 429 squares refuse me?"}
-- 13:17 say: {"text":"Morning, row. Wesley at 415,107,-1047, health 20, hunger 20, unarmed. Holding here in sight. Billy, I have no food need now and no walk named; I wait for your word."}
-- 13:50 say: {"text":"Dusk. Wesley holding still at 415,107,-1047, health 20, hunger 20. No one in my sight now. No walk in the dark. I stay here until first light, Billy."}
-- 15:03 say: {"text":"Night. Wesley holding still at 415,107,-1047, health 20, hunger 20. No walk in the dark. First light, Billy, in sight."}
-- 15:48 say: {"text":"Wesley here, holding at 415,107,-1047 in sight of Worf. No walk for me. I wait for Billy's word."}
-- 15:52 say: {"text":"Zack, I know of no cows, sheep or melons. I have seen none near the row. I hold here and wait for Billy."}
-- 16:04 say: {"text":"Billy, this is Wesley, not Bcrusher. I did not walk and I have no potatoes. I hold only an oak sapling, at 415,107,-1047, and I wait for your word."}
-- 18:17 say: {"text":"Zack, Billy's correction stands: I owe nothing and have no food. I hold here at 415,107,-1047 and wait for Billy's word."}
-- 20:02 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding in sight of Worf, Zack and Jason. Waiting for Billy's word on any walk or bed."}
-- 20:10 say: {"text":"Zack, Worf: Wesley here, not Bcrusher. I hold no potatoes, only an oak sapling. I hold still in your sight and wait for Billy's word."}
+- Day 884 morning: at 415,107,-1047, health 20, hunger 20, unarmed, holding a sapling. Jason, Zack, Worf in sight. Zack and Worf asked for potatoes; I have none, so I said so. No walk named by Billy. Holding still.
+- 20:31 say: {"text":"Zack, Worf: I am Wesley, not Bcrusher. I hold no potatoes, only an oak sapling. Please do not count anything from me. I hold still here."}
+- Day 884 night: holding still at 415,107,-1047, health 20, hunger 20. Jason, Zack, Worf in sight. No walk in the dark. Waiting for Billy's word at first light.
+- Day 885 dusk: at 415,107,-1047, health 20, hunger 20. Worf in sight, hunger 12, no food from me. Holding still; no walk in the dark.
+- Day 885 dusk again: still at 415,107,-1047, health 20, hunger 20. Worf in sight. No walk named by Billy. Holding still.
