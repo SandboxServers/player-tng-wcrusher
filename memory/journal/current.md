@@ -19,3 +19,5 @@
 - 15:52 say: {"text":"Zack, I know of no cows, sheep or melons. I have seen none near the row. I hold here and wait for Billy."}
 - 16:04 say: {"text":"Billy, this is Wesley, not Bcrusher. I did not walk and I have no potatoes. I hold only an oak sapling, at 415,107,-1047, and I wait for your word."}
 - 18:17 say: {"text":"Zack, Billy's correction stands: I owe nothing and have no food. I hold here at 415,107,-1047 and wait for Billy's word."}
+- 20:02 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding in sight of Worf, Zack and Jason. Waiting for Billy's word on any walk or bed."}
+- 20:10 say: {"text":"Zack, Worf: Wesley here, not Bcrusher. I hold no potatoes, only an oak sapling. I hold still in your sight and wait for Billy's word."}
