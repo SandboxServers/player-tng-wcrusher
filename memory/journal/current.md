@@ -130,3 +130,4 @@
 - 04:16 act: {"actions":[{"do":"note","text":"Night 835. Holding still at 415,107,-1047 with Jason in reach and Worf in sight. No walk in the dark. Health 20, hunger 20."}],"say":"Good night, row. Wesley holding s
 - 04:27 act: {"actions":[{"do":"note","text":"Day 836 dusk. Holding still at 415,107,-1047 in sight of Worf. Health 20, hunger 20, 126 days since sleep. No walk named by Billy; no walk in the dark."}],"say":"Wesle
 - 04:31 act: {"actions":[{"do":"note","text":"Day 836 morning. Still at 415,107,-1047 in sight of Worf and Zack. Health 20, hunger 20. No walk or food named by Billy. Holding."}]}
+- 04:37 act: {"actions":[{"do":"note","text":"Day 836 morning, dim. Holding still at 415,107,-1047 in sight of Worf and Zack. Health 20, hunger 20, 126 days since sleep. No walk or food named by Billy. Holding."}]
