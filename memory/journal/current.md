@@ -5,4 +5,7 @@
 - 05:24 say: {"text":"Wesley here at the row, health 20, hunger 20, unarmed. Holding at dusk; no walk tonight. Waiting for Billy's word at first light."}
 - Night 841: held at 415,107,-1047 with Worf and Jason in sight. Health 20, hunger 20. No walk named by Billy; no walk in the dark. Holding still.
 - 05:37 say: {"text":"Morning, row. Wesley here at 415,107,-1047, health 20, hunger 20, holding still. Billy, I wait for your word on any walk, bed or food."}
+- Waking 483, day 841: held at 415,107,-1047 with Jason and Worf in sight. Health 20, hunger 20. Overheard Billy trying bed 429,107,-1050 (refused, potatoes, no shelter blocks). Not my square to walk; holding for Billy's word.
 - 06:10 act: {"actions":[{"do":"note","text":"Day 841 morning. Still at 415,107,-1047 in sight of Worf and Jason. No walk named by Billy. Holding."}],"say":"Wesley here, health 20, hunger 20, unarmed. Still holdin
+- 06:20 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Night now; I hold still in sight of Worf and Jason. Billy, I wait for your word."}
+- 06:28 say: {"text":"Morning, row. Wesley here at 415,107,-1047, health 20, hunger 20. Still holding, no walk for me. Billy, your word."}
