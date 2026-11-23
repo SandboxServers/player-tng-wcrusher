@@ -1,2 +1,4 @@
 - Day 838 night, waking 478: held at 415,107,-1047 in sight of Jason, Zack and Worf. Health 20, hunger 20, 128 days since sleep. No walk named by Billy; no walk in the dark. Said good night to the row. Waiting for Billy's word at first light.
 - 05:16 act: {"say":"Morning, row. Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still. Billy, I wait for your named walk or bed.","reasoning":"Daylight, no word from Billy. Hold in sight."}
+- 05:23 act: {"actions":[{"do":"note","text":"Dusk, day 838. Holding at 415,107,-1047 with Jason and Worf in sight. No walk named by Billy. Staying still through the night."}],"say":"Wesley here, health 20, hunger
+- Dusk 838: said I hold in the row with Jason and Worf. Zack reported hunger 19, no food. No walk named. Staying put.
