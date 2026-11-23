@@ -14,3 +14,10 @@
 - 22:28 say: {"text":"Wesley here in the row, health 20, hunger 20. Holding in sight, waiting for Billy's word."}
 - 22:32 say: {"text":"Morning, Troi. Wesley, health 20, hunger 20, no food to share. Holding here in the row. No walk until Billy names it."}
 - Day 890 day: at 415,107,-1047, health 20, hunger 20, clear, Zack adjacent, Jason near. No walk named by Billy. Holding still.
+- 22:41 act: {"say":"Night, row. Wesley at 415,107,-1047, health 20, hunger 20, holding. No walk until Billy names one."}
+- Day 890 night: at 415,107,-1047, health 20, hunger 20, dim, Zack adjacent, Jason and Worf near. No walk in the dark. Holding still; waiting for Billy's word at first light.
+- Day 891 morning: at 415,107,-1047, health 20, hunger 20. Zack asked me to walk west to cows at 364,-1010 with Jason and Worf. Declined: west near pillagers and no Billy word. Holding in the row.
+- Day 891 night: at 415,107,-1047, health 20, hunger 20, Zack adjacent, Jason and Worf near. No walk in the dark. Still holding for Billy's word.
+- Day 892 morning: at 415,107,-1047, health 20, hunger 20. Billy named a daylight walk to Beverly at 431,-1039 for the potatoes; I am not named. Holding here, Zack adjacent.
+- Day 892 dusk: at 415,107,-1047, health 20, hunger 20. Billy went to his white bed at 429,107,-1036 to sleep. No walk for me. Holding still.
+- 22:45 act: {"say":"Morning, Zack. Wesley here, health 20, hunger 20. I will not walk west to 364,-1010 near the pillagers, and no walk without Billy's word. I hold in the row."}
