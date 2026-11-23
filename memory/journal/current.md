@@ -54,6 +54,7 @@
 - 00:19 say: {"text":"Morning, Jason. Wesley here, unarmed, holding in the row until Billy calls. Anyone know a food route away from the pillagers?"}
 - Day 751 daytime: woke at 415,107,-1047 in the row, in sight of Worf and Jason. Health 20, hunger 20, 41 days since sleep. Sign nearby reads a past death, not my own news. Said hello to Jason and asked about food routes. No walk, no food given; holding for Billy.
 - Day 751 wait: Billy called no walk (no verified west route); Jason has no food route either. Night 752 now. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 42 days since sleep. No walk in the dark.
+- Day 838, thunder, day: still at 415,107,-1047 in sight of Worf, Jason, Zack. Health 20, hunger 20, 128 days since sleep. No word from Billy; holding still.
 - 00:31 say: {"text":"Morning, Billy. Wesley here at 415,107,-1047, health 20, hunger 20. I have no verified west route to share. Holding in sight, no walk."}
 - 00:37 say: {"text":"Wesley here, at 415,107,-1047 with Jason. Daylight, health 20, hunger 20. Holding still until someone names a route."}
 - 00:41 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Dusk. Holding in sight of Worf and Jason; no walk in the dark."}
@@ -134,3 +135,5 @@
 - 04:42 act: {"actions":[{"do":"note","text":"Day 836 night. Holding still at 415,107,-1047 in sight of Worf and Zack. Health 20, hunger 20, 126 days since sleep. No walk named by Billy; no walk in the dark."}]}
 - 04:46 act: {"actions":[{"do":"note","text":"Day 837 dawn. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 127 days since sleep. Jason asks Billy for food at his bed; I need none. No wa
 - 04:51 act: {"actions":[{"do":"note","text":"Day 837 morning. Still at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20. Troi and Jason hold at their beds for Billy's word. No walk, no food for me."
+- 04:55 say: {"text":"Wesley here at dusk, health 20, hunger 20, unarmed. Holding in the row with Worf and Jason. No walk from me until Billy names one."}
+- Day 837 dusk, wake 477: wait 240s, no word from Billy, only Riker's call at 430,-1051. Still at 415,107,-1047 in Worf and Jason's sight, health 20, hunger 20, 127 days since sleep. Holding still through the night; no walk in the dark.
