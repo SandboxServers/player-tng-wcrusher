@@ -11,3 +11,6 @@
 - 21:38 say: {"text":"Morning. Wesley here, holding at the row, health 20, hunger 20. Billy, I am waiting for your word."}
 - 21:50 say: {"text":"Morning, row. Wesley here, health 20, hunger 20, holding still. No walk named. Billy, waiting for your word."}
 - Day 889 day: at 415,107,-1047, health 20, hunger 20, dim light, Zack adjacent, Jason and Worf near. Heard Billy's sleep call at dusk (no walk tonight) and Trini's follow failing when Billy went out of sight. No walk named for me. Holding still.
+- 22:28 say: {"text":"Wesley here in the row, health 20, hunger 20. Holding in sight, waiting for Billy's word."}
+- 22:32 say: {"text":"Morning, Troi. Wesley, health 20, hunger 20, no food to share. Holding here in the row. No walk until Billy names it."}
+- Day 890 day: at 415,107,-1047, health 20, hunger 20, clear, Zack adjacent, Jason near. No walk named by Billy. Holding still.
