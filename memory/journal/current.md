@@ -12,3 +12,5 @@
 - 06:33 act: {"say":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still in the row at dusk. Waiting for Billy's word.","reasoning":"Dusk, no walk named, unarmed. Hold in sight and wait for 
 - 07:13 act: {"say":"Wesley at 415,107,-1047, unarmed, health 20. Staying put in the row. Billy, I will not walk toward the pillager; name a route only if it is safe.","reasoning":"Pillager near Billy, I'm unarmed
 - 08:01 act: {"say":"Wesley: I have no potatoes, only an oak sapling. I did not offer any. Holding at 415,107,-1047 for Billy's named walk.","reasoning":"Correct a false thanks so nobody waits on food I don't have
+- 08:35 say: {"text":"Holding here in the row, in sight of Jason and Worf. Waiting for Billy's word on a walk or a bed."}
+- Day 848 waking 485: held at 415,107,-1047 in sight of Jason and Worf. Health 20, hunger 20, 138 days since sleep. No walk named by Billy; no food asked. Said I hold. Waiting.
