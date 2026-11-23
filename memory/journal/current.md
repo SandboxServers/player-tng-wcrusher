@@ -25,3 +25,5 @@
 - Day 892 day (waking 502): at 415,107,-1047, health 20, hunger 20, dim. Zack adjacent, Worf and Jason near. Worf says Bcrusher owes him 5 potatoes; I have none, and said so. No walk named for me. Holding still.
 - 23:21 say: {"text":"Wesley here, holding in the row at 415,107,-1047. No walk in the dark. Waiting for Billy's word at first light."}
 - Day 892 night (waking 504): at 415,107,-1047, health 20, hunger 20, dim. Zack adjacent, Jason and Worf near. Billy's word: no walk at dusk, potato for Beverly. No walk named for me. Holding still; said so aloud.
+- 23:26 act: {"say":"Wesley here. Zack, I do not have potatoes in my pack; I hold only an oak sapling. I will not pay what I do not have. Billy, I am holding still in the row, unarmed, hunger 20."}
+- Day 893 day (waking 505): at 415,107,-1047, health 20, hunger 20, dim, clear. Zack adjacent, Jason and Worf 3 blocks off. Billy asked me to pay Zack 3 potatoes; I hold none and said so aloud. No walk named for me. Holding still.
