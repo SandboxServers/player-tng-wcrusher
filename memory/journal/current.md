@@ -3,3 +3,4 @@
 - 05:23 act: {"actions":[{"do":"note","text":"Dusk, day 838. Holding at 415,107,-1047 with Jason and Worf in sight. No walk named by Billy. Staying still through the night."}],"say":"Wesley here, health 20, hunger
 - Dusk 838: said I hold in the row with Jason and Worf. Zack reported hunger 19, no food. No walk named. Staying put.
 - 05:24 say: {"text":"Wesley here at the row, health 20, hunger 20, unarmed. Holding at dusk; no walk tonight. Waiting for Billy's word at first light."}
+- 05:37 say: {"text":"Morning, row. Wesley here at 415,107,-1047, health 20, hunger 20, holding still. Billy, I wait for your word on any walk, bed or food."}
