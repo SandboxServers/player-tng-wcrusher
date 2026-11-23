@@ -124,3 +124,7 @@
 - 01:28 say: {"text":"Billy, thank you, but I am at hunger 20, so I need no potato. Give mine to Riker, MacDonald or Chapman. I hold at 415,107,-1047 and do not walk; Jason and Worf are in my sight."}
 - 02:09 say: {"text":"Wesley here, health 20, hunger 20. I need no potato yet. Worf, Zack, give yours to whoever is weakest. I hold still."}
 - 03:33 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding still, unarmed, no walk. Billy, I wait for your word."}
+- 04:00 act: {"actions":[{"do":"note","text":"Dusk. Holding in the row with Zack, Worf and Jason in reach. No walk named by Billy."}],"say":"Wesley here at 415,107,-1047, health 20, hunger 20. Holding in the row, 
+- 04:04 act: {"actions":[{"do":"note","text":"Day 834 morning. Held at 415,107,-1047 through the night in sight of Jason, Worf and Zack. Health 20, hunger 20. No walk named by Billy. Holding."}],"say":"Morning, ro
+- 04:12 act: {"actions":[{"do":"note","text":"Day 835 dusk. Holding still at 415,107,-1047 in sight of Jason, Worf, Zack. Thunder, no damage. No walk named. Health 20, hunger 20."}]}
+- 04:16 act: {"actions":[{"do":"note","text":"Night 835. Holding still at 415,107,-1047 with Jason in reach and Worf in sight. No walk in the dark. Health 20, hunger 20."}],"say":"Good night, row. Wesley holding s
