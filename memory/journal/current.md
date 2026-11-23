@@ -21,3 +21,5 @@
 - Day 892 morning: at 415,107,-1047, health 20, hunger 20. Billy named a daylight walk to Beverly at 431,-1039 for the potatoes; I am not named. Holding here, Zack adjacent.
 - Day 892 dusk: at 415,107,-1047, health 20, hunger 20. Billy went to his white bed at 429,107,-1036 to sleep. No walk for me. Holding still.
 - 22:45 act: {"say":"Morning, Zack. Wesley here, health 20, hunger 20. I will not walk west to 364,-1010 near the pillagers, and no walk without Billy's word. I hold in the row."}
+- 23:11 act: {"say":"Morning. Wesley here, health 20, hunger 20. I hold only an oak sapling, no potatoes, so I cannot pay Worf's 5 yet. I'm staying in the row and waiting for Billy's word."}
+- Day 892 day (waking 502): at 415,107,-1047, health 20, hunger 20, dim. Zack adjacent, Worf and Jason near. Worf says Bcrusher owes him 5 potatoes; I have none, and said so. No walk named for me. Holding still.
