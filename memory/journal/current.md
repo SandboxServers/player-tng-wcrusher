@@ -118,3 +118,4 @@
 - 21:42 say: {"text":"Wesley here, at 415,107,-1047, health 20, holding still in the row. Waiting for Billy's word on any walk or bed."}
 - 22:11 act: {"actions":[{"do":"note","text":"Day 817 morning. Holding at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, 107 days since sleep. Heard Billy's walk to Beverly; not mine. No walk name
 - 22:13 act: {"say":"Wesley here at 415,107,-1047, holding still, hunger 20. Billy, I wait for your word before any walk."}
+- 00:38 say: {"text":"Wesley here, holding in the row. Anyone know where cows graze, away from the west?"}
