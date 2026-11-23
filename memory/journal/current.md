@@ -3,3 +3,8 @@
 - Day 884 night: holding still at 415,107,-1047, health 20, hunger 20. Jason, Zack, Worf in sight. No walk in the dark. Waiting for Billy's word at first light.
 - Day 885 dusk: at 415,107,-1047, health 20, hunger 20. Worf in sight, hunger 12, no food from me. Holding still; no walk in the dark.
 - Day 885 dusk again: still at 415,107,-1047, health 20, hunger 20. Worf in sight. No walk named by Billy. Holding still.
+- Day 886 dusk: at 415,107,-1047, health 20, hunger 20. Zack adjacent, Worf 3 blocks off with stone sword. No walk named by Billy. Holding still, said so aloud.
+- Day 886 day: dawn in the row, still at 415,107,-1047, health 20, hunger 20. Zack adjacent. Night passed with no damage. Still no walk named by Billy; holding.
+- Day 887 morning: still at 415,107,-1047, health 20, hunger 20. Zack and Jason in sight. No walk named by Billy. Holding; the potato goes Leonardo to Worf, not mine.
+- Day 887 night: still at 415,107,-1047, health 20, hunger 20, Zack adjacent, Worf 4 blocks off. Holding still in the dark; no walk.
+- 21:16 say: {"text":"Holding here in the row at 415,107,-1047. No walk. Watching for Billy's word."}
