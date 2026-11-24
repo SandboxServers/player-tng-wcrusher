@@ -18,3 +18,4 @@
 - Day 960 day: still at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Worf says a cell at 414,107,-1050 is air but no open walk beyond. No route or bed named. Said aloud I hold. Days since sleep 250.
 - 21:53 say: {"text":"Wesley, holding in the row. Worf, I will walk only when you name a verified route. I have nothing to give."}
 - 22:14 say: {"text":"Morning, Troi. Wesley here at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Jason and Worf until a route or bed is named."}
+- 22:40 act: {"say":"Morning, row. Wesley here, health 20, hunger 20, unarmed, holding in sight of Worf and Jason. No route named yet, so I am holding."}
