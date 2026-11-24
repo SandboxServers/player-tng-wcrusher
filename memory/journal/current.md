@@ -3,4 +3,5 @@
 - Day 942 dusk: holding at 415,107,-1047, health 20, not enclosed, nobody in sight. Said aloud I hold through the night. No route named for me.
 - Day 943 night: holding still at 415,107,-1047, health 20, hunger 20, no bed reached, no walk in the dark. Thunder at morning, day 943. Billy holds at 416,107,-1037; Worf names no route yet.
 - Day 943 dusk: still at 415,107,-1047, health 20, hunger 20, thunder, nobody in sight. No bed reached, not enclosed. Holding still; no walk in the dark.
-- 16:25 say: {"text":"Morning. Wesley here, health 20, hunger 20, unarmed, holding in the row. Worf, I will wait for your named route."}
+- Day 949 day: wait at 415,107,-1047, health 20, hunger 20. Jason and Worf 3-4 blocks off. Billy says still no route; he holds. Said aloud I am holding in the row, will follow a named route. Days since sleep 239.
+- Day 950 day: still at 415,107,-1047, health 20, hunger 20, dim, thunder. Billy, Worf: no route named, all hold. Nothing to do but stay in sight.
