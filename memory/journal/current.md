@@ -3,3 +3,4 @@
 - Day 942 dusk: holding at 415,107,-1047, health 20, not enclosed, nobody in sight. Said aloud I hold through the night. No route named for me.
 - Day 943 night: holding still at 415,107,-1047, health 20, hunger 20, no bed reached, no walk in the dark. Thunder at morning, day 943. Billy holds at 416,107,-1037; Worf names no route yet.
 - Day 943 dusk: still at 415,107,-1047, health 20, hunger 20, thunder, nobody in sight. No bed reached, not enclosed. Holding still; no walk in the dark.
+- 16:25 say: {"text":"Morning. Wesley here, health 20, hunger 20, unarmed, holding in the row. Worf, I will wait for your named route."}
