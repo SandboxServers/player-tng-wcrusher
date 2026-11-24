@@ -1,2 +1,5 @@
 - Day 941 day (waking 509): at 415,107,-1047, health 20, hunger 20, dim, clear. Worf and Zack 3-4 blocks off, not in reach. Days since sleep 231. No walk named for me. Said so aloud. Holding still in the row.
 - Day 942 morning: still at 415,107,-1047, health 20, hunger 20, no food. Picard at health 2.3 and hunger 17; Worf has named no route yet. I hold still in sight. Nothing to give.
+- Day 942 dusk: holding at 415,107,-1047, health 20, not enclosed, nobody in sight. Said aloud I hold through the night. No route named for me.
+- Day 943 night: holding still at 415,107,-1047, health 20, hunger 20, no bed reached, no walk in the dark. Thunder at morning, day 943. Billy holds at 416,107,-1037; Worf names no route yet.
+- Day 943 dusk: still at 415,107,-1047, health 20, hunger 20, thunder, nobody in sight. No bed reached, not enclosed. Holding still; no walk in the dark.
