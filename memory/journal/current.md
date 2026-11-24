@@ -35,3 +35,14 @@
 - 01:30 act: {"say":"Picard, I see you coming. Wesley has no food and no weapon, so I cannot feed you. Stay in sight, I hold still here at 415,107,-1047."}
 - 02:02 say: {"text":"Picard, I hear you. Wesley has no food, only an oak sapling. I hold here at 415,107,-1047, unarmed."}
 - 03:43 say: {"text":"Wesley here, day 905, health 20, hunger 20, unarmed, holding still in the row. Waiting for Billy's word."}
+- 04:18 act: {"say":"Wesley here, health 20, hunger 20, unarmed, holding in the row. Billy, I wait for your named word.","intent":{"goal":"hold_in_row_for_billy","program":"rest","arguments":{},"wake_on":["directl
+- 04:22 act: {"say":"Wesley, holding still for the night at 415,107,-1047. No walk in the dark. Billy, I wait for your word at first light."}
+- 04:26 act: {"say":"Billy, Wesley here. I am unarmed and will not walk in the dark, so I stay at 415,107,-1047. Hold still. Worf, if Billy is hit again, please say where he is."}
+- 04:30 act: {"say":"Morning, row. Wesley at 415,107,-1047, health 20, hunger 20, unarmed. Billy, how are you? I still hold for your named word.","intent":{"goal":"hold_in_row_for_billy","program":"rest","argument
+- 04:34 act: {"say":"Wesley here, not Bcrusher. I hold no potatoes and no food, only an oak sapling. Billy, I am at 415,107,-1047, health 20, unarmed. Glad you are eating. I still wait for your word."}
+- 04:43 act: {"say":"Wesley holding still at 415,107,-1047 through the night. Unarmed, no walk in the dark. Billy, Leonardo, stay near Worf and keep low."}
+- 04:47 act: {"say":"Wesley here at 415,107,-1047. I hold no potatoes, only a sapling. I will not join the walk to 463,107,-1073, since Billy has not named it to me. I hold here, unarmed, for Billy's word."}
+- 05:15 act: {"say":"Worf, Wesley here at 415,107,-1047, unarmed, no food. I will not walk to the cows at 339,-979. That is west, past the pillagers at 370-380, and Billy has not named it for me. I hold here."}
+- 05:19 say: {"text":"Wesley here, health 20, hunger 20, no food, holding at 415,107,-1047. Troi, I am holding too. I will walk only when Billy names it."}
+- 05:51 say: {"text":"Wesley here, health 20, unarmed, holding at 415,107,-1047. Pillagers are out to the east and west. I stay still here and will not move unless Billy names it."}
+- 13:29 say: {"text":"Wesley here, morning day 935, health 20, hunger 20, no food, unarmed. Holding in sight of the row. I will not walk without Worf's or Billy's named route."}
