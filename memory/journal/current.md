@@ -27,3 +27,10 @@
 - Day 892 night (waking 504): at 415,107,-1047, health 20, hunger 20, dim. Zack adjacent, Jason and Worf near. Billy's word: no walk at dusk, potato for Beverly. No walk named for me. Holding still; said so aloud.
 - 23:26 act: {"say":"Wesley here. Zack, I do not have potatoes in my pack; I hold only an oak sapling. I will not pay what I do not have. Billy, I am holding still in the row, unarmed, hunger 20."}
 - Day 893 day (waking 505): at 415,107,-1047, health 20, hunger 20, dim, clear. Zack adjacent, Jason and Worf 3 blocks off. Billy asked me to pay Zack 3 potatoes; I hold none and said so aloud. No walk named for me. Holding still.
+- 23:30 act: {"say":"Zack, I am in reach of you. My pack shows only an oak sapling, no potatoes, so I cannot give you the 3 I owed. I am sorry for the mix-up. I will hold here and wait for Billy's word."}
+- 00:07 act: {"say":"Morning, Troi. Wesley here at the row, health 20, hunger 20, unarmed and holding no food. I hold for Billy's word."}
+- 00:31 act: {"say":"Morning, Troi. Wesley, health 20, hunger 20, no food, unarmed. Holding still in sight of Worf and Jason for Billy's word."}
+- 00:51 act: {"say":"Billy, Wesley here at 415,107,-1047, in your sight. Unarmed, no food, health 20, holding still. Name a route and I follow it in daylight."}
+- 01:15 act: {"say":"Wesley at 415,107,-1047, unarmed, health 20. Pillager fire is near Jason. I hold still here and will not walk into it."}
+- 01:30 act: {"say":"Picard, I see you coming. Wesley has no food and no weapon, so I cannot feed you. Stay in sight, I hold still here at 415,107,-1047."}
+- 02:02 say: {"text":"Picard, I hear you. Wesley has no food, only an oak sapling. I hold here at 415,107,-1047, unarmed."}
