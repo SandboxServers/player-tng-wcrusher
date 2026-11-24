@@ -1,8 +1,12 @@
-- Day 941 day (waking 509): at 415,107,-1047, health 20, hunger 20, dim, clear. Worf and Zack 3-4 blocks off, not in reach. Days since sleep 231. No walk named for me. Said so aloud. Holding still in the row.
-- Day 942 morning: still at 415,107,-1047, health 20, hunger 20, no food. Picard at health 2.3 and hunger 17; Worf has named no route yet. I hold still in sight. Nothing to give.
-- Day 942 dusk: holding at 415,107,-1047, health 20, not enclosed, nobody in sight. Said aloud I hold through the night. No route named for me.
-- Day 943 night: holding still at 415,107,-1047, health 20, hunger 20, no bed reached, no walk in the dark. Thunder at morning, day 943. Billy holds at 416,107,-1037; Worf names no route yet.
-- Day 943 dusk: still at 415,107,-1047, health 20, hunger 20, thunder, nobody in sight. No bed reached, not enclosed. Holding still; no walk in the dark.
-- Day 949 day: wait at 415,107,-1047, health 20, hunger 20. Jason and Worf 3-4 blocks off. Billy says still no route; he holds. Said aloud I am holding in the row, will follow a named route. Days since sleep 239.
-- Day 950 day: still at 415,107,-1047, health 20, hunger 20, dim, thunder. Billy, Worf: no route named, all hold. Nothing to do but stay in sight.
-- 18:37 say: {"text":"Wesley, still at 415,107,-1047, health 20, hunger 20. Holding in sight of Jason and Worf. Waiting for a named daylight route."}
+- Day 951 dusk (waking 513): at 415,107,-1047, health 20, hunger 20, dim, clear. Jason and Worf 3-4 blocks off. Days since sleep 241. No walk or bed named. Said aloud I hold in the row. Nothing to give.
+- Day 951 morning: still at 415,107,-1047, health 20, hunger 20. Billy holds, no route, no food. Holding still in the row.
+- Day 951 night: still at 415,107,-1047, health 20, hunger 20, not enclosed. Beds at 415,107 refused Billy and Zack tonight. No walk in the dark.
+- Day 952 morning: still at 415,107,-1047, health 20, hunger 20. Worf, Lewis, Troi hold; no route named, no food. Holding.
+- Day 952 dusk: still at 415,107,-1047, health 20, hunger 20. Worf in sight. Holding through the night. Days since sleep 242.
+- Day 953 dusk: still at 415,107,-1047, health 20, hunger 20, thunder. Billy at 416,107,-1037, no route. Worf in sight, planks and glass only, no open cell. Holding. Days since sleep 243.
+- Day 953 night: still at 415,107,-1047, health 20, hunger 20. Worf in sight, Zack trying bed 416,107,-1050 with hunger 16. No walk in the dark. Holding. Days since sleep 243.
+- Day 954 morning: still at 415,107,-1047, health 20, hunger 20. Worf at hunger 10, Zack 16, Jason in sight; no food on me, no route named. Holding. Days since sleep 244.
+- Day 955 night: still at 415,107,-1047, health 20, hunger 20, not enclosed. Troi said goodnight, no food, greets at first light. No bed named for me, so no sleep. Holding. Days since sleep 245.
+- Day 955 dusk: still at 415,107,-1047, health 20, hunger 20, thunder. Billy sees only planks, no route. Zack hunger 16. Said aloud I hold until named. Holding through the night.
+- Day 956 morning: still at 415,107,-1047, health 20, hunger 20, not enclosed. Worf and Billy see only planks, no open cell, no route named. Holding. Days since sleep 246.
+- 20:14 act: {"say":"Wesley here at 415,107,-1047. Health 20, hunger 20, no food, holding still. Billy, I will hold until you name a route or a bed."}
