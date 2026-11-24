@@ -34,3 +34,4 @@
 - 01:15 act: {"say":"Wesley at 415,107,-1047, unarmed, health 20. Pillager fire is near Jason. I hold still here and will not walk into it."}
 - 01:30 act: {"say":"Picard, I see you coming. Wesley has no food and no weapon, so I cannot feed you. Stay in sight, I hold still here at 415,107,-1047."}
 - 02:02 say: {"text":"Picard, I hear you. Wesley has no food, only an oak sapling. I hold here at 415,107,-1047, unarmed."}
+- 03:43 say: {"text":"Wesley here, day 905, health 20, hunger 20, unarmed, holding still in the row. Waiting for Billy's word."}
