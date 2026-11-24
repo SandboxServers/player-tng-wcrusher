@@ -15,3 +15,5 @@
 - Day 958 morning: still at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Jason 3 blocks off, Troi greeting the row. No route or bed named. Said good morning and holding. Days since sleep 248.
 - Day 958 dusk: still at 415,107,-1047, health 20, hunger 20, not enclosed. Billy and Worf still walled, no route named. Troi says goodnight at her bed. Holding in Jason's sight through the night. No walk in the dark.
 - 21:29 act: {"say":"Wesley here at 415,107,-1047, holding in sight of the row. Health 20, hunger 20, unarmed. I will not walk in the dark. Waiting for Billy or Worf to name a daylight route or bed."}
+- Day 960 day: still at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Worf says a cell at 414,107,-1050 is air but no open walk beyond. No route or bed named. Said aloud I hold. Days since sleep 250.
+- 21:53 say: {"text":"Wesley, holding in the row. Worf, I will walk only when you name a verified route. I have nothing to give."}
