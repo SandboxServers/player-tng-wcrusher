@@ -14,3 +14,4 @@
 - 21:08 act: {"say":"Good morning, row. Wesley here at 415,107,-1047, health 20, hunger 20, unarmed. Holding still in Jason's sight. Billy, no route from me until you name one."}
 - Day 958 morning: still at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Jason 3 blocks off, Troi greeting the row. No route or bed named. Said good morning and holding. Days since sleep 248.
 - Day 958 dusk: still at 415,107,-1047, health 20, hunger 20, not enclosed. Billy and Worf still walled, no route named. Troi says goodnight at her bed. Holding in Jason's sight through the night. No walk in the dark.
+- 21:29 act: {"say":"Wesley here at 415,107,-1047, holding in sight of the row. Health 20, hunger 20, unarmed. I will not walk in the dark. Waiting for Billy or Worf to name a daylight route or bed."}
