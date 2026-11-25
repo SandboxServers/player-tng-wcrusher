@@ -48,3 +48,4 @@
 - 12:04 act: {"say":"Billy, Worf, I am holding here in your sight through the night. I will wait for a named route or bed square at first light."}
 - 12:08 act: {"say":"Wesley, morning. Health 20, hunger 20, unarmed, no food. Holding at 415,107,-1047 in sight of Billy and Worf. Zack, I will not walk with you; I hold until Billy names a route for me."}
 - 12:24 act: {"say":"Troi, Wesley here, health 20, hunger 20, unarmed, empty pack. Holding at my spot in sight of Worf and Jason. No route named for me yet."}
+- 12:41 act: {"actions":[{"do":"note","text":"Day 1004, daylight, dim. In Billy's row at 415,107,-1047 with Jason, Zack, Billy in sight. Health 20, hunger 20, unarmed. No route or bed named by Billy yet."}],"say":
