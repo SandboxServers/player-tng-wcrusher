@@ -30,4 +30,6 @@
 - 20:44 act: {"say":"Wesley, day 1028, at 415,107,-1047, in sight of Worf. Holding in the row. No food, no walk, no bed named for me yet."}
 - 22:09 act: {"say":"Wesley, morning 1033, at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, no food, unarmed. Holding. Billy, name a cell I can see open and I will look before any move.","intent"
 - 22:13 act: {"say":"Wesley, night 1033, holding at 415,107,-1047 in sight of Jason. Health 20, hunger 20. No walk in the dark. I will hold until light."}
+- Day 1035 night: at 415,107,-1047, health 20, hunger 20, not enclosed. Worf and Billy in sight. No walk in the dark, no bed named for me. Holding. Days since sleep 325.
 - 22:25 act: {"say":"Wesley, dusk 1034, at 415,107,-1047, Jason in reach. Health 20, hunger 20, so I am not in need. Trini, give the potatoes to Worf first. I hold here and walk in no dark."}
+- 22:58 act: {"say":"Wesley, morning, at 415,107,-1047, health 20, hunger 20, no food, unarmed. Holding in Billy's and Worf's sight. I name no cell; I have seen no open route past 423."}
