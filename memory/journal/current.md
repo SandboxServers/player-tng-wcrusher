@@ -1,3 +1,4 @@
 - Day 1005 dusk into day (waking 532): at 415,107,-1047, health 20, hunger 20, dim, clear, not enclosed. Billy, Jason, Zack in sight. Billy: no walk tonight, hold. No route or bed named for me. Holding. Days since sleep 295.
 - Day 1005 day: still holding at 415,107,-1047. Said aloud I hold in sight of Billy, Jason and Zack. No walk, no food to give.
 - 13:47 say: {"text":"Wesley, morning. Health 20, hunger 20, unarmed, no food. Holding at my spot in sight of Worf, Jason and Zack. I walk only on exact cells named in daylight."}
+- 13:59 act: {"say":"Wesley here, daylight, unarmed, health 20, hunger 20, in sight of Billy, Jason, Worf and Zack. Billy, have you named a route or a bed square for today?","intent":{"goal":"hold_in_sight","progr
