@@ -40,3 +40,6 @@
 - 09:23 act: {"say":"Wesley, morning. I agree with Jason: I walk only when Worf names the route with exact cells. I am unarmed and I will stay in sight until then.","actions":[]}
 - Day 995 morning: Billy proposed a daylight route east to Lewis's sword at 451,107,-1065; Jason and Zack want Worf's named route first. Worf has named none. Still at 415,107,-1047, health 20, hunger 20. Holding.
 - 09:36 say: {"text":"Wesley here, holding at the row, unarmed, empty pack. No walk until Worf names a daylight route. Billy, I will hold in your sight."}
+- 09:48 act: {"intent":{"goal":"hold_in_row_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 09:52 act: {"actions":[{"do":"note","text":"Morning day 996: holding at 415,107,-1047. Worf may check the north-west gap; I do not follow without a named route and an armed leader."}],"say":"Wesley, morning. Hol
+- 10:05 act: {"actions":[],"say":"Wesley, morning. Health 20, hunger 20, no food, unarmed. Worf, be careful; I hold here and will not follow you out."}
