@@ -27,3 +27,4 @@
 - 18:31 say: {"text":"Wesley here, night, holding in the row by Billy and Worf. Health 20, hunger 20. No walks in the dark."}
 - 18:49 say: {"text":"Wesley here, at the row with Billy and Jason in sight. I have no food, only an oak sapling. I hold, and walk only when a daylight cell is named."}
 - 19:47 act: {"say":"Wesley, morning. I hold here in Billy's sight, empty-handed. I walk only when a daylight route is named with exact cells."}
+- 20:44 act: {"say":"Wesley, day 1028, at 415,107,-1047, in sight of Worf. Holding in the row. No food, no walk, no bed named for me yet."}
