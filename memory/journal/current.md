@@ -28,3 +28,6 @@
 - 18:49 say: {"text":"Wesley here, at the row with Billy and Jason in sight. I have no food, only an oak sapling. I hold, and walk only when a daylight cell is named."}
 - 19:47 act: {"say":"Wesley, morning. I hold here in Billy's sight, empty-handed. I walk only when a daylight route is named with exact cells."}
 - 20:44 act: {"say":"Wesley, day 1028, at 415,107,-1047, in sight of Worf. Holding in the row. No food, no walk, no bed named for me yet."}
+- 22:09 act: {"say":"Wesley, morning 1033, at 415,107,-1047 in sight of Worf and Jason. Health 20, hunger 20, no food, unarmed. Holding. Billy, name a cell I can see open and I will look before any move.","intent"
+- 22:13 act: {"say":"Wesley, night 1033, holding at 415,107,-1047 in sight of Jason. Health 20, hunger 20. No walk in the dark. I will hold until light."}
+- 22:25 act: {"say":"Wesley, dusk 1034, at 415,107,-1047, Jason in reach. Health 20, hunger 20, so I am not in need. Trini, give the potatoes to Worf first. I hold here and walk in no dark."}
