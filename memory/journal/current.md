@@ -21,3 +21,6 @@
 - Day 1018 day: still at 415,107,-1047, health 20, hunger 20. No cell named past 423 by anyone; Worf hunger 8, Trini holds 2 potatoes. Nothing for me to give. Holding in sight. Days since sleep 308.
 - 17:18 say: {"text":"Wesley, day 1018, at 415,107,-1047, health 20, hunger 20. I agree to Trini's plan only as Jason and Billy set it: 428,107,-1051 named, seen, and broken in daylight by Jason. I have not seen t
 - 17:44 act: {"say":"Wesley, day 1019, at 415,107,-1047, health 20, hunger 20, no food. I have seen no open cell past 423 either, so I name none. Holding in sight of Billy, Worf and Zack. Billy, name a cell and I 
+- 17:57 act: {"say":"Wesley here, good light, at 415,107,-1047. Health 20, hunger 20, unarmed. Billy, I am holding in your sight. Why did 415,107,-1051 refuse me, and which route have you verified?","intent":{"goa
+- 18:01 act: {"say":"Thank you, Billy. I hear it: no route past 423 is verified, and the bed refused you, not me. I hold in your sight at 415,107,-1047 and walk only on a named cell."}
+- 18:21 act: {"say":"Wesley, morning, at 415,107,-1047. Health 20, hunger 20, unarmed, no food to give. Holding in sight. Jason, if you see 428,107,-1051 open in daylight, please tell us what you see."}
