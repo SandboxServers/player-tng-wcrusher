@@ -31,3 +31,11 @@
 - 07:42 act: {"say":"Wesley, dusk 989. Holding here in sight of Jason and Zack. Health 20, hunger 20, unarmed. No walk in the dark."}
 - Day 993 day (waking 525): at 415,107,-1047, health 20, hunger 20, dim, clear, not enclosed. Worf and Zack 3-4 blocks off, Laforge greeting at the row bed. No route or bed named. Days since sleep 283. Holding in sight, no walk, no say needed.
 - 07:46 act: {"say":"Wesley, morning 990. Health 20, hunger 20, unarmed, no food. Holding in sight of Jason and Zack. Worf, I will walk only on a route you name."}
+- 09:01 act: {"say":"Wesley here at 415,107,-1047, health 20, hunger 20, unarmed, no food. Holding in sight of Worf and Zack. Billy, I walk only on a route you name, and I need a bed named before I sleep.","action
+- 09:03 act: {"say":"Billy, understood: bed 415,107,-1050 is named for me. I will hold here until Worf names the route, and I will walk only in daylight.","actions":[]}
+- Day 993 day: Billy named bed 415,107,-1050 for me and said Worf names the route. Still at 415,107,-1047, health 20, hunger 20. Holding in sight of Worf and Zack; no walk yet. Days since sleep 283.
+- Day 994 dusk into night: still at 415,107,-1047, health 20, hunger 20. Troi and Laforge holding at the row. No route named, no walk in the dark. Days since sleep 284.
+- Day 994 morning: still at 415,107,-1047, health 20, hunger 20. Worf has named no route yet; Billy, Zack and Laforge hold. Holding in sight, no walk.
+- Day 994 day, later: Worf says he holds no route and no food yet. Still at 415,107,-1047, health 20, hunger 20. Holding.
+- 09:23 act: {"say":"Wesley, morning. I agree with Jason: I walk only when Worf names the route with exact cells. I am unarmed and I will stay in sight until then.","actions":[]}
+- Day 995 morning: Billy proposed a daylight route east to Lewis's sword at 451,107,-1065; Jason and Zack want Worf's named route first. Worf has named none. Still at 415,107,-1047, health 20, hunger 20. Holding.
