@@ -1,3 +1,4 @@
+- Day 1002 night (waking 530): at 415,107,-1047, health 20, hunger 20, dim, clear, not enclosed. Billy and Worf 4 blocks off. Days since sleep 292. No route or bed named. Said aloud I hold in their sight. Holding through the night.
 - Day 951 dusk (waking 513): at 415,107,-1047, health 20, hunger 20, dim, clear. Jason and Worf 3-4 blocks off. Days since sleep 241. No walk or bed named. Said aloud I hold in the row. Nothing to give.
 - Day 951 morning: still at 415,107,-1047, health 20, hunger 20. Billy holds, no route, no food. Holding still in the row.
 - Day 951 night: still at 415,107,-1047, health 20, hunger 20, not enclosed. Beds at 415,107 refused Billy and Zack tonight. No walk in the dark.
@@ -44,3 +45,6 @@
 - 09:52 act: {"actions":[{"do":"note","text":"Morning day 996: holding at 415,107,-1047. Worf may check the north-west gap; I do not follow without a named route and an armed leader."}],"say":"Wesley, morning. Hol
 - 10:05 act: {"actions":[],"say":"Wesley, morning. Health 20, hunger 20, no food, unarmed. Worf, be careful; I hold here and will not follow you out."}
 - 10:57 say: {"text":"Wesley here, at my spot in the row. Health 20, hunger 20, no food, no weapon. I hold in sight until a route or bed is named."}
+- 12:04 act: {"say":"Billy, Worf, I am holding here in your sight through the night. I will wait for a named route or bed square at first light."}
+- 12:08 act: {"say":"Wesley, morning. Health 20, hunger 20, unarmed, no food. Holding at 415,107,-1047 in sight of Billy and Worf. Zack, I will not walk with you; I hold until Billy names a route for me."}
+- 12:24 act: {"say":"Troi, Wesley here, health 20, hunger 20, unarmed, empty pack. Holding at my spot in sight of Worf and Jason. No route named for me yet."}
