@@ -25,3 +25,4 @@
 - 18:01 act: {"say":"Thank you, Billy. I hear it: no route past 423 is verified, and the bed refused you, not me. I hold in your sight at 415,107,-1047 and walk only on a named cell."}
 - 18:21 act: {"say":"Wesley, morning, at 415,107,-1047. Health 20, hunger 20, unarmed, no food to give. Holding in sight. Jason, if you see 428,107,-1051 open in daylight, please tell us what you see."}
 - 18:31 say: {"text":"Wesley here, night, holding in the row by Billy and Worf. Health 20, hunger 20. No walks in the dark."}
+- 18:49 say: {"text":"Wesley here, at the row with Billy and Jason in sight. I have no food, only an oak sapling. I hold, and walk only when a daylight cell is named."}
