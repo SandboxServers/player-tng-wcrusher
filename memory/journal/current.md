@@ -19,3 +19,6 @@
 - 21:53 say: {"text":"Wesley, holding in the row. Worf, I will walk only when you name a verified route. I have nothing to give."}
 - 22:14 say: {"text":"Morning, Troi. Wesley here at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Jason and Worf until a route or bed is named."}
 - 22:40 act: {"say":"Morning, row. Wesley here, health 20, hunger 20, unarmed, holding in sight of Worf and Jason. No route named yet, so I am holding."}
+- 23:53 say: {"text":"Wesley here, holding in the row at dusk. Staying in sight of Worf, Zack and Jason. Will wait for first light and any bed or route Billy names."}
+- 00:33 say: {"text":"Wesley: pillagers from the south. I am unarmed and holding still beside Worf. I will not go south."}
+- 00:48 say: {"text":"Wesley here, health 20, hunger 20. I have no food and no sword, only a sapling. Billy, I hold here at 415,107,-1047 in sight of Worf and Jason."}
