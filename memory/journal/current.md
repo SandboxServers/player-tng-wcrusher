@@ -39,3 +39,4 @@
 - Day 994 day, later: Worf says he holds no route and no food yet. Still at 415,107,-1047, health 20, hunger 20. Holding.
 - 09:23 act: {"say":"Wesley, morning. I agree with Jason: I walk only when Worf names the route with exact cells. I am unarmed and I will stay in sight until then.","actions":[]}
 - Day 995 morning: Billy proposed a daylight route east to Lewis's sword at 451,107,-1065; Jason and Zack want Worf's named route first. Worf has named none. Still at 415,107,-1047, health 20, hunger 20. Holding.
+- 09:36 say: {"text":"Wesley here, holding at the row, unarmed, empty pack. No walk until Worf names a daylight route. Billy, I will hold in your sight."}
