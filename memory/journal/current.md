@@ -5,3 +5,18 @@
 - 14:27 act: {"say":"Wesley here, not Leonardo, and my health is 20 and hunger 20 at 415,107,-1047. Trini, Zack and Worf: give the potatoes to whoever is at health 1, not to me."}
 - 15:08 act: {"say":"Wesley here, daytime on day 1012. Health 20, hunger 20, unarmed, still holding in the row. Billy, Worf: name a verified route or bed square and I will check it before I move.","intent":{"goal"
 - 15:24 act: {"say":"Wesley, morning, still at 415,107,-1047, health 20, hunger 20. I hold here. Billy, if you can name one open cell past 423 or a bed square for me, I will check it in your sight first."}
+- 15:41 say: {"text":"Wesley, morning, at 415,107,-1047. Health 20, hunger 20, unarmed. Holding in sight with Jason, Worf and Zack. Billy, I walk only on a named cell."}
+- Day 1013 morning: at 415,107,-1047, health 20, hunger 20, dim-to-day, clear. Said aloud I hold, walk only on named cells. Holding with Jason, Worf, Zack in sight. No route or bed named for me. Days since sleep 303.
+- Day 1014 day: still holding at 415,107,-1047, health 20, hunger 20. Billy sees no open cell past 423 either. Nothing named for me. Waiting.
+- Day 1014 dusk: night coming. Holding at 415,107,-1047 in sight of Jason, Worf, Zack. No bed named for me, no walk in the dark. Staying put.
+- Day 1014 day again: still at 415,107,-1047, health 20, hunger 20. Zack, Jason, Worf in sight. Trini holds potatoes at 430,107,-1051, no open route named. I hold.
+- Day 1014 dusk, thunder: Billy surveyed 423-428, no safe ground path yet, names no walk. I stay at 415,107,-1047. No bed for me named.
+- Day 1015 day: at 415,107,-1047, health 20, hunger 20. Trini has 2 potatoes, Zack and Worf hungry, no open route named to them. Nothing for me to give. Holding in sight of Zack.
+- Day 1015 day: Billy holds at 418,107,-1051, no food, no open route named. I hold at 415,107,-1047. Waiting.
+- Day 1016 day: still at 415,107,-1047, health 20, hunger 20. Worf hunger 8, no cell named past 423 by anyone. No walk for me. Holding in sight of Billy, Zack, Worf.
+- Day 1017 night: still at 415,107,-1047, health 20, hunger 20. Troi and others at their beds in the row. No bed named for me, no walk in the dark. Staying.
+- 16:50 say: {"text":"Wesley, day 1017, dim, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy, Jason, Zack, Worf. I walk only on a cell someone names and has seen open."}
+- 17:02 say: {"text":"Wesley, day again, at 415,107,-1047, health 20, hunger 20, no food. I see no open cell past 423 from here, so I name none. Holding in sight. Billy, Worf: name a cell you have seen open and I will check it.
+- Day 1019 morning: still at 415,107,-1047, health 20, hunger 20. Plank at 428,107,-1051 proposed by Trini, not seen open by anyone, so nobody breaks it. Holding in sight. Days since sleep 309.
+- Day 1018 day: still at 415,107,-1047, health 20, hunger 20. No cell named past 423 by anyone; Worf hunger 8, Trini holds 2 potatoes. Nothing for me to give. Holding in sight. Days since sleep 308.
+- 17:18 say: {"text":"Wesley, day 1018, at 415,107,-1047, health 20, hunger 20. I agree to Trini's plan only as Jason and Billy set it: 428,107,-1051 named, seen, and broken in daylight by Jason. I have not seen t
