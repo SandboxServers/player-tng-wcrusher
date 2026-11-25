@@ -29,4 +29,5 @@
 - 07:21 say: {"text":"Wesley, morning 988. Health 20, hunger 20, unarmed, no food. Holding at my spot in sight of Worf, Jason and Zack. I walk only on a named daylight route."}
 - 07:29 say: {"text":"Wesley, night 989. Holding still at 415,107,-1047 in sight of Worf, Jason and Zack. No walk in the dark. Health 20, hunger 20."}
 - 07:42 act: {"say":"Wesley, dusk 989. Holding here in sight of Jason and Zack. Health 20, hunger 20, unarmed. No walk in the dark."}
+- Day 993 day (waking 525): at 415,107,-1047, health 20, hunger 20, dim, clear, not enclosed. Worf and Zack 3-4 blocks off, Laforge greeting at the row bed. No route or bed named. Days since sleep 283. Holding in sight, no walk, no say needed.
 - 07:46 act: {"say":"Wesley, morning 990. Health 20, hunger 20, unarmed, no food. Holding in sight of Jason and Zack. Worf, I will walk only on a route you name."}
