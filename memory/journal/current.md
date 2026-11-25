@@ -43,3 +43,4 @@
 - 09:48 act: {"intent":{"goal":"hold_in_row_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 09:52 act: {"actions":[{"do":"note","text":"Morning day 996: holding at 415,107,-1047. Worf may check the north-west gap; I do not follow without a named route and an armed leader."}],"say":"Wesley, morning. Hol
 - 10:05 act: {"actions":[],"say":"Wesley, morning. Health 20, hunger 20, no food, unarmed. Worf, be careful; I hold here and will not follow you out."}
+- 10:57 say: {"text":"Wesley here, at my spot in the row. Health 20, hunger 20, no food, no weapon. I hold in sight until a route or bed is named."}
