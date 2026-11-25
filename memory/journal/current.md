@@ -2,3 +2,6 @@
 - Day 1005 day: still holding at 415,107,-1047. Said aloud I hold in sight of Billy, Jason and Zack. No walk, no food to give.
 - 13:47 say: {"text":"Wesley, morning. Health 20, hunger 20, unarmed, no food. Holding at my spot in sight of Worf, Jason and Zack. I walk only on exact cells named in daylight."}
 - 13:59 act: {"say":"Wesley here, daylight, unarmed, health 20, hunger 20, in sight of Billy, Jason, Worf and Zack. Billy, have you named a route or a bed square for today?","intent":{"goal":"hold_in_sight","progr
+- 14:27 act: {"say":"Wesley here, not Leonardo, and my health is 20 and hunger 20 at 415,107,-1047. Trini, Zack and Worf: give the potatoes to whoever is at health 1, not to me."}
+- 15:08 act: {"say":"Wesley here, daytime on day 1012. Health 20, hunger 20, unarmed, still holding in the row. Billy, Worf: name a verified route or bed square and I will check it before I move.","intent":{"goal"
+- 15:24 act: {"say":"Wesley, morning, still at 415,107,-1047, health 20, hunger 20. I hold here. Billy, if you can name one open cell past 423 or a bed square for me, I will check it in your sight first."}
