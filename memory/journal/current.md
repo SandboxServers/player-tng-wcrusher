@@ -26,3 +26,5 @@
 - 04:02 act: {"reasoning":"Dusk, dim, unarmed, in sight of Jason and Zack at the row. Holding still per my rules; no walk without Billy's named route.","say":"Wesley here, holding still in sight of Jason and Zack.
 - 05:23 say: {"text":"Wesley, morning 982, at the row, health 20, hunger 20, no food. Worf: I agree to one plank opened in daylight with all of us in sight. I will not break anything until Billy names it."}
 - 06:44 say: {"text":"Wesley here, health 20, hunger 20, no food, unarmed. Holding at 415,107,-1047 in your sight. I walk only on a route Worf or Billy names, and I need a bed named for me before I sleep."}
+- 07:21 say: {"text":"Wesley, morning 988. Health 20, hunger 20, unarmed, no food. Holding at my spot in sight of Worf, Jason and Zack. I walk only on a named daylight route."}
+- 07:29 say: {"text":"Wesley, night 989. Holding still at 415,107,-1047 in sight of Worf, Jason and Zack. No walk in the dark. Health 20, hunger 20."}
