@@ -28,3 +28,5 @@
 - 06:44 say: {"text":"Wesley here, health 20, hunger 20, no food, unarmed. Holding at 415,107,-1047 in your sight. I walk only on a route Worf or Billy names, and I need a bed named for me before I sleep."}
 - 07:21 say: {"text":"Wesley, morning 988. Health 20, hunger 20, unarmed, no food. Holding at my spot in sight of Worf, Jason and Zack. I walk only on a named daylight route."}
 - 07:29 say: {"text":"Wesley, night 989. Holding still at 415,107,-1047 in sight of Worf, Jason and Zack. No walk in the dark. Health 20, hunger 20."}
+- 07:42 act: {"say":"Wesley, dusk 989. Holding here in sight of Jason and Zack. Health 20, hunger 20, unarmed. No walk in the dark."}
+- 07:46 act: {"say":"Wesley, morning 990. Health 20, hunger 20, unarmed, no food. Holding in sight of Jason and Zack. Worf, I will walk only on a route you name."}
