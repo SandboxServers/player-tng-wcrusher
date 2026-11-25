@@ -22,3 +22,4 @@
 - 23:53 say: {"text":"Wesley here, holding in the row at dusk. Staying in sight of Worf, Zack and Jason. Will wait for first light and any bed or route Billy names."}
 - 00:33 say: {"text":"Wesley: pillagers from the south. I am unarmed and holding still beside Worf. I will not go south."}
 - 00:48 say: {"text":"Wesley here, health 20, hunger 20. I have no food and no sword, only a sapling. Billy, I hold here at 415,107,-1047 in sight of Worf and Jason."}
+- 03:26 say: {"text":"Wesley here, health 20, hunger 20, unarmed, holding still in the row. No food to give. Billy, I will wait for a named daylight route or bed."}
