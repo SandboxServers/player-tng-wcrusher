@@ -122,3 +122,4 @@
 - 21:48 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}],"say":"Wesley, dusk 1104. Going the two blocks to Billy's bed, 415,107,-1051, to sleep there in sight of the row."}
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}]}
 - 22:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 22:30 act: {"say":"Dusk, I'm holding at my bed in the row with Worf and Zack close. I'll stay put until night.","intent":{"goal":"hold_row_until_night","program":"rest","arguments":{},"wake_on":["directly_addres
