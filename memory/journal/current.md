@@ -43,3 +43,4 @@
 - 01:37 act: {"actions":[],"say":"Wesley, day 1043, at 415,107,-1047, health 20, hunger 20, unarmed, one oak sapling, no food. Holding in sight of Billy and Jason. I walk only on a cell two of you name as open."}
 - 01:49 say: {"text":"Wesley, dusk 1044, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy and Jason. No walk in the dark."}
 - 01:58 act: {"say":"Wesley here, holding at 415,107,-1047 in sight of Billy and Jason. Health 20, hunger 20. No walk until Billy names one."}
+- 03:12 say: {"text":"Wesley, daylight 1048, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Jason. I see no open cell past 423 either, so I walk nowhere."}
