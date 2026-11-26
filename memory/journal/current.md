@@ -77,3 +77,6 @@
 - 13:38 act: {"say":"Wesley, day 1079. Health 20, hunger 20, no food, unarmed. Holding in sight at 415,107,-1047. No walk until Billy names a route."}
 - 14:15 say: {"text":"Wesley here at 415,107,-1047, holding in sight of Worf, Zack and Jason through the night. No walk, no food needed yet."}
 - 14:19 say: {"text":"Morning, row. Wesley at 415,107,-1047, health 20, hunger 20, unarmed. No walk until a route is named. Holding in sight."}
+- 14:52 act: {"say":"Morning, Zack. I am Wesley, unarmed, holding my sapling. Where do you get your planks, and where do the cows graze?"}
+- 14:56 act: {"say":"Wesley, night 1083, holding at 415,107,-1047, health 20, hunger 20. Zack has no cows to show me. No walk in the dark, I hold in your sight."}
+- 15:00 act: {"say":"Wesley here, morning 1084, health 20, hunger 20, no food, unarmed. Thank you, Troi. I hold at 415,107,-1047 and name no cell until I have seen one open myself."}
