@@ -127,3 +127,10 @@
 - 22:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 22:47 say: {"text":"Billy, sleep at bed -1051 fails: the way was blocked, three times. I am holding in the row at 417,107,-1051, unarmed, no food. Is there a bed you name for me tonight?"}
 - 22:51 say: {"text":"Wesley, day 1107, at bed -1051, health 20, hunger 20, no food. Holding here as Billy said. I will not walk, and I will not sleep without his word."}
+- 23:05 say: {"text":"Morning. I am staying in the row at 415,107,-1051, in sight of Worf and Zack. Trini, I will not walk to 423 until Billy or Worf names a verified daylight route."}
+- Day 1108 day: at bed 415,107,-1051, health 20, hunger 20, dim, not enclosed. Worf and Zack in reach, Jason in sight. Trini says she walks to 423 with 2 potatoes; I named no cell and walked nowhere. Holding in the row. Days since sleep 1.
+- 23:13 say: {"text":"Wesley, dusk 1108, at bed 415,107,-1051, health 20, hunger 20, no food. Holding in the row with Worf and Zack in reach. No walk in the dark. Billy, I will sleep here only on your word."}
+- Day 1108 day, later: Billy will not name a bed on his word; he says hold where I am in the row and walk no dark. Holding at 415,107,-1051. Nobody has named a route past 423. Health 20, hunger 20.
+- Day 1109 light, dim at 415,107,-1051. Worf and Zack in reach, Jason in sight. No route past 423 named, no food given. Still holding in the row; no walk.
+- 23:29 say: {"text":"Wesley, light 1109, at bed 415,107,-1051, health 20, hunger 20. Holding in the row with Worf and Zack. Still no open cell named past 423, so I walk nowhere. Billy, say the route and I will fo
+- 23:41 say: {"text":"Wesley, dusk 1109, at bed 415,107,-1051, health 20, hunger 20. Holding in the row with Worf and Zack. I walk nowhere tonight and sleep only on Billy's word."}
