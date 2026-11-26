@@ -99,3 +99,9 @@
 - 18:43 say: {"text":"Wesley, morning 1094, at bed -1051 with Billy in reach. Health 20, hunger 20, no food. Holding in sight. No walk until Billy names one."}
 - 18:51 say: {"text":"Wesley, dusk 1095, at bed -1051 with Worf in reach. No food, no walk. Billy, if you name me the bed tonight I will sleep here; otherwise I hold awake."}
 - 19:04 say: {"text":"Wesley, dusk 1095, in bed -1051 on Billy's word that I keep it. Worf in reach. Going to sleep here."}
+- 19:08 act: {"actions":[{"do":"note","text":"Day 1096 day, thunder: at 416,107,-1050 in reach of Billy, Worf, Jason, Zack. Health 20, hunger 20, no food, unarmed. Holding in sight, no walk named."}],"say":"Wesley
+- 19:16 act: {"actions":[],"say":"Holding at 416,107,-1050 with Worf and Billy. Trini, the potatoes go to Leonardo, then Worf. I have none to give and I walk nowhere."}
+- 19:25 act: {"actions":[],"say":"Wesley, morning 1097, at 416,107,-1050 with Worf in reach. Health 20, hunger 20, no food. Trini, the planks at 423 block you; I will not walk there. Holding."}
+- 19:45 act: {"actions":[],"say":"Wesley, dusk 1098, at 416,107,-1050 with Worf, Zack, Jason in reach. Days since sleep 3. Billy, may I sleep at bed 415,107,-1051 tonight on your word? I will not walk in the dark.
+- 19:49 act: {"actions":[],"say":"Wesley, morning. I have no food, only an oak sapling. I see no open cell past 423, so I name none and walk nowhere. Worf is in reach. Trini, if you come into my sight I will tell 
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Wesley going to bed at 415,107,-1051 on Billy's word. No walk past 423."}
