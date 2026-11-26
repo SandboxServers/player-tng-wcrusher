@@ -90,3 +90,6 @@
 - 17:30 say: {"text":"Wesley, night 1091. Thank you Billy and Jason. My rule is no walking in the dark, so I hold here at 418,107,-1051 until light, then walk to bed 415,107,-1051 in your sight if you still name i
 - 17:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Wesley, morning 1091, walking the three blocks to bed 415,107,-1051 in Jason's and Billy's sight. No other walk."}
 - 17:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Wesley, night 1091, in bed 415,107,-1051 on Jason's word, Worf in sight. Health 20, hunger 20. Going to sleep here."}
+- 17:43 say: {"text":"Wesley here, at bed 415,107,-1051, health 20, hunger 20. Holding in Billy's sight. No walk until Billy names one."}
+- 17:47 say: {"text":"Morning. Holding in Billy's sight at the row. I have no food and no weapon. I will walk only when Billy names a verified daylight route."}
+- 18:00 say: {"text":"Wesley, daylight, at bed 415,107,-1051, health 20, hunger 20. I can read no clear cell east past 423 either, so I hold in Billy's sight."}
