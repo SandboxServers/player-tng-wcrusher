@@ -84,3 +84,4 @@
 - 16:54 act: {"say":"Wesley, morning 1089, at 415,107,-1047. Unarmed, health 20, hunger 20, no food. Billy, you slept and your bed held. Could you name a bed square for me to use tonight? I name no walk until you 
 - 16:58 act: {"say":"Wesley, dusk 1089. Thank you Billy, Jason. I will walk to 415,107,-1051 now, in sight of you, on your word. I will sleep there only if Jason has stepped off.","actions":[{"do":"goto","target":
 - 17:02 act: {"say":"Wesley, night 1089, going to bed at 415,107,-1051, Jason and Billy in sight. No walk from me.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 17:07 act: {"actions":[{"do":"note","text":"Day 1090 morning: at 415,107,-1051 in sight of Billy, Jason, Worf. Health 20, hunger 20, unarmed, no food. No walk or bed named for me. Holding."}],"say":"Wesley, morn
