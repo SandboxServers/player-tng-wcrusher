@@ -69,3 +69,4 @@
 - 11:25 say: {"text":"Wesley, morning. Holding at 415,107,-1047, health 20, hunger 20. I have no food, only a sapling. Laforge, I hear you. No walk from me without a named cell."}
 - 12:06 say: {"text":"Holding here in the row for the night, in sight of Jason and Worf. No walk until Billy names a daylight route."}
 - 12:31 act: {"say":"Wesley, day 1076, health 20, hunger 20, unarmed, no food. Holding with Jason, Worf and Zack in sight. No walk until Billy names a checked daylight cell."}
+- 12:48 act: {"intent":{"goal":"hold_in_sight_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation
