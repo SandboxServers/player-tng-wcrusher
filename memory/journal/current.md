@@ -65,3 +65,4 @@
 - Day 1070 night: at 415,107,-1047, health 20, hunger 20. Jason and Worf in sight, Billy and Jason going to bed at 415-416,107,-1050. No bed named for me, no walk in the dark. Holding.
 - Day 1070 morning: Jason, Billy, Trini, Zack still reading no open cell past 423. Nothing named for me. Holding at 415,107,-1047, health 20, hunger 20.
 - Day 1071 morning: Troi, Worf (hunger 6), Jason report no open cell past 423. Nothing named for me. Holding in Jason's and Worf's sight. Days since sleep 361.
+- 11:00 say: {"text":"Wesley, morning. Health 20, hunger 20, holding here in sight of Worf. No walk from me. I will go only where Billy or Worf names an exact cell that two readers check."}
