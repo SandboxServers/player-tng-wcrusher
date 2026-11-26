@@ -110,3 +110,15 @@
 - 20:02 act: {"say":"Wesley here, daylight, at the row with no food. I name no open cell past 423, and I will hold in sight until Billy names a route.","intent":{"goal":"hold_in_row","program":"rest","arguments":{
 - 20:03 say: {"text":"Morning. I'm holding here in the row, in sight of Billy, Zack, Jason and Worf. Billy, is there a daylight route you've verified past 423?"}
 - Day 1099 morning: at 416,107,-1050 in the row, health 20, hunger 20, no food. Billy and Jason both report no verified route past 423; I walk nowhere. Holding in sight. Days since sleep 1.
+- 20:13 act: {"intent":{"goal":"hold_in_row_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 20:17 say: {"text":"Wesley, daylight 1099, at 416,107,-1050, health 20, hunger 20, no food. Holding in the row. I walk only on a named cell."}
+- 20:25 say: {"text":"Wesley, dusk 1100, at 416,107,-1050 in the row. Health 20, hunger 20, no food. Billy, may I sleep at bed 415,107,-1051 tonight on your word? I walk nowhere in the dark."}
+- 20:31 say: {"text":"Wesley, morning 1100, at 416,107,-1050, health 20, hunger 20. Worf, I hear you are hungry; Trini, the potatoes go to Worf first. I will take bed -1051 at dusk on Billy's word and walk nowhere
+- 20:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Wesley at dusk 1100, walking one block to the bed at 415,107,-1051 on Billy's word, in sight of the row. Nobody wa
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Wesley at dusk 1101, going to the bed at 415,107,-1051 on Billy's standing word, in the row. Nobody walks past 423
+- 21:08 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 1102, in the bed at 415,107,-1051. Holding in the row, no walks."}
+- 21:08 say: {"text":"Wesley, night 1102, at 418,107,-1051. The sleep failed: the way was blocked. I walk nowhere in the dark, so I hold here until light."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}],"say":"Wesley, light. Walking the three blocks to the bed Billy named, 415,107,-1051, in sight of the row. Holding there until dusk."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}],"say":"Wesley, dusk 1104. Going the two blocks to Billy's bed, 415,107,-1051, to sleep there in sight of the row."}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}]}
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
