@@ -106,3 +106,5 @@
 - 19:49 act: {"actions":[],"say":"Wesley, morning. I have no food, only an oak sapling. I see no open cell past 423, so I name none and walk nowhere. Worf is in reach. Trini, if you come into my sight I will tell 
 - 19:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Wesley going to bed at 415,107,-1051 on Billy's word. No walk past 423."}
 - 19:58 act: {"say":"Night, I'm at bed 415,107,-1051 with Worf and Zack close. Trying to sleep here.","actions":[{"do":"sleep"}]}
+- Day 1098 daylight waking (cycle): at 416,107,-1050 in sight of Billy, Worf, Zack, Jason. Health 20, hunger 20, no food, holding an oak sapling. Named no cell past 423, walk nowhere. Holding in the row. Days since sleep 0.
+- 20:02 act: {"say":"Wesley here, daylight, at the row with no food. I name no open cell past 423, and I will hold in sight until Billy names a route.","intent":{"goal":"hold_in_row","program":"rest","arguments":{
