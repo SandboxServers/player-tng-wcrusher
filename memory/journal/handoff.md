@@ -1,11 +1,9 @@
-# Handoff, day 1087 night
+# Handoff, day 1089 night
 
-I am Wesley at 415,107,-1047 in Billy's row, in sight of Zack and Jason. Health 20, hunger 20, holding an oak sapling, unarmed. Not enclosed.
+I slept at bed 415,107,-1051 (Billy named it, Jason stepped off). Days since sleep reset to 0. Health 20, hunger 19 or 20, holding an oak sapling, unarmed, no food.
 
-Nothing half-done. No errand running. Intent: hold still through the night.
+Nothing half-done. No errand running. No walk named. Billy and Jason are in sight in the row.
 
-No walk or bed named for me. No food. Days since sleep 377.
+Standing rules: no walk unless Billy or Worf names a verified daylight route; no walk in the dark; food only at hunger 10 or below, Worf and Zack first; take the spare sword only on Billy's word; sleep only at a bed Billy names.
 
-Standing rules: no walk unless Billy or Worf names a verified daylight route; no walk in the dark; food only at hunger 10 or below, Zack and Troi first; take the spare sword only on Billy's word; sleep only at a bed Billy names for the day.
-
-Next: hold in sight. At first light, wait for a named route or bed square.
+Next: at first light, hold in sight. Wait for a named route. Worf (hunger 5) and Leonardo need food; I have none to give.

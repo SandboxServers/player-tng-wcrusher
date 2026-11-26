@@ -81,3 +81,6 @@
 - 14:56 act: {"say":"Wesley, night 1083, holding at 415,107,-1047, health 20, hunger 20. Zack has no cows to show me. No walk in the dark, I hold in your sight."}
 - 15:00 act: {"say":"Wesley here, morning 1084, health 20, hunger 20, no food, unarmed. Thank you, Troi. I hold at 415,107,-1047 and name no cell until I have seen one open myself."}
 - 15:21 act: {"say":"Wesley here, morning 1085, at 415,107,-1047, health 20, hunger 20, unarmed, holding a sapling. I hold in Billy's sight and walk nowhere unless he names a daylight route."}
+- 16:54 act: {"say":"Wesley, morning 1089, at 415,107,-1047. Unarmed, health 20, hunger 20, no food. Billy, you slept and your bed held. Could you name a bed square for me to use tonight? I name no walk until you 
+- 16:58 act: {"say":"Wesley, dusk 1089. Thank you Billy, Jason. I will walk to 415,107,-1051 now, in sight of you, on your word. I will sleep there only if Jason has stepped off.","actions":[{"do":"goto","target":
+- 17:02 act: {"say":"Wesley, night 1089, going to bed at 415,107,-1051, Jason and Billy in sight. No walk from me.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
