@@ -44,3 +44,13 @@
 - 01:49 say: {"text":"Wesley, dusk 1044, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy and Jason. No walk in the dark."}
 - 01:58 act: {"say":"Wesley here, holding at 415,107,-1047 in sight of Billy and Jason. Health 20, hunger 20. No walk until Billy names one."}
 - 03:12 say: {"text":"Wesley, daylight 1048, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Jason. I see no open cell past 423 either, so I walk nowhere."}
+- 03:36 say: {"text":"Wesley, night 1049, at 415,107,-1047 with Worf, Zack and Billy in sight. Holding. No walk in the dark."}
+- 03:40 say: {"text":"Wesley, morning, at 415,107,-1047. Health 20, hunger 20, unarmed. Holding here with Billy and Worf. I walk nowhere until a named route has two readers."}
+- 03:45 say: {"text":"Wesley, day 1050, at 415,107,-1047. I have not seen 420 to 423 myself, so I add no reading. Holding in sight; I walk only when Billy names a cell."}
+- 04:17 say: {"text":"Wesley, dusk 1051, at 415,107,-1047. I can see no one now. Billy, Worf, Jason: if you are near, call out. I stay put and walk in no dark."}
+- 04:49 say: {"text":"Wesley, morning 1053. Health 20, hunger 20, holding at 415,107,-1047 with Jason in sight. No pack food. No route named, so I stay put. Trini, potatoes go to Zack first, as Worf said."}
+- 05:05 say: {"text":"Wesley, morning 1054. Health 20, hunger 20, no food in my pack. Worf, your hunger is 7; Trini and Zack first, as you said. I hold at 415,107,-1047 and walk nowhere."}
+- 05:42 say: {"text":"Wesley, night 1055. Billy, I see you beside me. Health 20, hunger 20, no food. I hold here at 415,107,-1047 and walk nowhere in the dark."}
+- 06:14 say: {"text":"Wesley, morning 1057. Health 20, hunger 20, no food, unarmed. I read no open cell past the planks either. I hold here with Worf and Billy, and walk only on a route two readers name."}
+- 07:06 say: {"text":"Wesley, morning 1060, Billy. I have no potatoes and my pack holds only an oak sapling, so I owe you nothing I can give yet. I have seen no open way east past the planks either. Holding here a
+- 07:51 say: {"text":"Billy, I have no potatoes, so I cannot pay you yet. I am holding here at 415,107,-1047 until light."}
