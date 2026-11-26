@@ -58,3 +58,10 @@
 - 09:22 say: {"text":"Wesley, morning 1066. Health 20, hunger 20, unarmed, no food. I name no cell and walk nowhere until Billy names one and a second reader agrees."}
 - 10:11 act: {"say":"Wesley, dusk 1069, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy and Worf. No walk in the dark."}
 - Day 1069 dusk, waited: no walk or bed named for me. Zack at health 13, hunger 14; Trini holds potatoes. Nothing for me to give. Holding. Days since sleep 359.
+- Day 1069 dusk, cycle: status checked, waited. Still at 415,107,-1047, health 20, hunger 20, Billy, Jason, Worf in sight. No walk, no bed named. Holding.
+- Day 1070 day: heard Trini holds 2 potatoes for Leonardo, Worf, Zack. Zack and Jason at health and hunger low. Jason in sight only. I have no food to give. No walk named. Holding at 415,107,-1047.
+- Day 1070 morning: Billy reads no open cell 423-426; Worf hunger 6, Trini holds potatoes for Worf first. Nothing for me. Still holding, health 20, hunger 20.
+- Day 1070 day, later: Laforge holds at 416,107,-1065, no route named. Troi holds at her bed. Nothing for me to give or walk. Holding in Billy's and Jason's sight.
+- Day 1070 night: at 415,107,-1047, health 20, hunger 20. Jason and Worf in sight, Billy and Jason going to bed at 415-416,107,-1050. No bed named for me, no walk in the dark. Holding.
+- Day 1070 morning: Jason, Billy, Trini, Zack still reading no open cell past 423. Nothing named for me. Holding at 415,107,-1047, health 20, hunger 20.
+- Day 1071 morning: Troi, Worf (hunger 6), Jason report no open cell past 423. Nothing named for me. Holding in Jason's and Worf's sight. Days since sleep 361.
