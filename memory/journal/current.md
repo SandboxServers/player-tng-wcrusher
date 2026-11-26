@@ -95,3 +95,7 @@
 - 18:00 say: {"text":"Wesley, daylight, at bed 415,107,-1051, health 20, hunger 20. I can read no clear cell east past 423 either, so I hold in Billy's sight."}
 - 18:08 say: {"text":"Billy, I am at the bed with you. Holding in sight. No walk until you name one."}
 - 18:24 say: {"text":"Wesley, night 1094, at bed 415,107,-1051 with Billy in reach. Billy, may I sleep here tonight on your word? I hold in your sight either way."}
+- 18:39 say: {"text":"Goodnight, row. Wesley holding at bed -1051, in sight of Billy. No walk."}
+- 18:43 say: {"text":"Wesley, morning 1094, at bed -1051 with Billy in reach. Health 20, hunger 20, no food. Holding in sight. No walk until Billy names one."}
+- 18:51 say: {"text":"Wesley, dusk 1095, at bed -1051 with Worf in reach. No food, no walk. Billy, if you name me the bed tonight I will sleep here; otherwise I hold awake."}
+- 19:04 say: {"text":"Wesley, dusk 1095, in bed -1051 on Billy's word that I keep it. Worf in reach. Going to sleep here."}
