@@ -74,3 +74,4 @@
 - 12:56 act: {"intent":{"goal":"hold_in_sight_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 12:56 say: {"text":"I am here in the row with Worf, Zack and Jason. Health 20, hunger 20. I will hold here and wait for a named route or bed."}
 - Day 1077 day: at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Worf, Zack, Jason in sight. Jason says no walk. No route or bed named for me. Holding. Days since sleep 367.
+- 13:38 act: {"say":"Wesley, day 1079. Health 20, hunger 20, no food, unarmed. Holding in sight at 415,107,-1047. No walk until Billy names a route."}
