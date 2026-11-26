@@ -86,3 +86,7 @@
 - 17:02 act: {"say":"Wesley, night 1089, going to bed at 415,107,-1051, Jason and Billy in sight. No walk from me.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
 - Night 1090: at my known bed 415,107,-1051, Billy and Worf in reach, health 20, hunger 20. No walk. Slept here (days since sleep reset).
 - 17:07 act: {"actions":[{"do":"note","text":"Day 1090 morning: at 415,107,-1051 in sight of Billy, Jason, Worf. Health 20, hunger 20, unarmed, no food. No walk or bed named for me. Holding."}],"say":"Wesley, morn
+- 17:26 say: {"text":"Wesley, dusk 1091, at 418,107,-1051, health 20, hunger 20, no food. Holding in sight of Billy, Jason, Worf. Billy, if you name a bed for tonight I will walk to it in your sight; otherwise I h
+- 17:30 say: {"text":"Wesley, night 1091. Thank you Billy and Jason. My rule is no walking in the dark, so I hold here at 418,107,-1051 until light, then walk to bed 415,107,-1051 in your sight if you still name i
+- 17:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Wesley, morning 1091, walking the three blocks to bed 415,107,-1051 in Jason's and Billy's sight. No other walk."}
+- 17:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Wesley, night 1091, in bed 415,107,-1051 on Jason's word, Worf in sight. Health 20, hunger 20. Going to sleep here."}
