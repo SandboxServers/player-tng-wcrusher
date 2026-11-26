@@ -75,3 +75,5 @@
 - 12:56 say: {"text":"I am here in the row with Worf, Zack and Jason. Health 20, hunger 20. I will hold here and wait for a named route or bed."}
 - Day 1077 day: at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Worf, Zack, Jason in sight. Jason says no walk. No route or bed named for me. Holding. Days since sleep 367.
 - 13:38 act: {"say":"Wesley, day 1079. Health 20, hunger 20, no food, unarmed. Holding in sight at 415,107,-1047. No walk until Billy names a route."}
+- 14:15 say: {"text":"Wesley here at 415,107,-1047, holding in sight of Worf, Zack and Jason through the night. No walk, no food needed yet."}
+- 14:19 say: {"text":"Morning, row. Wesley at 415,107,-1047, health 20, hunger 20, unarmed. No walk until a route is named. Holding in sight."}
