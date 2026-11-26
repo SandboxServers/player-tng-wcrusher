@@ -33,3 +33,12 @@
 - Day 1035 night: at 415,107,-1047, health 20, hunger 20, not enclosed. Worf and Billy in sight. No walk in the dark, no bed named for me. Holding. Days since sleep 325.
 - 22:25 act: {"say":"Wesley, dusk 1034, at 415,107,-1047, Jason in reach. Health 20, hunger 20, so I am not in need. Trini, give the potatoes to Worf first. I hold here and walk in no dark."}
 - 22:58 act: {"say":"Wesley, morning, at 415,107,-1047, health 20, hunger 20, no food, unarmed. Holding in Billy's and Worf's sight. I name no cell; I have seen no open route past 423."}
+- 23:31 say: {"text":"Wesley here at 415,107,-1047, health 20, hunger 20. Not in need of a potato yet; Trini, keep it for Leonardo. I hold here in sight of Jason and Worf for the night."}
+- 23:48 say: {"text":"Wesley, night 1038, holding at 415,107,-1047 in sight of Billy and Worf. Health 20, hunger 20. No walk in the dark, no bed named for me."}
+- Day 1039 (thunder, day then dusk, night): still at 415,107,-1047, health 20, hunger 20. Worf's yes on plank 420,107,-1051 still pending; Billy reads 420 open, Laforge reads planks. I dig and walk nothing. Days since sleep 329.
+- Day 1040 day: still at 415,107,-1047, health 20, hunger 20, clear. Jason and Worf in sight. Nothing named for me, no food to give. Holding. Days since sleep 330.
+- 00:44 say: {"text":"Wesley, morning, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy, Jason and Worf. No walk until two readers agree on a cell. Billy, if you name me a bed square toda
+- 01:04 say: {"text":"Wesley, dusk 1042, at 415,107,-1047, health 20, hunger 20, no food. I have seen no clear cell east past 423 either. No walk in the dark. Holding in sight of Billy, Worf and Jason."}
+- Day 1043 day: still at 415,107,-1047, health 20, hunger 20. Billy asks for an exact open cell; I have seen none past 423. Trini holds potatoes for Leonardo, then Worf, then Zack. Holding in sight. Days since sleep 333.
+- 01:37 act: {"actions":[],"say":"Wesley, day 1043, at 415,107,-1047, health 20, hunger 20, unarmed, one oak sapling, no food. Holding in sight of Billy and Jason. I walk only on a cell two of you name as open."}
+- 01:49 say: {"text":"Wesley, dusk 1044, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy and Jason. No walk in the dark."}
