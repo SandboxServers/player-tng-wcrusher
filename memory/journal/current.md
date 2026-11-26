@@ -62,6 +62,7 @@
 - Day 1070 day: heard Trini holds 2 potatoes for Leonardo, Worf, Zack. Zack and Jason at health and hunger low. Jason in sight only. I have no food to give. No walk named. Holding at 415,107,-1047.
 - Day 1070 morning: Billy reads no open cell 423-426; Worf hunger 6, Trini holds potatoes for Worf first. Nothing for me. Still holding, health 20, hunger 20.
 - Day 1070 day, later: Laforge holds at 416,107,-1065, no route named. Troi holds at her bed. Nothing for me to give or walk. Holding in Billy's and Jason's sight.
+- Day 1078 night into morning: held at 415,107,-1047 in the row, health 20, hunger 20. Worf hunger 5, Trini holds potatoes for Worf first. I have no food. No walk named for me. Holding.
 - Day 1070 night: at 415,107,-1047, health 20, hunger 20. Jason and Worf in sight, Billy and Jason going to bed at 415-416,107,-1050. No bed named for me, no walk in the dark. Holding.
 - Day 1070 morning: Jason, Billy, Trini, Zack still reading no open cell past 423. Nothing named for me. Holding at 415,107,-1047, health 20, hunger 20.
 - Day 1071 morning: Troi, Worf (hunger 6), Jason report no open cell past 423. Nothing named for me. Holding in Jason's and Worf's sight. Days since sleep 361.
@@ -71,3 +72,5 @@
 - 12:31 act: {"say":"Wesley, day 1076, health 20, hunger 20, unarmed, no food. Holding with Jason, Worf and Zack in sight. No walk until Billy names a checked daylight cell."}
 - 12:48 act: {"intent":{"goal":"hold_in_sight_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 12:56 act: {"intent":{"goal":"hold_in_sight_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 12:56 say: {"text":"I am here in the row with Worf, Zack and Jason. Health 20, hunger 20. I will hold here and wait for a named route or bed."}
+- Day 1077 day: at 415,107,-1047, health 20, hunger 20, dim, not enclosed. Worf, Zack, Jason in sight. Jason says no walk. No route or bed named for me. Holding. Days since sleep 367.
