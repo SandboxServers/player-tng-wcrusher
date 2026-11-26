@@ -56,3 +56,5 @@
 - 07:51 say: {"text":"Billy, I have no potatoes, so I cannot pay you yet. I am holding here at 415,107,-1047 until light."}
 - 09:01 say: {"text":"Dusk. I'm holding here in the row, in sight of Billy, Jason, Worf and Zack. No walk tonight."}
 - 09:22 say: {"text":"Wesley, morning 1066. Health 20, hunger 20, unarmed, no food. I name no cell and walk nowhere until Billy names one and a second reader agrees."}
+- 10:11 act: {"say":"Wesley, dusk 1069, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy and Worf. No walk in the dark."}
+- Day 1069 dusk, waited: no walk or bed named for me. Zack at health 13, hunger 14; Trini holds potatoes. Nothing for me to give. Holding. Days since sleep 359.
