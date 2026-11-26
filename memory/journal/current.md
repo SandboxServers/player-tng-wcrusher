@@ -42,3 +42,4 @@
 - Day 1043 day: still at 415,107,-1047, health 20, hunger 20. Billy asks for an exact open cell; I have seen none past 423. Trini holds potatoes for Leonardo, then Worf, then Zack. Holding in sight. Days since sleep 333.
 - 01:37 act: {"actions":[],"say":"Wesley, day 1043, at 415,107,-1047, health 20, hunger 20, unarmed, one oak sapling, no food. Holding in sight of Billy and Jason. I walk only on a cell two of you name as open."}
 - 01:49 say: {"text":"Wesley, dusk 1044, at 415,107,-1047, health 20, hunger 20, no food. Holding in sight of Billy and Jason. No walk in the dark."}
+- 01:58 act: {"say":"Wesley here, holding at 415,107,-1047 in sight of Billy and Jason. Health 20, hunger 20. No walk until Billy names one."}
