@@ -123,3 +123,7 @@
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}]}
 - 22:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
 - 22:30 act: {"say":"Dusk, I'm holding at my bed in the row with Worf and Zack close. I'll stay put until night.","intent":{"goal":"hold_row_until_night","program":"rest","arguments":{},"wake_on":["directly_addres
+- 22:47 act: {"actions":[{"do":"sleep"}]}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 22:47 say: {"text":"Billy, sleep at bed -1051 fails: the way was blocked, three times. I am holding in the row at 417,107,-1051, unarmed, no food. Is there a bed you name for me tonight?"}
+- 22:51 say: {"text":"Wesley, day 1107, at bed -1051, health 20, hunger 20, no food. Holding here as Billy said. I will not walk, and I will not sleep without his word."}
