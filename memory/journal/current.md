@@ -108,3 +108,5 @@
 - 19:58 act: {"say":"Night, I'm at bed 415,107,-1051 with Worf and Zack close. Trying to sleep here.","actions":[{"do":"sleep"}]}
 - Day 1098 daylight waking (cycle): at 416,107,-1050 in sight of Billy, Worf, Zack, Jason. Health 20, hunger 20, no food, holding an oak sapling. Named no cell past 423, walk nowhere. Holding in the row. Days since sleep 0.
 - 20:02 act: {"say":"Wesley here, daylight, at the row with no food. I name no open cell past 423, and I will hold in sight until Billy names a route.","intent":{"goal":"hold_in_row","program":"rest","arguments":{
+- 20:03 say: {"text":"Morning. I'm holding here in the row, in sight of Billy, Zack, Jason and Worf. Billy, is there a daylight route you've verified past 423?"}
+- Day 1099 morning: at 416,107,-1050 in the row, health 20, hunger 20, no food. Billy and Jason both report no verified route past 423; I walk nowhere. Holding in sight. Days since sleep 1.
