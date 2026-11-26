@@ -105,3 +105,4 @@
 - 19:45 act: {"actions":[],"say":"Wesley, dusk 1098, at 416,107,-1050 with Worf, Zack, Jason in reach. Days since sleep 3. Billy, may I sleep at bed 415,107,-1051 tonight on your word? I will not walk in the dark.
 - 19:49 act: {"actions":[],"say":"Wesley, morning. I have no food, only an oak sapling. I see no open cell past 423, so I name none and walk nowhere. Worf is in reach. Trini, if you come into my sight I will tell 
 - 19:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Wesley going to bed at 415,107,-1051 on Billy's word. No walk past 423."}
+- 19:58 act: {"say":"Night, I'm at bed 415,107,-1051 with Worf and Zack close. Trying to sleep here.","actions":[{"do":"sleep"}]}
