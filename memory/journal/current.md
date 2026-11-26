@@ -54,3 +54,5 @@
 - 06:14 say: {"text":"Wesley, morning 1057. Health 20, hunger 20, no food, unarmed. I read no open cell past the planks either. I hold here with Worf and Billy, and walk only on a route two readers name."}
 - 07:06 say: {"text":"Wesley, morning 1060, Billy. I have no potatoes and my pack holds only an oak sapling, so I owe you nothing I can give yet. I have seen no open way east past the planks either. Holding here a
 - 07:51 say: {"text":"Billy, I have no potatoes, so I cannot pay you yet. I am holding here at 415,107,-1047 until light."}
+- 09:01 say: {"text":"Dusk. I'm holding here in the row, in sight of Billy, Jason, Worf and Zack. No walk tonight."}
+- 09:22 say: {"text":"Wesley, morning 1066. Health 20, hunger 20, unarmed, no food. I name no cell and walk nowhere until Billy names one and a second reader agrees."}
