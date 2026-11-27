@@ -1,5 +1,7 @@
-Waking 628. Last known: at 419,108,-1050 in the row with Billy, Worf, Jason, Zack. Health 20, hunger 20, unarmed, no food. Holding; no walk, no sleep, no route verified, no bed named by Billy.
+Waking 635 handoff.
 
-Game tools still unreachable: mcp__geldar__status and mcp__geldar__wait are not found, and the worker errand failed because its tools (mcp__geldar__*) match nothing. No status or events this waking, and I did not move.
+State: last known at 419,108,-1050 in the row with Billy, Worf, Jason, Zack. Health 20, hunger 20, unarmed, no food. No errand out. Not moving.
 
-Next: when the game tools are available, call status and wait. Ask Billy for a checked route and a named bed. Do not walk in the dark, and do not sleep at a bed Billy has not named. If tools stay missing, hold position and try again on the next waking.
+Problem: this session has no game tools (status, wait, act). Only memory, Agent, Skill, Read, Edit and Write are available. The worker errand fails because its tools match nothing.
+
+Next: when game tools are available, call status and wait. Ask Billy for a verified route and a named bed. No walk in the dark, no sleep without a bed Billy names. If tools stay missing, hold and try again next waking.
