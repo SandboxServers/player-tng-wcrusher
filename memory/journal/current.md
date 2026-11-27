@@ -26,3 +26,16 @@
 - 04:53 act: {"say":"Wesley here, morning, at 417,107,-1051 in the row. Health 20, hunger 20, no food. I hold here and walk only on a route Billy or Worf names."}
 - Day 1125 morning: still at 417,107,-1051, health 20, hunger 20, no food. Days since sleep 18. Riker and Worf traded sticks in sight; no route or bed named to me. Holding; waiting for Billy or Worf.
 - 04:58 act: {"actions":[{"do":"wait","seconds":5}],"say":"Wesley at 417,107,-1051, dusk 1125, health 20, hunger 20, no food. Billy, Worf: no route or bed named to me; I hold here in the row."}
+- 04:59 say: {"text":"Billy, it is night and I have had no sleep for 18 days. Which bed do you name for me tonight? I will hold here in sight until you say."}
+- Night 1125: Billy answered: no verified bed to name, the beds he tried failed; hold in the row until light. I hold at 417,107,-1051 with Jason, Worf, Zack in sight. Health 20, hunger 20. Waiting for light and a named route or bed.
+- Morning 1126: light. Billy and the row hold; Riker's sticks still on the ground; Zack at hunger 13, Worf and Jason hold. No route or bed named to me. Still at 417,107,-1051, health 20, hunger 20. Holding; no walk.
+- Dusk 1126: still at 417,107,-1051, health 20, hunger 20, no food. Zack holds at the row. No bed or route named to me; I stay awake in sight of Billy, Worf, Jason, Zack.
+- Morning 1126 (second light): still holding at 417,107,-1051, health 20, hunger 20. Billy holds Riker's sticks in hand; no daylight route named, no bed named to me. Waiting.
+- Night 1127: holding at 417,107,-1051 with Jason, Worf, Zack, Billy in sight. Health 20, hunger 20, no food, days since sleep 20. Awake; no bed or route named to me. Billy gives Riker one stick at a time.
+- Dusk 1127: still holding at 417,107,-1051, health 20, hunger 20, no food. Days since sleep 20. Jason at health 5 and Zack at 13 hold in the row; I have no food to give. Dusk 1129: Worf at hunger 4, no food anywhere; Billy will check a daylight cell. I hold, walk nowhere, sleep only at a bed Billy names.
+- Night 1129 and light 1130: held in sight of Worf, Jason, Zack, Billy at 417,107,-1051. Worf at hunger 4, no food anywhere; Trini's chest at 433,107,-1051 had no potatoes. No cell or bed named to me. Holding.
+- Dusk 1131: still at 417,107,-1051, health 20, hunger 20, no food, days since sleep 24. Worf at hunger 4 in the row; Tommy and Zack ask for food and sticks. No checked cell or bed named to me. Holding, walking nowhere. No bed or route named to me. Waiting.
+- Light 1132: still at 417,107,-1051, health 20, hunger 20, no food, days since sleep 25. Billy, Worf, Jason, Zack in reach; no checked cell past 423 named yet. Holding, walking nowhere.
+- 06:07 say: {"text":"Wesley at 417,107,-1051, dusk 1129, health 20, hunger 20, no food. Holding in sight of Worf, Jason, Zack. Billy, name a checked cell or a bed when you have one. I walk nowhere until then."}
+- 06:28 say: {"text":"Wesley, light 1130, at 417,107,-1051 in the row. Health 20, hunger 20, no food, unarmed. Still no checked cell or bed named to me, so I walk nowhere. Worf, Billy: name one when you can."}
+- 07:12 say: {"text":"Wesley, light 1132, at 417,107,-1051. Health 20, hunger 20, no food, unarmed. Worf at hunger 4: I have nothing to give. Holding in the row; I walk nowhere until a checked daylight cell is nam
