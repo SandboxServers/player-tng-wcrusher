@@ -14,3 +14,4 @@
 - 09:14 say: {"text":"Billy, dusk 1138. Still no bed named for me. Is 415,107,-1051 yours to name tonight, or another? I stay in the row until you say."}
 - 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Thank you Billy. Going to bed 415,107,-1051 as you named, in sight of the row."}
 - 09:29 act: {"actions":[{"do":"sleep"}]}
+- 09:31 say: {"text":"Wesley, morning 1139, bright and clear. Holding at the row in sight of Billy, Worf, Zack and Jason. Billy, do you have a checked daylight cell or route yet? I walk nowhere until you name one.
