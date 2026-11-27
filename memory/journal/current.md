@@ -85,3 +85,6 @@ Waking 687: wait, status and act still not in my tool list; recall(summary) retu
 - 20:29 act: {"say":"Battuta, I'm sorry. I'm holding my apple for the group's call, as I promised. Spock or Troi, please call it now, since Battuta is dying."}
 - 20:33 act: {"actions":[{"do":"note","text":"Day 1172 morning. Battuta at health 0.97, hunger 17, asking for my apple. Holding apple and rotten flesh for the group's call at hunger 10 or below. Still waiting for 
 - 20:41 act: {"actions":[{"do":"note","text":"Dusk on day 1172. Not sheltered, no named bed. Holding apple and rotten flesh for the group's food call. Battuta is walling in with dirt. Asking Spock or Troi for a na
+- 21:02 act: {"say":"Wesley here. Night, I hold my apple and sword: food only at hunger 10 or below on a group call, and I am still at 17. Battuta, I stay in the ring with you, in sight. Spock, Troi: who calls the
+- 21:10 act: {"say":"Wesley, midday, hunger 17, health 16.7. Battuta, I will not walk the north-east route unless two readers name it and an armed member walks with us in sight. Troi, Spock, Worf: a named route, a
+- 21:18 act: {"say":"Wesley, dusk, alone at -1052,74,-2993, no one in sight. No named bed, so I will not sleep. Anyone armed nearby, please come to me or tell me where the group is.","actions":[]}
