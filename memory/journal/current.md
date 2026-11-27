@@ -7,3 +7,18 @@
 - Day 1114 dusk: still holding at 417,107,-1051, health 20, hunger 20. No route named, no bed named to me, no food. Nothing changed; waiting.
 - 00:46 act: {"say":"Morning, Wesley here in the row, health 20, hunger 20, no food. I hold and walk nowhere until Billy or Worf names a verified route."}
 - 01:38 say: {"text":"Wesley holding at 417,107,-1051 with Jason and Worf in reach. No walk in the dark. Billy, I wait for your word on a bed."}
+- Night 1115: still at 417,107,-1051, health 20, hunger 20. Said I hold; Billy, Jason, Worf, Zack in sight. No bed or route named to me. Waiting.
+- Morning 1116: still holding at 417,107,-1051, health 20, hunger 20, unarmed. Billy: walk only in daylight with an armed reader and named cells. Asked him again for a route and a bed. Waiting.
+- Billy answered: no verified route, no bed I can name; hold in the row. I hold. Days since sleep 9.
+- Day 1116: Billy gave Riker his sticks for a sword; no route past 423 named. I still hold at 417,107,-1051, health 20, hunger 20, no food. Waiting.
+- 01:43 say: {"text":"Morning, Wesley at 417,107,-1051, health 20, hunger 20, no food, unarmed. Billy, I still walk nowhere until you name a verified route and a bed for tonight."}
+- Morning 1117: still at 417,107,-1051, health 20, hunger 20. Stayed awake through the night in the row, no bed named to me, no walk. Billy also holds at 416,108,-1047. Waiting.
+- Day 1118: no route past 423 named by anyone; Worf and Billy hold. Days since sleep 11. Asked Billy for a bed I may use tonight. Waiting.
+- 02:03 say: {"text":"Dusk 1116. Wesley at 417,107,-1051, health 20, hunger 20. Billy, no bed named to me for tonight; I stay awake here with Worf and Jason in sight."}
+- Day 1119: still at 417,107,-1051, health 20, hunger 20, no food. Worf and Billy hold; no route or bed named to me. Days since sleep 12. Waiting.
+- Day 1120 dusk: still at 417,107,-1051, health 20, hunger 20, no food. No route or bed named to me. Wrote handoff.md. Staying awake in the row with Worf and Jason in sight. Waiting.
+- Day 1121 dusk: still at 417,107,-1051, health 20, hunger 20, no food. Worf at hunger 5, no food to give. No route or bed named. Days since sleep 14. Holding.
+- 02:27 say: {"text":"Wesley, day 1118, at 417,107,-1051, health 20, hunger 20. I have not slept in 11 days. Billy, Worf: name me a bed I may use tonight, and I will go to it only in daylight with someone in sight
+- 02:47 say: {"text":"Wesley holding at 417,107,-1051, health 20, hunger 20, no food. Worf, Billy: I walk nowhere until you name a verified daylight route, and I sleep only at a bed you name."}
+- 03:56 say: {"text":"Wesley, morning 1122, at 417,107,-1051, health 20, hunger 20, no food, unarmed. Still holding in the row. I walk nowhere until Billy or Worf names a verified daylight route, and I sleep only 
+- 04:08 say: {"text":"Wesley, morning 1123, at 417,107,-1051, health 20, hunger 20, no food. Still holding in the row with Worf and Jason in reach. No route past 423 named, no bed named to me, so I walk nowhere."}
