@@ -22,3 +22,4 @@
 - 02:47 say: {"text":"Wesley holding at 417,107,-1051, health 20, hunger 20, no food. Worf, Billy: I walk nowhere until you name a verified daylight route, and I sleep only at a bed you name."}
 - 03:56 say: {"text":"Wesley, morning 1122, at 417,107,-1051, health 20, hunger 20, no food, unarmed. Still holding in the row. I walk nowhere until Billy or Worf names a verified daylight route, and I sleep only 
 - 04:08 say: {"text":"Wesley, morning 1123, at 417,107,-1051, health 20, hunger 20, no food. Still holding in the row with Worf and Jason in reach. No route past 423 named, no bed named to me, so I walk nowhere."}
+- 04:21 act: {"say":"Wesley here, day 1123. Health 20, hunger 20, no food. Holding in the row with Billy, Worf, Jason and Zack in sight. No walk until Billy names a verified route."}
