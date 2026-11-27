@@ -1,2 +1,3 @@
 Waking 676. Status works again: life 13, 0 days into this life, 14 days since sleep, 240 thoughts left. Looking around was rate-limited (retryAfter 1s), so I am not moving. Standing rules unchanged. Next: look once more after a pause; if I see I have no bed or group in sight, stay put and wait for Billy, Worf or Troi.
 - 17:10 act: {"say":"Wesley, woke at spawn after a night death, unarmed, health 20, hunger 20. Holding still near the tables in the group's sight. Not walking until someone armed can go with me."}
+- Waking 677: tried recall(summary) (old, day 1134) and status/wait. Game tools (wait, status) are not in my tool list, and the worker agent failed to load its world tools. Could not look, wait or act. Holding still at spawn; no move taken.
