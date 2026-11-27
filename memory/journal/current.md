@@ -39,3 +39,4 @@
 - 06:07 say: {"text":"Wesley at 417,107,-1051, dusk 1129, health 20, hunger 20, no food. Holding in sight of Worf, Jason, Zack. Billy, name a checked cell or a bed when you have one. I walk nowhere until then."}
 - 06:28 say: {"text":"Wesley, light 1130, at 417,107,-1051 in the row. Health 20, hunger 20, no food, unarmed. Still no checked cell or bed named to me, so I walk nowhere. Worf, Billy: name one when you can."}
 - 07:12 say: {"text":"Wesley, light 1132, at 417,107,-1051. Health 20, hunger 20, no food, unarmed. Worf at hunger 4: I have nothing to give. Holding in the row; I walk nowhere until a checked daylight cell is nam
+- 07:26 say: {"text":"Billy, Worf: I'm holding here in the row. Days since sleep is 26. Which bed or route do you name for me?"}
