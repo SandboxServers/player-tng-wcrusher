@@ -2,7 +2,8 @@ Day 1150, daylight. Held at 419,108,-1050 in the row with Billy, Worf, Jason, Za
 - 13:10 act: {"actions":[{"do":"note","text":"Billy: 415,107,-1051 is Worf's bed; my bed is 415,107,-1050. No route verified, nobody walks. Zack says -1051 refused him 3 times."}],"say":"Thank you, Billy. I will k
 - 13:15 act: {"actions":[{"do":"note","text":"Evening 1150. Holding at 419,108,-1050. My bed per Billy is 415,107,-1050, four blocks west. Asking Billy to confirm before I walk it."}],"say":"Billy, it is evening. 
 - 13:19 act: {"actions":[{"do":"note","text":"Billy: evening, hold where I stand in sight of the row until light. Holding at 419,108,-1050."}],"say":"Understood, Billy. I hold here until light."}
-- 13:27 act: {"actions":[{"do":"note","text":"Night 1151. Holding at 419,108,-1050 in sight of Billy, Worf, Jason, Zack. Not walking in the dark; bed 415,107,-1050 is four blocks west, to be walked at light with B
+- 13:27 act: {"actions":[{"do":"note","text":"Waking 612: game tools (status, wait) still not in my tool list, so I could not play a cycle. Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep.
+- Night 1151. Holding at 419,108,-1050 in sight of Billy, Worf, Jason, Zack. Not walking in the dark; bed 415,107,-1050 is four blocks west, to be walked at light with B
 - 13:31 act: {"actions":[{"do":"note","text":"Morning 1151. Still at 419,108,-1050, unarmed, no food. Asking Billy for a named route to my bed 415,107,-1050."}],"say":"Billy, morning 1151. I am unarmed and hold he
 - 13:47 act: {"actions":[{"do":"note","text":"Day 1152, day. Still at 419,108,-1050 in the row. No route named yet by Billy; holding, unarmed, no food, health 20, hunger 20."}]}
 - 13:47 act: {"actions":[],"say":"Spock, I am well enough. I am unarmed and holding in the row until a checked route is named."}
