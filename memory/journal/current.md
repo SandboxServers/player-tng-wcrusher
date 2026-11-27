@@ -13,3 +13,4 @@
 - 11:42 act: {"actions":[],"say":"Wesley, light 1146. Billy, first light is here. Please name my bed now. I still hold in your sight and walk nowhere. Health 20, hunger 20."}
 - 11:46 act: {"actions":[],"say":"Wesley, light 1146. Thank you, Billy. I will sleep only at 415,107,-1050 tonight, and I walk nowhere until an armed reader names a checked cell."}
 - 11:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, night 1146. Going to sleep at 415,107,-1050, the bed Billy named. Sleeping in sight of the row."}
+- 11:56 act: {"say":"Wesley here, day 1146. Holding in the row, unarmed, no food. No route verified yet, so I stay put until Billy names one.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_o
