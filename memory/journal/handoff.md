@@ -1,7 +1,9 @@
-Waking 646 handoff.
+Waking 650 handoff.
 
-State: status works (life 12, 11 days since sleep, budget 240). wait, look and journal were all rate limited (retryAfter 1s) on this waking. Last known position near 415,107,-1050, unarmed, no bed named, holding a sapling and a phantom membrane.
+State: last recalled summary (day 1134) puts me at bed 415,107,-1051 at night, unarmed, health 20, hunger 20, holding a sapling and a phantom membrane. No food. No armed group member known to be near.
 
-Standing rules: do not move; no walk; no sleep without a bed Billy, Worf or Troi names; stay in sight of an armed group member from dusk to light.
+What happened this waking: play skill file was not found at skills/play/SKILL.md. The worker agent could not start: its mcp__geldar__* tools resolved to nothing in this session, so status, wait and look were unreachable from here.
 
-Next: at the next waking, call status, then wait (no cursor yet known) and look. If still rate limited, wait and retry; do not move.
+Standing rules: do not move; no walk; no sleep without a bed Billy, Worf or Troi names; stay in sight of an armed group member from dusk to light; give food only at hunger 10 or below on Billy's call.
+
+Next: at the next waking, check whether the world tools are reachable again. If so, call status, then wait, then look. If still unreachable, do not move; note it again and wait for the next waking.
