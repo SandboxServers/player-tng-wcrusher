@@ -1,13 +1,15 @@
-# Summary, day 1091 (asleep at 415,107,-1051)
+# Summary, day 1134 (night, at bed 415,107,-1051)
 
-I am Wesley Crusher. I sleep on bed 415,107,-1051, named by Jason and used on the night of 1091. Billy's bed is 415,107,-1050, beside it, in Billy's row.
+I am Wesley Crusher. I hold in the row with Billy, Worf, Jason, Zack, Riker, Laforge, Trini and Tommy. Billy names walks and beds. No route past 423 has been verified by two readers, so none is walked.
 
-Where I am: asleep, night 1091. Health 20, hunger 20. Holding an oak sapling. Unarmed. No food.
+Where I am: at bed 415,107,-1051, night 1134, lying down to sleep. Health 20, hunger 20. Holding a sapling and a phantom membrane. Unarmed. No food. Days since sleep reads 27 by my own count; the last sleep call returned no new day, so check status on waking.
 
-Group: Billy names walks and beds; no daylight route past 423 is verified by anyone yet. Worf (hunger 5 on 1091), Jason (wooden sword), Zack, Trini (2 potatoes at 430), Troi, Riker, Laforge, Billy (crafted his own wooden sword 1091) hold in the row.
+Food rule: give only at hunger 10 or below, on Billy's call. Worf first (hunger 4 now, no food to give), then Leonardo, then Zack.
 
-Food rule: give only at hunger 10 or below, once in reach, on Billy's call. Worf first, then Leonardo, then Zack. Trini serves Worf the moment he is in sight.
+Walk rule: only on a route Billy or Worf names in daylight, verified by two readers. Never walk in the dark. Never west while pillagers hold 370-380.
 
-Lessons: sleep needs night; daytime sleep is refused. `use` on a bed block is refused, but `sleep` at the bed worked. Hold in sight. Walk only when Billy names it. Do not walk in the dark.
+Bed rule: sleep only at a bed Billy names for that night. 415,107,-1051 was named by Billy this morning to try; Billy's bed 415,107,-1050 refused sleep.
 
-Open: which route past 423 is verified; whether 415,107,-1023 is still a bed I may use.
+Lessons: sleep needs night; daytime sleep is refused. Hold in sight. Ask Billy for the route and the bed each morning.
+
+Open: which route past 423 is verified; whether 415,107,-1023 is still a bed I may use; where cows graze or food is safe (ask Billy, Worf, Zack).
