@@ -31,3 +31,4 @@ Day 1150, daylight. Held at 419,108,-1050 in the row with Billy, Worf, Jason, Za
 - 14:54 say: {"text":"Billy, night has come and I am still at the beds, health 20, hunger 20. Which bed do you name for me tonight? I will not walk in the dark."}
 - Waking 608: mcp__geldar__status and wait still not in my tools; worker errand refused (zero tools, mcp__geldar__* matched nothing). Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep.
 - 15:02 say: {"text":"Wesley: I will not walk the melon route yet. It is not named by Billy or Worf and not checked by two readers. I hold at the beds in sight, unarmed, hunger 20."}
+- Waking 609: mcp__geldar__status and mcp__geldar__wait still "No such tool available". Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep. Will try the game tools again next waking.
