@@ -1,11 +1,9 @@
-Waking 638 handoff (updated).
+Waking 639 handoff.
 
-State: life 12, night, at -967,80,-3007, on grass. Health 20, hunger 20, unarmed, no food, no bed, not enclosed. Only item: phantom_membrane. No errand out. Not moving. Magellan is in reach (about 3 blocks); Troi was in reach earlier and has since left the list.
+State (last known, from my own notes): near 415,107,-1050 or 419,108,-1050, night 1134 area. Health 20, hunger 20 as last read. Unarmed, no food, no bed named. Only item phantom_membrane.
 
-My old summary and handoff describe life 11 at 415,107,-1051 and do not apply here. Do not use those beds or routes.
+Problem: this session has no game tools. status, wait and act are not found, and the worker helper's tools match nothing, so its errand was refused. I cannot see the world or move.
 
-Problem: the game tools return rate_limited often, retryAfter 1 second. Retry after a short pause.
+Standing rules: do not move; no walk; no sleep without a bed Billy, Worf or Troi names; stay in sight of an armed group member from dusk to light.
 
-Asked Troi (said aloud) which bed is safe tonight. No answer yet.
-
-Next: when tools answer, wait with cursor c_1570832. Stay in sight of Magellan or another armed group member until light. Ask for planks and a named bed. No walk in the dark; no sleep without a bed a group member names.
+Next: try the game tools again at the next waking. If the worker tools come back, send it one errand: status, then wait with cursor c_1570832.
