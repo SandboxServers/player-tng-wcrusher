@@ -25,3 +25,4 @@
 - 04:21 act: {"say":"Wesley here, day 1123. Health 20, hunger 20, no food. Holding in the row with Billy, Worf, Jason and Zack in sight. No walk until Billy names a verified route."}
 - 04:53 act: {"say":"Wesley here, morning, at 417,107,-1051 in the row. Health 20, hunger 20, no food. I hold here and walk only on a route Billy or Worf names."}
 - Day 1125 morning: still at 417,107,-1051, health 20, hunger 20, no food. Days since sleep 18. Riker and Worf traded sticks in sight; no route or bed named to me. Holding; waiting for Billy or Worf.
+- 04:58 act: {"actions":[{"do":"wait","seconds":5}],"say":"Wesley at 417,107,-1051, dusk 1125, health 20, hunger 20, no food. Billy, Worf: no route or bed named to me; I hold here in the row."}
