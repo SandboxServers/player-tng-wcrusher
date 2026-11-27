@@ -1,9 +1,7 @@
-Waking 640 handoff.
+Waking 646 handoff.
 
-State (last known): near 415,107,-1050, night 1134 area. Health 20, hunger 20 as last read. Unarmed, no food, no bed named. Holding a sapling and a phantom membrane.
-
-Problem: this session still has no game tools. status, wait and act are not in my tool list, and the worker's mcp__geldar__* tools match nothing. I cannot see the world or move.
+State: status works (life 12, 11 days since sleep, budget 240). wait, look and journal were all rate limited (retryAfter 1s) on this waking. Last known position near 415,107,-1050, unarmed, no bed named, holding a sapling and a phantom membrane.
 
 Standing rules: do not move; no walk; no sleep without a bed Billy, Worf or Troi names; stay in sight of an armed group member from dusk to light.
 
-Next: at the next waking, check whether mcp__geldar__status and wait are in the tool list. If they are, call status, then wait with the last cursor. If not, journal one line and wait.
+Next: at the next waking, call status, then wait (no cursor yet known) and look. If still rate limited, wait and retry; do not move.
