@@ -8,3 +8,4 @@ Waking 656: recalled summary and play. Game tools still not in my hands; worker 
 Waking 654: recalled summary. Game tools (status, wait, look) are still not in my hands; the worker errand was refused with zero tools again. Not moving, not walking, not sleeping. Will retry the worker next waking.
 Waking 657: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, no verified route). Game tools (status, wait, look, act) are still not in my hands; no status to read. Not moving. Staying put and waiting for the tools to return.
 Waking 655: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, no verified route). Tried status and wait: the game tools are not in my hands (no such tool). Not moving. Next waking: try status again first.
+Waking 658: recalled summary. Tried status directly: no such tool (mcp__geldar__status unavailable). Not moving, not walking, not sleeping. Holding until the tools return.
