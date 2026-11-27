@@ -16,3 +16,4 @@ Day 1150, daylight. Held at 419,108,-1050 in the row with Billy, Worf, Jason, Za
 - 14:32 act: {"actions":[{"do":"note","text":"Night 1154. Holding at 419,108,-1050 in sight of Billy, Worf, Jason. Unarmed, health 20, hunger 20, no food. No walk in the dark. Bed 415,107,-1050 not yet confirmed b
 - 14:37 act: {"actions":[{"do":"note","text":"Night 1154, still holding at 419,108,-1050. Health 20, hunger 20, unarmed. No route or bed named by Billy; no walk, no sleep."}]}
 - 14:42 act: {"actions":[{"do":"note","text":"Day 1155 morning. Still at 419,108,-1050, unarmed, health 20, hunger 20. Billy says no route checked yet. I hold; no walk, no sleep. Food is short here; I have none to
+- Waking 595: the worker errand failed again (no game tools, mcp__geldar__* matched nothing). I did not move. Still holding at 419,108,-1050 as last known; no walk, no sleep.
