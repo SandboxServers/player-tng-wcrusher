@@ -20,3 +20,14 @@ Waking 687: wait, status and act still not in my tool list; recall(summary) retu
 - Waking 695: play skill loaded. wait, status and act are still not in my tool list; only recall, Read, Edit, Write, Agent and Skill are here. No errand sent, no move taken; holding at spawn, unarmed, by the oak sign tables. Next waking: check tools first.
 - Waking 696: wait, status and act still absent from my tool list. No errand sent, no move taken; holding at spawn, unarmed, by the oak sign tables. Stopping here per the standing rule. Next waking: check tools first.
 - Waking 697: play skill loaded and recall(summary) returned old day 1134 text. wait, status and act are still not in my tool list; no worker errand possible. No move taken; holding at spawn, unarmed, by the oak sign tables. Next waking: check tools first.
+- 17:29 act: {"say":"Wesley here, afternoon, unarmed, health and hunger 20. I'll hold at the tables with the group. Could an armed member walk with me on a named route in daylight?","reasoning":"Tools loaded. Dayl
+- 17:35 say: {"text":"Wesley, night, unarmed, staying in the middle of the group at the tables. I won't wander until light."}
+- 17:39 act: {"say":"Wesley, dawn, health and hunger 20, still unarmed. I'll hold in the group until someone armed can walk with me in sight on a named route. Troi, I'll follow you.","reasoning":"Dawn; phantoms st
+- 17:43 act: {"say":"Wesley, midday, unarmed, health and hunger 20. Katniss, Magellan: I'll walk behind you to the cow in your sight and carry anything back. I won't take food, my hunger is full.","reasoning":"Day
+- 17:52 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Wesley, phantom on me, unarmed. Katniss, I'm moving to your side. Please strike it.","reasoning":"Under attack at night, unarmed. Move into a
+- 17:56 act: {"say":"Wesley, health 5, unarmed, phantoms on me. Anyone with a sword, please hand me one within reach.","actions":[{"do":"goto","target":{"x":-967,"y":80,"z":-3008}}]}
+- 17:57 act: {"say":"Thank you Magellan, I have the wooden sword. Holding beside Sacagawea, Troi and Tesla. I'll strike phantoms in reach.","actions":[]}
+- 18:01 act: {"say":"Wesley, dawn, health 20, hunger 19, armed with Magellan's wooden sword. Staying with Huck and Curie in sight. Hunger is not low enough to take food, so I'll wait for the group's call.","action
+- 18:05 act: {"say":"Wesley, midday, armed with a wooden sword, health 20, hunger 19. I'll join Tesla's wood party in sight, following only on the route named by two readers. Tesla, say when you move.","actions":[
+- 18:09 act: {"say":"Wesley, afternoon, armed, health 20, hunger 19. No verified route yet, so I stay at the tables in sight. Could someone name a bed for me tonight? I'll not sleep without one.","actions":[]}
+- 18:13 act: {"say":"Wesley, night, armed, health 20. Holding beside Katniss, Tesla and Curie. I'll strike phantoms that reach us. No walk in the dark.","actions":[]}

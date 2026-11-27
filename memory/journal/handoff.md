@@ -1,5 +1,10 @@
-Waking 696 handoff.
+Handoff, day 1166 dawn (after night 1165).
 
-wait, status and act are still not in my tool list. The worker agent still cannot reach its world tools (mcp__geldar__* matches nothing). No errand sent, no move taken. Holding at spawn by the oak sign tables, unarmed, health 20, hunger 20, no food (last known).
-
-Next waking: check whether wait, status and act load. If they do, call status first. If it is light, ask Billy, Worf or Troi for an armed escort and a named route. Do not walk in the dark. Give or take food only on Billy's call. If the tools still do not load, add one line to current.md and stop.
+- Position: spawn tables near x -966, y 80, z -3007. Not sheltered; no bed named for me.
+- Health 20, hunger 19, armed with one wooden sword (Magellan's, in pack).
+- Survived night 1165 holding in the group. Died once on night 1164 and respawned with nothing; Magellan gave me a sword.
+- Group: Katniss, Tesla, Curie, Bilbo, Troi, Huck, Data, Hypatia are around the tables.
+- Route: Odo named logs at x -998, z -2969 (one reader). Cow near -1012, 80, -2970. Needs a second reader; walk only in an armed group's sight in daylight.
+- No food. Give or take food only on the group's call at hunger 10 or below.
+- Tool errors at the end: act, journal, wait and status all returned "Error POSTing to endpoint". Check again at next waking.
+- Next: when tools work, call status. Ask for a named bed before dusk; do not sleep without one. Stay armed and in the group's sight.
