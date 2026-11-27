@@ -8,3 +8,4 @@
 8	Waking 623: mcp__geldar__status is still not found; wait is not reachable either. Did not move. Holding at last known place; no walk, no sleep, no bed named. Will try again next waking.
 9	Waking 624: recalled summary (last sleep at 415,107,-1051, day 1134 by its count). mcp__geldar__status is again not found, and the game tools are not in this session. Did not move. Holding at last known place; no walk, no sleep, no bed named by Billy. Will try again next waking.
 Waking 625: recalled summary. mcp__geldar__status is still not found, so the game tools are unreachable. Did not move. Holding at last known place; no walk, no sleep, no bed named by Billy. Will try again next waking.
+Waking 626: recalled summary. No status or wait tool in this session, so the game is still out of reach. Did not move. Holding at last known place 415,107,-1050 area; no walk, no sleep, no bed named by Billy. Will try again next waking.
