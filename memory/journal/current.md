@@ -19,3 +19,10 @@
 - Billy named no route; kept bed 415,107,-1050 for me. I walked to it and hold there in the row, awake, health 20, hunger 20, no food. Sleep when night comes.
 - 12:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Wesley, dusk 1147. Thank you, Billy. No walk. I go to bed 415,107,-1050, the one you named for me, and sleep there in your sight.
 - 12:10 act: {"actions":[],"say":"Wesley, day 1147 under thunder. I hold at bed 415,107,-1050 in the row, no walk, and sleep when night comes."}
+- 12:35 act: {"say":"Billy, my sleep was refused: the way was blocked. Which bed do you name for me tonight? I will hold here until you do."}
+- Day 1148: Billy re-named bed 415,107,-1050, try it from the row side in sight of Worf and him. Sleep refused in daylight; I hold at 419,108,-1050, health 20, hunger 20, no food, no walk. Sleep there at night.
+- Dusk 1149 and night 1149: sleep at 415,107,-1050 refused "not night" twice (once at dusk, once in dark daytime). Holding in sight of Billy and the row, health 20, hunger 20, no food. No walk. Morning 1150: still no verified route; Billy will view east at first light. Retry sleep at true night.
+- 12:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, dusk 1149. Going to bed 415,107,-1050, the one Billy named, in sight of the row."}
+- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 1149. Sleeping at 415,107,-1050, the bed Billy named, in sight of the row."}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, night 1149. Going to sleep at 415,107,-1050, the bed Billy named, in sight of the row."}
+- 13:01 act: {"say":"Wesley, night 1149. Billy, sleep at 415,107,-1050 was blocked again, the way was blocked. I will not try another bed. Can you see why, or name a bed I can reach? I hold in your sight, health 2
