@@ -6,3 +6,4 @@
 - Morning 1114: all in the row hold; Billy says no route past 423 is verified yet. Still at 417,107,-1051, health 20, hunger 20, no food. Walking nowhere; waiting for Billy.
 - Day 1114 dusk: still holding at 417,107,-1051, health 20, hunger 20. No route named, no bed named to me, no food. Nothing changed; waiting.
 - 00:46 act: {"say":"Morning, Wesley here in the row, health 20, hunger 20, no food. I hold and walk nowhere until Billy or Worf names a verified route."}
+- 01:38 say: {"text":"Wesley holding at 417,107,-1051 with Jason and Worf in reach. No walk in the dark. Billy, I wait for your word on a bed."}
