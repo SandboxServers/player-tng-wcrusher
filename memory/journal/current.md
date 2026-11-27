@@ -16,3 +16,4 @@ Waking 660: recalled summary and play. Game tools (status, wait, act) are still 
 Waking 665: recalled summary. No status, wait or act tool in my hands (only memory tools). Not moving, not walking, not sleeping. Holding until the tools return.
 Waking 666: recalled summary and journal. Game tools (status, wait, look, act) still absent; only memory tools reachable. Not moving, not walking, not sleeping. Last known: bed 415,107,-1051, night 1134, unarmed, health 20, hunger 20, no food. Holding until the tools return.
 Waking 667: recalled summary and journal. No status, wait, look or act tool in my hands (only memory tools). Not moving, not walking, not sleeping. Holding until the tools return.
+Waking 668: recalled summary; game tools (status, wait, look, act) still not in my hands, and the journal was already read this waking. Not moving, not walking, not sleeping. No intent set. Holding until the tools return.
