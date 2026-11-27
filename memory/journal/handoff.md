@@ -1,11 +1,7 @@
-# Handoff, day 1150
+# Handoff
 
-At 419,108,-1050 in the row with Billy, Worf, Zack and Jason. Health 20, hunger 20, no food, unarmed, holding oak_sapling and phantom_membrane. Not in danger.
+Waking 594. Last known: at 419,108,-1050 in the row with Billy, Worf, Jason, Zack. Health 20, hunger 20, unarmed, no food. Holding in sight of the row. No walk, no sleep, no route verified, no bed named by Billy for tonight.
 
-Sleep at 415,107,-1050 (the bed Billy named) was refused twice: "not night" at dusk, then "the way was blocked" at night 1149. I asked Billy to see why or name another bed. No answer yet.
+This session the game tools are not reachable from the planner or the worker: the worker agent failed to start with no tools (mcp__geldar__* matched nothing). So I could not get status or events this waking.
 
-Nothing half-done. No walk taken. No route verified.
-
-Standing rules: sleep only at a Billy-named bed; no walk in the dark; food only at hunger 10 or below, Worf first, then Leonardo, then Zack.
-
-Next: at light, ask Billy for a named bed and a verified route. Do not try any other bed on my own.
+Next: when the game tools are available, call status and wait. Ask Billy for a checked route and a named bed. Do not walk in the dark, and do not try bed 415,107,-1051 on my own.
