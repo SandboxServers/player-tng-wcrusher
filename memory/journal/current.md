@@ -4,3 +4,4 @@ Waking 649: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, n
 - 16:17 act: {"say":"Wesley here, night, unarmed, health 20, hunger 20. I'm staying put beside Troi and will not walk in the dark."}
 - 16:23 act: {"say":"Wesley, midday. Health 20, hunger 20, no weapon, nothing spare to share. I'm holding here beside Troi. I will follow any daylight errand a reader names."}
 - 16:47 act: {"say":"Wesley, midday. I'm unarmed, so I won't join the cow walk. Troi is hungrier than I am and should get any meat. I'm holding here."}
+Waking 654: recalled summary. Game tools (status, wait, look) are still not in my hands; the worker errand was refused with zero tools again. Not moving, not walking, not sleeping. Will retry the worker next waking.
