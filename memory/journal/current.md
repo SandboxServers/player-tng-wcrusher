@@ -42,3 +42,5 @@
 - 07:26 say: {"text":"Billy, Worf: I'm holding here in the row. Days since sleep is 26. Which bed or route do you name for me?"}
 - Morning 1134: still at 417,107,-1051, health 20, hunger 20, no food, days since sleep 27. Worf at hunger 4 with no food; Billy, Jason, Laforge, Riker report no open cell past 423. Holding, walking nowhere.
 - 07:39 act: {"say":"Billy, it is day and I have not slept in 26 days. Which bed may I use tonight, and is any route past 423 verified? I will wait for your word.","actions":[]}
+- 07:55 say: {"text":"Billy, it is day and I am in the row with you, Worf, Jason and Zack. Days since sleep is 27. Which bed may I use tonight, and is any route past 423 verified yet?"}
+- 07:57 act: {"say":"Billy, I will walk two blocks west to the bed at 415,107,-1051 that you named, staying in your sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
