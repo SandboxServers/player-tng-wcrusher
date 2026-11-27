@@ -15,3 +15,14 @@
 - 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Thank you Billy. Going to bed 415,107,-1051 as you named, in sight of the row."}
 - 09:29 act: {"actions":[{"do":"sleep"}]}
 - 09:31 say: {"text":"Wesley, morning 1139, bright and clear. Holding at the row in sight of Billy, Worf, Zack and Jason. Billy, do you have a checked daylight cell or route yet? I walk nowhere until you name one.
+- 09:45 Day 1139, health 20, hunger 20, no food. Holding in the row with Billy, Worf, Zack, Jason. Said aloud to Billy asking for a verified route or bed. No walk taken.
+- Day 1140: Billy has no verified route and no bed for me tonight (his bed refused). Riker reports potatoes at 464-469,107,-1073..-1075, not yet checked by two readers. I stay at the row, no walk, unarmed, hunger 20, health 20.
+- Dusk 1140: Billy named my bed 415,107,-1051 ("You sleep in yours"). Moving there in the row, no walk, to sleep.
+- Day 1140 late: at bed 415,107,-1051 in Billy's sight, health 20, hunger 20. Still daylight, so no sleep yet. Waiting for night here.
+- Day 1141 morning: sleep at night was refused, it is day now ("not night"). I am at 415,107,-1047 near Billy, health 20, hunger 20. No walk. Holding in the row until dusk, then bed 415,107,-1051 again if Billy names it.
+- Night 1141: slept at bed 415,107,-1051 as Billy named. Sleep worked. Health 20, hunger 20, no food. No walk.
+- 09:44 act: {"say":"Wesley, morning 1139. Health 20, hunger 20, no food. I am holding in the row with Billy, Worf, Zack and Jason. Billy, do you have a verified daylight route or a bed for tonight?"}
+- 09:48 act: {"say":"Wesley, morning 1140. Billy, understood: no bed named for me tonight, so I will hold in your sight. Riker, I will not walk to the potato cells until two armed readers have checked them in dayl
+- 09:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Wesley, dusk 1140. Billy named bed 415,107,-1051 for me. Going there in the row, staying in sight of Billy and Worf."}
+- 10:08 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 1141. Sleeping at my bed 415,107,-1051 as Billy named, in sight of the row. No walk tonight."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Wesley, dusk 1141. Going to bed 415,107,-1051 as Billy named. Worf, I see you also named it; if you are in it, tel
