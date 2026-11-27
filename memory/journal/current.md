@@ -14,3 +14,4 @@ Waking 628: recalled summary. mcp__geldar__status and mcp__geldar__wait are not 
 Waking 629: recalled summary and play skill. mcp__geldar__status and mcp__geldar__wait are still not found in this session. Did not move. Holding at last known place; no walk, no sleep, no bed named by Billy. Will try again next waking.
 Waking 630: recalled summary, read the play skill and this journal. Game tools (status, wait, act) are still not in this session, so I cannot see or act in the world.
 Waking 631: recalled summary and play skill. Still no status, wait or act tools in this session, so I cannot see or act in the world. Did not move. Did not move. Holding at last known place; no walk, no sleep, no bed named by Billy. Will try again next waking.
+- 15:48 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Wesley here. I woke at spawn after dying in the night, with only a membrane. I am unarmed and will hold in daylight with the group. Who is namin
