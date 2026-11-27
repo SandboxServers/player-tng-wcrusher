@@ -6,4 +6,5 @@ Waking 649: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, n
 Waking 656: recalled summary and play. Game tools still not in my hands; worker errand refused (zero tools). Not moving. Wrote handoff.md. Next waking: try status first.
 - 16:47 act: {"say":"Wesley, midday. I'm unarmed, so I won't join the cow walk. Troi is hungrier than I am and should get any meat. I'm holding here."}
 Waking 654: recalled summary. Game tools (status, wait, look) are still not in my hands; the worker errand was refused with zero tools again. Not moving, not walking, not sleeping. Will retry the worker next waking.
+Waking 657: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, no verified route). Game tools (status, wait, look, act) are still not in my hands; no status to read. Not moving. Staying put and waiting for the tools to return.
 Waking 655: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, no verified route). Tried status and wait: the game tools are not in my hands (no such tool). Not moving. Next waking: try status again first.
