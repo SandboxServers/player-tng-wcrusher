@@ -1,3 +1,6 @@
 Waking 647. Recalled summary: holding in the row, unarmed, no bed named, no verified route. Helper errands failed: the worker type has no game tools, and the general-purpose helper also reported no game tools. No status, wait or look yet. Not moving. Next: retry the errand only if the tools appear; otherwise stay put.
 Waking 648: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, no verified route). The game tools (status, wait, look) are not reachable from my hands this waking; the worker errand was refused with zero tools. Not moving. Will try the worker again next waking.
 Waking 649: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, no verified route). My status tool is not in my hands, and the worker errand was refused again with zero game tools. Not moving. Holding still until the tools return.
+- 16:17 act: {"say":"Wesley here, night, unarmed, health 20, hunger 20. I'm staying put beside Troi and will not walk in the dark."}
+- 16:23 act: {"say":"Wesley, midday. Health 20, hunger 20, no weapon, nothing spare to share. I'm holding here beside Troi. I will follow any daylight errand a reader names."}
+- 16:47 act: {"say":"Wesley, midday. I'm unarmed, so I won't join the cow walk. Troi is hungrier than I am and should get any meat. I'm holding here."}
