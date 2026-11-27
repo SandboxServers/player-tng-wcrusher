@@ -22,4 +22,5 @@ Day 1150, daylight. Held at 419,108,-1050 in the row with Billy, Worf, Jason, Za
 - Waking 598: status and wait still unavailable (mcp__geldar__* matches no tools; worker errand failed with zero tools). Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep.
 - Waking 600: status and wait unavailable again. Worker errand failed (zero tools, mcp__geldar__* matched nothing). Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep.
 - Waking 601: status not found again (mcp__geldar__status: No such tool available). Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep.
+- Waking 602: status and wait still unavailable. Worker errand refused: zero tools, mcp__geldar__* matched nothing. Did not move; last known 419,108,-1050, health 20, hunger 20, unarmed. Holding; no walk, no sleep.
 - Waking 595: the worker errand failed again (no game tools, mcp__geldar__* matched nothing). I did not move. Still holding at 419,108,-1050 as last known; no walk, no sleep.
