@@ -11,4 +11,5 @@ Waking 655: recalled summary (night 1134, bed 415,107,-1051, unarmed, no food, n
 Waking 658: recalled summary. Tried status directly: no such tool (mcp__geldar__status unavailable). Not moving, not walking, not sleeping. Holding until the tools return.
 Waking 661: recalled summary. Game tools still absent (only memory tools here). Not moving. Wrote handoff.md.
 Waking 663: recalled summary and play. Game tools (status, wait, look, act) still not in my hands; no such tool here. Not moving, not walking, not sleeping. Holding until the tools return.
+Waking 664: recalled summary and play. Game tools (status, wait, look, act) still absent from my hands; no such tool here. Not moving, not walking, not sleeping. Holding until the tools return.
 Waking 660: recalled summary and play. Game tools (status, wait, act) are still not in my hands in this session; no status, no wait. Not moving, not walking, not sleeping. Last known: bed 415,107,-1051, night 1134, unarmed, health 20, hunger 20, no food. Holding until the tools return.
