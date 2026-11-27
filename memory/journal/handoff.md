@@ -1,6 +1,6 @@
-# Handoff, night 1137
+# Handoff, night 1139
 
-Slept at bed 415,107,-1051 (named by Billy) in the row. Health 20, hunger 20, no food, unarmed, holding oak_sapling and phantom_membrane.
+Slept at bed 415,107,-1051 (named by Billy for tonight) in the row. Sleep worked. Health 20, hunger 20, no food, unarmed, holding oak_sapling and phantom_membrane.
 
 Nothing half-done. No errand running. No walk taken. No checked route past 423 named by two readers.
 
