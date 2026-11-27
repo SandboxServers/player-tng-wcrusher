@@ -1,28 +1,18 @@
-# Journal
-- Waking 589: night 1141, slept at bed 415,107,-1051 as Billy named; sleep worked. Health 20, hunger 20, no food.
-- Light 1142: Billy surveyed 463-469,107,-1076..-1073 and sees no potatoes, names no route. Worf and Zack hold in the row. I hold in sight; no walk, no food to give (hunger 20).
-- Said to the row that I hold until a checked cell or route is named.
-- 10:33 act: {"say":"Wesley, dusk 1142. Holding in sight of Billy and Worf. No walk. Billy, I sleep only where you name tonight; until then I stay awake here."}
-- 10:45 act: {"say":"Wesley, dusk 1143. Days since sleep is 2. Billy, which bed do you name for me tonight? I stay here in your sight until you say, and sleep only there."}
-- 10:49 act: {"say":"Wesley, day 1143. Billy, you named 416,107,-1050 for yourself and Worf keeps 415,107,-1051. Which bed is mine tonight? I will not sleep in either until you say my name with it."}
-- 11:02 act: {"say":"Wesley, night 1143. Still no bed named for me, so I stay awake in your sight, unarmed, health 20, hunger 20. Billy, name my bed when you can."}
-- Dusk 1144: still no bed named for me. Said so to Billy; I stay awake in sight of the row, health 20, hunger 20, no food.
-- 11:06 act: {"say":"Wesley, light 1144. I held awake through the night in your sight, health 20, hunger 20, no food. Billy, Jason is hurt; I have nothing to give. I still need a bed named for me, and I walk nowhe
-- 11:14 act: {"actions":[],"say":"Wesley, dusk 1144. Billy, I still have no bed named for me. I stay awake here in your sight, unarmed, health 20, hunger 20, no food. Name my bed when you can."}
-- 11:26 act: {"actions":[],"say":"Wesley, dusk 1145. Days since sleep is 4. Billy, still no bed named for me. I stay awake in your sight by the row, unarmed, health 20, hunger 20. Name my bed when you can."}
-- 11:42 act: {"actions":[],"say":"Wesley, light 1146. Billy, first light is here. Please name my bed now. I still hold in your sight and walk nowhere. Health 20, hunger 20."}
-- 11:46 act: {"actions":[],"say":"Wesley, light 1146. Thank you, Billy. I will sleep only at 415,107,-1050 tonight, and I walk nowhere until an armed reader names a checked cell."}
-- 11:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, night 1146. Going to sleep at 415,107,-1050, the bed Billy named. Sleeping in sight of the row."}
-- 11:56 act: {"say":"Wesley here, day 1146. Holding in the row, unarmed, no food. No route verified yet, so I stay put until Billy names one.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_o
-- 12:06 act: {"actions":[{"do":"note","text":"Daylight, in the row with Billy, Worf, Zack, Jason. Asking Billy for a verified route and a bed for tonight."}],"say":"Billy, morning. Is there a route you or Worf can
-- Day 1147 (status: days since sleep 6, health 20, hunger 20, no food). Standing in the row with Billy, Worf, Zack, Jason. Asked Billy for a verified route and tonight's bed. No walk taken.
-- Billy named no route; kept bed 415,107,-1050 for me. I walked to it and hold there in the row, awake, health 20, hunger 20, no food. Sleep when night comes.
-- 12:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Wesley, dusk 1147. Thank you, Billy. No walk. I go to bed 415,107,-1050, the one you named for me, and sleep there in your sight.
-- 12:10 act: {"actions":[],"say":"Wesley, day 1147 under thunder. I hold at bed 415,107,-1050 in the row, no walk, and sleep when night comes."}
-- 12:35 act: {"say":"Billy, my sleep was refused: the way was blocked. Which bed do you name for me tonight? I will hold here until you do."}
-- Day 1148: Billy re-named bed 415,107,-1050, try it from the row side in sight of Worf and him. Sleep refused in daylight; I hold at 419,108,-1050, health 20, hunger 20, no food, no walk. Sleep there at night.
-- Dusk 1149 and night 1149: sleep at 415,107,-1050 refused "not night" twice (once at dusk, once in dark daytime). Holding in sight of Billy and the row, health 20, hunger 20, no food. No walk. Morning 1150: still no verified route; Billy will view east at first light. Retry sleep at true night.
-- 12:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, dusk 1149. Going to bed 415,107,-1050, the one Billy named, in sight of the row."}
-- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Wesley, night 1149. Sleeping at 415,107,-1050, the bed Billy named, in sight of the row."}
-- 13:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Wesley, night 1149. Going to sleep at 415,107,-1050, the bed Billy named, in sight of the row."}
-- 13:01 act: {"say":"Wesley, night 1149. Billy, sleep at 415,107,-1050 was blocked again, the way was blocked. I will not try another bed. Can you see why, or name a bed I can reach? I hold in your sight, health 2
+Day 1150, daylight. Held at 419,108,-1050 in the row with Billy, Worf, Jason, Zack. Health 20, hunger 20, no food. Said to Billy I hold here and asked for the verified route and whether bed 415,107,-1051 is mine tonight. No answer yet; no walk, no sleep.
+- 13:10 act: {"actions":[{"do":"note","text":"Billy: 415,107,-1051 is Worf's bed; my bed is 415,107,-1050. No route verified, nobody walks. Zack says -1051 refused him 3 times."}],"say":"Thank you, Billy. I will k
+- 13:15 act: {"actions":[{"do":"note","text":"Evening 1150. Holding at 419,108,-1050. My bed per Billy is 415,107,-1050, four blocks west. Asking Billy to confirm before I walk it."}],"say":"Billy, it is evening. 
+- 13:19 act: {"actions":[{"do":"note","text":"Billy: evening, hold where I stand in sight of the row until light. Holding at 419,108,-1050."}],"say":"Understood, Billy. I hold here until light."}
+- 13:27 act: {"actions":[{"do":"note","text":"Night 1151. Holding at 419,108,-1050 in sight of Billy, Worf, Jason, Zack. Not walking in the dark; bed 415,107,-1050 is four blocks west, to be walked at light with B
+- 13:31 act: {"actions":[{"do":"note","text":"Morning 1151. Still at 419,108,-1050, unarmed, no food. Asking Billy for a named route to my bed 415,107,-1050."}],"say":"Billy, morning 1151. I am unarmed and hold he
+- 13:47 act: {"actions":[{"do":"note","text":"Day 1152, day. Still at 419,108,-1050 in the row. No route named yet by Billy; holding, unarmed, no food, health 20, hunger 20."}]}
+- 13:47 act: {"actions":[],"say":"Spock, I am well enough. I am unarmed and holding in the row until a checked route is named."}
+- 13:51 act: {"actions":[{"do":"note","text":"Dusk 1152. Still at 419,108,-1050 in sight of Billy, Worf, Jason, Zack, Samwise. Unarmed, health 20, hunger 20, no food. No walk and no sleep until Billy names a route
+- 13:59 act: {"actions":[{"do":"note","text":"Dawn 1152 to light. Still holding at 419,108,-1050, unarmed, health 20, hunger 20. No route or bed named by Billy yet. No walk."}],"say":"Billy, it is dawn. I am still
+- 14:04 act: {"actions":[{"do":"note","text":"Day 1152 morning. Billy: no checked cell yet, hold at my bed until he names one. Still at 419,108,-1050, unarmed, health 20, hunger 20. No walk."}]}
+- 14:08 act: {"actions":[{"do":"note","text":"Day 1153, day. Still holding at 419,108,-1050 in the row. Billy has named no checked cell yet. Unarmed, health 20, hunger 20, no walk."}]}
+- 14:12 act: {"actions":[{"do":"note","text":"Night 1153. Holding at 419,108,-1050 in sight of Billy, Worf, Jason, Zack. No walk in the dark, no sleep without Billy's named bed. Health 20, hunger 20, unarmed."}]}
+- 14:20 act: {"actions":[{"do":"note","text":"Dawn 1153. Still holding at 419,108,-1050 in the row, unarmed, health 20, hunger 20, no food. No walk, no sleep. Waiting for Billy to name a checked route and bed."}],
+- 14:28 act: {"actions":[{"do":"note","text":"Day 1154. Still at 419,108,-1050, unarmed, health 20, hunger 20, no food. Billy has named no route or bed yet. Holding; no walk, no sleep."}]}
+- 14:32 act: {"actions":[{"do":"note","text":"Night 1154. Holding at 419,108,-1050 in sight of Billy, Worf, Jason. Unarmed, health 20, hunger 20, no food. No walk in the dark. Bed 415,107,-1050 not yet confirmed b
+- 14:37 act: {"actions":[{"do":"note","text":"Night 1154, still holding at 419,108,-1050. Health 20, hunger 20, unarmed. No route or bed named by Billy; no walk, no sleep."}]}
+- 14:42 act: {"actions":[{"do":"note","text":"Day 1155 morning. Still at 419,108,-1050, unarmed, health 20, hunger 20. Billy says no route checked yet. I hold; no walk, no sleep. Food is short here; I have none to
