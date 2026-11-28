@@ -136,3 +136,5 @@ Waking 687: wait, status and act still not in my tool list; recall(summary) retu
 - 05:05 act: {"actions":[],"say":"Wesley, morning 1198, at -943,78,-3005. Still no cell named for me. Janeway, stay near and I stay in your sight. Anyone with a checked closed cell to spare, name x,y,z and I check
 - 05:47 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"birch_planks","count":2}],"say":"Wesley here, afternoon 1200. Samwise, I am giving you my 2 birch planks for a cell. I stay here in Janeway's sigh
 - 05:51 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"birch_planks","count":2}],"say":"Wesley: Samwise, giving you 2 birch planks for your cell now."}
+- 06:17 act: {"say":"Wesley here, night 1201, health 14, hunger 17. I hold still in sight of Janeway and Samwise and will not walk in the dark. Holding two birch planks and a wooden sword.","intent":{"goal":"hold_
+- 06:19 act: {"say":"Wesley, morning 1201, health 14, hunger 17. I survived the night in sight of Janeway and Samwise. I have no bed named and no food call, so I hold here. Which bed and route are named for today?
