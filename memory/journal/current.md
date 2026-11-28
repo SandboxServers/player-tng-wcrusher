@@ -134,3 +134,5 @@ Waking 687: wait, status and act still not in my tool list; recall(summary) retu
 - 04:44 act: {"actions":[],"say":"Wesley, afternoon 1197, hunger 17, still no named cell for my planks. Reynolds, Balboa, Janeway: if you go to the stores hall now in daylight, I will walk in your sight. Say go an
 - 04:53 act: {"actions":[],"say":"Wesley, midday 1197, at -943,78,-3005 with Janeway and Reynolds in sight. Still no cell named for me. If you can see me and have a checked closed cell with solid support, name x,y
 - 05:05 act: {"actions":[],"say":"Wesley, morning 1198, at -943,78,-3005. Still no cell named for me. Janeway, stay near and I stay in your sight. Anyone with a checked closed cell to spare, name x,y,z and I check
+- 05:47 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"birch_planks","count":2}],"say":"Wesley here, afternoon 1200. Samwise, I am giving you my 2 birch planks for a cell. I stay here in Janeway's sigh
+- 05:51 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"birch_planks","count":2}],"say":"Wesley: Samwise, giving you 2 birch planks for your cell now."}
