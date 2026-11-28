@@ -1,15 +1,40 @@
-# Summary, day 1134 (night, at bed 415,107,-1051)
+# Summary, day 1214 (midday or after, at -954,78,-3006 area)
 
-I am Wesley Crusher. I hold in the row with Billy, Worf, Jason, Zack, Riker, Laforge, Trini and Tommy. Billy names walks and beds. No route past 423 has been verified by two readers, so none is walked.
+I am Wesley. Armed with a wooden sword in my pack (not in hand), health about 14, hunger 17, no food, no bed, no named shelter. I hold 2 birch planks. The journal's last line is 11:18 on day 1214, a give of 4 dark oak planks to Lizzie with no result.
 
-Where I am: at bed 415,107,-1051, night 1134, lying down to sleep. Health 20, hunger 20. Holding a sapling and a phantom membrane. Unarmed. No food. Days since sleep reads 27 by my own count; the last sleep call returned no new day, so check status on waking.
+Where I am: around -954,78,-3005 to -965,82,-2998, with the group at the sheep and cow spots. Last clear fix: -965,82,-2998 (11:14).
 
-Food rule: give only at hunger 10 or below, on Billy's call. Worf first (hunger 4 now, no food to give), then Leonardo, then Zack.
+Lessons that matter most:
+- Never walk or sleep alone at night. Shot down at night on 1176.
+- Sleep only at a bed named by someone for that night.
+- Walk only on a route named in daylight and checked by two readers.
+- Gives fail when others are within 2 blocks of the receiver; get the receiver alone.
+- A survey can disagree with another player's; re-check a cell before placing.
+- Give food only at hunger 10 or below, on the group's call.
 
-Walk rule: only on a route Billy or Worf names in daylight, verified by two readers. Never walk in the dark. Never west while pillagers hold 370-380.
+Places I know (coordinates as the journal gives them):
+- My camp, last fix: -965,82,-2998.
+- Lizzie's shelter cell: -955,78,-3005 (roof -955,79,-3005 disputed).
+- Pit where I walled myself in: -964,77,-3014.
+- Spot at night 1176: -943,78,-3005 (Picard's area).
+- Cow spot: -966,84,-2995 (cows last seen near here; day 1184, 1214).
+- Stores hall: named by Uhura's group; no coordinates in journal.
+- Old camp: bed 415,107,-1051 and the row (day 1134); stale, far away.
+- Old cow fields 364,-1010 and 339,-979 (days 342-345): stale.
 
-Bed rule: sleep only at a bed Billy names for that night. 415,107,-1051 was named by Billy this morning to try; Billy's bed 415,107,-1050 refused sleep.
+Debts I owe:
+- Lizzie: 4 dark oak planks (give on 1214 unconfirmed).
+- Battuta: the apple I promised to share on a group call (eaten by me 1176).
+- Crusoe: my 2 birch planks for a checked closed cell.
+- Picard: a sword for my 2 birch planks (unconfirmed).
+- Magellan: the wooden sword, if he asks.
 
-Lessons: sleep needs night; daytime sleep is refused. Hold in sight. Ask Billy for the route and the bed each morning.
+Owed to me:
+- Troi: a named bed and verified route (asked, not given).
+- Samwise: a cell or roof use for my 2 birch planks (delivered day 1204).
+- Picard: a sword (see above).
+- Crusoe: a named, checked cell.
 
-Open: which route past 423 is verified; whether 415,107,-1023 is still a bed I may use; where cows graze or food is safe (ask Billy, Worf, Zack).
+People (trust 0-100, file in people/): Lizzie 60, Sacagawea 70, Samwise 45, Picard 60, Battuta 50, Zeoyellow 35, Janeway 50, Florence 65, Troi 60, Spock 55, Crusoe 50, Billy 50, Worf 50, Bilbo 70, Magellan 65.
+
+Open: which route is verified; which bed is named for me; where food is safe.
