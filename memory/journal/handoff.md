@@ -1,7 +1,8 @@
-Handoff, night of day 1173. Not asleep.
+Handoff, dusk 1199. Not asleep, not enclosed.
 
-- Position: about -1052, 74, -2993, on grass beside Battuta (distance 1.3). Not sheltered. No named bed.
-- Health 16.7, hunger 17. Holding 1 apple and 2 rotten_flesh, and a wooden sword.
-- Battuta (health 0.97, hunger 17) is walling himself in with dirt and asks for my apple. I refuse until Spock or Troi calls food. Food only at hunger 10 or below, lowest hunger first, and only when the recipient is strictly nearest.
-- No group call for food or a bed has come yet. I asked Spock and Troi for a named bed or sealed shelter. No answer.
-- Next: wait in sight. Do not sleep without a named bed or sealed shelter. At morning, ask the group for food and shelter again.
+- Position: -943,78,-3005, on grass, in sight of Janeway and Reynolds. Health 14.1, hunger 17.
+- Holding 2 birch_planks, 2 wheat_seeds, 2 rotten_flesh, 1 stick, wooden sword.
+- No named bed or sealed shelter for me. No checked closed cell has been named for my planks. Nothing placed.
+- Other people's cells (Anning at -952,78,-3014, Huck at -952,78,-3012, Lizzie at -955,78,-3007) are not mine. Do not place in them.
+- Food rule: rotten_flesh only at hunger about 6 or below. Give food only on the group's call, lowest hunger first.
+- Next: stay in sight of the group, do not walk after dark. Do not sleep without a named bed or sealed shelter. When a group member names an exact checked closed cell with x,y,z, verify it with view or look, then place one birch_plank.
