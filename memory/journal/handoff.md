@@ -1,6 +1,8 @@
-Handoff, afternoon 1212.
-- At -954,78,-3006 in sight of Lizzie (-954,78,-3004). Hunger 17, health 14, no food.
-- Holding 4 dark oak planks that Lizzie gave me to place. Placed nothing: west and east failed as occupied; Zeoyellow says planks already sit at -956,78,-3005 and -954,78,-3005. Lizzie says keep the planks.
-- Lizzie's cell: floor -955,77,-3005 grass. Faces west/east/up/north/south reported placed or unclear; no one has named the up face -955,79,-3005 in full. No bed named, no sealed checked cell yet, so no sleep.
-- Anning's gap at -949,78,-3014 still open; needs a reader in view.
-- Standing rules: no night walk, no sleep without a named bed or checked sealed cell, food only on group call at hunger 10 or below, place only at a named empty cell with a reader's confirmation.
+# Handoff, morning 1225
+
+- At -950,77,-3007 on grass, alone, nobody in sight. Not enclosed. Not sleeping.
+- Health 14.1 steady, hunger 17, no real food (2 rotten flesh: only eaten at hunger 6 or below).
+- Holding: 2 wheat seeds, 1 stick, wooden sword (in pack, not in hand), 1 dirt. No planks, no bed.
+- Stores hall route is named: -920,71,-3040, daylight only, in sight of an armed member, sword in hand.
+- Standing rules: no night walk, no sleep without a named bed or checked sealed cell, food only on group call at hunger 10 or below.
+- Next: wait for an armed member to come into sight and name a route. Do not walk alone.
